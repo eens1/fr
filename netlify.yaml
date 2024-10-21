@@ -7,3 +7,6 @@ build.environment:
 
 context.production.environment:
   HUGO_ENV: production
+
+hugo:
+  configDir: config
