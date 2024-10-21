@@ -42,10 +42,6 @@ menu:
         name: English
         parent: languages 
 
-      - url: https://eens-fr.netlify.app
-        name: Français
-        parent: languages 
-
       - url: https://eens-it.netlify.app
         name: Italiano 
         parent: languages 
