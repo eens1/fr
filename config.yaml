@@ -1,0 +1,40 @@
+module:
+   imports:
+      - path: github.com/eens1/config
+
+languageName: "Français"
+params:
+   dateFormat: "Jan 02, 2006"
+menu:
+   main:
+      - identifier: home
+        url: /
+        weight: 1
+        pre: <i class="fas fa-home"></i>
+
+      - name: Bible
+        url: /bible
+        weight: 2
+
+      - name: Doctrine
+        url: /doctrine
+        weight: 3
+
+      - name: Spirtualité
+        url: /spiritualite
+        weight: 4
+ 
+      - identifier: apologetique
+        name: Apologétique
+        url: /apologetique
+        weight: 5
+ 
+      - url: /contact
+        name: Contact
+        weight: 6
+ 
+      - url: https://eens-en.netlify.app
+        weight: 7
+        name: EN
+        pre: <i class="fas fa-globe"></i>
+ 
