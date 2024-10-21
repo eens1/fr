@@ -32,3 +32,23 @@ menu:
       - url: /contact
         name: Contact
         weight: 6
+      
+      - identifier: languages
+        weight: 7
+        name: LANG
+        pre: "<i class='fas fa-globe'></i>"
+
+      - url: https://eens-en.netlify.app
+        name: English
+        parent: languages 
+
+      - url: https://eens-fr.netlify.app
+        name: Français
+        parent: languages 
+
+      - url: https://eens-it.netlify.app
+        name: Italiano 
+        parent: languages 
+
+
+
