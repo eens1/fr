@@ -4,8 +4,6 @@ date: 2024-09-06T20:03:00+02:00
 draft: false
 ---
 
-
-
 *Jésus-Christ à Saint François* : "Jésus-Christ parut en forme visible dans une nuée toute brillante de lumière, qui d'une voix intelligible dit ces paroles : Petit homme, pourquoi te troubles-tu ? Est-ce toi qui as composé la Règle de ton Ordre ? Es-tu l'auteur de cet Institut ? As-tu inventé ce genre de vie ? N'est-ce pas moi qui t'a dicté tous les articles de la Règle ? 
 
 Tu n'es qu'un faible instrument de cet ouvrage, et la main pour écrire mes volontés, et les manifester à tes Frères; je sais ce que peut la fragilité humaine, je sais aussi le secours que je lui veux donner pour la soutenir; c'est pourquoi je veux que la Règle que je t'ai dictée s'observe à la lettre, à la lettre, à la lettre, sans glose, sans glose, sans glose. 
