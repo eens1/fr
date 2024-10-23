@@ -36,6 +36,7 @@ menu:
       
       - identifier: lang
         weight: 7
+        url: 'https://eens.netlify.app'
         name: ""
         pre: "<i class='fas fa-globe'></i>"
 
