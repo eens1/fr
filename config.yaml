@@ -47,5 +47,6 @@ menu:
         name: Italiano 
         parent: lang
 
-
-
+params:
+  featuredPosts:
+    - /catechisme

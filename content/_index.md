@@ -11,5 +11,3 @@ title: ""
 Ceux qui ne l’ont pas, peuvent bien pratiquer toutes les vertus morales, la justice, la sobriété, la chasteté, l’aumône, la prière, la mortification, c’est ce qui se remarque, non seulement dans les hérétiques, mais aussi dans les mahométans et les païens. Mais toutes ces bonnes actions n’ayant pas la foi pour principe, ne sont pas capables de leur mériter le ciel. La loi de Moïse, toute sainte qu’elle était, ne pouvait sauver que ceux qui l’observaient par la foi.
 
 Quand donc vous remarquez que ceux qui ne croient point à l’Eglise pratiquent quantité de bonnes oeuvres, font beaucoup de prières, mènent une vie austère, n’allez pas croire pour cela qu’ils soient dans la voie du salut, ni qu’on puisse se sauver dans leur croyance; vous feriez un péché énorme, parce que ce serait croire qu’on peut se sauver hors de l’Eglise, qu’on peut avoir la foi sans croire l’Eglise catholique, ou que l’on peut se sauver sans la foi.”
-
-## Index général du site

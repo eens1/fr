@@ -4,7 +4,7 @@ date: 2024-09-06T20:00:34+02:00
 draft: false
 ---
 
-Contrairement à un mythe répandu, saint François n'a pas été, en cette rencontre, ni en aucune autre, le précurseur de l'indifférentisme religieux de la secte Vatican II, bien au contraire. Les récits ci-dessous montrent très clairement le zèle que saint François avait pour la conversion des âmes à la foi catholique, et son refus total de toute complaisance envers les fausses religions.
+Contrairement à un mythe répandu, saint François n'a pas été en cette rencontre ni en aucune autre le précurseur de l'indifférentisme religieux de la secte Vatican II, bien au contraire. Les récits ci-dessous montrent très clairement le zèle que saint François avait pour la conversion des âmes à la foi catholique, et son refus total de toute complaisance envers les fausses religions.
 
 > Père Jacques d'Autun prédicateur Capucin, *Vie de Saint François d'Assise*, 1676 : [Saint François au sultan d'Egypte :] "... ce Jésus crucifié que tu fais l'objet de tes mépris, et de tes blasphèmes, me rendra ma vie qui ne finira jamais; je viens de sa part pour t'annoncer sa divine Parole, qui n'est pas captive avec moi; c'est de là que dépend ton salut éternel, et celui de tous tes sujets; la Puissance de ce Dieu que je te prêche surpasse celle de toutes les têtes couronnées, puisqu'elle s'étend sur les âmes aussi bien que sur les corps, et que la sévérité de sa Justice peut éternellement te condamner aux flâmes; **ne te laisse pas séduire aux rêveries de ton faux prophète, de qui tu révères les cendres, tandis que son âme brûle dans les Enfers : Embrasse la Loi de Jésus-Christ, et quitte celle de Mahomet, si tu ne veux suivre dans les supplices ceux dont tu professes les erreurs**." [^1]
 
