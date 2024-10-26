@@ -2,6 +2,7 @@
 title: "Hors de l'Eglise pas de salut"
 date: 2024-09-06T20:00:34+02:00
 draft: false
+image: "https://i.imgur.com/rQAWJGY.jpeg"
 ---
 
 {{< imgur id="rQAWJGY.png" >}}
