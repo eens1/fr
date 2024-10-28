@@ -2,7 +2,7 @@
 title: "Rosaire"
 date: 2024-09-06T20:02:57+02:00
 draft: false
-image: "https://i.imgur.com/WtutXlB.jpeg"
+image: "https://i.ibb.co/thfgcTH/rosaire.jpg"
 ---
 
 Voyez ces dossiers du Monastère de la Très Sainte Famille : 

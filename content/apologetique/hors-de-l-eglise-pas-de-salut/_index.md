@@ -2,11 +2,10 @@
 title: "Hors de l'Église pas de salut"
 date: 2024-09-06T20:00:34+02:00
 draft: false
-image: "https://i.imgur.com/rQAWJGY.jpeg"
+image: "https://i.ibb.co/qrfgJP4/outside-the-church-no-salvation.png"
 ---
 
-{{< imgur id="rQAWJGY.png" >}}
-
+{{< figure src="https://i.ibb.co/qrfgJP4/outside-the-church-no-salvation.png" >}}
 
 Pour être sauvé, il est absolument nécessaire de professer la foi catholique traditionnelle et être un membre du Corps Mystique de Jésus-Christ, l'Eglise catholique. Cet enseignement dogmatique n'admet aucune exception. Or, de nombreux hérétiques aujourd'hui pervertissent le sens que l'Eglise a donné une fois pour toute au dogme Hors de l'Eglise pas de salut, en s'attachant notamment à des traditions humaines erronées.
 
