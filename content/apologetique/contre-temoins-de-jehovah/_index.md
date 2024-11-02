@@ -5,4 +5,4 @@ draft: false
 ---
 
 
-Les "témoins de Jéhovah" sont une secte antibiblique et blasphématrice qui, entre autres, nie la divinité de Jésus-Christ. Voyez [les preuves de la divinité de Jésus-Christ](/fr/apologetique/divinite-du-Christ)
+Les "témoins de Jéhovah" sont une secte antibiblique et blasphématrice qui, entre autres, nie la divinité de Jésus-Christ. Voyez [les preuves de la divinité de Jésus-Christ](/apologetique/divinite-du-Christ)
