@@ -9,7 +9,7 @@ summary: "Premiers Martyrs de l'Ordre des Frères Mineurs."
 
 > Devant que le S. homme entreprit le voyage d'Egypte, il avait commandé pour Maroc le R. Père Berard, et quatre autres de ces disciples : y étant arrivés, ils montrèrent que la loi de Mahomet était remplie d'absurdités, et celle de Jésus-Christ, sainte : ils persistèrent en cette office jusqu'aux dernier soupir de leur vie, qui fut cotté [fixé] par le roi même. 
 
-> Cec Saints religieux sont les premiers Martyrs de l'Ordre de S. François, le Ciel approuva, et devant, et après leur trépas, la vérité de leur doctrine, favorisant ces SS. Martyres de plusieurs miracles, aussi châtia rigoureusement l'ingratitude de ces aveugles, qui pour une vie spirituelle de l'âme, que les SS. martyrisés leur avaient présentés, ces méchants les payèrent par mort.
+> Ces Saints religieux sont les premiers Martyrs de l'Ordre de S. François, le Ciel approuva, et devant, et après leur trépas, la vérité de leur doctrine, favorisant ces SS. Martyres de plusieurs miracles, aussi châtia rigoureusement l'ingratitude de ces aveugles, qui pour une vie spirituelle de l'âme, que les SS. martyrisés leur avaient présentés, ces méchants les payèrent par mort.
 
 > Mais le Ciel les vengea par une sécheresse de 8 ans, qui stérilisa la terre, la peste dépeupla les places des habitants, une maladie incurable sécha les bras, et tout le côté droit du tyran, qui avait bourelé [tourmenté] les SS. Martyrs. 
 
