@@ -3,7 +3,7 @@ title: "Le directeur pacifique des consciences"
 summary: "Par le père capucin Jean-François de Reims"
 ---
 
-Source : Jean-François de Reims, 1692.
+Source : Jean-François de Reims 1692.
 
 **PARTIE 1**
 
@@ -37,14 +37,22 @@ Source : Jean-François de Reims, 1692.
 
    * **Instruction 7** - Que c'est une chose très utile de savoir discerner le péché mortel d'avec le véniel. Quelques règles générales pour ce discernement : où est aussi expliqué, quand le mépris en la transgression fait le péché mortel, et remédie aux scrupules de ceux qui se forgent des péchés mortels à la moindre occasion
 
-* Livre 3
-   * Instruction 1
-      * Article 1
-      * Article 2
-      * Article 3
-      * Article 4
-   * Instruction 2
-   * Instruction 3
+* **Livre 3** - Auquel l'âme est conduite par une méthode fort facile, mais efficace à une vraie contrition de ses péchés, tant de ceux qui ne sont que véniels, que des mortels
+
+   * **Instruction 1** - De la Contrition
+
+      * **Article 1** - Comme l'on pourra facilement comprendre la manière de produire l'acte de Contrition, et l'explication de la douleur qu'on y doit avoir
+
+      * **Article 2** - Des motifs efficaces par lesquels on se pourra exciter à une vraie contrition de ses péchés, soit mortels, soit véniels
+
+      * **Article 3** - Des motifs propres pour s'exciter à une contrition des péchés véniels
+
+      * **Article 4** - Diverses affections amoureusement douloureuses, par lesquelles l'âme dévote pourra s'exciter à avoir la contrition de ses péchés, ensemble quelques avis sur ce sujet
+
+   * **Instruction 2** - Des motifs propres pour s'exciter à une Attrition de ses péchés
+
+   * **Instruction 3** - Considération très efficace, par laquelle l'âme tombée au péché mortel pourra connaître son misérable état, et rentrer en la grâce de Dieu
+
 * Livre 4
    * Instruction 1
       * Article 1
