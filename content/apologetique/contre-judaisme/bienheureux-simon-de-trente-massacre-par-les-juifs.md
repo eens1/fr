@@ -5,6 +5,9 @@ draft: false
 image: "https://i.ibb.co/fF9Bvht/Pietro-Stefanoni-Simon-von-Trient.jpg"
 ---
 
+{{< figure src="https://i.ibb.co/fF9Bvht/Pietro-Stefanoni-Simon-von-Trient.jpg" >}}
+
+
 > *Martyrologe romain, 24 mars* : "A Trente, le martyre de saint Siméon, enfant, cruellement massacré par les Juifs, et qui depuis brilla par d'éclatants miracles." [^1]
 
 [^1]: Carnandet 1866, p. 157.
