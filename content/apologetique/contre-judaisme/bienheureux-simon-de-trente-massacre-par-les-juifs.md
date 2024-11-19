@@ -1,5 +1,5 @@
 ---
-title: "Saint Simon de Trente, massacré par les Juifs"
+title: "Bienheureux Simon de Trente, massacré par les Juifs"
 date: 2024-11-19
 draft: false
 image: "https://i.ibb.co/fF9Bvht/Pietro-Stefanoni-Simon-von-Trient.jpg"
