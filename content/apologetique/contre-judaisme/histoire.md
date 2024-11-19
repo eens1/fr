@@ -8,12 +8,12 @@ draft: false
 
 > Ces perfides émeurent encore le Duc de Calabre, et l'obligèrent de faire citer frère Bernardin [de Feltre] à comparaître devant le Roi son père; le gardien de Naples l'avertit du péril où il était, parce que ces princes était fort fâchés de ce qu'il avait soulevé le peuple contre les Juifs; mais il lui répondit qu'il n'avait fait que soutenir la cause des pauvres et condamner les usures; qu'il s'étonnait fort que des princes chrétiens voulussent favoriser par leur autorité une nation si méchante, ennemie de Jésus-Christ et haïe de Dieu et des hommes; et qu'il irait rendre raison de son procédé dès que ses supérieurs le lui permettraient." [^1]
 
-[^2]: Castet 1680, t. 7, pp. 129-130.
+[^1]: Castet 1680, t. 7, pp. 129-130.
 
-> *Martyrologe romain, 14 juin* : "A Syracuse, saint Marcien, évêque, qui ayant reçu de saint Pierre l'ordination épiscopale, fut, après avoir prêché l'Evangile, massacré par les Juifs." [^3]
+> *Martyrologe romain, 14 juin* : "A Syracuse, saint Marcien, évêque, qui ayant reçu de saint Pierre l'ordination épiscopale, fut, après avoir prêché l'Evangile, massacré par les Juifs." [^2]
 
-[^4]: Carnandet 1866, p. 196.
+[^2]: Carnandet 1866, p. 196.
 
-> *Annales des Frères Mineurs Capucins, 1675* : "Il [Frère Matthieu de Baschi] était si compassif, et si charitable, à l'endroit des pauvres, que souffrant avec grand regret, que les usuriers, et les Juifs volassent leurs biens, par leurs cruelles usures, il eut bien voulu, que la police, eut banni les Juifs, comme les harpies des Chrétiens, et les sansues des pauvres, et que les magistrats proscrivissent du Christianisme leurs usures, par l'établissement des Monts de Piété, qu'il proposait à toutes les villes, comme des remèdes assurés, contre leur dernière ruine." [^5]
+> *Annales des Frères Mineurs Capucins, 1675* : "Il [Frère Matthieu de Baschi] était si compassif, et si charitable, à l'endroit des pauvres, que souffrant avec grand regret, que les usuriers, et les Juifs volassent leurs biens, par leurs cruelles usures, il eut bien voulu, que la police, eut banni les Juifs, comme les harpies des Chrétiens, et les sansues des pauvres, et que les magistrats proscrivissent du Christianisme leurs usures, par l'établissement des Monts de Piété, qu'il proposait à toutes les villes, comme des remèdes assurés, contre leur dernière ruine." [^3]
 
-[^6]: Caluze 1675, t. 1, p. 532.
+[^3]: Caluze 1675, t. 1, p. 532.
