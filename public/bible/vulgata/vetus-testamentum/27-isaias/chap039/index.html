@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/bible/vulgata/vetus-testamentum/27-isaias/chap039/" />
+<link rel="canonical" href="//localhost:1313/bible/vulgata/vetus-testamentum/27-isaias/chap039/" />
 
 
 
@@ -42,13 +42,13 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Caput 39" />
 <meta name="twitter:description" content="1 In tempore illo misit Merodach Baladan filius Baladan rex Babylonis, libros et munera ad Ezechiam: audierat enim quod aegrotasset, et convaluisset.
 2 Laetatus est autem super eis Ezechias, et ostendit eis cellam aromatum, et argenti, et auri, et odoramentorum, et unguenti optimi, et omnes apothecas supellectilis suae, et universa quae inventa sunt in thesauris eius. Non fuit verbum, quod non ostenderet eis Ezechias in domo sua, et in omni potestate sua." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -289,26 +289,38 @@
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/doctrine/glossaire/mariage/" />
+<link rel="canonical" href="//localhost:1313/doctrine/glossaire/mariage/" />
 
 
 
@@ -42,12 +42,12 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Mariage" />
 <meta name="twitter:description" content="" />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -199,7 +199,7 @@
 
    <div class="post-item">
    <li>
-   <a href="/doctrine/glossaire/mariage/adultere/">Adultère</a>
+   <a href="//localhost:1313/doctrine/glossaire/mariage/adultere/">Adultère</a>
    </li>
    <div></div>
    </div>
@@ -207,7 +207,7 @@
 
    <div class="post-item">
    <li>
-   <a href="/doctrine/glossaire/mariage/bible/">Dans la Bible</a>
+   <a href="//localhost:1313/doctrine/glossaire/mariage/bible/">Dans la Bible</a>
    </li>
    <div></div>
    </div>
@@ -215,7 +215,7 @@
 
    <div class="post-item">
    <li>
-   <a href="/doctrine/glossaire/mariage/but/">But</a>
+   <a href="//localhost:1313/doctrine/glossaire/mariage/but/">But</a>
    </li>
    <div></div>
    </div>
@@ -223,7 +223,7 @@
 
    <div class="post-item">
    <li>
-   <a href="/doctrine/glossaire/mariage/civil/">Acte civil</a>
+   <a href="//localhost:1313/doctrine/glossaire/mariage/civil/">Acte civil</a>
    </li>
    <div></div>
    </div>
@@ -231,7 +231,7 @@
 
    <div class="post-item">
    <li>
-   <a href="/doctrine/glossaire/mariage/definition/">Définition</a>
+   <a href="//localhost:1313/doctrine/glossaire/mariage/definition/">Définition</a>
    </li>
    <div></div>
    </div>
@@ -239,7 +239,7 @@
 
    <div class="post-item">
    <li>
-   <a href="/doctrine/glossaire/mariage/dissolution/">Dissolution</a>
+   <a href="//localhost:1313/doctrine/glossaire/mariage/dissolution/">Dissolution</a>
    </li>
    <div></div>
    </div>
@@ -247,7 +247,7 @@
 
    <div class="post-item">
    <li>
-   <a href="/doctrine/glossaire/mariage/forme/">Forme</a>
+   <a href="//localhost:1313/doctrine/glossaire/mariage/forme/">Forme</a>
    </li>
    <div></div>
    </div>
@@ -255,7 +255,7 @@
 
    <div class="post-item">
    <li>
-   <a href="/doctrine/glossaire/mariage/mixte/">Mariage entre catholique et non-catholique</a>
+   <a href="//localhost:1313/doctrine/glossaire/mariage/mixte/">Mariage entre catholique et non-catholique</a>
    </li>
    <div></div>
    </div>
@@ -263,7 +263,7 @@
 
    <div class="post-item">
    <li>
-   <a href="/doctrine/glossaire/mariage/paiens/">Mariages chez les païens</a>
+   <a href="//localhost:1313/doctrine/glossaire/mariage/paiens/">Mariages chez les païens</a>
    </li>
    <div></div>
    </div>
@@ -271,7 +271,7 @@
 
    <div class="post-item">
    <li>
-   <a href="/doctrine/glossaire/mariage/validite/">Validité</a>
+   <a href="//localhost:1313/doctrine/glossaire/mariage/validite/">Validité</a>
    </li>
    <div></div>
    </div>
@@ -424,26 +424,38 @@
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

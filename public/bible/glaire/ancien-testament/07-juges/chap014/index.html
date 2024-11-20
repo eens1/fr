@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/bible/glaire/ancien-testament/07-juges/chap014/" />
+<link rel="canonical" href="//localhost:1313/bible/glaire/ancien-testament/07-juges/chap014/" />
 
 
 
@@ -42,12 +42,12 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Chapitre 14" />
 <meta name="twitter:description" content="Samson épouse une Philistine, elle le trahit ; il la quitte, et se retire chez son père." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -304,26 +304,38 @@ génisse, vous n&rsquo;auriez pas découvert mon énigme.</p>
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

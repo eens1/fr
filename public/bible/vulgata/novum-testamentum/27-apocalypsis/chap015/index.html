@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/bible/vulgata/novum-testamentum/27-apocalypsis/chap015/" />
+<link rel="canonical" href="//localhost:1313/bible/vulgata/novum-testamentum/27-apocalypsis/chap015/" />
 
 
 
@@ -42,14 +42,14 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Caput 15" />
 <meta name="twitter:description" content="1 Et vidi aliud signum in caelo magnum, et mirabile, Angelos septem, habentes plagas septem novissimas: Quoniam in illis consummata est ira Dei.
 2 Et vidi tamquam mare vitreum mistum igne, et eos, qui vicerunt bestiam, et imaginem eius, et numerum nominis eius, stantes super mare vitreum, habentes citharas Dei:
 3 et cantantes canticum Moysi servi Dei, et canticum Agni, dicentes: Magna, et mirabilia sunt opera tua Domine Deus omnipotens: iustae et verae sunt viae tuae, Rex saeculorum." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -290,26 +290,38 @@
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

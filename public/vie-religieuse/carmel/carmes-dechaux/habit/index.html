@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/vie-religieuse/carmel/carmes-dechaux/habit/" />
+<link rel="canonical" href="//localhost:1313/vie-religieuse/carmel/carmes-dechaux/habit/" />
 
 
 
@@ -42,12 +42,12 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Habit" />
 <meta name="twitter:description" content="François de Sainte Marie : &ldquo;&hellip; notre bienheureux Père [saint Jean de la Croix] se revêtit de l&rsquo;habit de carme déchaussé que la sainte [sainte Térèse d&rsquo;Avila] lui avait donné. Ce vêtement était d&rsquo;une serge fort vile et grossière, de la couleur naturelle de la laine, il était assez court, et il ne lui descendait que jusqu&rsquo;à la cheville du pied. Il avait par dessus cet habit une chappe blanche sans plis, un peu serré par l&rsquo;échancrure d&rsquo;en haut, et pour la longueur elle ne lui passait pas les genoux." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -290,26 +290,38 @@
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

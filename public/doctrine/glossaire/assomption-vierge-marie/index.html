@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/doctrine/glossaire/assomption-vierge-marie/" />
+<link rel="canonical" href="//localhost:1313/doctrine/glossaire/assomption-vierge-marie/" />
 
 
 
@@ -42,12 +42,12 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Assomption de la Sainte Vierge Marie" />
 <meta name="twitter:description" content="Pie XII, Constitution Apostolique &ldquo;Munificentissimus Deus&rdquo;, 1950 : &ldquo;C&rsquo;est pourquoi, après avoir adressé à Dieu d&rsquo;incessantes et suppliantes prières et invoqué les lumières de l’Esprit de vérité, pour la gloire du Dieu Tout-Puissant qui prodigua sa particulière bienveillance à la Vierge Marie, pour l&rsquo;honneur de son Fils, Roi immortel des siècles et Vainqueur de la mort et du péché, pour accroître la gloire de son auguste Mère et pour la joie et l&rsquo;exultation de l&rsquo;Église tout entière, par l&rsquo;autorité de Notre-Seigneur Jésus-Christ, des bienheureux apôtres Pierre et Paul et par la Nôtre, Nous proclamons, déclarons et définissons que c&rsquo;est un dogme divinement révélé que Marie, l&rsquo;Immaculée Mère de Dieu toujours Vierge, à la fin du cours de sa vie terrestre, a été élevée en âme et en corps à la gloire céleste." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -274,26 +274,38 @@
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

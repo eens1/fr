@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/doctrine/croyances-necessaires/01-definitions/" />
+<link rel="canonical" href="//localhost:1313/doctrine/croyances-necessaires/01-definitions/" />
 
 
 
@@ -42,13 +42,13 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Définitions" />
 <meta name="twitter:description" content="Cours d&rsquo;instruction religieuse : &ldquo;Qu&rsquo;est-ce qu&rsquo;une croyance nécessaire de nécessité de moyen ? C&rsquo;est celle sans laquelle un adulte ne peut être sauvé, tellement qu&rsquo;il n&rsquo;est pas même excusé par l&rsquo;ignorance invincible.&rdquo; 1
 Cours d&rsquo;instruction religieuse : &ldquo;Qu&rsquo;est-ce qu&rsquo;une croyance nécessaire de nécessité de précepte ? C&rsquo;est celle qui est imposée par un commandement, de manière qu&rsquo;on ne peut l&rsquo;ignorer volontairement sans péché mortel, mais qu&rsquo;on serait excusé par l&rsquo;ignorance invincible." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -278,26 +278,38 @@ Cours d&rsquo;instruction religieuse : &ldquo;Qu&rsquo;est-ce qu&rsquo;une croya
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

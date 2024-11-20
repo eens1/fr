@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/vie-religieuse/carmel/profession/" />
+<link rel="canonical" href="//localhost:1313/vie-religieuse/carmel/profession/" />
 
 
 
@@ -42,13 +42,13 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Profession" />
 <meta name="twitter:description" content="Louis de sainte Térèse : &ldquo;A la fin de ces constitutions est la manière de recevoir les religieuses à l&rsquo;habit et profession&hellip;
 Je N. faits ma profession : et promets obéissance, chasteté et pauvreté à Dieu Notre Seigneur, et à la Sainte Vierge Marie du Mont Carmel, et au révérendissime Père N. prieur général de l&rsquo;Ordre de Notre-Dame du Carmel, et à ses successeurs, selon la règle primitive dudit ordre, sans mitigation jusqu&rsquo;à la mort." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -275,26 +275,38 @@ Je N. faits ma profession : et promets obéissance, chasteté et pauvreté à Di
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

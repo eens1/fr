@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/vie-religieuse/freres-mineurs/capucins/chronologie/" />
+<link rel="canonical" href="//localhost:1313/vie-religieuse/freres-mineurs/capucins/chronologie/" />
 
 
 
@@ -42,7 +42,7 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Chronologie" />
@@ -51,7 +51,7 @@ Frère Matthieu de Baschi voit dans une vision Saint François avec l&rsquo;habi
 1525
 Le Pape Clément VII, de vive voix, permet à Frère Matthieu de porter l&rsquo;habit des futurs Capucins et de vivre en Hermite, prêchant partout, pourvu qu&rsquo;il se présente tous les ans au Ministre Provincial au Chapitre des Frères Mineurs de l&rsquo;Observance. Frère Matthieu est le premier de la Réforme des Capucins.
 Frère François de Cartocete apprend par une révélation de Dieu la Réforme de l&rsquo;Ordre." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -354,26 +354,38 @@ Frère François de Cartocete apprend par une révélation de Dieu la Réforme d
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

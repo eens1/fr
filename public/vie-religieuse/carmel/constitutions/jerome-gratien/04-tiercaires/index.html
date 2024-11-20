@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/vie-religieuse/carmel/constitutions/jerome-gratien/04-tiercaires/" />
+<link rel="canonical" href="//localhost:1313/vie-religieuse/carmel/constitutions/jerome-gratien/04-tiercaires/" />
 
 
 
@@ -42,13 +42,13 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Tierçaires" />
 <meta name="twitter:description" content="&ldquo;De même, nous ordonnons que parmi vous on ne donne pas l&rsquo;habit à des béates ou tierçaires avec la profession des trois voeux. Vous pourrez cependant imposer un petit scapulaire bénit et communiquer les faveurs et la confraternité de l&rsquo;Ordre à certaines personnes, si vous le jugez à propos.&rdquo; 1
 Marie-René 1896, t. 3, p. 299.&#160;&#x21a9;&#xfe0e;" />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -290,26 +290,38 @@ Marie-René 1896, t. 3, p. 299.&#160;&#x21a9;&#xfe0e;" />
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

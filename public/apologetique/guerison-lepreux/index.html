@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/apologetique/guerison-lepreux/" />
+<link rel="canonical" href="//localhost:1313/apologetique/guerison-lepreux/" />
 
 
 
@@ -42,14 +42,14 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Saint François guérit un lépreux de l&#39;âme et du corps" />
 <meta name="twitter:description" content="Source: Riche 1847, pp. 93-146.
 Comme saint François guérit un lépreux de l&rsquo;âme et du corps; paroles que l’âme de ce lépreux lui adressa en montant au ciel.
 Le véritable serviteur de Jésus-Christ, saint François, tant qu&rsquo;il vécut dans cette misérable vie, s’appliqua de tous ses efforts à imiter le Christ, son parfait modèle; et il arriva souvent que pour l’en récompenser, au moment où il guérissait les corps des malades, Dieu rendait aussi la santé à leurs âmes, donnant ainsi à son serviteur un nouveau trait de ressemblance avec Jésus." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -268,26 +268,38 @@ Le véritable serviteur de Jésus-Christ, saint François, tant qu&rsquo;il véc
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

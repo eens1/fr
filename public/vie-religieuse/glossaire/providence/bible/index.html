@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/vie-religieuse/glossaire/providence/bible/" />
+<link rel="canonical" href="//localhost:1313/vie-religieuse/glossaire/providence/bible/" />
 
 
 
@@ -42,14 +42,14 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Dans la Bible" />
 <meta name="twitter:description" content="Ancien Testament Proverbes 3:5-6 : &ldquo;Aie confiance dans le Seigneur de tout ton coeur, et ne t&rsquo;appuie pas sur ta prudence. Dans toutes tes voies, pense à lui, et lui-même dirigera tes pas.&rdquo; 1
 Psaumes 22:1 : &ldquo;Le Seigneur me conduit, et rien ne me manquera.&rdquo; 2
 Psaumes 54:23 : &ldquo;Déposez vos soins dans le sein du Seigneur, et lui-même vous nourrira; il ne laissera pas éternellement le juste dans l&rsquo;agitation." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -347,26 +347,38 @@ Psaumes 54:23 : &ldquo;Déposez vos soins dans le sein du Seigneur, et lui-même
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

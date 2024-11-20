@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/vie-religieuse/droit-canonique/01-erection-suppression/" />
+<link rel="canonical" href="//localhost:1313/vie-religieuse/droit-canonique/01-erection-suppression/" />
 
 
 
@@ -42,13 +42,13 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Chap. 1 - De l&#39;érection et de la suppression d&#39;un institut religieux, d&#39;une province, d&#39;une maison (492 - 498)" />
 <meta name="twitter:description" content="492 p.1 Les évêques, mais non le vicaire capitulaire ou le vicaire général, peuvent fonder des congrégations religieuses (dans leur diocèse); mais ils ne peuvent ni les fonder ni permettre leur fondation sans avoir, au préalable pris l&rsquo;avis du Siège apostolique; Pour constituer un groupe de tertiaires vivant en commun, il faut obtenir du Supérieur Général l&rsquo;agrégation au premier ordre.
 p.2 Une congrégation de droit diocésain reste telle même lorsqu&rsquo;elle a des maisons dans plusieurs diocèses." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -329,26 +329,38 @@ Il y a un droit de recours suspensif au Siège apostolique.</p>
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

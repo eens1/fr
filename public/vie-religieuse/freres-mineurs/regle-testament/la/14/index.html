@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/vie-religieuse/freres-mineurs/regle-testament/la/14/" />
+<link rel="canonical" href="//localhost:1313/vie-religieuse/freres-mineurs/regle-testament/la/14/" />
 
 
 
@@ -42,13 +42,13 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Testamentum Sancti Francisci" />
 <meta name="twitter:description" content="Dominus ita dedit mihi Fratri Francisco incipere facere paenitentiam; quia cum essem in peccatis, nimis videbatur mihi amarum videre leprosos, sed ipse Dominus adduxit me inter ipsos, et feci misericordiam cum illis. Et recedente me ab ipsis, in quod videbatur mihi amarum, conversum fuit mihi in dulcedinem animae et corporis. Et posteà parum steti, et exivi de saeculo.
 Et Dominus talem fidem mihi dedit Ecclesiis, ut ita simpliciter adorarem et dicerem : Adoramus te, Sanctissime Domine Jesu Christe, hic et ad omnes Ec clesias tuas, quae sunt in toto mundo, et benedicimus tibi; quia per Sanctam Crucem tuam tuam redemisti mundum." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -300,26 +300,38 @@ Et Dominus talem fidem mihi dedit Ecclesiis, ut ita simpliciter adorarem et dice
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

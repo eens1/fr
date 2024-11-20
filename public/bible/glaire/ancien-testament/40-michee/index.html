@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/bible/glaire/ancien-testament/40-michee/" />
+<link rel="canonical" href="//localhost:1313/bible/glaire/ancien-testament/40-michee/" />
 
 
 
@@ -42,12 +42,12 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Michée" />
 <meta name="twitter:description" content="" />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -188,7 +188,7 @@
 
    <div class="post-item">
    <li>
-   <a href="/bible/glaire/ancien-testament/40-michee/chap001/">Chapitre 1</a>
+   <a href="//localhost:1313/bible/glaire/ancien-testament/40-michee/chap001/">Chapitre 1</a>
    </li>
    <div>
 Vengeance du Seigneur sur Samarie et sur Jérusalem.
@@ -200,7 +200,7 @@ Avertissements, reproches, menaces adressés à la maison de Juda.
 
    <div class="post-item">
    <li>
-   <a href="/bible/glaire/ancien-testament/40-michee/chap002/">Chapitre 2</a>
+   <a href="//localhost:1313/bible/glaire/ancien-testament/40-michee/chap002/">Chapitre 2</a>
    </li>
    <div>
 Infidélité des Israélites.
@@ -212,7 +212,7 @@ Promesse de leur retour de captivité.
 
    <div class="post-item">
    <li>
-   <a href="/bible/glaire/ancien-testament/40-michee/chap003/">Chapitre 3</a>
+   <a href="//localhost:1313/bible/glaire/ancien-testament/40-michee/chap003/">Chapitre 3</a>
    </li>
    <div>
 Désordres des princes, des juges, des prêtres et des faux prophètes de Juda et d’Israël.
@@ -224,7 +224,7 @@ Jérusalem et le temple seront détruits.
 
    <div class="post-item">
    <li>
-   <a href="/bible/glaire/ancien-testament/40-michee/chap004/">Chapitre 4</a>
+   <a href="//localhost:1313/bible/glaire/ancien-testament/40-michee/chap004/">Chapitre 4</a>
    </li>
    <div>
 Rétablissement de Sion.
@@ -239,7 +239,7 @@ Défaite des nations soulevées contre elle.
 
    <div class="post-item">
    <li>
-   <a href="/bible/glaire/ancien-testament/40-michee/chap005/">Chapitre 5</a>
+   <a href="//localhost:1313/bible/glaire/ancien-testament/40-michee/chap005/">Chapitre 5</a>
    </li>
    <div>
 Naissance du Messie.
@@ -255,7 +255,7 @@ L’idolâtrie détruite parmi eux.
 
    <div class="post-item">
    <li>
-   <a href="/bible/glaire/ancien-testament/40-michee/chap006/">Chapitre 6</a>
+   <a href="//localhost:1313/bible/glaire/ancien-testament/40-michee/chap006/">Chapitre 6</a>
    </li>
    <div>
 Ingratitude des Israélites.
@@ -268,7 +268,7 @@ Vengeance du Seigneur sur eux.
 
    <div class="post-item">
    <li>
-   <a href="/bible/glaire/ancien-testament/40-michee/chap007/">Chapitre 7</a>
+   <a href="//localhost:1313/bible/glaire/ancien-testament/40-michee/chap007/">Chapitre 7</a>
    </li>
    <div>
 Petit nombre des justes dans la maison de Jacob.
@@ -428,26 +428,38 @@ Merveilles de leur délivrance.
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

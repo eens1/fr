@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/doctrine/glossaire/pardon/tradition/" />
+<link rel="canonical" href="//localhost:1313/doctrine/glossaire/pardon/tradition/" />
 
 
 
@@ -42,13 +42,13 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Dans la Tradition" />
 <meta name="twitter:description" content="Saint Augustin, Enchirid. ad Laurentium, c. 73 : &ldquo;Ainsi ces paroles de l&rsquo;oraison dominicales : Pardonnez-nous comme nous pardonnons à ceux qui nous ont offensés, signifient proprement : Pardonnez-nous les péchés dont nous vous demandons le pardon, comme nous pardonnons nous-mêmes à ceux qui nous ont offensés, et qui nous demandent pardon.&rdquo; 1
 Saint Augustin, Enchirid. ad Laurent, c. 74 : &ldquo;Quiconque ne pardonne pas du fond du coeur à celui qui lui demande pardon et qui se repent de sa faute, ne doit point s&rsquo;attendre à ce que Dieu lui pardonne à lui-même ses péchés : car la vérité ne saurait mentir, et c&rsquo;est elle qui a dit : Si vous ne pardonnez pas aux hommes leurs offenses, votre Père ne vous pardonnera pas non plus vos péchés." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -300,26 +300,38 @@ Saint Augustin, Enchirid. ad Laurent, c. 74 : &ldquo;Quiconque ne pardonne pas d
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

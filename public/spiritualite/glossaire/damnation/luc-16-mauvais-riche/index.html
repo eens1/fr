@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/spiritualite/glossaire/damnation/luc-16-mauvais-riche/" />
+<link rel="canonical" href="//localhost:1313/spiritualite/glossaire/damnation/luc-16-mauvais-riche/" />
 
 
 
@@ -42,13 +42,13 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Luc 16:19-31 - Mauvais riche, pauvre Lazare : supplice de l’un, récompense de l’autre." />
 <meta name="twitter:description" content="Il y avait un homme riche qui était vêtu de pourpre et de fin lin; et il faisait chaque jour une splendide chère. Il y avait aussi un mendiant, nommé Lazare, lequel était couché à sa porte, couvert d&rsquo;ulcères,
 Désirant se rassasier des miettes qui tombaient de la table du riche, et personne ne lui en donnait; mais les chiens venaient et léchaient ses ulcères. Or il arriva que le mendiant mourut, et fut porté par les anges dans le sein d&rsquo;Abraham." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -278,26 +278,38 @@ Désirant se rassasier des miettes qui tombaient de la table du riche, et person
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/vie-religieuse/carmel/carmes-dechaux/office/" />
+<link rel="canonical" href="//localhost:1313/vie-religieuse/carmel/carmes-dechaux/office/" />
 
 
 
@@ -42,13 +42,13 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Office" />
 <meta name="twitter:description" content="François de Sainte Marie : &ldquo;Il chantaient tout l&rsquo;office divin composé de neuf leçons, après lequel ils récitaient le petit office de Notre-Dame, les sept Psaumes Pénitentiaux, le Cantique Graduel, et l&rsquo;office des morts selon les rubriques du bréviaire des Carmes, qui était lors en usage parmi eux.
 Quand ils récitaient les Psaumes pénitentiaux, ils se prosternaient en terre à chaque fois qu&rsquo;ils disaient le Gloria Patri, pour témoigner leur profonde révérence envers Dieu, et demander en toute humilité le pardon de leurs fautes et de celle de leur prochain." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -303,26 +303,38 @@ Quand ils récitaient les Psaumes pénitentiaux, ils se prosternaient en terre �
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

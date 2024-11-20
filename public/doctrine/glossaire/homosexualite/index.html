@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/doctrine/glossaire/homosexualite/" />
+<link rel="canonical" href="//localhost:1313/doctrine/glossaire/homosexualite/" />
 
 
 
@@ -42,14 +42,14 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Homosexualité" />
 <meta name="twitter:description" content="Lévitique 18:22 : &ldquo;Tu ne t&rsquo;approcheras point d&rsquo;un homme comme d&rsquo;une femme, parce que c&rsquo;est une abomination.&rdquo; 1
 Lévitique 20:13 : &ldquo;Celui qui dort avec un homme comme avec une femme, l&rsquo;un et l&rsquo;autre a fait une action horrible; qu&rsquo;ils meurent de mort : que leur sang soit sur eux.&rdquo; 2
 Romains 1:26-27 : &ldquo;C&rsquo;est pourquoi Dieu les a livrés à des passions d&rsquo;ignominie. Car leurs femmes ont changé l&rsquo;usage naturel en l&rsquo;usage contre nature." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -297,26 +297,38 @@ Romains 1:26-27 : &ldquo;C&rsquo;est pourquoi Dieu les a livrés à des passions
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

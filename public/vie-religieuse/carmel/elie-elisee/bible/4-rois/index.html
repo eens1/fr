@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/vie-religieuse/carmel/elie-elisee/bible/4-rois/" />
+<link rel="canonical" href="//localhost:1313/vie-religieuse/carmel/elie-elisee/bible/4-rois/" />
 
 
 
@@ -42,12 +42,12 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="4 Rois" />
 <meta name="twitter:description" content="4 Rois 1 : &ldquo;Or, après la mort d&rsquo;Achab, Moab se révolta contre Israël. Et Ochozias tomba par la fenêtre de sa chambre haute qu&rsquo;il avait à Samarie, et il fut malade, et il envoya des messagers, leur disant : Allez, consultez Béelzébub, le dieu d&rsquo;Accaron , pour savoir si je pourrai réchapper de cette maladie. Mais un ange du Seigneur parla à Elie, le Thesbite, disant : Lève-toi, et monte à la rencontre des messagers du roi de Samarie, et tu leurs diras : Est-ce qu&rsquo;il n&rsquo;y a pas un Dieu dans Israël, pour que vous alliez consulter Béelzébub, le dieu d&rsquo;Accaron ?" />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -360,26 +360,38 @@
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

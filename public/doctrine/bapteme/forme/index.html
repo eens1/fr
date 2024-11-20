@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/doctrine/bapteme/forme/" />
+<link rel="canonical" href="//localhost:1313/doctrine/bapteme/forme/" />
 
 
 
@@ -42,13 +42,13 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Forme" />
 <meta name="twitter:description" content="Matthieu 28:19 : &ldquo;Allez donc, enseignez toutes les nations, les baptisant au nom du Père, et du Fils, et du Saint-Esprit; leur apprenant à garder tout ce que je vous ai commandé : et voici que je suis avec vous tous les jours, jusqu&rsquo;à la consommation du siècle.&rdquo; 1
 Saint Pierre Canisius, Le grand catéchisme : &ldquo;Les paroles dans lesquelles, d&rsquo;après l&rsquo;institution de Jésus-Christ, consiste la forme du sacrement, sont conçues en ces termes : Je te baptise au nom du Père, et du Fils, et du Saint-Esprit." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -305,26 +305,38 @@ Saint Pierre Canisius, Le grand catéchisme : &ldquo;Les paroles dans lesquelles
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

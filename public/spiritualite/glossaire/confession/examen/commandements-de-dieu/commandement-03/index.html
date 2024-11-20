@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/spiritualite/glossaire/confession/examen/commandements-de-dieu/commandement-03/" />
+<link rel="canonical" href="//localhost:1313/spiritualite/glossaire/confession/examen/commandements-de-dieu/commandement-03/" />
 
 
 
@@ -42,14 +42,14 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Troisième Commandement" />
 <meta name="twitter:description" content="Saint Léonard de Port-Maurice : &ldquo;[Examinez] si vous n&rsquo;avez pas transgressé les dimanches ou les jours de fêtes, soit par le travail, soit en vous livrant à des divertissements immodérés&hellip;&rdquo; 1
 Saint François de Sales : &ldquo;[C&rsquo;est pécher contre ce commandement que de] travailler ou faire travailler ces jours-là sans cause légitime. Dire si ça été un temps notable et avec scandale.
 Employer la plupart de ces mêmes jours aux jeux, à la comédie, bals, danses, promenades, à l&rsquo;ivrognerie, ou autres débauches plus honteuses&hellip;&rdquo; 2" />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -312,26 +312,38 @@ Employer la plupart de ces mêmes jours aux jeux, à la comédie, bals, danses, 
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

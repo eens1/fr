@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/spiritualite/sacrements/sacrements-de-l-excommunie/" />
+<link rel="canonical" href="//localhost:1313/spiritualite/sacrements/sacrements-de-l-excommunie/" />
 
 
 
@@ -42,13 +42,13 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Sacrements de l&#39;excommunié" />
 <meta name="twitter:description" content="Droit canonique de 1917, can. 882 : En péril de mort, tous les prêtres, quoique non approuvés pour les confessions, absolvent validement et licitement n&rsquo;importe quels pénitents de tous péchés ou censures, quoique réservés ou notoires, même si un prêtre approuvé est présent, les prescriptions des Can. 884; Can. 2252 demeurant sauves. 1
 Droit canonique de 1917, can. 884 : &quot;L&rsquo;absolution du complice dans un péché impur est invalide, sauf en péril de mort, et même en ce péril, sauf cas de nécessité, elle est illicite de la part du confesseur conformément aux Constitutions apostoliques et spécialement à celle de Benoît XIV, Sacramentum Poenitentiae, du 1er juin 1741." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -288,26 +288,38 @@ Droit canonique de 1917, can. 884 : &quot;L&rsquo;absolution du complice dans un
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

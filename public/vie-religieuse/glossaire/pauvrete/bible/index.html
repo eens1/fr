@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/vie-religieuse/glossaire/pauvrete/bible/" />
+<link rel="canonical" href="//localhost:1313/vie-religieuse/glossaire/pauvrete/bible/" />
 
 
 
@@ -42,14 +42,14 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Dans la Bible" />
 <meta name="twitter:description" content="Psaumes 39:18 : &ldquo;Pour moi, je suis mendiant et pauvre : mais le Seigneur prend soin de moi.&rdquo; 1
 Matthieu 19:21 : &ldquo;Jésus lui dit : Si tu veux être parfait, va, vends ce que tu as et donne-le aux pauvres, et tu auras un trésor dans le ciel; viens ensuite, et suis-mois.&rdquo; 2
 Matthieu 6:31-33 : &ldquo;Ne vous inquiétez donc point, disant : Que mangerons-nous, ou que boirons-nous, ou de quoi nous vêtirons-nous ?" />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -319,26 +319,38 @@ Matthieu 6:31-33 : &ldquo;Ne vous inquiétez donc point, disant : Que mangerons-
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

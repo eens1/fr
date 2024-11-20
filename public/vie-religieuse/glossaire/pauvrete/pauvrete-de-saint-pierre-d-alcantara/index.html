@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/vie-religieuse/glossaire/pauvrete/pauvrete-de-saint-pierre-d-alcantara/" />
+<link rel="canonical" href="//localhost:1313/vie-religieuse/glossaire/pauvrete/pauvrete-de-saint-pierre-d-alcantara/" />
 
 
 
@@ -42,13 +42,13 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Pauvreté de Saint Pierre d&#39;Alcantara" />
 <meta name="twitter:description" content="Source : Marchese 1670, p. 292-295.
 Le principal fondement sur lequel saint Pierre d&rsquo;Alcantara se proposa d&rsquo;établir sa réforme, et l&rsquo;unique trésor qu&rsquo;il eut dessein de laisser en partage à ses enfants, fut la même pauvreté rigoureuse que son saint instituteur avait introduite dans la fondation de l&rsquo;ordre; c&rsquo;est pourquoi il avait accoûtumé de dire à ses religieux que la pauvreté d&rsquo;un frère mineur devait être si indigente et si nécessiteuse, que même il fallait qu&rsquo;elle se retrancha une partie du nécessaire." />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -278,26 +278,38 @@ Le principal fondement sur lequel saint Pierre d&rsquo;Alcantara se proposa d&rs
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 

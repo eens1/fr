@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title></title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
-<link rel="canonical" href="/bible/glaire/ancien-testament/32-baruch/" />
+<link rel="canonical" href="//localhost:1313/bible/glaire/ancien-testament/32-baruch/" />
 
 
 
@@ -42,12 +42,12 @@
 
 
 
-<meta name="twitter:card" content="/" />
+<meta name="twitter:card" content="//localhost:1313/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Baruch" />
 <meta name="twitter:description" content="" />
-<meta name="twitter:image" content="/" />
+<meta name="twitter:image" content="//localhost:1313/" />
 
 </head>
 
@@ -181,7 +181,7 @@
 
    <div class="post-item">
    <li>
-   <a href="/bible/glaire/ancien-testament/32-baruch/chap001/">Chapitre 1</a>
+   <a href="//localhost:1313/bible/glaire/ancien-testament/32-baruch/chap001/">Chapitre 1</a>
    </li>
    <div>
 Prologue du livre de Baruch.
@@ -193,7 +193,7 @@ Livre de Baruch, où d’abord ce prophète confesse au nom de son peuple la jus
 
    <div class="post-item">
    <li>
-   <a href="/bible/glaire/ancien-testament/32-baruch/chap002/">Chapitre 2</a>
+   <a href="//localhost:1313/bible/glaire/ancien-testament/32-baruch/chap002/">Chapitre 2</a>
    </li>
    <div>
 Le Prophète, parlant toujours au nom de son peuple, reconnaît la justice des jugements du Seigneur, et implore sa miséricorde avec confiance en ses promesses.
@@ -203,7 +203,7 @@ Le Prophète, parlant toujours au nom de son peuple, reconnaît la justice des j
 
    <div class="post-item">
    <li>
-   <a href="/bible/glaire/ancien-testament/32-baruch/chap003/">Chapitre 3</a>
+   <a href="//localhost:1313/bible/glaire/ancien-testament/32-baruch/chap003/">Chapitre 3</a>
    </li>
    <div>
 Baruch continue d’implorer la miséricorde du Seigneur au nom de ses frères.
@@ -217,7 +217,7 @@ Prophétie de l’Incarnation du Verbe.
 
    <div class="post-item">
    <li>
-   <a href="/bible/glaire/ancien-testament/32-baruch/chap004/">Chapitre 4</a>
+   <a href="//localhost:1313/bible/glaire/ancien-testament/32-baruch/chap004/">Chapitre 4</a>
    </li>
    <div>
 Baruch exhorte les Israélites à se convertir au Seigneur et à observer sa loi.
@@ -229,7 +229,7 @@ Promesse de leur délivrance et de la ruine de leurs ennemis.
 
    <div class="post-item">
    <li>
-   <a href="/bible/glaire/ancien-testament/32-baruch/chap005/">Chapitre 5</a>
+   <a href="//localhost:1313/bible/glaire/ancien-testament/32-baruch/chap005/">Chapitre 5</a>
    </li>
    <div>
 Le Prophète exhorte Jérusalem à quitter son deuil, et à se revêtir de joie, parce qu’il voit ses enfants revenir de leur captivité comblés de gloire.
@@ -239,7 +239,7 @@ Le Prophète exhorte Jérusalem à quitter son deuil, et à se revêtir de joie,
 
    <div class="post-item">
    <li>
-   <a href="/bible/glaire/ancien-testament/32-baruch/chap006/">Chapitre 6</a>
+   <a href="//localhost:1313/bible/glaire/ancien-testament/32-baruch/chap006/">Chapitre 6</a>
    </li>
    <div>
 Lettre de Jérémie aux Juifs captifs.
@@ -398,26 +398,38 @@ Copie de la lettre que Jérémie envoya aux captifs qui allaient être déporté
     </ul>
   </div>
 </div>
+
 <script>
   const sidebar = document.getElementById('sidebar');
   const toggleButton = document.getElementById('toggle-sidebar');
+  const sidebarContent = document.querySelector('.sidebar-content');
 
   
   toggleButton.addEventListener('click', function () {
     sidebar.classList.toggle('collapsed');
+
+    
+    if (sidebar.classList.contains('collapsed')) {
+      sidebarContent.style.visibility = 'hidden';
+    } else {
+      sidebarContent.style.visibility = 'visible';
+    }
   });
 
   
   if (window.innerWidth <= 768) {
     sidebar.classList.add('collapsed');
+    sidebarContent.style.visibility = 'hidden'; 
   }
 
   
   window.addEventListener('resize', function () {
     if (window.innerWidth <= 768) {
       sidebar.classList.add('collapsed');
+      sidebarContent.style.visibility = 'hidden'; 
     } else {
       sidebar.classList.remove('collapsed');
+      sidebarContent.style.visibility = 'visible'; 
     }
   });
 
