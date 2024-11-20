@@ -52,8 +52,22 @@ menu:
         parent: lang
 
 params:
-  featuredPosts:
-    - /spiritualite/rosaire
-    - /catechisme
-    - /doctrine/croyances-necessaires
-    - /apologetique/hors-de-l-eglise-pas-de-salut
+   featuredPosts:
+     - /spiritualite/rosaire
+     - /catechisme
+     - /doctrine/croyances-necessaires
+     - /apologetique/hors-de-l-eglise-pas-de-salut
+   sidebar:
+     - title: "Accueil"
+       link: "/"
+     - title: "À propos"
+       link: "/a-propos"
+     - title: "Autres Langues"
+       link: "/blog"
+       submenu:
+         - title: "English"
+           link: "https://eens-en.netlify.app"
+         - title: "Italiano"
+           link: "https://eens-it.netlify.app"
+     - title: "Contact"
+       link: "/contact"
