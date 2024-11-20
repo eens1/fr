@@ -6,52 +6,6 @@ languageName: "Français"
 defaultContentLanguage: fr
 params:
    dateFormat: "Jan 02, 2006"
-menu:
-   main:
-      - identifier: home
-        url: /
-        weight: 1
-        pre: <i class="fas fa-home"></i>
-
-      - name: Bible
-        url: /bible
-        weight: 2
-
-      - name: Doctrine
-        url: /doctrine
-        weight: 3
-
-      - name: Spirtualité
-        url: /spiritualite
-        weight: 4
- 
-      - identifier: apologetique
-        name: Apologétique
-        url: /apologetique
-        weight: 5
- 
-      - url: /contact
-        name: Contact
-        weight: 6
-
-      - url: /a-propos
-        name: "À propos"
-        weight: 7 
-      
-      - identifier: lang
-        weight: 8
-        name: "LANG"
-        pre: "<i class='fas fa-globe'></i>"
-
-      - url: 'https://eens-en.netlify.app'
-        name: English
-        parent: lang
-
-      - url: 'https://eens-it.netlify.app'
-        name: Italiano 
-        parent: lang
-
-params:
    featuredPosts:
      - /spiritualite/rosaire
      - /catechisme
@@ -60,10 +14,19 @@ params:
    sidebar:
      - title: "Accueil"
        link: "/"
+     - title: "Bible"
+       link: "/bible"
+     - title: "Doctrine"
+       link: "/doctrine"
+     - title: "Apologétique"
+       link: "/apologetique"
+     - title: "Spiritualité"
+       link: "/spiritualite"
+     - title: "Livres"
+       link: "/livres"
      - title: "À propos"
        link: "/a-propos"
-     - title: "Autres Langues"
-       link: "/blog"
+     - title: "Autres langues"
        submenu:
          - title: "English"
            link: "https://eens-en.netlify.app"
@@ -71,3 +34,11 @@ params:
            link: "https://eens-it.netlify.app"
      - title: "Contact"
        link: "/contact"
+     - title: "Liens"
+       submenu:
+         - title: "VaticanCatholic.com"
+           link: "https://vaticancatholic.com"
+         - title: "VaticanCatholique.com"
+           link: "https://vaticancatholique.com"
+         - title: "VaticanoCattolico.com"
+           link: "https://vaticanocattolico.com"
