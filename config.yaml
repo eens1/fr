@@ -1,3 +1,6 @@
+baseURL: https://eens-fr.netlify.app
+title: "Extra Ecclesia Nulla Salus"
+
 module:
    imports:
       - path: github.com/eens1/config
@@ -8,48 +11,25 @@ params:
    dateFormat: "Jan 02, 2006"
 menu:
    main:
-      - identifier: home
+      - name: Accueil
         url: /
         weight: 1
-        pre: <i class="fas fa-home"></i>
 
-      - name: Bible
-        url: /bible
+      - name: Contact
+        url: /contact
         weight: 2
 
-      - name: Doctrine
-        url: /doctrine
-        weight: 3
+      - name: "À propos"
+        url: /a-propos
+        weight: 3 
 
-      - name: Spirtualité
-        url: /spiritualite
-        weight: 4
- 
-      - identifier: apologetique
-        name: Apologétique
-        url: /apologetique
-        weight: 5
- 
-      - url: /contact
-        name: Contact
-        weight: 6
+      - name: "English"
+        url: "https://eens-en.netlify.app"
+        weight: 4 
 
-      - url: /a-propos
-        name: "À propos"
-        weight: 7 
-      
-      - identifier: lang
-        weight: 8
-        name: "LANG"
-        pre: "<i class='fas fa-globe'></i>"
-
-      - url: 'https://eens-en.netlify.app'
-        name: English
-        parent: lang
-
-      - url: 'https://eens-it.netlify.app'
-        name: Italiano 
-        parent: lang
+      - name: "Italiano"
+        url: "https://eens-it.netlify.app"
+        weight: 5 
 
 params:
    featuredPosts:
