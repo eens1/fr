@@ -67,7 +67,7 @@ params:
          order: 5
          links:
             - title: "Frères Mineurs"
-              url: "/vie-religieuse/frere-mineurs"
+              url: "/vie-religieuse/freres-mineurs"
             - title: "Carmel"
               url: "/vie-religieuse/carmel"
             - title: "Glossaire"
