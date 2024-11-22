@@ -9,6 +9,73 @@ languageName: "Français"
 defaultContentLanguage: fr
 params:
    dateFormat: "Jan 02, 2006"
+   quickLinks:
+      group1:
+         title: "Bible"
+         order: 1
+         links:
+            - title: "Bible Glaire"
+              url: "/bible/glaire"
+            - title: "Biblia Vulgata"
+              url: "/bible/vulgata"
+      group2:
+         title: "Doctrine"
+         order: 2
+         links:
+            - title: "Croyances nécessaire au salut"
+              url: "/doctrine/croyances-necessaires"
+            - title: "Commandements"
+              url: "/doctrine/commandements"
+            - title: "Baptême"
+              url: "/doctrine/bapteme"
+            - title: "Confession"
+              url: "/doctrine/confession"
+            - title: "Glossaire"
+              url: "/doctrine/glossaire"
+      group3:
+         title: "Apologétique"
+         order: 3
+         links:
+            - title: "Bible prouve le catholicisme"
+              url: "/apologetique/bible-prouve-catholicisme"
+            - title: "Hors de l'Église pas de salut"
+              url: "/apologetique/hors-de-l-eglise-pas-de-salut"
+            - title: "Divinité de Jésus-Christ"
+              url: "/apologetique/divinite-du-christ/"
+            - title: "Secte Vatican II"
+              url: "/apologetique/vatican-ii"
+      group4:
+         title: "Spiritualité"
+         order: 4
+         links:
+            - title: "Étapes de conversion"
+              url: "/spiritualite/etapes-de-conversion"
+            - title: "Rosaire"
+              url: "/spiritualite/rosaire"
+            - title: "Sacrements"
+              url: "/spiritualite/sacrements"
+            - title: "Directeur des consciences"
+              url: "/spiritualite/jean-francois-de-reims"
+            - title: "Glossaire"
+              url: "/spiritualite/glossaire"
+            - title: "Prières"
+              url: "/spiritualite/prieres"
+            - title: "Livres"
+              url: "/livres"
+      group5:
+         title: "Vie religieuse"
+         order: 5
+         links:
+            - title: "Frères Mineurs"
+              url: "/vie-religieuse/frere-mineurs"
+            - title: "Carmel"
+              url: "/vie-religieuse/carmel"
+            - title: "Glossaire"
+              url: "/vie-religieuse/glossaire"
+            - title: "Concile de Trente"
+              url: "/vie-religieuse/concile-de-trente"
+            - title: "Droit canonique"
+              url: "/vie-religieuse/droit-canonique"
 menu:
    main:
       - name: Accueil
