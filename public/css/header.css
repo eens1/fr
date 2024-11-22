@@ -13,11 +13,26 @@ padding: 10px 15px 10px 15px;
   align-items: center;
 }
 
+.site-title {
+display: flex;
+align-items: center;
+}
+
+.site-title img {
+width: 35px;
+margin-right: 5px;
+border-radius: 3px;
+}
+
 .site-title a {
   font-size: 1.5rem;
   font-weight: bold;
   text-decoration: none;
-  color: var(--header-text-color);
+  color: var(--text-color);
+}
+
+.site-title a:hover {
+  text-decoration: none;
 }
 
 nav ul {
@@ -34,7 +49,7 @@ nav ul li {
 nav ul li a {
   text-decoration: none;
   font-weight: bold;
-  color: var(--header-text-color);
+  color: var(--text-color);
 }
 
 nav ul li a:hover {
@@ -50,12 +65,12 @@ nav ul li a:hover {
 .hamburger span {
   width: 25px;
   height: 3px;
-  background-color: var(--header-text-color);
+  background-color: var(--text-color);
   margin: 2px 0;
   transition: 0.4s;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 800px) {
   .hamburger {
     display: flex;
   }
@@ -84,6 +99,6 @@ nav ul li a:hover {
   }
 
   .site-title a {
-  font-size: 20px;
+  display: none;
   }
 }

@@ -1,11 +1,10 @@
 @import url('https://fonts.bunny.net/css?family=nunito:300,400,600,700');
 
 :root {
---text-color: #FFFF96;
+--text-color: #FFFDD0;
 --link-color: #00FFFF;
 --bg-color: black;
 --header-bg-color: #1c1c1e;
---header-text-color: white;
 }
 
 body {
@@ -22,18 +21,14 @@ h1, h2, h3, h4, h5 {
 color: var(--header-text-color);
 }
 
-img {
+main img {
 display: block;
 width: 100%;
 max-width: 500px;
 margin-left: auto;
 margin-right: auto;
 }
-.banner img {
-   max-width: 100%;
-   border-radius: 5px;
-}
-   
+
 tr,td {
 border: 1px solid white !important;
 }
