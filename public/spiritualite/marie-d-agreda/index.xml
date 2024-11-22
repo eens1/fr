@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>La Passion de Jésus-Christ on Extra Ecclesia Nulla Salus</title>
-    <link>https://eens-fr.netlify.app/spiritualite/marie-d-agreda/</link>
+    <link>http://localhost:1313/spiritualite/marie-d-agreda/</link>
     <description>Recent content in La Passion de Jésus-Christ on Extra Ecclesia Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <atom:link href="https://eens-fr.netlify.app/spiritualite/marie-d-agreda/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/spiritualite/marie-d-agreda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapitre 13</title>
-      <link>https://eens-fr.netlify.app/spiritualite/marie-d-agreda/13/</link>
+      <link>http://localhost:1313/spiritualite/marie-d-agreda/13/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://eens-fr.netlify.app/spiritualite/marie-d-agreda/13/</guid>
+      <guid>http://localhost:1313/spiritualite/marie-d-agreda/13/</guid>
       <description>La prise de notre Sauveur par la trahison de Judas. Ce que la très-pure Marie fit dans cette occasion, et quelques mystères qui s’y passèrent.</description>
     </item>
   </channel>
