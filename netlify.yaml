@@ -9,3 +9,5 @@ build.environment:
 
 context.production.environment:
   HUGO_ENV: production
+  HUGO_BASEURL: https://eens-fr.netlify.app
+
