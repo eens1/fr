@@ -76,6 +76,7 @@ params:
               url: "/vie-religieuse/concile-de-trente"
             - title: "Droit canonique"
               url: "/vie-religieuse/droit-canonique"
+
 menu:
    main:
       - name: Accueil
@@ -93,45 +94,33 @@ menu:
       - name: "English"
         url: "https://eens-en.netlify.app"
         weight: 4 
+        params:
+          target: "_blank"
 
       - name: "Italiano"
         url: "https://eens-it.netlify.app"
         weight: 5 
+        params:
+          target: "_blank"
+
+      - identifier: youtube
+        name: ""
+        url: "https://www.youtube.com/@bro_matthieu"
+        weight: 6
+        pre: "<i class='fab fa-youtube'></i> "
+        params:
+          target: "_blank"
+
+      - identifier: twitter
+        name: ""
+        url: "https://x.com/BroMatthewCap"
+        weight: 7
+        pre: '<i class="fab fa-x-twitter"></i>'
+        params:
+          target: "_blank"
 
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
     renderer:
       unsafe: true
-    duplicateResourceFiles: false
-    extensions:
-      definitionList: true
-      footnote: true
-      linkify: true
-      strikethrough: true
-      table: true
-      taskList: true
-      extras:
-        delete:
-          enable: true
-        insert:
-          enable: true
-        mark:
-          enable: true
-        subscript:
-          enable: true
-        superscript:
-          enable: true
-      passthrough:
-        enable: true
-        delimiters:
-          block:
-            - - "$$"
-              - "$$"
-            - - "\\["
-              - "\\]"
-          inline:
-            - - "$"
-              - "$"
-            - - "\\("
-              - "\\)"
