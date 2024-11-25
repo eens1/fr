@@ -13,3 +13,7 @@ draft: false
 
 [^2]: Bareille 1922, p. 255.
 
+
+> Droit canonique de 1917, can. 985 : "Sont irréguliers par délit... Ceux qui volontairement ont commis un homicide ou un avortement de foetus humain, suivis d'effet, et tous leurs coopérateurs." [^3]
+
+[^3]: Consulté le 25 nov. 2024. https://www.droitcanonique.fr/codes/cic-1917-15/c-985-cic-1917-2749
