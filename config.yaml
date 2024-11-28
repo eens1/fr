@@ -7,76 +7,12 @@ module:
 
 languageName: "Français"
 defaultContentLanguage: fr
-params:
-   dateFormat: "Jan 02, 2006"
-   quickLinks:
-      group1:
-         title: "Bible"
-         order: 1
-         links:
-            - title: "Bible Glaire"
-              url: "/bible/glaire"
-            - title: "Biblia Vulgata"
-              url: "/bible/vulgata"
-      group2:
-         title: "Doctrine"
-         order: 2
-         links:
-            - title: "Croyances nécessaire au salut"
-              url: "/doctrine/croyances-necessaires"
-            - title: "Commandements"
-              url: "/doctrine/commandements"
-            - title: "Baptême"
-              url: "/doctrine/bapteme"
-            - title: "Confession"
-              url: "/doctrine/confession"
-            - title: "Glossaire"
-              url: "/doctrine/glossaire"
-      group3:
-         title: "Apologétique"
-         order: 3
-         links:
-            - title: "Bible prouve le catholicisme"
-              url: "/apologetique/bible-prouve-catholicisme"
-            - title: "Hors de l'Église pas de salut"
-              url: "/apologetique/hors-de-l-eglise-pas-de-salut"
-            - title: "Divinité de Jésus-Christ"
-              url: "/apologetique/divinite-du-christ/"
-            - title: "Secte Vatican II"
-              url: "/apologetique/vatican-ii"
-      group4:
-         title: "Spiritualité"
-         order: 4
-         links:
-            - title: "Étapes de conversion"
-              url: "/spiritualite/etapes-de-conversion"
-            - title: "Rosaire"
-              url: "/spiritualite/rosaire"
-            - title: "Sacrements"
-              url: "/spiritualite/sacrements"
-            - title: "Directeur des consciences"
-              url: "/spiritualite/jean-francois-de-reims"
-            - title: "Glossaire"
-              url: "/spiritualite/glossaire"
-            - title: "Prières"
-              url: "/spiritualite/prieres"
-            - title: "Livres"
-              url: "/livres"
-      group5:
-         title: "Vie religieuse"
-         order: 5
-         links:
-            - title: "Frères Mineurs"
-              url: "/vie-religieuse/freres-mineurs"
-            - title: "Carmel"
-              url: "/vie-religieuse/carmel"
-            - title: "Glossaire"
-              url: "/vie-religieuse/glossaire"
-            - title: "Concile de Trente"
-              url: "/vie-religieuse/concile-de-trente"
-            - title: "Droit canonique"
-              url: "/vie-religieuse/droit-canonique"
 
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
 menu:
    main:
       - name: Accueil
@@ -119,8 +55,97 @@ menu:
         params:
           target: "_blank"
 
-markup:
-  defaultMarkdownHandler: goldmark
-  goldmark:
-    renderer:
-      unsafe: true
+params:
+   dateFormat: "Jan 02, 2006"
+   quickLinks:
+      group1:
+         title: "Bible"
+         order: 1
+         url: "/bible"
+         links:
+            - title: "Bible Glaire"
+              url: "/bible/glaire"
+            - title: "Biblia Vulgata"
+              url: "/bible/vulgata"
+      group2:
+         title: "Doctrine"
+         order: 2
+         url: "/doctrine"
+         links:
+            - title: "Croyances nécessaire au salut"
+              url: "/doctrine/croyances-necessaires"
+            - title: "Commandements"
+              url: "/doctrine/commandements"
+            - title: "Baptême"
+              url: "/doctrine/bapteme"
+            - title: "Confession"
+              url: "/doctrine/confession"
+            - title: "Glossaire"
+              url: "/doctrine/glossaire"
+      group3:
+         title: "Apologétique"
+         order: 3
+         url: "/apologetique"
+         links:
+            - title: "Bible prouve le catholicisme"
+              url: "/apologetique/bible-prouve-catholicisme"
+            - title: "Hors de l'Église pas de salut"
+              url: "/apologetique/hors-de-l-eglise-pas-de-salut"
+            - title: "Divinité de Jésus-Christ"
+              url: "/apologetique/divinite-du-christ/"
+            - title: "Secte Vatican II"
+              url: "/apologetique/vatican-ii"
+      group4:
+         title: "Spiritualité"
+         order: 4
+         url: "/spiritualite"
+         links:
+            - title: "Étapes de conversion"
+              url: "/spiritualite/etapes-de-conversion"
+            - title: "Rosaire"
+              url: "/spiritualite/rosaire"
+            - title: "Sacrements"
+              url: "/spiritualite/sacrements"
+            - title: "Directeur des consciences"
+              url: "/spiritualite/jean-francois-de-reims"
+            - title: "Glossaire"
+              url: "/spiritualite/glossaire"
+            - title: "Prières"
+              url: "/spiritualite/prieres"
+            - title: "Livres"
+              url: "/livres"
+      group5:
+         title: "Vie religieuse"
+         order: 5
+         url: "/vie-religieuse"
+         links:
+            - title: "Frères Mineurs"
+              url: "/vie-religieuse/freres-mineurs"
+            - title: "Carmel"
+              url: "/vie-religieuse/carmel"
+            - title: "Glossaire"
+              url: "/vie-religieuse/glossaire"
+            - title: "Concile de Trente"
+              url: "/vie-religieuse/concile-de-trente"
+            - title: "Droit canonique"
+              url: "/vie-religieuse/droit-canonique"
+   homepage_blocks:
+
+      - text: "*Pape Innocent III, Concile du Latran 4, can. 1, 1215* : \n
+
+      \"Il y a une seule Eglise universelle des fidèles, **en dehors de laquelle absolument personne n'est sauvé**, et dans laquelle le Christ est lui-même à la fois le prêtre et le sacrifice...\""
+
+      - text: "*Pape Pie IX, Concile Vatican I, sess. 3, de la Révélation, 24 avril 1870* :\n
+
+      \"Mais parce que, **sans la foi, il est impossible de plaire à Dieu et de parvenir à être justifié**, et personne, à moins qu'il ne persévère jusqu'à la fin dans la foi, n'obtiendra la vie éternelle; et afin de pouvoir satisfaire à l'obligation d'embrasser la foi véritable, comme aussi d'y persévérer constamment, **Dieu, par son Fils unique, a institué l'Eglise, et il l'a marquée au front des marques visibles de son institution, afin que tous puissent reconnaître en elle la gardienne et la maîtresse de la parole révélée**.\""
+
+      - text: "*Saint Eudes, Contrat de l’homme avec Dieu par le saint Baptême* :\n
+
+      “**La sainte Eglise catholique n’a jamais souffert et ne souffrira jamais de différentes croyances à l’égard d’aucun article**. Sa foi est la même dans tous les temps, dans tous les lieux et dans tous ses vrais enfants. Ainsi sa foi est une, et la seule qui soit véritable. Vous devez être d’autant plus soigneux de conserver cette foi dans toute sa pureté, que sans elle il est impossible de rien faire qui mérite le ciel : *Sine fide imposibile est placere Deo*.\n
+
+Ceux qui ne l’ont pas, peuvent bien pratiquer toutes les vertus morales, la justice, la sobriété, la chasteté, l’aumône, la prière, la mortification, c’est ce qui se remarque, non seulement dans les hérétiques, mais aussi dans les mahométans et les païens. Mais toutes ces bonnes actions n’ayant pas la foi pour principe, ne sont pas capables de leur mériter le ciel. La loi de Moïse, toute sainte qu’elle était, ne pouvait sauver que ceux qui l’observaient par la foi.\n
+
+**Quand donc vous remarquez que ceux qui ne croient point à l’Eglise pratiquent quantité de bonnes oeuvres, font beaucoup de prières, mènent une vie austère, n’allez pas croire pour cela qu’ils soient dans la voie du salut, ni qu’on puisse se sauver dans leur croyance; vous feriez un péché énorme, parce que ce serait croire qu’on peut se sauver hors de l’Eglise, qu’on peut avoir la foi sans croire l’Eglise catholique, ou que l’on peut se sauver sans la foi**.”"
+
+
+
