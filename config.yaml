@@ -49,7 +49,7 @@ menu:
 
       - identifier: twitter
         name: ""
-        url: "https://x.com/BroMatthewCap"
+        url: "https://x.com/BroMatthewOFMC"
         weight: 7
         pre: '<i class="fab fa-x-twitter"></i>'
         params:
