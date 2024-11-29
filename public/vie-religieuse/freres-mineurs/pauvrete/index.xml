@@ -2,66 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pauvreté Franciscaine on Extra Ecclesiam Nulla Salus</title>
-    <link>http://localhost:1313/vie-religieuse/freres-mineurs/pauvrete/</link>
+    <link>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/</link>
     <description>Recent content in Pauvreté Franciscaine on Extra Ecclesiam Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Fri, 06 Sep 2024 20:03:00 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/vie-religieuse/freres-mineurs/pauvrete/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dans la Bible</title>
-      <link>http://localhost:1313/vie-religieuse/freres-mineurs/pauvrete/bible/</link>
+      <link>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/bible/</link>
       <pubDate>Fri, 06 Sep 2024 20:03:00 +0200</pubDate>
-      <guid>http://localhost:1313/vie-religieuse/freres-mineurs/pauvrete/bible/</guid>
+      <guid>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/bible/</guid>
       <description>Psaumes 39:18 : &amp;ldquo;Pour moi, je suis mendiant et pauvre : mais le Seigneur prend soin de moi.&amp;rdquo; 1&#xA;Matthieu 19:21 : &amp;ldquo;Jésus lui dit : Si tu veux être parfait, va, vends ce que tu as et donne-le aux pauvres, et tu auras un trésor dans le ciel; viens ensuite, et suis-mois.&amp;rdquo; 2&#xA;Matthieu 6:31-33 : &amp;ldquo;Ne vous inquiétez donc point, disant : Que mangerons-nous, ou que boirons-nous, ou de quoi nous vêtirons-nous ?</description>
     </item>
     <item>
       <title>Dans la Tradition</title>
-      <link>http://localhost:1313/vie-religieuse/freres-mineurs/pauvrete/tradition/</link>
+      <link>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/tradition/</link>
       <pubDate>Fri, 06 Sep 2024 20:03:00 +0200</pubDate>
-      <guid>http://localhost:1313/vie-religieuse/freres-mineurs/pauvrete/tradition/</guid>
+      <guid>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/tradition/</guid>
       <description>Instruction sur les observances regulières et sur les voeux solemnels, 1725 : &amp;ldquo;Qu&amp;rsquo;est-ce que le voeu de pauvreté ? C&amp;rsquo;est un renoncement volontaire et irrévocable solemnellement fait, par lequel on se dépouille à jamais pour l&amp;rsquo;amour de Dieu, de la propriété de tous les biens temporels, droits, et prétentions qu&amp;rsquo;on pourrait y avoir, et de la faculté d&amp;rsquo;en disposer, ou de s&amp;rsquo;en servir sans la permission du Supérieur.&#xA;La pauvreté religieuse ne consiste pas simplement dans le dépouillement des biens qu&amp;rsquo;on possédait dans le monde : Le coeur doit en être entièrement dégagé.</description>
     </item>
     <item>
-      <title>Usage pauvre</title>
-      <link>http://localhost:1313/vie-religieuse/freres-mineurs/pauvrete/usage-pauvre/</link>
+      <title>Frère Ubertin de Casale défend l&#39;observance régulière au Concile de Vienne (1309-1312)</title>
+      <link>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/ubertin-de-casale-concile-de-vienne/</link>
       <pubDate>Fri, 06 Sep 2024 20:03:00 +0200</pubDate>
-      <guid>http://localhost:1313/vie-religieuse/freres-mineurs/pauvrete/usage-pauvre/</guid>
+      <guid>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/ubertin-de-casale-concile-de-vienne/</guid>
+      <description>Fr. Callaey, 1911 : &amp;ldquo;C&amp;rsquo;est par la pauvreté qu&amp;rsquo;il commence. On remarquera avec quelle subtilité il distingue ses différentes notes caractéristiques.&#xA;&amp;ldquo;La pauvreté, dit-il, doit être expropriatrice, car elle prive les frères de toute possession directe ou indirecte. Or, grâce à des privilèges accordés par des pontifes qui ignoraient qu&amp;rsquo;ils étaient contraires à la règle, les frères se fournissent de ce qui bon leur semble par l&amp;rsquo;entremise des procureurs. Ils font des quêtes abondantes, construisent des églises splendides, accaparent les services funèbres des riches et les exécutions testamentaires, et ne craignent même pas de s&amp;rsquo;immiscer dans les procès d&amp;rsquo;argent.</description>
+    </item>
+    <item>
+      <title>Usage pauvre</title>
+      <link>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/usage-pauvre/</link>
+      <pubDate>Fri, 06 Sep 2024 20:03:00 +0200</pubDate>
+      <guid>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/usage-pauvre/</guid>
       <description>Etudes franciscaines, déc. 1905 : &amp;ldquo;Il était difficile, sans doute, de définir exactement en quoi consistait cet &amp;ldquo;usus pauper&amp;rdquo;, et cette difficulté donna même occasion aux mitigés d&amp;rsquo;attaquer et de condamner sur ce point la doctrine d&amp;rsquo;Olivi.&#xA;Mais les esprits droits et non prévenus ne pouvaient guère s&amp;rsquo;y tromper. Comme le fait observer M. Tocco, les défenseurs de l&amp;rsquo;usage pauvre entendaient seulement proscrire tout ce qui n&amp;rsquo;était pas indispensable à l&amp;rsquo;entretien et à la subsistance des Frères.</description>
     </item>
     <item>
+      <title>Déclaration du Frère Pierre de Jean Olivi avant sa mort</title>
+      <link>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/pierre-de-jean-olivi-declaration/</link>
+      <pubDate>Fri, 06 Sep 2024 20:02:59 +0200</pubDate>
+      <guid>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/pierre-de-jean-olivi-declaration/</guid>
+      <description>Source : Castet 1680, t. 2, pp. 328.&#xA;(1) &amp;ldquo;Je dis premièrement que l&amp;rsquo;abdication de tout droit temporel, et l&amp;rsquo;usage pauvre sont de l&amp;rsquo;essence de notre vie Evangélique, et j&amp;rsquo;entends par l&amp;rsquo;usage pauvre celui qui toutes circonstances pesées sera estimé pencher plus à la pauvreté qu&amp;rsquo;à l&amp;rsquo;abondance.&#xA;(2) En second lieu, je soutiens que c&amp;rsquo;est un péché mortel, duquel l&amp;rsquo;ignorance crasse et affectée n&amp;rsquo;excuse pas, que de défendre avec opiniâtreté les transgressions de la pauvreté, et les imperfections contre la Règle, disant qu&amp;rsquo;elle sont bonnes; ou de contraindre les Religieux à les pratiquer, et persécuter ceux qui veulent observer la Règle dans toute sa pureté 1.</description>
+    </item>
+    <item>
       <title>Pauvreté de Saint Pierre d&#39;Alcantara</title>
-      <link>http://localhost:1313/vie-religieuse/freres-mineurs/pauvrete/pauvrete-de-saint-pierre-d-alcantara/</link>
+      <link>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/pauvrete-de-saint-pierre-d-alcantara/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:58 +0200</pubDate>
-      <guid>http://localhost:1313/vie-religieuse/freres-mineurs/pauvrete/pauvrete-de-saint-pierre-d-alcantara/</guid>
+      <guid>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/pauvrete-de-saint-pierre-d-alcantara/</guid>
       <description>Source : Marchese 1670, p. 292-295.&#xA;Le principal fondement sur lequel saint Pierre d&amp;rsquo;Alcantara se proposa d&amp;rsquo;établir sa réforme, et l&amp;rsquo;unique trésor qu&amp;rsquo;il eut dessein de laisser en partage à ses enfants, fut la même pauvreté rigoureuse que son saint instituteur avait introduite dans la fondation de l&amp;rsquo;ordre; c&amp;rsquo;est pourquoi il avait accoûtumé de dire à ses religieux que la pauvreté d&amp;rsquo;un frère mineur devait être si indigente et si nécessiteuse, que même il fallait qu&amp;rsquo;elle se retrancha une partie du nécessaire.</description>
     </item>
     <item>
       <title>Réponses de Saint François à propos des livres</title>
-      <link>http://localhost:1313/vie-religieuse/freres-mineurs/pauvrete/saint-francois-livres/</link>
+      <link>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/saint-francois-livres/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:58 +0200</pubDate>
-      <guid>http://localhost:1313/vie-religieuse/freres-mineurs/pauvrete/saint-francois-livres/</guid>
+      <guid>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/saint-francois-livres/</guid>
       <description>Source : Castet 1680, t. 1, pp. 168-169.&#xA;Un provincial qui entendit cette instruction du Saint et qui désirait d&amp;rsquo;avoir sa permission pour garder beaucoup de livres qu&amp;rsquo;il avait acheté, lui demanda qu&amp;rsquo;est-ce qu&amp;rsquo;un Frère Mineur pouvait avoir à son usage; et saint François lui répondit sans hésiter, j&amp;rsquo;entends qu&amp;rsquo;un Frère Mineur ne doit avoir qu&amp;rsquo;un habit, une corde, des mutandes, et des chaussures si elles lui sont nécessaires : que ferai-je donc de mes livres qui coûtent beaucoup, reprit le provinciali ?</description>
     </item>
     <item>
       <title>Saint François à propos de la sainte pauvreté</title>
-      <link>http://localhost:1313/vie-religieuse/freres-mineurs/pauvrete/saint-francois-sainte-pauvrete/</link>
+      <link>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/saint-francois-sainte-pauvrete/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:58 +0200</pubDate>
-      <guid>http://localhost:1313/vie-religieuse/freres-mineurs/pauvrete/saint-francois-sainte-pauvrete/</guid>
+      <guid>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/saint-francois-sainte-pauvrete/</guid>
       <description>Source : Berthaumier 1863, pp. 115-117.&#xA;Vous saurez, mes frères bien-aimés, que la pauvreté est la reine des vertus, parce qu&amp;rsquo;elle a brillé au plus haut degré dans le Roi des rois et la Reine sa mère. Retenez donc bien, mes frères, que la pauvreté est la voie par excellence du salut, elle est comme la nourrice de l’humilité et le germe de la perfection; ses fruits sont nombreux quoique peu connus.</description>
     </item>
     <item>
       <title>Saint François au sujet de la quête</title>
-      <link>http://localhost:1313/vie-religieuse/freres-mineurs/pauvrete/saint-francois-demander-l-aumones/</link>
+      <link>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/saint-francois-demander-l-aumones/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:58 +0200</pubDate>
-      <guid>http://localhost:1313/vie-religieuse/freres-mineurs/pauvrete/saint-francois-demander-l-aumones/</guid>
+      <guid>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/saint-francois-demander-l-aumones/</guid>
       <description>Source : Berthaumier 1863, pp. 117-118.&#xA;Mes frères bien-aimés et mes petits enfants, ne rougissez pas d’aller demander l’aumône ; car le Seigneur s’est fait pauvre pour nous en ce monde, et à son exemple nous avons choisi la voie d’une pauvreté très-réelle.&#xA;Mais si pour son amour nous avons pris une telle voie, nous ne devons pas avoir honte d’aller demander l&amp;rsquo;aumône; aux héritiers du royaume des cieux il ne convient point de rougir des arrhes de leur héritage.</description>
     </item>
     <item>
       <title>Saint François au sujet des possessions</title>
-      <link>http://localhost:1313/vie-religieuse/freres-mineurs/pauvrete/saint-francois-possessions/</link>
+      <link>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/saint-francois-possessions/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:58 +0200</pubDate>
-      <guid>http://localhost:1313/vie-religieuse/freres-mineurs/pauvrete/saint-francois-possessions/</guid>
+      <guid>https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/pauvrete/saint-francois-possessions/</guid>
       <description>Source : Callaey 1911, p. 105.&#xA;Celui-ci [Frère Richer] s&amp;rsquo;était rendu auprès du fondateur, couché mortellement malade au palais épiscopal d&amp;rsquo;Assise, et lui avait demandé :&#xA;Mon père, dites-moi quelle fut votre intention en acceptant des frères, et quelle est votre volonté actuelle et dernière sur leur conduite, afin que je sache si nous, frères clercs, pouvons licitement employer autant de livres que nous en avons à présent.&#xA;A quoi le bienheureux répondit :</description>
     </item>
   </channel>
