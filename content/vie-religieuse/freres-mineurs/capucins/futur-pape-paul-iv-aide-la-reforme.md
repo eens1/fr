@@ -1,5 +1,5 @@
 ---
-title: "Future Pape Paul IV aide la Rréforme des Capucins"
+title: "Future Pape Paul IV aide la Réforme des Capucins"
 date: 2024-09-06T20:02:59+02:00
 draft: false
 ---
