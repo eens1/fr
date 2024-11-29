@@ -126,6 +126,8 @@ Gabriel de la Croix. (1655). Histoire générale des Carmes déchaussés et des 
 
 Gaume J. abbé. (1843). Catéchisme de persévérance ou exposé historique, dogmatique, moral et liturgique de la religion depuis l'origine du monde jusqu'à nos jours. Paris, Gaume frères, éditeurs-libraires, quatrième édition.
 
+Georges Malé abbé. (1857). La Théologie de Saint Thomas ou Exposition de la Somme Théologique en français. Librairie Catholique de Périsse Frères.
+
 Glaire J.B. abbé. (1839). Introduction historique et critique aux livres de l'Ancien et du Nouveau Testament. Méquignon Junior.
 
 Glaire J.B. abbé. (1845). Les Livres Saints vengés, ou la vérité historique et divine de l'Ancien et du Nouveau Testament défendue contre les principales attaques des incrédules modernes, et surtout des mythologues et des critiques rationalistes. Méquignon Junior et J. Leroux.

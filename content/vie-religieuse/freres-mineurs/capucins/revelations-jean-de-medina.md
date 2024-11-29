@@ -4,7 +4,7 @@ date: 2024-09-06T20:02:59+02:00
 draft: false
 ---
 
-Source : Annales des Frères Mineurs Capucins, Caluze 1675, t. 1, pp. 392-393.
+Source : Annales des Frères Mineurs Capucins, Caluze 1675, t. 1, pp. 392-393, 395-396.
 
 Mon fils, continue Jésus-Christ, dans un troisième article des ses révélations, je veux que tu sache encore que je demande principalement des enfants de cet Ordre une confiance particulière de mes faveurs envers eux, en sorte que me seront fort chers ceux-là qui jettent toute leur espérance et leur pensées en moi et qui dépendent entièrement de ma providence. Je les aime, je les entretiens, et je les embrasse, comme mes enfants plus aimés. 
 
@@ -27,4 +27,19 @@ Ceux qui vivent de sorte, qu'ils commettent à mes ordres leurs personnes, et to
 Mais ceux qui cherchent avec trop d'empressement ces choses, qu'ils devraient attendre de ma Providence, et qui pour les acquérir contre mes volontés, ou recourent à la faveur des hommes, ou y emploient tous leurs soins, ceux-là très-assurément ne peuvent m'être argréables, parce qu'ils s'écartent trop des ordres de mes volontés.
 
 Les Frères donc, qui veulent me servir, et m'obéir plus parfaitement, qu'ils aient soin principalement, d'avoir une âme libre de tous les désirs des choses, et exceptés les vertus de l'âme, et des secours célestes, qui les y conduisent, de ne me demander, ni biens humains, ou temporels, quoi qu'ils paraissent bon, et fort honnêtes, ni charges de prédications, ni même les biens de l'éternité, mais qu'ils laissent tout à ma volonté, et qu'ils aient l'esprit dégagé de sorte de tous les désirs du monde, qu'ils me laissent disposer de toutes choses, selon les lois de ma sagesse, et de mes volontés, et qu'ils reçoivent tout de moi, sans inquiétude, puisque cet Ordre, qui est dans l'état le plus parfait, doit être exempt de ces choses, qui affaiblissent la parfaite espérance, et la véritable charité, dont la nature, et la force sont, qu'excepté l'objet de la gloire divine, elles méprisent tout le reste, comme trop rempli d'imperfections, et de manquements.
+
+... Frère Jean demanda ici à Jésus-Christ, de quelle manière l'Ordre se comporterait d'orénavant, dans l'obéissance qu'il avait rendu jusque là au Maître Général des Frères Mineurs Conventuels, parce que les consciences timides des Frères étaient alors inquiètées, comme d'un scrupule, de l'obéissance principale, que le saint Siège leur ordonnait de rendre au Ministre Général de l'Ordre des Mineurs de l'Observance, et il en reçut cette réponse fort amoureusement :
+
+> Mon fils, que les Frères sachent, qu'ils doivent à trois sortes de personnes principalement l'obédience, que leur impose leur Règle, à moi, à qui même, ils promettent d'observer le saint Evangile, au Pape comme au Chef de l'Eglise, et mon Vicaire en terre, à qui ils doivent leurs soumissions, et à leur Père saint François, et à ses Successeurs, comme l'explique la Règle, afin que l'ordre, et la forme de la hiérarchie religieuse soient mieux observées, qui enferment une subordination d'inférieurs à leurs supérieurs.
+
+> Pour ce qui regarde les deux premières Personnes, comme les Frères n'en doutent pas, je n'en dirai rien, mon Fils. 
+
+> Pour la troisième, dont ils ont quelque peine, qu'ils observent cette ordre, que lorsque la Règle leur ordonne *d'obéir à saint François, et à ses Successeurs*, ils considèrent quels sont ceux, qui succèdent à saint François : sont ceux que j'établis leur Supérieurs, non pas par l'antiquité, ni le cours des années, ni la primauté de l'Ordre, mais par une institution légitime, et principalement de l'observance de la Règle : voilà ceux à qui je prétend, qu'ils rendent leurs obéissances, puisque saint Paul a dit autrefois : *Tous ceux qui sont d'Israël, ne sont pas Israëlites, ni ceux qui sont de la race d'Abraham ne sont pas ses fils*. Ce que j'ai même enseigné dans mon Evangile, lorsque parlant aux Hébreux, qui se glorifiaient d'être du sang d'Abraham, je leur ai protesté : *Que s'ils étaient fils d'Abraham, il devaient en faire les oeuvres*.
+
+> La crainte donc des Frères, sur ce sujet, est fort inutile, puisque comme ils ont un Chef établi par ma Providence, et confirmé par la puissance du Pape, Vicaire en terre de la Mienne, ils sont obligés de lui obéir, comme au Successeur de saint François.
+
+> D'où vient qu'ils chercheraient inutilement d'autres Successeurs, et que leur crainte ne serait que vaine, puisque les Frères de cette Congrégation, et le Chef qui les conduit, doivent être grands observateurs de la Règle, et les enfants légitimes de leur Père saint François, afin qu'ils lui succèdents légitimement, ceux-là comme inférieurs, et ceux-ci comme supérieurs.
+
+> Avertis donc le Général, mon Fils, que libre de toute sorte de crainte, il fasse observer seulement ces choses, qui sous mon Autorité sont ordonnées, ou seront établies du Siège Apostolique, et ainsi les Frères observateurs de leur Règle, sous l'obéissance du Pape, et de leur Général, accompliront ma volonté, et celle de leur Père S. François, dont il seront estimés les légitimes enfants.
+
 

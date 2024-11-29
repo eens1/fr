@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Idolâtrie on Extra Ecclesiam Nulla Salus</title>
+    <link>http://localhost:1313/doctrine/glossaire/idolatrie/</link>
+    <description>Recent content in Idolâtrie on Extra Ecclesiam Nulla Salus</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 06 Sep 2024 20:02:56 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/doctrine/glossaire/idolatrie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Idolâtrie</title>
+      <link>http://localhost:1313/doctrine/glossaire/idolatrie/tradition/</link>
+      <pubDate>Fri, 06 Sep 2024 20:02:56 +0200</pubDate>
+      <guid>http://localhost:1313/doctrine/glossaire/idolatrie/tradition/</guid>
+      <description>Catéchisme de persévérance : &amp;ldquo;L&amp;rsquo;idolâtrie est l&amp;rsquo;adoration d&amp;rsquo;une créature.&amp;rdquo; 1&#xA;Oudin 1869, p. 153.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/doctrine/glossaire/idolatrie/bible/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/doctrine/glossaire/idolatrie/bible/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
