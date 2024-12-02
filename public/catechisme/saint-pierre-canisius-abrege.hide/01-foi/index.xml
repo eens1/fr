@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extra Ecclesiam Nulla Salus</title>
-    <link>http://localhost:1313/catechisme/saint-pierre-canisius-abrege.hide/01-foi/</link>
+    <link>https://eens-fr.netlify.app/catechisme/saint-pierre-canisius-abrege.hide/01-foi/</link>
     <description>Recent content on Extra Ecclesiam Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/catechisme/saint-pierre-canisius-abrege.hide/01-foi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eens-fr.netlify.app/catechisme/saint-pierre-canisius-abrege.hide/01-foi/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
