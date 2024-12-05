@@ -13,7 +13,7 @@ Tandis qu'il faisait sa prière dans l'Eglise de Notre-Dame des Anges, il vit de
 
 Comme il la regardait avec autant d'attention que d'étonnement la statue lui parla et lui dit, Dieu m'a envoyé vers toi pour t'apprendre ce qui doit arriver dans ton Ordre; 
 
-Ma tête d'or représente son commencement, car comme ce métal est le plus précieux et la tête la partie du corps la plus éminent, aussi ton Ordre sans son commencement attirera l'estime et l'approbation de toute l'Eglise, à cause de l'excellence de la perfection Evangélique qu'il professe :
+Ma tête d'or représente son commencement, car comme ce métal est le plus précieux et la tête la partie du corps la plus éminent, aussi ton Ordre dans son commencement attirera l'estime et l'approbation de toute l'Eglise, à cause de l'excellence de la perfection Evangélique qu'il professe :
 
 Ma poitrine et mes bras d'argent représentent son second état, où il y aura des religieux nobles de sang, savants et grand prédicateurs, dont quelques-uns seront élevés aux plus hautes dignités de l'Eglise; et comme les bras signifient la force, il y en aura de qui la vertu et la science défendront et leur état et la foi, mais comme l'argent vaut moins que l'or ces seconds vaudront moins que les premiers;
 

@@ -79,6 +79,6 @@ draft: false
 
 [^13]: Guérin 1868, t. 1, p. 466.
 
-Saint François, *Première règle*, 1210 : "La seconde, c'est lorsqu'ils le croiront agréable à Dieu, d’annoncer la parole de Dieu, de prêcher la foi au Dieu tout-puissant, Père, Fils et Saint-Esprit, au Créateur universel, au Fils Rédempteur et Sauveur, pour baptiser et faire des chrétiens, car, *si l’on ne renaîit dans l’eau et dans l'Esprit-Saint, on ne peut entrer dans le royaume de Dieu*. [^14]
+Saint François, *Première règle*, 1210 : "La seconde, c'est lorsqu'ils le croiront agréable à Dieu, d’annoncer la parole de Dieu, de prêcher la foi au Dieu tout-puissant, Père, Fils et Saint-Esprit, au Créateur universel, au Fils Rédempteur et Sauveur, pour baptiser et faire des chrétiens, car, *si l’on ne renaît dans l’eau et dans l'Esprit-Saint, on ne peut entrer dans le royaume de Dieu*. [^14]
 
 [^14]: Ubald 1905.
