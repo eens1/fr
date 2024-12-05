@@ -7,7 +7,7 @@ draft: false
 
 > Saint Pierre Canisius, *Grand catéchisme* : "Hors de cette communion des saints comme autrefois hors de l’arche de Noé, il n’y a de salut pour personne, mais pour tous au contraire une damnation assurée; et ainsi faut-il raisonner, soit par rapport aux juifs et aux gentils, qui n'ont jamais embrassé la foi de l’Eglise; soit par rapport aux hérétiques, qui l’ont abandonnée ou altérée; soit par rapport aux schismatiques, qui ont rompu la paix et l’unité de l’Eglise; soit enfin par rapport aux excommuniés, qui ont mérité pour quelque autre cause grave d’être retranchés et séparés du corps de l’Eglise comme des membres gâtés. 
 
-> Tous ces derniers, n’appartenant pas à l’Eglise et à sa communion sainte, ne sauraient participer à la grâce divine et au salut éternel, à moins que préalablement ils ne se réconcilient et ne reviennent à l’Eglise dont ils ont eu le tort de se séparer. Car elle est invariable cette règle posée par saint Cyprien et saint Augustin : Celui-là n’aura pas Dieu pour père, qui refuse d'avoir l’Eglise pour mère. [^1]
+> Tous ces derniers, n’appartenant pas à l’Eglise et à sa communion sainte, ne sauraient participer à la grâce divine et au salut éternel, à moins que préalablement ils ne se réconcilient et ne reviennent à l’Eglise dont ils ont eu le tort de se séparer. Car elle est invariable cette règle posée par saint Cyprien et saint Augustin : Celui-là n’aura pas Dieu pour père, qui refuse d'avoir l’Eglise pour mère." [^1]
 
 [^1]: Peltier 1873.
 
