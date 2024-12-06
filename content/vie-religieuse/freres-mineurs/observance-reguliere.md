@@ -11,3 +11,10 @@ Frère Ubertin de Casale, 1309 : "Grâce à Dieu et aux mérites de saint Franç
 Frère Ubertain de Casale : "Omnes declarationes super regulam factae fuerunt condescendentes imperfet providentes transgressioni." [^2]
 
 [^2]: Etudes franciscaines, t. 15, p. 530. Traduction : "Toutes les déclarations faites sur la règle étaient condescendantes à l'imperfection et prévoyaient la transgression."
+
+
+Annales des Frères Mineurs Capucins, 1675 : "François, veux-tu que je détourne les rigueurs de mon courroux de la tête des fidèles ? Fais en sorte que ton Ordre soit ferme dans l'observance de la Règle qui fit son institut, afin que j'y trouve des hommes qui puissent demeurer en ma présence, dont je souffre la face sans colère; et à ta considération, comme à celle de tes enfants, ma justice pardonnera les péchés des fidèles." [^3]
+
+[^3]: https://www.google.fr/books/edition/Les_annales_des_fr%C3%A8res_mineurs_capucins/uywyN7uqW0gC?hl=en&gbpv=1&pg=PA36&printsec=frontcover
+
+
