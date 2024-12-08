@@ -5,7 +5,7 @@ draft: false
 tags: []
 ---
 
-Source: [Google Books](https://www.google.fr/books/edition/Les_annales_des_fr%C3%A8res_mineurs_capucins/uywyN7uqW0gC?hl=fr&gbpv=1&pg=PA40&printsec=frontcover)
+Source: [Chroniques des Capucins](https://www.google.fr/books/edition/Les_annales_des_fr%C3%A8res_mineurs_capucins/uywyN7uqW0gC?hl=fr&gbpv=1&pg=PA40&printsec=frontcover)
 
 Cet homme donc [François Politian], cheminant un jour, et étant arrivé dans Assise, ville de l'Ombrie, il y prêcha à une grande multitude de peuple, qui s'y était assemblée dans une place publique, et se servit dans son discours, fort souvent, de ces paroles : 
 

@@ -5,7 +5,7 @@ draft: false
 tags: []
 ---
 
-Source: [Google Books](https://www.google.fr/books/edition/Les_annales_des_fr%C3%A8res_mineurs_capucins/uywyN7uqW0gC?hl=fr&gbpv=1&pg=PA40&printsec=frontcover)
+Source: [Chroniques des Capucins](https://www.google.fr/books/edition/Les_annales_des_fr%C3%A8res_mineurs_capucins/uywyN7uqW0gC?hl=fr&gbpv=1&pg=PA40&printsec=frontcover)
 
 Joignons à ces témoignages celui de Bernardin de Feltre, qui, dans l'Ordre de l'Observance, avant l'année 1494, brillait entre des nuages de gloire, comme un arc lumineux et illustre, soit en sainteté, soit en miracles, soit en don de prophétie, comme le dit Rodolphe de Tossigny dans l'histoire des Capucins.
 

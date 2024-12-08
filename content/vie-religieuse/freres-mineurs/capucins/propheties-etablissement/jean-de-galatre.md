@@ -5,7 +5,7 @@ draft: false
 tags: []
 ---
 
-Source: [Google Books](https://www.google.fr/books/edition/Les_annales_des_fr%C3%A8res_mineurs_capucins/uywyN7uqW0gC?hl=fr&gbpv=1&pg=PA41&printsec=frontcover)
+Source: [Chroniques des Capucins](https://www.google.fr/books/edition/Les_annales_des_fr%C3%A8res_mineurs_capucins/uywyN7uqW0gC?hl=fr&gbpv=1&pg=PA41&printsec=frontcover)
 
 Il nous reste enfin le témoignage assuré d’un certain vieillard appelé Jean de Galatre. Il était de Galatre, village de Calabre, et y vivait saintement dans la crainte de Dieu, cultivant son champ de ses propres mains, car il était laboureur. Avant la réforme des Capucins, il voyait souvent, en plein midi, un certain homme qu’il ne connaissait pas, d’une beauté supérieure à celle des gens de son pays, qui se promenait à sa vue, vêtu du même habit que portent aujourd’hui les Capucins. Jean admirait cette forme d’habit et cet homme, qu’il considérait avec attention. Celui-ci lui dit ces paroles :
 

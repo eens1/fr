@@ -5,7 +5,7 @@ draft: false
 tags: []
 ---
 
-Source: [Google Books](https://www.google.fr/books/edition/Les_annales_des_fr%C3%A8res_mineurs_capucins/uywyN7uqW0gC?hl=fr&gbpv=1&pg=PA41&printsec=frontcover)
+Source: [Chroniques des Capucins](https://www.google.fr/books/edition/Les_annales_des_fr%C3%A8res_mineurs_capucins/uywyN7uqW0gC?hl=fr&gbpv=1&pg=PA41&printsec=frontcover)
 
 Mais ce qu’un certain frère Augustin de Foligny, du même ordre de l’Observance, homme de grande vertu parmi les laïcs et tout rempli de l’esprit de Dieu, prédit environ à cette époque au sujet de la réforme des Capucins, à son propre frère, qui était du Tiers-Ordre, n’est pas moins merveilleux. Étant alors attaché au couvent de Notre-Dame des Anges d’Assise, son frère, tout dévoué au service de la Vierge sainte, y arriva dans le dessein d’y faire ses dévotions, en ce jour auguste, et d’y obtenir une indulgence plénière de tous ses péchés. Frère Augustin le reçut fort civilement et, l’ayant conduit dans un lieu solitaire où ils pouvaient s’entretenir avec plus de repos des choses célestes, ils lurent ensemble la Passion de Jésus-Christ, empruntée des Méditations de saint Bonaventure. Ils furent si profondément touchés qu’ils versèrent tous deux de nombreuses larmes devant la pensée prodigieuse d’un Dieu-homme souffrant.
 
