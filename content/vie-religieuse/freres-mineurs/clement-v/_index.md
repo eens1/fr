@@ -8,5 +8,3 @@ summary: |
 ---
 
 
-*Source : Kazenberger 1872, pp. 304-329*.
-
