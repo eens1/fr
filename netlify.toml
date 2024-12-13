@@ -2,7 +2,7 @@
 command = """
 hugo mod get -u
 hugo --gc --minify
-npx pagefind --source 'public'
+npx pagefind --site 'public'
 """
 publish = "public"
 
