@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,16 @@
 <title>Extra Ecclesiam Nulla Salus</title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
 
-<link rel="canonical" href="http://localhost:1313/vie-religieuse/freres-mineurs/capucins/pape-clement-vii-a-frere-matthieu/" />
+<link rel="canonical" href="https://eens-fr.netlify.app/vie-religieuse/freres-mineurs/capucins/pape-clement-vii-a-frere-matthieu/" />
+
+<script>
+(function() {
+const savedTheme = localStorage.getItem("theme");
+const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+const theme = savedTheme || (prefersDark ? "dark" : "light");
+document.documentElement.setAttribute("data-theme", theme);
+})();
+</script>
 
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
@@ -60,17 +69,19 @@
 
   <script src="/js/header.js" defer></script>
 
+  <script src="/js/theme.js" defer></script>
+
 
 
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-<meta name="twitter:card" content="http://localhost:1313/" />
+<meta name="twitter:card" content="https://eens-fr.netlify.app/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Le Pape Clément VII permet à Frère Matthieu de prendre l&#39;habit des Capucins et de vivre en Hermite" />
 <meta name="twitter:description" content="Annales des Frères Mineurs Capucins, 1675 : &ldquo;&hellip; le Pape enfin inspiré de Dieu, lui déclara, que c&rsquo;était sa volonté qu&rsquo;on observât la Règle à la Lettre, conformément à l&rsquo;esprit de notre Seigneur, et de saint François, et qu&rsquo;ainsi il permettait, soit à lui, soit à tous les autres, qui sous un second Habit, voudraient embrasser une observance plus étroite de la Règle, de demeurer dans des Hermitages; Mais pour ce qui vous touche particulièrement, dit le Pape à Frère Matthieu, je vous accorde volontiers, que vous portiez cet Habit, que vous viviez en Hermite, et que vous prêchiez par tout, comme vous me l&rsquo;avez demandé, pourvu, qu&rsquo;en signe d&rsquo;Obédience, vous vous présentiez tous les ans une fois au Ministre Provincial, au Chapitre des Frères Mineurs de l&rsquo;Observance, en quelque endroit du Monde qu&rsquo;il soit assemblé." />
-<meta name="twitter:image" content="http://localhost:1313/" />
+<meta name="twitter:image" content="https://eens-fr.netlify.app/" />
 
 
 </head>
@@ -117,6 +128,10 @@
     
       <li>
         <a href="https://x.com/BroMatthewOFMC" target="_blank"><i class="fab fa-x-twitter"></i></a>
+      </li>
+    
+      <li>
+        <a href="#" ><i id="theme-icon" class="fas fa-moon"></i></a>
       </li>
     
   </ul>
@@ -171,7 +186,7 @@
 
 
 <div class="share">
-<a href="http://twitter.com/share?url=http%2f%2flocalhost1313%2fvie-religieuse%2ffreres-mineurs%2fcapucins%2fpape-clement-vii-a-frere-matthieu%2f" class="twitter" aria-label="Share on Twitter">Partager sur <i class="fab fa-x-twitter"></i></a>
+<a href="http://twitter.com/share?url=https%2f%2feens-fr.netlify.app%2fvie-religieuse%2ffreres-mineurs%2fcapucins%2fpape-clement-vii-a-frere-matthieu%2f" class="twitter" aria-label="Share on Twitter">Partager sur <i class="fab fa-x-twitter"></i></a>
 </div>
 
 

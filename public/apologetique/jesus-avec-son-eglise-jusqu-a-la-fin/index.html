@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
 
 
 <meta charset="UTF-8">
@@ -10,7 +10,16 @@
 <title>Extra Ecclesiam Nulla Salus</title>
 <link rel="icon" type="image/png" href="/images/favicon.png" />
 
-<link rel="canonical" href="http://localhost:1313/apologetique/jesus-avec-son-eglise-jusqu-a-la-fin/" />
+<link rel="canonical" href="https://eens-fr.netlify.app/apologetique/jesus-avec-son-eglise-jusqu-a-la-fin/" />
+
+<script>
+(function() {
+const savedTheme = localStorage.getItem("theme");
+const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+const theme = savedTheme || (prefersDark ? "dark" : "light");
+document.documentElement.setAttribute("data-theme", theme);
+})();
+</script>
 
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
@@ -60,19 +69,21 @@
 
   <script src="/js/header.js" defer></script>
 
+  <script src="/js/theme.js" defer></script>
+
 
 
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" integrity="sha512-5Hs3dF2AEPkpNAR7UiOHba+lRSJNeM2ECkwxUIxC1Q/FLycGTbNapWXB4tP889k5T5Ju8fs4b1P5z/iB4nMfSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-<meta name="twitter:card" content="http://localhost:1313/" />
+<meta name="twitter:card" content="https://eens-fr.netlify.app/" />
 <meta name="twitter:site" content="@BroMatthewCap" />
 <meta name="twitter:creator" content="@BroMatthewCap" />
 <meta name="twitter:title" content="Jésus-Christ sera avec Son Église jusqu&#39;à la fin du monde" />
 <meta name="twitter:description" content="Matthieu 28:20 : &ldquo;Leur apprenant à garder tout ce que je vous ai commandé : et voici que je suis avec vous tous les jours, jusqu&rsquo;à la consommation du siècle.&rdquo; 1
 Matthieu 16:18: &ldquo;Aussi moi je te dis que tu es Pierre, et sur cette pierre je bâtirai mon Eglise, et les portes de l&rsquo;enfer ne prévaudront point contre elle.&rdquo; 2
 Jean 14:16-17 : &ldquo;Et moi je prierai mon Père, et il vous donnera un autre Paraclet, pour qu&rsquo;il demeure éternellement avec vous, l&rsquo;Esprit de vérité que le monde ne peut recevoir, parce qu&rsquo;il ne le voit pas et ne le connaît pas; mais vous, vous le connaîtrez, parce qu&rsquo;il demeurera au milieu de vous, et qu&rsquo;il sera en vous." />
-<meta name="twitter:image" content="http://localhost:1313/" />
+<meta name="twitter:image" content="https://eens-fr.netlify.app/" />
 
 
 </head>
@@ -121,6 +132,10 @@ Jean 14:16-17 : &ldquo;Et moi je prierai mon Père, et il vous donnera un autre 
         <a href="https://x.com/BroMatthewOFMC" target="_blank"><i class="fab fa-x-twitter"></i></a>
       </li>
     
+      <li>
+        <a href="#" ><i id="theme-icon" class="fas fa-moon"></i></a>
+      </li>
+    
   </ul>
 </nav>
 </div>
@@ -163,7 +178,7 @@ Jean 14:16-17 : &ldquo;Et moi je prierai mon Père, et il vous donnera un autre 
 
 
 <div class="share">
-<a href="http://twitter.com/share?url=http%2f%2flocalhost1313%2fapologetique%2fjesus-avec-son-eglise-jusqu-a-la-fin%2f" class="twitter" aria-label="Share on Twitter">Partager sur <i class="fab fa-x-twitter"></i></a>
+<a href="http://twitter.com/share?url=https%2f%2feens-fr.netlify.app%2fapologetique%2fjesus-avec-son-eglise-jusqu-a-la-fin%2f" class="twitter" aria-label="Share on Twitter">Partager sur <i class="fab fa-x-twitter"></i></a>
 </div>
 
 
