@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>La lettre tau on Extra Ecclesiam Nulla Salus</title>
-    <link>http://localhost:1313/spiritualite/glossaire/lettre-tau/</link>
+    <link>https://eens-fr.netlify.app/spiritualite/glossaire/lettre-tau/</link>
     <description>Recent content in La lettre tau on Extra Ecclesiam Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Sun, 08 Dec 2024 09:16:52 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/spiritualite/glossaire/lettre-tau/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eens-fr.netlify.app/spiritualite/glossaire/lettre-tau/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dans la Bible</title>
-      <link>http://localhost:1313/spiritualite/glossaire/lettre-tau/bible/</link>
+      <link>https://eens-fr.netlify.app/spiritualite/glossaire/lettre-tau/bible/</link>
       <pubDate>Sun, 08 Dec 2024 09:16:52 +0000</pubDate>
-      <guid>http://localhost:1313/spiritualite/glossaire/lettre-tau/bible/</guid>
+      <guid>https://eens-fr.netlify.app/spiritualite/glossaire/lettre-tau/bible/</guid>
       <description>Source: Bible traduite par l&amp;rsquo;abbé Fillon, Ézéchiel chap. 9&#xA;1 Puis Il cria d’une voix forte à mes oreilles, en disant : Ceux qui doivent visiter la ville approchent, et chacun tient dans sa main un instrument de mort.&#xA;2 Et voici que six hommes venaient du côté de la porte supérieure qui regarde vers l’aquilon, et chacun avait à la main un instrument de mort ; il y avait aussi, au milieu d’eux, un homme vêtu de lin, et portant une écritoire de scribe à sa ceinture ; ils entrèrent, et se tinrent près de l’autel d’airain.</description>
     </item>
   </channel>
