@@ -888,3 +888,5 @@ github.com/eens1/config v0.0.0-20241218150619-6938b8992ec0 h1:cbxkJBLMGloxdZ/hgw
 github.com/eens1/config v0.0.0-20241218150619-6938b8992ec0/go.mod h1:WccIBwO6Cw5wlt2HJ3katlH0qZNQeeaLX7+GkVR0FmI=
 github.com/eens1/config v0.0.0-20241218150704-abd0e92fbe20 h1:GfYnU0WIYZDnDySdb85TbAvQk+0HyaFv6TeJQOq9IBw=
 github.com/eens1/config v0.0.0-20241218150704-abd0e92fbe20/go.mod h1:WccIBwO6Cw5wlt2HJ3katlH0qZNQeeaLX7+GkVR0FmI=
+github.com/eens1/config v0.0.0-20241218151346-f525b37e2ebc h1:9rPLqngjgAac5Mf6Tj9q+dhEiHiwRevCPhmiJjxK0sg=
+github.com/eens1/config v0.0.0-20241218151346-f525b37e2ebc/go.mod h1:WccIBwO6Cw5wlt2HJ3katlH0qZNQeeaLX7+GkVR0FmI=
