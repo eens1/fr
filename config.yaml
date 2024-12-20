@@ -95,7 +95,7 @@ params:
       - icon: "icons/play"
         title: "Vidéos"
         description: ""
-        link: "/liens"
+        link: "/videos"
       - icon: "icons/internet-access"
         title: "Liens"
         description: "Liens vers des sites catholiques."
