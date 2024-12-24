@@ -10,3 +10,6 @@ Ce site promeut la foi catholique traditionnelle nécessaire pour le salut. Il e
 Je vous encourage fortement à visiter les sites du Monastère de la Très Sainte Famille, [vaticancatholique.com](https://vaticancatholique.com) et [endtimes.video/fr](https://endtimes.video/fr), pour des informations cruciales sur la foi catholique traditionnelle.
  
 Voyez aussi le site du [Carmel of the Immaculate Heart of Mary](https://www.truecatholiccarmel.com).
+
+
+
