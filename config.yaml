@@ -173,3 +173,15 @@ params:
               url: "/vie-religieuse/concile-de-trente"
             - title: "Droit canonique"
               url: "/vie-religieuse/droit-canonique"
+
+   homepage_sections:
+     - id: "section1"
+       headline: "Hors de l'Église pas de salut"
+       description: "Défense de ce dogme fondamental du Christianisme."
+       button_text: "Explorer"
+       url: "/apologetique/hors-de-l-eglise-pas-de-salut"
+       posts:
+         - "blog/hors-de-l-eglise-pas-de-salut-bible"
+         - "blog/hors-de-l-eglise-pas-de-salut-bible"
+         - "blog/hors-de-l-eglise-pas-de-salut-bible"
+         - "blog/hors-de-l-eglise-pas-de-salut-bible"
