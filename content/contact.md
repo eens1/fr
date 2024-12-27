@@ -12,4 +12,4 @@ comments: false
 <br>
 <br>
 <br>
-<h3 style="text-align: center;">Ô profondeur des trésors de la sagesse et de la science de Dieu ! Que ses jugements sont incompréhensibles et ses voies impénétrables ! (<em>Romains 11:33</em>)</h3>
+<h3 style="text-align: center;">"Ô profondeur des trésors de la sagesse et de la science de Dieu ! Que ses jugements sont incompréhensibles et ses voies impénétrables !" (<em>Romains 11:33</em>)</h3>
