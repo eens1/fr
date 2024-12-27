@@ -116,19 +116,20 @@ margin-bottom: 2px;
 
 /* Content styles */
 .featured-box .content {
-  padding: 15px;
+  padding: 0px 20px 20px 20px;
 }
 
 .featured-box h3 {
   color: var(--text-color); /* White text for the title */
   font-size: 1.2em;
-  margin-bottom: 10px;
+  text-align: left;
 }
 
 .featured-box p {
   color: var(--light-text-color); /* Light grey text for the description */
   font-size: 1em;
   margin: 0;
+  text-align: left;
 }
 
 /* Hover effect */
