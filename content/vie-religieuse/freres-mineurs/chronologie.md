@@ -54,9 +54,9 @@ Frère Paul n'a aucun mal à obtenir du Pape le même bref. Frère Paul est le c
 
 Frères Louis et ses compagnons se mettent sous la protection et l'obédience des Conventuels, en tant que véritables réformés, sous le titre de Frères Hermites Mineurs.
 
-## 13 juillet 1528
+## 1528
 
-Bulle Religionis zelus* d'institution des Frères Mineurs Capucins du Pape Clément VII. Les Capucins étaient à ce moment toujours sous l'obédience des Conventuels.
+Bulle Religionis zelus d'institution des Frères Mineurs Capucins du Pape Clément VII, le 13 juillet 1528. Les Capucins étaient à ce moment toujours sous l'obédience des Conventuels.
 
 ## 1529
 
