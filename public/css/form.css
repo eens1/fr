@@ -12,7 +12,7 @@ label {
   display: block;
   margin-bottom: 5px;
   font-weight: bold;
-  color: var(--text-color); /* Light color for labels */
+  color: var(--text-color);
 }
 
 input[type="text"],
@@ -23,7 +23,7 @@ textarea {
   border-radius: 4px;
   background-color: var(--bg-color);
   color: var(--text-color);
-  border: 1px solid var(--text-color);
+  border: 2px solid var(--text-color);
   font-size: var(--font-size);
   font-family: var(--font-family);
 }
@@ -41,15 +41,14 @@ textarea {
 
 button {
     padding: 10px;
-    background-color: var(--link-color); 
-    color: #ffffff; /* Button text color */
-    border: none;
+    background-color: transparent; 
+    color: var(--text-color);
     border-radius: 4px;
-    font-size: 16px;
+    font-size: var(--font-size);
     cursor: pointer;
     transition: background-color 0.3s;
-    box-sizing: border-box; /* Include padding and border in the element's total width */
-
-button:hover {
-  background-color: #0056b3; /* Darker shade on hover */
+    box-sizing: border-box;
+    border: 2px solid;
+  font-family: var(--font-family);
 }
+
