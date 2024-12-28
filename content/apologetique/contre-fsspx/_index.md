@@ -6,6 +6,8 @@ description: ""
 summary: ""
 tags: []
 categories: []
+featured: true
+image: "https://i.ibb.co/DCBm7Xz/lefebvre-quatre-eveques-fsspx.jpg"
 ---
 
 La Fraternité Saint-Pie X (FSSPX) est une secte schismatique qui considère l'antipape François comme un pape valide tout en évoluant en dehors de sa communion. En plus de ce positionnement absurde et schismatique, la FSSPX promeut l'hérésie selon laquelle on peut se sauver dans de fausses religions.
