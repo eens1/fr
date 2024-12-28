@@ -4,6 +4,7 @@ date: 2024-09-06T20:00:34+02:00
 draft: false
 image: "https://i.ibb.co/qrfgJP4/outside-the-church-no-salvation.png"
 description: "Pour être sauvé, il est absolument nécessaire de professer la foi catholique traditionnelle et être un membre du Corps Mystique de Jésus-Christ, l’Eglise catholique. Cet enseignement dogmatique n’admet aucune exception."
+featured: true
 ---
 
 {{< figure src="https://i.ibb.co/qrfgJP4/outside-the-church-no-salvation.png" >}}
