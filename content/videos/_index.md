@@ -3,6 +3,7 @@ title: "Vidéos"
 date: 2024-09-08T05:12:36+02:00
 draft: false
 image: "https://i.ibb.co/FDgfpkc/cinema-strip.jpg"
+featured: true
 ---
 
 Vous pouvez visionner des vidéos sur la plateforme du Monastère de la Très Sainte Famille, disponible en plusieures langues :
