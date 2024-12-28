@@ -1,6 +1,7 @@
 ---
 title: "Le directeur pacifique des consciences"
 summary: "Par le père capucin Jean-François de Reims"
+draft: true
 ---
 
 Source : Jean-François de Reims 1692.
