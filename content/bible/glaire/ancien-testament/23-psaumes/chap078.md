@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nLe Psalmiste se plaint de la cruaut\xE9 des ennemis de Dieu qui ont ruin\xE9\

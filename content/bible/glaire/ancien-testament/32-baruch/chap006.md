@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nLettre de J\xE9r\xE9mie aux Juifs captifs.\nIl leur annonce leur retour.\n\

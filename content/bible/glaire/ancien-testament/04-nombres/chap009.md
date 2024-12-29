@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nLois pour la c\xE9l\xE9bration de la P\xE2que.\nDe la colonne de nu\xE9\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nDieu ordonne de ruiner l\u2019idol\xE2trie dans le pays de Chanaan, de\

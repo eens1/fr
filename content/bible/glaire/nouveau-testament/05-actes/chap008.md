@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nPers\xE9cution contre les fid\xE8les.\nPhilippe pr\xEAche en Samarie.\n\

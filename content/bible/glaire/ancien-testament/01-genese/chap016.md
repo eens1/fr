@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nAbram \xE9pouse Agar.\nFuite d\u2019Agar.\nNaissance d\u2019Isma\xEBl.\n"

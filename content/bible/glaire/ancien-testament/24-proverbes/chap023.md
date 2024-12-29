@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nSobri\xE9t\xE9 \xE0 la table des grands.\nNe pas opprimer les pupilles.\n\

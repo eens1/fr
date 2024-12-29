@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nCraindre de devenir ma\xEEtre.\nLa langue source de maux ; difficult\xE9\

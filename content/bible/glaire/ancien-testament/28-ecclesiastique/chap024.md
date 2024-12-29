@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nEloge de la sagesse ; son origine, sa puissance, son \xE9ternit\xE9.\n\

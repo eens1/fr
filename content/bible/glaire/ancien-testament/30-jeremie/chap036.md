@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nJ\xE9r\xE9mie dicte ses proph\xE9ties \xE0 Baruch qui les lit devant le\

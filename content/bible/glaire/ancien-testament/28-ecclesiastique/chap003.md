@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nDevoirs des enfants envers leurs p\xE8res et m\xE8res.\nExhortation \xE0\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nCe psaume est comme l\u2019\xE9pithalame du mariage de J\xE9sus-Christ\

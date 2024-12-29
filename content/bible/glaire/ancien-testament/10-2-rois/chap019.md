@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nDavid continue de pleurer Absalom.\nJoab l\u2019oblige de se montrer \xE0\

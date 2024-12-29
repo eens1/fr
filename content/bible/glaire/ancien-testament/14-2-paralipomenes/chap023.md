@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nJo\xEFada fait reconna\xEEtre Joas pour roi de Juda ; il fait tuer Athalie\

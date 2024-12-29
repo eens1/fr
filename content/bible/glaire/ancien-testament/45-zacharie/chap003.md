@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nLe grand-pr\xEAtre J\xE9sus est accus\xE9 par Satan.\nOn lui \xF4te ses\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nTemps de la proph\xE9tie d\u2019Agg\xE9e.\nLe Seigneur reproche aux Juifs\

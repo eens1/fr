@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nLes Juifs, suivant l\u2019ordre du roi, tuent tous ceux qui avaient conspir\xE9\

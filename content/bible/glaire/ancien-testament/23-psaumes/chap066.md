@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nDavid prie Dieu de r\xE9pandre toutes ses mis\xE9ricordes et sa lumi\xE8\

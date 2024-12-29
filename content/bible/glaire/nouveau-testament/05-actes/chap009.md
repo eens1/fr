@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nSaul pers\xE9cute les fid\xE8les.\nSa conversion, son bapt\xEAme.\nIl\

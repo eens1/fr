@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nG\xE9n\xE9alogie de No\xE9, remontant jusqu\u2019\xE0 Adam, par les descendants\

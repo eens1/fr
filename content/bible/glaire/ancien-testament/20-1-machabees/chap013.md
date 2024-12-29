@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nSimon succ\xE8de \xE0 Jonathas.\nIl s\u2019oppose aux entreprises de Tryphon.\n\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nJoab obtient de David le retour d\u2019Absalom, et celui-ci revient \xE0\

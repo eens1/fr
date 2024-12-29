@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nLe don de proph\xE9tie pr\xE9f\xE9rable au don des langues, et le don\

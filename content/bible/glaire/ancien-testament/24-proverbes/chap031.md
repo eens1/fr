@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nInstructions que Salomon a re\xE7ues de sa m\xE8re.\nFuir la d\xE9bauche\

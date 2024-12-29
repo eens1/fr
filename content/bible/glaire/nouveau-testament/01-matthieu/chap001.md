@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nG\xE9n\xE9alogie de J\xE9sus-Christ.\nSa conception dans le sein de la\

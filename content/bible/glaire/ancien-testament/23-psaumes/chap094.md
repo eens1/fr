@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nLe Psalmiste exhorte son peuple \xE0 louer Dieu, et \xE0 lui ob\xE9ir\

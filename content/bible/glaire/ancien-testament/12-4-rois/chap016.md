@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nAchaz se livre au culte des idoles.\nIl est assi\xE9g\xE9 dans J\xE9rusalem\

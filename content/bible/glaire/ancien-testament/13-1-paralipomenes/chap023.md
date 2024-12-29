@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nDavid \xE9tablit Salomon roi sur Isra\xEBl.\nIl r\xE8gle l\u2019ordre\

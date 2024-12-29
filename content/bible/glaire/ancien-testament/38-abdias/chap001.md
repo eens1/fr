@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nOrgueil des Idum\xE9ens.\nLeur infid\xE9lit\xE9 \xE0 l\u2019\xE9gard des\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nLe Sage, au nom des fid\xE8les Isra\xE9lites, loue le Seigneur de les\

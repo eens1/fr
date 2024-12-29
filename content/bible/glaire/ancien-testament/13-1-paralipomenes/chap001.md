@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nG\xE9n\xE9alogie d\u2019Adam jusqu\u2019\xE0 No\xE9, et depuis No\xE9\

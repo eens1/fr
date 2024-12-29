@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nL\u2019Epoux est retrouv\xE9.\nEloge de l\u2019Epoux.\nTrouble de l\u2019\

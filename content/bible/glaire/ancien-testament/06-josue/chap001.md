@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nDieu promet \xE0 Josu\xE9 d\u2019\xEAtre avec lui.\nJosu\xE9 ordonne au\

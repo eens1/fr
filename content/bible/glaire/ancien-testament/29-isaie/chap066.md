@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nTemple et sacrifice des Juifs rejet\xE9s.\nVengeance du Seigneur contre\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nSalomon b\xE2tit plusieurs villes.\nIl rend tributaires les restes des\

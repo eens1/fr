@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nDavid d\xE9crit d\u2019une mani\xE8re tr\xE8s vive la corruption g\xE9\

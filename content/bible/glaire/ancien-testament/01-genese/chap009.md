@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nAlliance de Dieu avec No\xE9 et sa post\xE9rit\xE9.\nMal\xE9diction contre\

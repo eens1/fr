@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nLe Psalmiste repr\xE9sente \xE0 Dieu qu\u2019il est dans l\u2019affliction,\

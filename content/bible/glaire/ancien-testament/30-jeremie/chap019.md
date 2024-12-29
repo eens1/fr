@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nVase de terre bris\xE9 par J\xE9r\xE9mie dans la vall\xE9e de Topheth,\

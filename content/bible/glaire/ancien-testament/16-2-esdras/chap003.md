@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nD\xE9nombrement de ceux qui travaill\xE8rent \xE0 reb\xE2tir les murs\

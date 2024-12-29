@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nOffrandes de David et des principaux d\u2019Isra\xEBl pour la construction\

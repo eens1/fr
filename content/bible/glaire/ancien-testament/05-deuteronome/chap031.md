@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nMo\xEFse nomme Josu\xE9 pour son successeur.\nIl ordonne qu\u2019on lise\

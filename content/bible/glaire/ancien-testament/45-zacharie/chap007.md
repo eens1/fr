@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nD\xE9putation aux pr\xEAtres du Seigneur touchant les je\xFBnes observ\xE9\

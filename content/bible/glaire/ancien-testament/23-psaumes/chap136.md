@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nLe Psalmiste repr\xE9sente les Juifs captifs \xE0 Babylone comme n\u2019\

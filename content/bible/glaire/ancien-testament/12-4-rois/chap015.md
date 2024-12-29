@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nAzarias, roi de Juda, devient l\xE9preux.\nJoathan gouverne en sa place.\n\

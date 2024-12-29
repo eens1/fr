@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nMission d\u2019Ez\xE9chiel.\nInfid\xE9lit\xE9 des enfants d\u2019Isra\xEB\

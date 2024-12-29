@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nIndissolubilit\xE9 du mariage.\nEnfants pr\xE9sent\xE9s \xE0 J\xE9sus-Christ.\n\

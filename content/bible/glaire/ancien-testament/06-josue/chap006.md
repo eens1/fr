@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nSi\xE8ge et prise de J\xE9richo.\nRahab associ\xE9e au peuple de Dieu.\n\

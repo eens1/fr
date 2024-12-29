@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nRiches injustes s\xE9v\xE8rement punis.\nPatience dans les afflictions.\n\

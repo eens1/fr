@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nSaint Paul salue les Galates.\nIl leur reproche de s\u2019\xE9carter de\

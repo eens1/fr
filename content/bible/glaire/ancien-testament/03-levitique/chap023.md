@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nLois pour le sabbat et pour les f\xEAtes de la P\xE2que, de la Pentec\xF4\

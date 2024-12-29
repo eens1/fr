@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nInfid\xE9lit\xE9 d\u2019Ephra\xEFm.\nJugement du Seigneur contre Juda.\n\

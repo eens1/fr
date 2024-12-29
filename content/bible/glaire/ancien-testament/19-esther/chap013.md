@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nJusqu\u2019ici est l\u2019avant-propos. Ce qui suit \xE9tait mis \xE0\

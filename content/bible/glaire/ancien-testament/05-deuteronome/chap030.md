@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nLes Juifs retourneront au Seigneur, et il aura piti\xE9 d\u2019eux.\n\

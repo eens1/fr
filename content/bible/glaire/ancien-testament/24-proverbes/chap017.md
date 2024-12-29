@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nLe serviteur sage.\nDieu \xE9prouve les coeurs.\nNe pas m\xE9priser le\

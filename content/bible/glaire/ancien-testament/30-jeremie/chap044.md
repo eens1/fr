@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nJ\xE9r\xE9mie reprend de leur idol\xE2trie les Juifs qui \xE9taient en\

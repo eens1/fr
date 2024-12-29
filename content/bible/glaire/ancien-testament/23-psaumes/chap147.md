@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nLe Psalmiste exhorte J\xE9rusalem \xE0 louer le Seigneur de son r\xE9\

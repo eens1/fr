@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nChr\xE9tien vrai circoncis.\nJustice de la loi et de la foi.\nParticipation\

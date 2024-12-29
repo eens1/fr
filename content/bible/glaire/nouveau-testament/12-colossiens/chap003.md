@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nAmour des choses du ciel.\nVie cach\xE9e en Dieu.\nVieil homme ; nouvel\

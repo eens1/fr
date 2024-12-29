@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nBoiteux gu\xE9ri \xE0 la porte du temple par saint Pierre au nom de J\xE9\

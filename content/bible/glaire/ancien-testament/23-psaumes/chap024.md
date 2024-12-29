@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nDavid montre ici les sentiments de confiance, d\u2019humilit\xE9 et de\

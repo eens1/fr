@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nLe Psalmiste d\xE9plore la corruption g\xE9n\xE9rale des hommes.\nIl d\xE9\

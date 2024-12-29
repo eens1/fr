@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nJalousie des fils de Jacob contre Joseph, leur fr\xE8re ; ils le vendent,\

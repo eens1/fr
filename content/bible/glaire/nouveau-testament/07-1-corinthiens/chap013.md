@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nSans la charit\xE9 tout est inutile pour le salut.\nCaract\xE8re de cette\

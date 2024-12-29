@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nR\xE8gles de conduite \xE0 l\u2019\xE9gard des personnes \xE2g\xE9es ou\

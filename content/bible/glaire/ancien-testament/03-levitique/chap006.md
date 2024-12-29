@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nAutres sacrifices d\u2019expiation.\nLois touchant l\u2019holocauste de\

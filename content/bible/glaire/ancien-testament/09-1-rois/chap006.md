@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nLes Philistins renvoient l\u2019arche.\nElle arrive \xE0 Bethsam\xE8s.\n\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nH\xE9r\xE9sies annonc\xE9es.\nTimoth\xE9e exhort\xE9 \xE0 se nourrir de\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nJour terrible apr\xE8s le premier fl\xE9au.\nUne arm\xE9e nombreuse et\

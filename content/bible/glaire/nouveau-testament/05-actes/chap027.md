@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nPaul est mis dans un vaisseau pour aller \xE0 Rome.\nDescription de son\

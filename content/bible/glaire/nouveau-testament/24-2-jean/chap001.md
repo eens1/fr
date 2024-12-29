@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nSaint Jean exhorte Electe et ses fils \xE0 demeurer fermes dans la charit\xE9\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nCaract\xE8re du lib\xE9rateur d\u2019Isra\xEBl.\nF\xE9licit\xE9 des peuples\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nLois touchant les h\xE9ritages.\nMo\xEFse consid\xE8re la terre de Chanaan.\n\

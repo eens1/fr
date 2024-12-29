@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nLe Psalmiste rel\xE8ve la bont\xE9 et la grandeur du Seigneur.\nIl invite\

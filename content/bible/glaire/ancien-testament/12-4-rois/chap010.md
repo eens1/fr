@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nJ\xE9hu fait mourir les fils d\u2019Achab et les fr\xE8res d\u2019Ochozias.\n\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nVaine confiance de la Jud\xE9e dans le secours de l\u2019Egypte.\nR\xE9\

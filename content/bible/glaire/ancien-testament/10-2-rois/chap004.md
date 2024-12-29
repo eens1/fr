@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nBaana et R\xE9chab, serviteurs d\u2019Isboseth, apportent \xE0 David la\

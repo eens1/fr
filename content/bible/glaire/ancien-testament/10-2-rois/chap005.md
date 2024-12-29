@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nDavid est sacr\xE9 roi sur tout Isra\xEBl.\nIl prend J\xE9rusalem.\nHiram,\

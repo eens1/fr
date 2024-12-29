@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nEtre circonspect dans ses paroles.\nS\u2019acquitter de ses voeux.\nNe\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nNe pas recevoir en vain la gr\xE2ce de Dieu.\nCaract\xE8re des ministres\

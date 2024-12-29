@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nLe Psalmiste s\u2019invite lui-m\xEAme \xE0 louer le Seigneur de ses bienfaits.\n\

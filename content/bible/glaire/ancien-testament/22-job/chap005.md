@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nEliphaz soutient que la prosp\xE9rit\xE9 des impies est toujours promptement\

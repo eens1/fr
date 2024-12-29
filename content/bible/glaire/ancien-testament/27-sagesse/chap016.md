@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nLa mani\xE8re dont Dieu traite ses amis et ses ennemis.\nPlaies dont il\

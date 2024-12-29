@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nLe Psalmiste, au milieu des maux dont il est accabl\xE9, se soutient par\

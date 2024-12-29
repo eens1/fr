@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nJ\xE9hu est sacr\xE9 roi d\u2019Isra\xEBl et re\xE7oit l\u2019ordre d\u2019\

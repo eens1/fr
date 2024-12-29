@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nPremiers coups port\xE9s sur la maison d\u2019Isra\xEBl.\nD\xE9livrance\

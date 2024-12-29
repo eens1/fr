@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nCh\xE2tier ses enfants ; utilit\xE9 de la bonne \xE9ducation qu\u2019\

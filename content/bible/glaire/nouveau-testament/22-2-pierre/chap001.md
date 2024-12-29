@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nDons de Dieu accord\xE9s aux fid\xE8les.\nEncha\xEEnement des vertus qui\

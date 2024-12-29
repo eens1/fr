@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nOn ne dira plus dans Isra\xEBl que le fils porte l\u2019iniquit\xE9 du\

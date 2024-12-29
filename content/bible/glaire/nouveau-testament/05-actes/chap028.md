@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nPaul et ceux qui \xE9taient avec lui sont re\xE7us \xE0 Malte.\nIl est\

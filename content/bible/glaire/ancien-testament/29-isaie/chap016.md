@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nAgneau envoy\xE9 de Moab.\nRessource offerte aux Moabites.\nD\xE9faite\

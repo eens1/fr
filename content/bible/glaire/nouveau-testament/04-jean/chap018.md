@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nJ\xE9sus dans le jardin.\nJuifs renvers\xE9s.\nJ\xE9sus pris et men\xE9\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nDavid con\xE7oit le dessein de b\xE2tir un temple au Seigneur.\nNathan\

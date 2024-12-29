@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nVengeances que le Seigneur exercera sur Isra\xEBl.\nInfid\xE9lit\xE9 de\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nComment on doit regarder les ministres de l\u2019Evangile ; ne point les\

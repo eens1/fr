@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nLes Isra\xE9lites arrivent aupr\xE8s de Sina\xEF.\nMo\xEFse monte sur\

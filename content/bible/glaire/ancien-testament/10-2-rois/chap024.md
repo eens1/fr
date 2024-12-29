@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nDavid fait faire le d\xE9nombrement du peuple.\nIl est en est repris par\

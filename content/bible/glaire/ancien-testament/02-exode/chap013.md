@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nLois pour la cons\xE9cration des premiers-n\xE9s et pour l\u2019observation\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nDes viandes immol\xE9es aux idoles.\nLa science enfle, la charit\xE9 \xE9\

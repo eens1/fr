@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nVices et vertus de la langue ; succ\xE8s funestes ; maux heureux.\nPr\xE9\

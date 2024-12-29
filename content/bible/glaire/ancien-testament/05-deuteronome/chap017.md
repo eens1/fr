@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nH\xE9breux idol\xE2tres punis de mort.\nConsulter les pr\xEAtres dans\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nJob soutient que les impies jouissent souvent d\u2019une longue prosp\xE9\

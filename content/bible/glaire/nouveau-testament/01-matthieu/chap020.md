@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nParabole des ouvriers envoy\xE9s \xE0 la vigne.\nJ\xE9sus-Christ pr\xE9\

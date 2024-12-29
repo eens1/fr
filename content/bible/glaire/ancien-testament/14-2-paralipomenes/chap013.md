@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nGuerre entre Abia, roi de Juda, et J\xE9roboam, roi d\u2019Isra\xEBl.\n\

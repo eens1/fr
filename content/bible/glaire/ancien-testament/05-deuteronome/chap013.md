@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nDes faux proph\xE8tes et de la s\xE9duction pour entra\xEEner \xE0 l\u2019\

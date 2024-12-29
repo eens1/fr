@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nS\xE9d\xE9cias envoie consulter J\xE9r\xE9mie.\nLe Proph\xE8te lui pr\xE9\

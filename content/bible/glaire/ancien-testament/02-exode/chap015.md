@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nCantique d\u2019action de gr\xE2ces apr\xE8s le passage de la mer Rouge.\n\

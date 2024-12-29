@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nAsa appelle \xE0 son secours le roi de Syrie contre Baasa, roi d\u2019\

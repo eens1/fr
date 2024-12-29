@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nSophar accuse Job de pr\xE9somption et d\u2019orgueil, et l\u2019exhorte\

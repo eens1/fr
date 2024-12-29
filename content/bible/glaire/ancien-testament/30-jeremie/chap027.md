@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nLiens et joug envoy\xE9s \xE0 divers rois.\nLe Seigneur ordonne \xE0 ces\

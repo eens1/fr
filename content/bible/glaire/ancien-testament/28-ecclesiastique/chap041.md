@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nSouvenir de la mort doux ou amer.\nL\u2019opprobre et la mal\xE9diction\

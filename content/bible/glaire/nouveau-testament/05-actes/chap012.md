@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nMartyre de saint Jacques le Majeur.\nEmprisonnement et d\xE9livrance de\

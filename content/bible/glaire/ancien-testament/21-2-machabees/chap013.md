@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nAntiochus Eupator marche contre les Juifs avec une puissante arm\xE9e.\n\

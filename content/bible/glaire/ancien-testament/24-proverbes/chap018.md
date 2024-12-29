@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nDe l\u2019ami infid\xE8le.\nDe la confiance du juste et de celle du riche.\n\

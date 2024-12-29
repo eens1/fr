@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nR\xE9surrection des morts prouv\xE9e par celle de J\xE9sus-Christ.\nCons\xE9\

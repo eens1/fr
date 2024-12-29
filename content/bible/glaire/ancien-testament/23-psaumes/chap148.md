@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nLe Psalmiste invite toutes les cr\xE9atures \xE0 louer le Seigneur.\n"

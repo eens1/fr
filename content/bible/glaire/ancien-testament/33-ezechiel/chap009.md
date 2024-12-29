@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nSept hommes paraissent ; l\u2019un est envoy\xE9 marquer d\u2019un signe\

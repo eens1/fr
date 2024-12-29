@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nLevain des pharisiens ; ne craindre que Dieu.\nBlasph\xE8me contre le\

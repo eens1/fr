@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nNoms des signataires de l\u2019alliance.\nDivers r\xE8glements touchant\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nD\xE9solation de J\xE9rusalem et de la Jud\xE9e.\nD\xE9faite des ennemis.\n\

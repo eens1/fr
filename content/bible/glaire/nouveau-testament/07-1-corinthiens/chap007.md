@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nR\xE8gles de conduite touchant le mariage, la viduit\xE9 et la virginit\xE9\

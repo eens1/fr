@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nCharit\xE9 envers le prochain.\nFemme accus\xE9e de n\u2019avoir pas \xE9\

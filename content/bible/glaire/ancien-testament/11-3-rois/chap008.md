@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nD\xE9dicace du temple de Salomon.\nSalomon offre \xE0 Dieu sa pri\xE8\

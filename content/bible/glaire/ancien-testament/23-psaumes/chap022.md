@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nDavid exprime dans ce psaume les sentiments d\u2019une \xE2me que Dieu\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nLe Seigneur reprend Baruch, qui se plaignait de ne pas trouver de repos\

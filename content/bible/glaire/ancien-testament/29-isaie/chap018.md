@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nMalheur \xE0 l\u2019Ethiopie, qui croit le Seigneur trop faible pour d\xE9\

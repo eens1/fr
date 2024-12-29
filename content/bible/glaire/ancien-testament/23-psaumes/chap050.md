@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nCe psaume contient la pri\xE8re ardente d\u2019une \xE2me afflig\xE9e\

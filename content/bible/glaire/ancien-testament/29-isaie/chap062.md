@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nZ\xE8le du proph\xE8te pour J\xE9rusalem.\nGloire de J\xE9rusalem.\nGardes\

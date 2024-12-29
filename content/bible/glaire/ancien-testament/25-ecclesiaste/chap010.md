@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nSuites funestes de l\u2019imprudence.\nImprudents et esclaves \xE9lev\xE9\

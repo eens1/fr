@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nLe Psalmiste loue le Seigneur de ce qu\u2019il l\u2019a exauc\xE9, et\

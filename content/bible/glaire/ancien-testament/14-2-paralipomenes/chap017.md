@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nJosaphat succ\xE8de \xE0 Asa.\nSa pi\xE9t\xE9, ses grands biens.\nSoin\

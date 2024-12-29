@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nNe pas envier la prosp\xE9rit\xE9 des m\xE9chants.\nN\u2019estimer que\

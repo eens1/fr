@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nJob d\xE9crit l\u2019\xE9tat o\xF9 il est tomb\xE9.\n"

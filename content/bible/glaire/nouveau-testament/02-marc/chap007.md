@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nScandale des pharisiens sur ce que les disciples de J\xE9sus mangeaient\

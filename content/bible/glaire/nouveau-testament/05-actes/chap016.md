@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nPaul prend avec lui Timoth\xE9e.\nIl est d\xE9tourn\xE9 de pr\xEAcher\

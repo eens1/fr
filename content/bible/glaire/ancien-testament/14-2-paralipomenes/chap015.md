@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nPr\xE9diction du proph\xE8te Azarias.\nZ\xE8le d\u2019Asa contre l\u2019\

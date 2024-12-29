@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nTrompettes pour donner le signal.\nD\xE9campement des enfants d\u2019\

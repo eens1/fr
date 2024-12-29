@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nFausse pr\xE9diction d\u2019Hananias ; J\xE9r\xE9mie en appelle \xE0 l\u2019\

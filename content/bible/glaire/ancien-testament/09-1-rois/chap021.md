@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nDavid va \xE0 Nob\xE9 vers le grand-pr\xEAtre Achim\xE9lech, et se retire\

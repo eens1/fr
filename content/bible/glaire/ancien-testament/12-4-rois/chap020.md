@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nMaladie d\u2019Ez\xE9chias.\nR\xE9trogradation de l\u2019ombre du soleil\

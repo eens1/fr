@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nSaint Paul salue les fid\xE8les de Corinthe.\nIl est afflig\xE9 et consol\xE9\

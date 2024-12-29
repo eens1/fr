@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nD\xE9p\xF4t de doctrine.\nVie laborieuse des ministres de l\u2019Evangile.\n\

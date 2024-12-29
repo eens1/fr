@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nConstruction de la tour de Babel.\nConfusion des langues.\nPost\xE9rit\xE9\

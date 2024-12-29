@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nCe psaume contient les actions de gr\xE2ces des captifs d\xE9livr\xE9\

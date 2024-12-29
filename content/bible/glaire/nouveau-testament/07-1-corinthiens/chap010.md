@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nJuifs ingrats extermin\xE9s dans le d\xE9sert.\nTout ce qui leur est arriv\xE9\

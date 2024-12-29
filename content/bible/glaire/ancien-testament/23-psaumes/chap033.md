@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nDavid rend gr\xE2ces \xE0 Dieu du salut qu\u2019il lui a procur\xE9.\n\

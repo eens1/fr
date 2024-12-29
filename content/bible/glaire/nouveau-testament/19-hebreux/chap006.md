@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nL\u2019Ap\xF4tre exhorte les H\xE9breux \xE0 s\u2019\xE9lever avec lui\

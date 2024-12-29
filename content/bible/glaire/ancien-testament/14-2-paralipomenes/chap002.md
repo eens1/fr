@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nSalomon demande \xE0 Hiram, roi de Tyr, un homme habile pour conduire\

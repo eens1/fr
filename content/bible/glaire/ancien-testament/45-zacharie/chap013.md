@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nFontaine ouverte \xE0 la maison de David et aux habitants de J\xE9rusalem.\n\

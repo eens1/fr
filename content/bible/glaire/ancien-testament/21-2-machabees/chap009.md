@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nAntiochus revient de Perse.\nIl apprend la d\xE9faite de ses g\xE9n\xE9\

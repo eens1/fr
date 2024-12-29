@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nLe baptis\xE9 mort au p\xE9ch\xE9 ne doit plus vivre que pour Dieu.\n\

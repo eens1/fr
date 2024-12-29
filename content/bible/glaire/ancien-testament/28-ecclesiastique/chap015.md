@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nCelui qui recherche la sagesse la trouvera.\nDieu n\u2019est pas l\u2019\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nLe Psalmiste exhorte \xE0 louer le Seigneur \xE0 cause de sa grande mis\xE9\

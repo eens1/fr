@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nConspiration des Juifs.\nParfums r\xE9pandus sur la t\xEAte de J\xE9sus-Christ.\n\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nD\xE9faite d\u2019Og, roi de Basan.\nPartage des tribus de Ruben et de\

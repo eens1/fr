@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nSamuel \xE9tablit ses enfants juges d\u2019Isra\xEBl.\nLes Isra\xE9lites\

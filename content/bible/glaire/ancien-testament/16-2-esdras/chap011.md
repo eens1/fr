@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nNoms des Juifs qui demeur\xE8rent dans J\xE9rusalem.\nVilles habit\xE9\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nD\xE9finition, excellence, avantages et mod\xE8les de la foi.\n"

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nCons\xE9cration des Nazar\xE9ens.\nB\xE9n\xE9diction que les pr\xEAtres\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nJoseph m\xE9rite la confiance de son ma\xEEtre Putiphar ; mais il est\

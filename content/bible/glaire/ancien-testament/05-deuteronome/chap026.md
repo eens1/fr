@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nC\xE9r\xE9monies qui devaient s\u2019observer lorsqu\u2019on offrait les\

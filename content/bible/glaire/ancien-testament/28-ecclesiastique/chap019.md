@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nMaux que causent le vin et les femmes.\nTaire les d\xE9fauts d\u2019autrui.\n\

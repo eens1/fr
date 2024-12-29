@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nMission du proph\xE8te ou plut\xF4t du Messie.\nD\xE9livrance et r\xE9\

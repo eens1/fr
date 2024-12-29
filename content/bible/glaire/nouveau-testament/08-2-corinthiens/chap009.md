@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nSaint Paul exhorte les Corinthiens \xE0 pr\xE9parer leurs aum\xF4nes.\n\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nRencontre de Jacob et d\u2019Esa\xFC.\nJacob se retire \xE0 Socoth, et\

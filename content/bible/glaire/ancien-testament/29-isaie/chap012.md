@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nCantique d\u2019actions de gr\xE2ces sur la d\xE9livrance des deux maisons\

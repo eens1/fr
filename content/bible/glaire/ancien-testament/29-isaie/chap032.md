@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nR\xE8gne de justice promis \xE0 Juda.\nD\xE9solation de la Jud\xE9e.\n\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nRuth va glaner dans les champs de Booz.\nBooz la comble de bont\xE9.\n"

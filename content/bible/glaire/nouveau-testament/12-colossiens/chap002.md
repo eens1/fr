@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nSollicitude de saint Paul pour les Colossiens.\nIl les exhorte \xE0 demeurer\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nAbraham se retire \xE0 G\xE9rara.\nAbim\xE9lech enl\xE8ve Sara ; il la\

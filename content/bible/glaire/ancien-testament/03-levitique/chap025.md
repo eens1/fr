@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nLois touchant le repos de la septi\xE8me ann\xE9e et le jubil\xE9 de la\

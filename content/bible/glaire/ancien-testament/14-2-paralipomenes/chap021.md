@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nMort de Josaphat.\nJoram lui succ\xE8de, et il imite l\u2019impi\xE9t\xE9\

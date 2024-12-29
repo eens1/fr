@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nOn r\xE9tablit l\u2019autel des holocaustes.\nOn c\xE9l\xE8bre la f\xEA\

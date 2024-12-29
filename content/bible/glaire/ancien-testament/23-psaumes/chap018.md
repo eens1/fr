@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nDavid admire la puissance, la sagesse et la bont\xE9 de Dieu manifest\xE9\

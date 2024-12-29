@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nPaul se justifie devant le Conseil.\nIl re\xE7oit un soufflet par l\u2019\

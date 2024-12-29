@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nNicod\xE8me vient trouver J\xE9sus-Christ ; instructions que J\xE9sus\

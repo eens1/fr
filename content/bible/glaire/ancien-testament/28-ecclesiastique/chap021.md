@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nFuir le p\xE9ch\xE9 ; expier ses fautes.\nMaux que cause l\u2019orgueil.\n\

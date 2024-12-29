@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nLois touchant le larcin, la fornication, l\u2019usure, les d\xEEmes, les\

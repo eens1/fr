@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nEloge de l\u2019Epouse, sa fid\xE9lit\xE9, ses d\xE9sirs ardents.\n"

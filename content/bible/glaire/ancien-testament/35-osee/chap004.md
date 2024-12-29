@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nInfid\xE9lit\xE9 reproch\xE9e \xE0 Isra\xEBl.\nVengeance dont il est menac\xE9\

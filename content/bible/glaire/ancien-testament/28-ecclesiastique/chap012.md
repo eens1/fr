@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nFaire le bien avec discernement.\nOn ne conna\xEEt de vrais amis que dans\

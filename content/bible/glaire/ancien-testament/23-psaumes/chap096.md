@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nCe Psaume repr\xE9sente le r\xE8gne du Seigneur, la confusion des m\xE9\

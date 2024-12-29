@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nJosias ayant assembl\xE9 tout le peuple, renouvelle l\u2019alliance avec\

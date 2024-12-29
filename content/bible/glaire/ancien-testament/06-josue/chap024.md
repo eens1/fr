@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nJosu\xE9 rappelle aux enfants d\u2019Isra\xEBl tout ce que Dieu a fait\

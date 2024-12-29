@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nReproches et avertissement aux douze tribus d\u2019Isra\xEBl.\nNations\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:46+02:00
 draft: false
 summary: "\nCinqui\xE8me trompette, chute d\u2019une \xE9toile qui ouvre le puits\

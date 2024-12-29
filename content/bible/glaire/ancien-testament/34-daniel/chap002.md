@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nSonge de Nabuchodonosor, statue compos\xE9e de quatre m\xE9taux.\nLes\

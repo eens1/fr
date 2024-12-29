@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nLe Seigneur ordonne une seconde fois \xE0 Jonas d\u2019aller \xE0 Ninive.\n\

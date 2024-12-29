@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nDavid se propose de b\xE2tir un temple au Seigneur.\nNathan lui d\xE9\

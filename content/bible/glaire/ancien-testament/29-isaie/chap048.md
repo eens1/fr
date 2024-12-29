@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nReproches contre Isra\xEBl.\nSa d\xE9livrance gratuite.\nPromesse d\u2019\

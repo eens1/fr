@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nGu\xE9rison du serviteur du centurion.\nR\xE9surrection du fils de la\

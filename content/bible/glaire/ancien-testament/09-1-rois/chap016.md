@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nSamuel est envoy\xE9 de Dieu \xE0 Bethl\xE9hem pour sacrer David.\nSa\xFC\

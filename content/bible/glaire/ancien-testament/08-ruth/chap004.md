@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nBooz \xE9pouse Ruth.\nElle devient m\xE8re d\u2019Obed, a\xEFeule de David.\n"

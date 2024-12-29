@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nDevoirs des ma\xEEtres.\nPers\xE9v\xE9rance dans la pri\xE8re.\nSagesse\

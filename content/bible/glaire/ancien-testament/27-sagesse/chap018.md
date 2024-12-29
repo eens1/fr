@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nLes Egyptiens sont dans les t\xE9n\xE8bres, tandis que les Isra\xE9lites\

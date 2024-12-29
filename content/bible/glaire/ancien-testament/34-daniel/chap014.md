@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nDaniel d\xE9couvre l\u2019imposture des pr\xEAtres de Bel, fait mourir\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nOutrage fait \xE0 la femme d\u2019un L\xE9vite par les habitants de Gabaa.\n"

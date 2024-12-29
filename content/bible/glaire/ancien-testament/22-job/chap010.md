@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nJob adresse ses plaintes \xE0 Dieu.\nIl s\u2019humilie devant lui, et\

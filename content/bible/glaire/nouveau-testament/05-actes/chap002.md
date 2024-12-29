@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nDescente du Saint-Esprit au jour de la Pentec\xF4te.\nDon des langues.\n\

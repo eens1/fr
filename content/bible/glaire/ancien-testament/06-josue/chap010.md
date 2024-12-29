@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nSi\xE8ge de Gabaon.\nJosu\xE9 marche \xE0 son secours.\nIl arr\xEAte le\

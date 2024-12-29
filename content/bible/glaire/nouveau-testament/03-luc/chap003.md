@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nPr\xE9dication de saint Jean.\nAvis qu\u2019il donne au peuple, aux publicains,\

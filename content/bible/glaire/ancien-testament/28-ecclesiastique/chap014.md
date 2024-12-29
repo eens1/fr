@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nBonheur de celui qui ne p\xE8che pas par la langue.\nMalheur de l\u2019\

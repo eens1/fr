@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nTrahison de Judas, derni\xE8re c\xE8ne.\nInstitution de l\u2019Eucharistie.\n\

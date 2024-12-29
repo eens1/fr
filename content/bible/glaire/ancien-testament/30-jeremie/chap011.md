@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nHabitants de Juda et de J\xE9rusalem exhort\xE9s \xE0 observer l\u2019\

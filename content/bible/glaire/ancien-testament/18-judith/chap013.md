@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nJudith, \xE9tant rest\xE9e seule aupr\xE8s d\u2019Holoferne, lui tranche\

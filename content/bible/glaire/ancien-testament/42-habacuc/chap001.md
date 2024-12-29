@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nPlaintes du proph\xE8te sur les iniquit\xE9s de Juda.\nVengeances du Seigneur\

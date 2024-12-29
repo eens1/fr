@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nCombat des Philistins contre Isra\xEBl.\nMort de Sa\xFCl et de ses fils.\n"

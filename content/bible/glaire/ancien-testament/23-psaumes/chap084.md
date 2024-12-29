@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nLe Psalmiste loue Dieu d\u2019avoir d\xE9livr\xE9 son peuple de la captivit\xE9\

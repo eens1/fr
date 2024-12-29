@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nPaul vient \xE0 Corinthe ; il travaille des mains avec Aquila et Priscille.\n\

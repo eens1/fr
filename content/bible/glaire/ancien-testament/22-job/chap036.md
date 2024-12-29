@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nEliu continue \xE0 d\xE9fendre l\u2019\xE9quit\xE9 des jugements de Dieu.\n\

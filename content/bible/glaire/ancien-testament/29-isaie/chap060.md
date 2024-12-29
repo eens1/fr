@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nR\xE9tablissement de J\xE9rusalem.\nLes nations se soumettent \xE0 elle.\n\

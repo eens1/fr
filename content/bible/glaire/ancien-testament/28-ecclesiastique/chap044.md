@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nEloge des patriarches et des grands hommes de la nation des H\xE9breux,\

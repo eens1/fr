@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nJusqu\u2019ici nous avons lu Daniel dans le volume h\xE9breu. Ce qui suit\

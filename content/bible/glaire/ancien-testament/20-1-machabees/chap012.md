@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nJonathas renouvelle l\u2019alliance avec les Romains et avec les Lac\xE9\

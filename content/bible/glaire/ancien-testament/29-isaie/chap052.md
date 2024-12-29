@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nD\xE9livrance et r\xE9tablissement de J\xE9rusalem.\nEnvoy\xE9 qui annonce\

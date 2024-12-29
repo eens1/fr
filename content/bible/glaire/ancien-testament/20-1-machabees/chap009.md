@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nBacchide et Alcime reviennent en Jud\xE9e.\nJudas est tu\xE9 dans le combat.\n\

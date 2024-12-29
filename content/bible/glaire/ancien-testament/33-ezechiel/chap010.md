@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nUn des sept hommes est envoy\xE9 prendre des charbons de feu pour les\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nDavid, pers\xE9cut\xE9 par Sa\xFCl, invoque le secours du Seigneur.\n\

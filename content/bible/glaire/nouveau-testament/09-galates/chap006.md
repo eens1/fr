@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nCorriger avec douceur, s\u2019entre-supporter.\nCroire qu\u2019on n\u2019\

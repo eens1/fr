@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nEloge d\u2019Elie, d\u2019Elis\xE9e, d\u2019Ez\xE9chias et d\u2019Isa\xEF\

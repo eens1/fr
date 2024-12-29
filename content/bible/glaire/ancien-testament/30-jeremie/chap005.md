@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nCorruption g\xE9n\xE9ral des habitants de J\xE9rusalem.\nLe Seigneur reproche\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nJ\xE9hu pr\xE9dit \xE0 Baasa la ruine de sa famille.\nMort de Baasa.\n\

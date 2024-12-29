@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nOchozias succ\xE8de \xE0 Joram ; il est tu\xE9, ainsi que Joram, roi d\u2019\

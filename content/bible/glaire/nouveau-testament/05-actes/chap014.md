@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nSucc\xE8s de la pr\xE9dication de Paul et de Barnab\xE9 \xE0 Iconium.\n\

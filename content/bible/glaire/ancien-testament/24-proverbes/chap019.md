@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nDu pauvre et du riche.\nDu faux t\xE9moin.\nDe la col\xE8re et de la bienveillance\

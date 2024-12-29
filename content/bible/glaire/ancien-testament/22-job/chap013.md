@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nJob continue de se d\xE9fendre contre les reproches de ses amis.\nIl t\xE9\

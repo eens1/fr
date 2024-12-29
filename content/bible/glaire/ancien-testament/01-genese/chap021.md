@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nNaissance d\u2019Isaac.\nAgar est chass\xE9e.\nAlliance entre Abim\xE9\

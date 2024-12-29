@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nVoeu pour la d\xE9livrance d\u2019Isra\xEBl.\nAveu de l\u2019infid\xE9\

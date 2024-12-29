@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nPrise de J\xE9rusalem.\nFuite de S\xE9d\xE9cias.\nCe prince est arr\xEA\

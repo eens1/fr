@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nP\xE9nitence du peuple.\nPri\xE8re que les L\xE9vites font \xE0 Dieu.\n\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nSaint Paul n\u2019emploie ni l\u2019\xE9loquence, ni la sagesse humaine.\n\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nAntiochus se pr\xE9pare \xE0 marcher contre l\u2019Egypte.\nProdiges effrayants\

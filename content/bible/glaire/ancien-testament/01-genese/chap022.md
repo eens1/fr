@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nSacrifice d\u2019Isaac.\nDieu r\xE9it\xE8re ses promesses \xE0 Abraham.\n\

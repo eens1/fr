@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nJuifs en tutelle sous la loi, libres par la foi.\nGalates entra\xEEn\xE9\

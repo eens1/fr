@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nSaint Paul continue d\u2019exhorter les H\xE9breux \xE0 s\u2019affermir\

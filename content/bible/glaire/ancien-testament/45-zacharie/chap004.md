@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nChandelier d\u2019or ayant sept lampes sur sept branches, et deux oliviers\

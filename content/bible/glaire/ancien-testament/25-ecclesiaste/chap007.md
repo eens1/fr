@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nVaine curiosit\xE9.\nBonne r\xE9putation.\nUtilit\xE9 des corrections.\n\

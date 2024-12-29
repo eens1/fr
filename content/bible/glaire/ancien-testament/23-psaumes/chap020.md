@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nCe psaume est une suite du pr\xE9c\xE9dent.\nDans celui-l\xE0 David demandait\

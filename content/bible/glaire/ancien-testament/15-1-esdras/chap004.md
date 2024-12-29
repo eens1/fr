@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nLes Samaritains accusent les Juifs devant Artaxerx\xE8s.\nCe prince d\xE9\

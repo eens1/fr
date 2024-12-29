@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:46+02:00
 draft: false
 summary: "\nCiel nouveau, terre nouvelle.\nJ\xE9rusalem c\xE9leste.\nR\xE9compense\

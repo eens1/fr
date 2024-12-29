@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nDerni\xE8res paroles de Tobie.\nIl pr\xE9dit la ruine de Ninive et le\

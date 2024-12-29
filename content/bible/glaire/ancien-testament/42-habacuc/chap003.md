@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nPri\xE8re d\u2019Habacuc.\nIl se rappelle les merveilles op\xE9r\xE9es\

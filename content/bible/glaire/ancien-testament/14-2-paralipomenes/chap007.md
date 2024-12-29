@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nLe feu descend du ciel pour consumer les victimes ; la majest\xE9 de Dieu\

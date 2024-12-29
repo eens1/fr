@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nC\xE9r\xE9monie du transport de l\u2019arche dans le sanctuaire.\n"

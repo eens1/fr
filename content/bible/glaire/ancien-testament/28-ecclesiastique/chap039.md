@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nOccupation du sage ; gloire qui l\u2019accompagne.\nLes Isra\xE9lites\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nJob reconna\xEEt que Dieu est infiniment juste dans ses jugements.\nIl\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nSuite des menaces contre Isra\xEBl.\nAssur sera extermin\xE9.\nLes restes\

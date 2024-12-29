@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nRetour des fr\xE8res de Joseph en Egypte avec Benjamin.\nJoseph leur fait\

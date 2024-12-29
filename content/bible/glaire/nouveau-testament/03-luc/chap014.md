@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nHydropique gu\xE9ri.\nPrendre la derni\xE8re place.\nInviter les pauvres.\n\

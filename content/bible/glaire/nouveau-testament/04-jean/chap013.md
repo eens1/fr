@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nDerni\xE8re c\xE8ne de J\xE9sus-Christ.\nIl lave les pieds de ses ap\xF4\

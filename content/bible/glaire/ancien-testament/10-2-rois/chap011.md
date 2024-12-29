@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nDavid tombe en adult\xE8re avec Bethsab\xE9e, femme d\u2019Urie.\nIl donne\

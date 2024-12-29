@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nCantique lugubre sur le d\xE9sastre des princes de Juda repr\xE9sent\xE9\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nMo\xEFse b\xE9nit les douze tribus et pr\xE9dit ce qui doit leur arriver.\n"

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nDavid se plaint \xE0 Dieu de ce qu\u2019il a livr\xE9 son peuple \xE0\

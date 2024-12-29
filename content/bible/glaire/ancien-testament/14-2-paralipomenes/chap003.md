@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nSalomon commence \xE0 b\xE2tir le temple.\nPlan de cet \xE9difice.\nDescription\

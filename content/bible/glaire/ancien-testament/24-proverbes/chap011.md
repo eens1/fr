@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nAvantages des justes et des sages, oppos\xE9s aux malheurs des m\xE9chants\

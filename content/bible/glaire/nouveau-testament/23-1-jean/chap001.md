@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nJ\xE9sus-Christ vie \xE9ternelle apparue aux hommes.\nSoci\xE9t\xE9 entre\

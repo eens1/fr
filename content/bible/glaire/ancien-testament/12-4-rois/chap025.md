@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nDerniers si\xE8ge de J\xE9rusalem par Nabuchodonosor.\nS\xE9d\xE9cias\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nRepos du septi\xE8me jour.\nDescription du Paradis.\nCr\xE9ation d\u2019\

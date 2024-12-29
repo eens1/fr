@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nJacob surprend la b\xE9n\xE9diction d\u2019Esa\xFC.\nMenace d\u2019Esa\xFC\

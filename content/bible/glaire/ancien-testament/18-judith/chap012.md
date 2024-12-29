@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nJudith refuse les mets de la table d\u2019Holoferne, et lui assure que\

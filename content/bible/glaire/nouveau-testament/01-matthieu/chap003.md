@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nPr\xE9dication de saint Jean ; sa p\xE9nitence ; son bapt\xEAme ; ses\

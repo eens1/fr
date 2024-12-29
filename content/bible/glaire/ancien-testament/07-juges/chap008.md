@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nG\xE9d\xE9on apaise les enfants d\u2019Ephra\xEFm.\nIl met \xE0 mort Z\xE9\

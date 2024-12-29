@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nEl\xE9vation de Mardoch\xE9e.\nEdit en faveur des Juifs.\n"

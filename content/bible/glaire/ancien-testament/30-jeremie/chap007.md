@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nVaine confiance des Juifs dans le temple du Seigneur, tandis qu\u2019\

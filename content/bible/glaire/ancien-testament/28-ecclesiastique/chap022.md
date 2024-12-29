@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nHomme paresseux.\nEnfants mal \xE9lev\xE9s.\nFemme effront\xE9e.\nC\u2019\

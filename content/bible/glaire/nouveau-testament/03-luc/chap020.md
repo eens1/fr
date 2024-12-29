@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nAutorit\xE9 de J\xE9sus.\nBapt\xEAme de Jean.\nParaboles des vignerons\

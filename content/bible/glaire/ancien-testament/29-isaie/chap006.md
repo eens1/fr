@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nIsa\xEFe voit la gloire du Seigneur.\nLe Seigneur l\u2019envoie porter\

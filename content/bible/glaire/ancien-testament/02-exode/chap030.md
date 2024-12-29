@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nOrdonnances touchant l\u2019autel du parfum.\nDemi-sicle d\xFB par t\xEA\

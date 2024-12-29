@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nTyr sera d\xE9truite par Nabuchodonosor, pour avoir insult\xE9 au malheur\

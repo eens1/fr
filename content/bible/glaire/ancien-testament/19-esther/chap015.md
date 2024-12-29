@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nAvis de Mardoch\xE9e \xE0 Esther apr\xE8s l\u2019\xE9dit qu\u2019Aman\

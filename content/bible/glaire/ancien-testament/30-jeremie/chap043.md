@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nLes Juifs accusent J\xE9r\xE9mie de mensonge ; ils se retirent en Egypte\

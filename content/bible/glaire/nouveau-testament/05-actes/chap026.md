@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nDiscours de Paul devant Agrippa.\nFestus traite Paul d\u2019insens\xE9\

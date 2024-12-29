@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nEz\xE9chias invite Isra\xEBl et Juda \xE0 venir \xE0 J\xE9rusalem pour\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nJ\xE9thro, beau-p\xE8re de Mo\xEFse, vient au devant des Isra\xE9lites.\n\

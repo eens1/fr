@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nLe jeune Tobie \xE9tant en route, un poisson veut le d\xE9vorer.\nTobie\

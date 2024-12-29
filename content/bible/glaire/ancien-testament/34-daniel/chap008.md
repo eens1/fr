@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nVision d\u2019un b\xE9lier \xE0 deux cornes, et d\u2019un bouc qui n\u2019\

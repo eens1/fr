@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nSi\xE8ge de Samarie par Salmanasar.\nLa ville est prise et les Isra\xE9\

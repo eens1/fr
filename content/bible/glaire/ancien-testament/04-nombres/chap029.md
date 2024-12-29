@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nSacrifice pour la f\xEAte des Trompettes, pour celle de l\u2019Expiation\

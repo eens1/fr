@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nJonas s\u2019afflige de ce que sa proph\xE9tie n\u2019est pas accomplie.\n\

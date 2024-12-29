@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nJoas fait r\xE9parer le temple.\nHaza\xEBl vient assi\xE9ger J\xE9rusalem.\n\

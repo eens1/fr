@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nLe Seigneur d\xE9fend \xE0 son Proph\xE8te de se marier, et de prendre\

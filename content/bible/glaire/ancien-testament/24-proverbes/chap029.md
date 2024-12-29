@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nDe celui qui m\xE9prise les r\xE9primandes.\nDe la ruine des m\xE9chants.\n\

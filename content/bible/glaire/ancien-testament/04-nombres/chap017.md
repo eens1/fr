@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nLe sacerdoce est confirm\xE9 \xE0 Aaron par le miracle de sa verge qui\

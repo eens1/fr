@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nCantique de David pour remercier Dieu de l\u2019avoir d\xE9livr\xE9 de\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nJ\xE9sus-Christ victime de propitiation pour les p\xE9ch\xE9s de tout\

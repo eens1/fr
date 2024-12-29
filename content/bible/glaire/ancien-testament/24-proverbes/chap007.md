@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nExhortation \xE0 la sagesse.\nDescription d\u2019une femme d\xE9r\xE9\

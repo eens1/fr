@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nIncestueux dans l\u2019Eglise de Corinthe.\nSaint Paul le livre \xE0 Satan.\n\

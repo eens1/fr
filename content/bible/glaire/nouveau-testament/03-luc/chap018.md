@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nParaboles de la veuve importune \xE0 un mauvais juge ; du pharisien et\

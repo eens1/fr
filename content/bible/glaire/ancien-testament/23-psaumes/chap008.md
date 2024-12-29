@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nLe psalmiste admire la grandeur de Dieu peinte dans ses ouvrages, et l\u2019\

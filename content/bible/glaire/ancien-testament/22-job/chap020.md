@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nSophar continue de d\xE9crire les ch\xE2timents dont Dieu punit les impies.\n"

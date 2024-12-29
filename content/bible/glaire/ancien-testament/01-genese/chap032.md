@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nJacob fait annoncer son retour \xE0 Esa\xFC ; celui-ci vient au-devant\

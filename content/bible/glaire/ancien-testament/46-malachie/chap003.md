@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nAv\xE8nement du pr\xE9curseur du Messie et du Messie lui-m\xEAme.\nLes\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nDevoirs d\u2019un \xE9v\xEAque.\nFaux docteurs annonc\xE9s.\nSaint Paul\

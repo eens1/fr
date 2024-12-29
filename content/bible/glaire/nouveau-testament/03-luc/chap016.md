@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nParabole de l\u2019\xE9conome infid\xE8le.\nNul ne peut servir deux ma\xEE\

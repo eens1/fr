@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nL\u2019Epoux et l\u2019Epouse continuent \xE0 faire mutuellement leur\

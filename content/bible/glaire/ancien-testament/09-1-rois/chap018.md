@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nAmiti\xE9 de Jonathas et de David.\nJalousie de Sa\xFCl contre David.\n\

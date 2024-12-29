@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nSup\xE9riorit\xE9 de J\xE9sus-Christ sur les proph\xE8tes qui ont paru\

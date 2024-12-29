@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nLe Psalmiste d\xE9crit la grandeur de Dieu et la faiblesse de l\u2019\

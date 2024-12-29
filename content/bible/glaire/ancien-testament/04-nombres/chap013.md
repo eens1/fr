@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nArriv\xE9e des Isra\xE9lites \xE0 Pharan.\nMo\xEFse envoie consid\xE9\

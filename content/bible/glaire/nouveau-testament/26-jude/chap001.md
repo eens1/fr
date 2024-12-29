@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nCombattre pour la foi et pour la tradition.\nExemples de la justice de\

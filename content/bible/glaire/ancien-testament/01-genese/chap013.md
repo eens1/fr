@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nAbram retourne d\u2019Egypte dans la terre de Chanaan.\nLot se s\xE9pare\

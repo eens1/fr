@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nExpiation d\u2019un meurtre dont on ignore l\u2019auteur.\nMariage avec\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nSuite du sermon apr\xE8s la c\xE8ne.\nJ\xE9sus est la vigne ; ses disciples\

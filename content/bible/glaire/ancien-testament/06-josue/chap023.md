@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nJosu\xE9 exhorte les enfants d\u2019Isra\xEBl \xE0 observer la loi du\

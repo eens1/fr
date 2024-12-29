@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nVanit\xE9 des hommes qui, au lieu de reconna\xEEtre Dieu dans ses cr\xE9\

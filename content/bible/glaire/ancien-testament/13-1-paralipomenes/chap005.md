@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nDescendants de Ruben, de Gad, et de la demi-tribu de Manass\xE9.\n"

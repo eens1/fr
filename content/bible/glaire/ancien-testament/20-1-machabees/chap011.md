@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nPtol\xE9m\xE9e Philom\xE9tor usurpe le royaume d\u2019Alexandre Balas.\n\

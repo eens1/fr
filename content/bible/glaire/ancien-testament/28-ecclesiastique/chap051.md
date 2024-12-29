@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nActions de gr\xE2ces de l\u2019auteur.\nComment il a acquis la sagesse.\n\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nEdit en faveur des Juifs.\nCopie de la lettre que le roi Artaxerx\xE8\

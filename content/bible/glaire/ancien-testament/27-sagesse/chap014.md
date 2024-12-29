@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nFolie de celui qui en s\u2019embarquant invoque une idole.\nProph\xE9\

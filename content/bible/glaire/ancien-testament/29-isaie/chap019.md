@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nMaux dont le Seigneur accablera l\u2019Egypte.\nAutel d\xE9di\xE9 au Seigneur\

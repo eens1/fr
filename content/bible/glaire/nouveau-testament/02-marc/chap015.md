@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nConseil des Juifs contre J\xE9sus-Christ.\nJ\xE9sus devant Pilate ; on\

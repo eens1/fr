@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nEliu continue de calomnier Job.\nIl soutient que c\u2019est pour l\u2019\

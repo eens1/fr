@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nDes f\xEAtes de P\xE2que, de la Pentec\xF4te et des Tabernacles.\nDes\

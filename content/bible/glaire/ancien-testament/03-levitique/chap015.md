@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nLoi touchant les impuret\xE9s involontaires des hommes et des femmes.\n"

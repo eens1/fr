@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nLe proph\xE8te d\xE9plore la ruine d\u2019Isra\xEBl.\nIl l\u2019exhorte\

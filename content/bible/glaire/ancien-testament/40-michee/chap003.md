@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nD\xE9sordres des princes, des juges, des pr\xEAtres et des faux proph\xE8\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nSaint Paul exhorte Phil\xE9mon \xE0 recevoir On\xE9sime, son esclave,\

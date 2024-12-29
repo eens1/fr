@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nPi\xE9t\xE9 de Josias.\nIl r\xE9pare le temple, o\xF9 on trouve le livre\

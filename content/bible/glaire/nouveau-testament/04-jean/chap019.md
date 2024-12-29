@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nFlagellation.\nCouronnement d\u2019\xE9pines.\nPilate cherche les moyens\

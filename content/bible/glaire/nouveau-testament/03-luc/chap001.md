@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nPrologue de saint Luc.\nNaissance de saint Jean-Baptiste.\nL\u2019incarnation\

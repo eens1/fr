@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nEliphaz accuse Job d\u2019imiter les blasph\xE9mateurs, et soutient que\

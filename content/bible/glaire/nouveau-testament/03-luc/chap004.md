@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nJe\xFBne et tentation de J\xE9sus-Christ.\nIl pr\xEAche dans la Galil\xE9\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nPuret\xE9, d\xE9sint\xE9ressement, sollicitude de saint Paul dans la pr\xE9\

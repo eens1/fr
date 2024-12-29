@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nAum\xF4nes abondantes des Eglises de Mac\xE9doine pour les saints de J\xE9\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nVoyage de Jacob \xE0 B\xE9thel.\nNaissance de Benjamin.\nD\xE9nombrement\

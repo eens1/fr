@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nMaux qui doivent tomber sur la Jud\xE9e.\nPunition de ses ennemis.\nR\xE9\

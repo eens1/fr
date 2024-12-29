@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nEsther se pr\xE9sente devant Assu\xE9rus, et le prie de venir au festin\

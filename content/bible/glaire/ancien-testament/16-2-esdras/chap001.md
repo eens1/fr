@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nN\xE9h\xE9mias apprend le triste \xE9tat de J\xE9rusalem.\nPri\xE8re qu\u2019\

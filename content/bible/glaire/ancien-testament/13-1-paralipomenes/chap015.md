@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nTransport de l\u2019arche de la maison d\u2019Ob\xE9d\xE9dom.\nMichol\

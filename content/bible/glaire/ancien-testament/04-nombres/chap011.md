@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nMurmure des Isra\xE9lites puni par un feu envoy\xE9 de Dieu.\nChoix de\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nPeine contre ceux qui ne d\xE9couvrent pas au juge ce qu\u2019ils savent.\n\

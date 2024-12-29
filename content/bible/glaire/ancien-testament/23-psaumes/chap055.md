@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nDavid expose \xE0 Dieu les maux qu\u2019il souffre de la part de ses ennemis.\n\

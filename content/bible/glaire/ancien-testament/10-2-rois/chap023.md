@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nDerni\xE8res paroles de David.\nNoms des plus vaillants hommes de son\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nPierre et Jean mis en prison.\nAccroissement du nombre des fid\xE8les.\n\

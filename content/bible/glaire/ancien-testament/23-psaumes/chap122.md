@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nCe psaume contient une pri\xE8re, qu\u2019Orig\xE8ne, saint Jean Chrysostome,\

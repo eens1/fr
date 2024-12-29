@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:46+02:00
 draft: false
 summary: "\nSuite de la description de la J\xE9rusalem c\xE9leste.\nConclusion de\

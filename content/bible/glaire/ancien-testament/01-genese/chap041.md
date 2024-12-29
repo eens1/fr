@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nSonges de Pharaon expliqu\xE9s par Joseph.\nEl\xE9vation de Joseph.\n\

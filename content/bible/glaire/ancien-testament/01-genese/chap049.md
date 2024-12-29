@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nDerni\xE8res paroles de Jacob.\nIl pr\xE9dit \xE0 chacun de ses fils ce\

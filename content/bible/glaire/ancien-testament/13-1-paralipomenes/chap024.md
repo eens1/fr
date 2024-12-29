@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nDavid r\xE8gle l\u2019ordre et les fonctions des pr\xEAtres et des L\xE9\

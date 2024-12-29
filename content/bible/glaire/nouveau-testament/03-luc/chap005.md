@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nJ\xE9sus dans la barque de Pierre.\nP\xEAche miraculeuse.\nGu\xE9rison\

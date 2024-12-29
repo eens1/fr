@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nNaboth refuse de vendre sa vigne \xE0 Achab.\nJ\xE9zabel fait condamner\

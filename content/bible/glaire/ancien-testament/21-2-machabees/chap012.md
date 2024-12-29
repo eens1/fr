@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nLes Juifs sont pers\xE9cut\xE9s par les gouverneurs des pays voisins de\

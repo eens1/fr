@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nBaruch exhorte les Isra\xE9lites \xE0 se convertir au Seigneur et \xE0\

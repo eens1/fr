@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nFestin donn\xE9 par Assu\xE9rus.\nLa reine Vasthi refuse d\u2019y venir.\n\

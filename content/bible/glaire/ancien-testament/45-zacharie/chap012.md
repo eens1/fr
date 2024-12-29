@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nJuda et J\xE9rusalem seront afflig\xE9s par leurs ennemis ; mais le Seigneur\

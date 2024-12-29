@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nJ\xE9sus accus\xE9 devant Pilate, envoy\xE9 \xE0 H\xE9rode et ramen\xE9\

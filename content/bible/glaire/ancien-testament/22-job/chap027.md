@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nJob persiste \xE0 soutenir son innocence.\nIl expose les malheurs qui\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nVengeances du Seigneur contre l\u2019infid\xE9lit\xE9 de Juda.\nMaudit\

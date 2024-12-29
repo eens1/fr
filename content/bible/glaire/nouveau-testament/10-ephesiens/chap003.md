@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nLe myst\xE8re de la vocation des gentils est r\xE9v\xE9l\xE9 \xE0 saint\

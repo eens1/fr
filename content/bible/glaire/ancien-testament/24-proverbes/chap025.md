@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nCoeur des rois imp\xE9n\xE9trable.\nNe pas s\u2019\xE9lever soi-m\xEA\

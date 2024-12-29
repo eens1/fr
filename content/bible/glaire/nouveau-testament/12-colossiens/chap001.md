@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nSaint Paul, apr\xE8s avoir salu\xE9 les Colossiens, rend gr\xE2ces \xE0\

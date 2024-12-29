@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nAmasias ach\xE8te des troupes du roi d\u2019Isra\xEBl ; il d\xE9fait les\

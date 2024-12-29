@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nEliu accuse Job de s\u2019\xEAtre \xE9lev\xE9 contre Dieu, et d\u2019\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nDemeures ou stations des Isra\xE9lites dans le d\xE9sert, depuis leur\

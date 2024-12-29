@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nD\xE9fense de sacrifier au Seigneur en aucun autre lieu qu\u2019\xE0 l\u2019\

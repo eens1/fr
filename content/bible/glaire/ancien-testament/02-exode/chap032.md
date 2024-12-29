@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nLe peuple adore le veau d\u2019or.\nMo\xEFse brise les tables de la loi.\n\

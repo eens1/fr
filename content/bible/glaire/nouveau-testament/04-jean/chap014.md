@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nSermon apr\xE8s la c\xE8ne.\nJ\xE9sus va pr\xE9parer un lieu \xE0 ses\

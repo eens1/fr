@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nEsdras est envoy\xE9 en Jud\xE9e par Artaxerx\xE8s.\nEdit de ce prince\

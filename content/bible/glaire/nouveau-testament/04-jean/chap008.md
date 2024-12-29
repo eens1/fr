@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nFemme adult\xE8re pr\xE9sent\xE9e \xE0 J\xE9sus-Christ.\nJ\xE9sus lumi\xE8\

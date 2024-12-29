@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nTransfiguration de J\xE9sus-Christ.\nAv\xE8nement d\u2019Elie.\nGu\xE9\

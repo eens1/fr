@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nCro\xEEtre en J\xE9sus-Christ ; s\u2019approcher de lui comme de la pierre\

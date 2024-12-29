@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nMenaces contre ceux qui consultent les faux proph\xE8tes et qui demeurent\

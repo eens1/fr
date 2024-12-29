@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nDans ce psaume, qui est un des sept p\xE9nitentiaux, l\u2019auteur, du\

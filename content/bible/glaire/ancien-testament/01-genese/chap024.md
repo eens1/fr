@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nL\u2019intendant de la maison d\u2019Abraham va en M\xE9sopotamie demander\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nEloge de Josu\xE9 et de Caleb ; des juges en g\xE9n\xE9ral, et en particulier\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nL\u2019histoire ne pr\xE9sente aucun prince \xE0 qui on puisse faire l\u2019\

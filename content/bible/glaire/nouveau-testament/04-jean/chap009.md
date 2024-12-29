@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nAveugle-n\xE9 gu\xE9ri par J\xE9sus-Christ.\nEnqu\xEAte des pharisiens\

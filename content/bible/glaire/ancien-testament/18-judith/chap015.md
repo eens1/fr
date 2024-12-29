@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nLa frayeur se r\xE9pand dans le camp des Assyriens ; ils prennent la fuite.\n\

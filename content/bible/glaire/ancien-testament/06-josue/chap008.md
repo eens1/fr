@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nPrise de la ville de Ha\xEF.\nB\xE9n\xE9dictions et mal\xE9dictions prononc\xE9\

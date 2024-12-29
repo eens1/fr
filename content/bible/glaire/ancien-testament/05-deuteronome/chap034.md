@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nMort de Mo\xEFse.\nSa s\xE9pulture.\nJosu\xE9 lui succ\xE8de.\nEloge de\

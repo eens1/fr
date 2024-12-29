@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nObligation importante et indispensable d\u2019ob\xE9ir \xE0 l\u2019Evangile\

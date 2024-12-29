@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:46+02:00
 draft: false
 summary: "\nOuverture du septi\xE8me sceau.\nSept anges paraissent avec sept trompettes.\n\

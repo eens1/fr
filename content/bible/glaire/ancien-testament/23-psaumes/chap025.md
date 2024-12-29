@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nDavid prend Dieu \xE0 t\xE9moin de son innocence, et le conjure de ne\

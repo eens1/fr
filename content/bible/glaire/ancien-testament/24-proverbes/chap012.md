@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nAimer la correction.\nCultiver la pi\xE9t\xE9.\nLa femme vigilante.\n\

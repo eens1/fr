@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nSaint Paul \xE9tablit et caract\xE9rise son apostolat.\nIl t\xE9moigne\

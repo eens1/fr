@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nDieu ch\xE2tie avec patience ceux qui l\u2019ont offens\xE9 pour leur\

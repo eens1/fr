@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nNe pas \xEAtre jaloux de sa femme.\nFuir la compagnie des femmes \xE9\

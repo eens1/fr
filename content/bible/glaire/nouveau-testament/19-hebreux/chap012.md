@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nA tous ces exemples par lesquels il exhorte les H\xE9breux \xE0 courir\

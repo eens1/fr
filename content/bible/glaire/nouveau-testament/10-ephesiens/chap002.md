@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nL\u2019homme mort par le p\xE9ch\xE9 est ressuscit\xE9 en J\xE9sus-Christ.\n\

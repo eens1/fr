@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nPi\xE9t\xE9 de Joas ; il r\xE9pare la maison du Seigneur, puis il abandonne\

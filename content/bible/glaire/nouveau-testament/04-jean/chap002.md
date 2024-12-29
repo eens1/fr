@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nNoces de Cana.\nChangement de l\u2019eau en vin.\nVendeurs chass\xE9s\

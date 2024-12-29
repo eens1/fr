@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nFaux docteurs, ch\xE2timent qui leur est r\xE9serv\xE9.\nExemples de la\

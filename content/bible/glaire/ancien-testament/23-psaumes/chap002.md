@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nEn vain les rois et les peuples de la terre s\u2019opposent \xE0 l\u2019\

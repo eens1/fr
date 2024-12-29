@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nLa reine de Saba vient trouver Salomon.\nSagesse et richesses de ce prince.\n\

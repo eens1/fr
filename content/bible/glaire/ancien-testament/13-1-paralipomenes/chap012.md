@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nD\xE9nombrement de ceux qui se joignirent \xE0 David pendant la pers\xE9\

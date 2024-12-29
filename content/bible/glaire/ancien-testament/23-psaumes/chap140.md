@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nLe Psalmiste prie Dieu d\u2019exaucer sa pri\xE8re, de le garder de l\u2019\

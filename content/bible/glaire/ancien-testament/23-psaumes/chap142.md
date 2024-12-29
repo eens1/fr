@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nCe psaume est un de ceux de la p\xE9nitence.\nDavid, chass\xE9 de J\xE9\

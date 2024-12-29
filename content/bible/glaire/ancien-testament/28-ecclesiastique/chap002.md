@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nExhortation \xE0 la patience dans les tentations et les \xE9preuves.\n\

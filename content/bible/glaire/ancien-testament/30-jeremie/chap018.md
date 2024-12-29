@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nComme le potier fait de son argile ce qu\u2019il veut, ainsi le Seigneur\

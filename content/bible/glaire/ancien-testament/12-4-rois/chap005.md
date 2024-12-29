@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nNaaman est gu\xE9ri de la l\xE8pre par le proph\xE8te Elis\xE9e.\nGi\xE9\

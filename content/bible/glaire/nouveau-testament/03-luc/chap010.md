@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nMission des soixante-douze disciples.\nMalheur des villes imp\xE9nitentes.\n\

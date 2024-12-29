@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nDavid apprend la fuite d\u2019Isra\xEBl et la mort de Sa\xFCl et de Jonathas.\n\

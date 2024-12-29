@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nNe pas attendre la vieillesse pour servir le Seigneur.\nEnigme de la vieillesse.\n\

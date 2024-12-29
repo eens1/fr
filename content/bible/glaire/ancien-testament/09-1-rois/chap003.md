@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nLe Seigneur d\xE9clare \xE0 Samuel les jugements qu\u2019il va exercer\

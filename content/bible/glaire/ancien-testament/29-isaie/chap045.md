@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nVictoires de Cyrus, r\xE8gne de justice.\nD\xE9livrance d\u2019Isra\xEB\

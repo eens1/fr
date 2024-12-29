@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nEliu accuse Job de blasph\xE8me.\nIl rel\xE8ve la justice infinie de Dieu,\

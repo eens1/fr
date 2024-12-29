@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nLa verge d\u2019Aaron chang\xE9e en serpent.\nEndurcissement de Pharaon.\n\

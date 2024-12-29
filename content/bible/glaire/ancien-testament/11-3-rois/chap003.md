@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nSalomon \xE9pouse la fille de Pharaon.\nIl demande \xE0 Dieu la sagesse.\n\

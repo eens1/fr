@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nIsra\xEBl est vendu pour ses iniquit\xE9s ; Dieu est tout-puissant pour\

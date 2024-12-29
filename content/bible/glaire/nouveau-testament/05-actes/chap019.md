@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nPaul vient \xE0 Eph\xE8se.\nDisciples qui n\u2019avaient re\xE7u que le\

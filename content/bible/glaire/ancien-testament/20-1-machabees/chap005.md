@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nGuerres de Judas contre les Idum\xE9ens et contre les Ammonites.\nExp\xE9\

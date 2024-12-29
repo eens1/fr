@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nDispute \xE0 Antioche sur les observations l\xE9gales.\nSaint Paul et\

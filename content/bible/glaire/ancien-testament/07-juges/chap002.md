@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nUn envoy\xE9 de Dieu reprend les Isra\xE9lites d\u2019avoir \xE9pargn\xE9\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nJudas Machab\xE9e, ayant connu les Romains par la renomm\xE9e, envoie\

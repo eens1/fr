@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nPorte orientale qui demeure ferm\xE9e.\nReproche contre les Isra\xE9lites\

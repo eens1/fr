@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nConversion des gentils.\nIncr\xE9dulit\xE9 des Juifs.\nVengeance du Seigneur\

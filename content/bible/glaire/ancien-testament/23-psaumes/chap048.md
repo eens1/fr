@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nLe Psalmiste prouve l\u2019inutilit\xE9 des richesses, en montrant qu\u2019\

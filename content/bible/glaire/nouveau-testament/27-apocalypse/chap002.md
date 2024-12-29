@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nL\u2019ange d\u2019Eph\xE8se lou\xE9 de sa vertu, bl\xE2m\xE9 de son relachement.\n\

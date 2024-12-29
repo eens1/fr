@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nCons\xE9cration d\u2019Aaron et de ses fils.\nCons\xE9cration du tabernacle\

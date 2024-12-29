@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nExil de cette vie.\nSoupirs vers le ciel.\nTribunal de J\xE9sus-Christ.\n\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nCe Psaume contient comme un pr\xE9cis de toute la doctrine du psautier\

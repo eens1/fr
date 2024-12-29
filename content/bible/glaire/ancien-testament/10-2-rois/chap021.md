@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nFamine de trois ans dans Isra\xEBl.\nDavid livre aux Gabaonites sept personnes\

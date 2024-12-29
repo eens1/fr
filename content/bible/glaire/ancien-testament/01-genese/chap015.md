@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nDieu promet un fils \xE0 Abram.\nAlliance de Dieu avec Abram.\n"

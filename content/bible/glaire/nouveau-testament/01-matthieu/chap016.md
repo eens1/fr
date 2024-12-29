@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nProdige demand\xE9 et refus\xE9.\nLevain des pharisiens et des saducc\xE9\

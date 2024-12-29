@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nLe Psalmiste rend gr\xE2ces \xE0 Dieu des secours qu\u2019il lui a donn\xE9\

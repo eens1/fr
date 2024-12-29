@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nConsternation d\u2019Ez\xE9chias.\nIsa\xEFe le rassure.\nBlasph\xE8mes\

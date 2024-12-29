@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nDouceur dans les paroles.\nDocilit\xE9 aux corrections.\nVictime des impies.\n\

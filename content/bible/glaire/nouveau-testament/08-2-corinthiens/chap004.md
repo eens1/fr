@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nSinc\xE9rit\xE9 des Ap\xF4tres dans l\u2019exercice du minist\xE8re \xE9\

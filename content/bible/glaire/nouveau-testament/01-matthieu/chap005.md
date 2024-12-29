@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nSermon sur la montagne.\nB\xE9atitudes.\nAp\xF4tres, sel et lumi\xE8re\

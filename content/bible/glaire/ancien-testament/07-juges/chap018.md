@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nSix cents hommes de la tribu de Dan vont s\u2019\xE9tablir \xE0 La\xEF\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nR\xE9cit abr\xE9g\xE9 de ce qui arriva aux Isra\xE9lites depuis leur d\xE9\

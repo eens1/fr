@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nMo\xEFse exhorte les Isra\xE9lites \xE0 aimer le Seigneur, et \xE0 ne\

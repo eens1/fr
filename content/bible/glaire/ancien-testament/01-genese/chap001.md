@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nCr\xE9ation du monde.\nDieu soumet toutes les cr\xE9atures \xE0 l\u2019\

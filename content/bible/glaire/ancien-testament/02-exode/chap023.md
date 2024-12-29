@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nLois pour les juges.\nRepos de la septi\xE8me ann\xE9e et du septi\xE8\

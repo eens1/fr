@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nB\xE9s\xE9l\xE9el fait l\u2019arche, la table des pains de proposition,\

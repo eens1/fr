@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nD\xE9solation de la Jud\xE9e par le fl\xE9au des insectes et de la s\xE9\

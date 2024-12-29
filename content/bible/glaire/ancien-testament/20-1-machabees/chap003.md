@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nJudas Machab\xE9e succ\xE8de \xE0 Mathathias son p\xE8re.\nIl d\xE9fait\

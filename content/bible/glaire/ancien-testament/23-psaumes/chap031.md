@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nDavid rel\xE8ve le bonheur de ceux dont les p\xE9ch\xE9s sont effac\xE9\

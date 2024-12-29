@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nPaul et Barnab\xE9 sont envoy\xE9s aux gentils.\nIls passent dans l\u2019\

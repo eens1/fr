@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nDavid d\xE9livre C\xE9ila.\nIl se retire au d\xE9sert de Ziph.\nSa\xFC\

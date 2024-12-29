@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nCr\xE9ation de l\u2019homme ; pr\xE9rogatives que Dieu lui a donn\xE9\

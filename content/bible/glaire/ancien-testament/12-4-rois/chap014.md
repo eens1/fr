@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nAmasias fait mourir les meurtriers de son p\xE8re ; il bat les Idum\xE9\

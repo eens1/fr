@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nDavid implore le secours de Dieu parmi les nations \xE9trang\xE8res o\xF9\

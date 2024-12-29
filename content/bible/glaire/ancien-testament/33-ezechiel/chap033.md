@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nEz\xE9chiel est \xE9tabli sentinelle pour la maison d\u2019Isra\xEBl.\n\

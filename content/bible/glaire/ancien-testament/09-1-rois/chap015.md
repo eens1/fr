@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nGuerre contre les Amal\xE9cites.\nSa\xFCl \xE9pargne leur roi.\nSamuel\

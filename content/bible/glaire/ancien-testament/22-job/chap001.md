@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nOrigine de Job.\nSa vertu, ses richesses.\nDieu permet au d\xE9mon de\

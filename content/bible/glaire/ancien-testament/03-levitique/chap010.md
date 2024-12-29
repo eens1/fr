@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nNadab et Abiu consum\xE9s par le feu du ciel.\nLe vin d\xE9fendu aux pr\xEA\

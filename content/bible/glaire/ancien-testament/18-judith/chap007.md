@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nHoloferne assi\xE8ge B\xE9thulie ; les Isra\xE9lites en sont effray\xE9\

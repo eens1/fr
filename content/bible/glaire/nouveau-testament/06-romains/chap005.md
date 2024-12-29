@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nAvantages de la justification.\nL\u2019amour de Dieu envers nous, fondement\

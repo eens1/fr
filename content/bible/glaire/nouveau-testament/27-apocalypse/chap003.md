@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nL\u2019ange de Sardes mort devant Dieu, quoiqu\u2019on le croie vivant.\n\

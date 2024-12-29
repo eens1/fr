@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nTous entrent dans cette vie et en sortent de la m\xEAme mani\xE8re.\n\

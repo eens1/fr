@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nDivisions produites par les passions.\nOn n\u2019obtient pas, parce qu\u2019\

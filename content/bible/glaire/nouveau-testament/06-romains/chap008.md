@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nIl n\u2019y a pas de condamnation pour ceux qui se conduisent, non selon\

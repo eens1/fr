@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nLe Seigneur para\xEEt assis sur son tr\xF4ne ; il a quatre vieillards\

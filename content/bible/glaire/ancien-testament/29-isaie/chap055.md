@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nTous les hommes sont appel\xE9s \xE0 la foi et \xE0 la p\xE9nitence.\n\

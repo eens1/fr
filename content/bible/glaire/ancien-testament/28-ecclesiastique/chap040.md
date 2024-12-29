@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nMis\xE8res communes \xE0 tous les hommes.\nSort funeste des richesses\

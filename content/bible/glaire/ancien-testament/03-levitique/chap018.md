@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nDieu d\xE9fend aux Isra\xE9lites les coutumes des Egyptiens, et les mariages\

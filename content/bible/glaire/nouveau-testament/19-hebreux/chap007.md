@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nCaract\xE8re de Melchis\xE9dech, dont le sacerdoce est le symbole du sacerdoce\

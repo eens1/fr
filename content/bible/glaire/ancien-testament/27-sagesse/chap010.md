@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nMerveilles op\xE9r\xE9es par la sagesse depuis le commencement du monde,\

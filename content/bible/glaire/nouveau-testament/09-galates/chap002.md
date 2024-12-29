@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nSaint Paul conf\xE8re avec les Ap\xF4tres.\nOn ne l\u2019oblige pas \xE0\

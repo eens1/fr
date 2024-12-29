@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nP\xE2que c\xE9l\xE9br\xE9e \xE0 J\xE9rusalem sous Josias.\nCe prince attaque\

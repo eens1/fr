@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nJob se justifie devant ses amis en leur exposant le d\xE9tail de la conduite\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nMaladie d\u2019Ez\xE9chias.\nSa gu\xE9rison miraculeuse.\nR\xE9trogradation\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nOffres avantageuses d\u2019Antiochus Sid\xE8tes \xE0 Simon.\nTryphon,\

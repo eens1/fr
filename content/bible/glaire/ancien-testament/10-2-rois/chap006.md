@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nDavid va prendre l\u2019arche \xE0 Cariathiarim.\nOza est frapp\xE9 de\

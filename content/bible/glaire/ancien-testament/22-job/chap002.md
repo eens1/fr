@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nJob est frapp\xE9 d\u2019une plaie horrible.\nSa femme lui (l\u2019) insulte.\n\

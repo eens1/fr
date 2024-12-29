@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nJob expose la bri\xE8vet\xE9 de la vie et les mis\xE8res de l\u2019homme\

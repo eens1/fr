@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nDescription du temple montr\xE9 en esprit \xE0 Ez\xE9chiel.\nDescription\

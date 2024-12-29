@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nZ\xE8le de saint Paul pour les Juifs.\nPr\xE9rogatives de ce peuple.\n\

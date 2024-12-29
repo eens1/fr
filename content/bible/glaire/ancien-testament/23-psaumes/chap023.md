@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nDavid nous repr\xE9sente dans ce psaume l\u2019entr\xE9e triomphante de\

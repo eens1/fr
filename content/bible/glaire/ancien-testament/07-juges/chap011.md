@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nJepht\xE9, choisi pour \xEAtre chef des Isra\xE9lites, combat les Ammonites,\

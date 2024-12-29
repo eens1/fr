@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nAbim\xE9lech se fait d\xE9clarer roi.\nLes Sich\xE9mites lui dressent\

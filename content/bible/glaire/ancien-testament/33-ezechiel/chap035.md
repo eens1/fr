@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nProph\xE9tie contre l\u2019Idum\xE9e, qui sera r\xE9duite en solitude,\

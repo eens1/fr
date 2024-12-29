@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nProph\xE9tie contre les habitants de J\xE9rusalem compar\xE9s au bois\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nVoyage d\u2019Isaac \xE0 G\xE9rara ; son retour \xE0 Bersab\xE9e ; son\

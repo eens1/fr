@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nR\xE9union d\u2019Isra\xEBl et de Juda.\nR\xE9probation de Samarie et\

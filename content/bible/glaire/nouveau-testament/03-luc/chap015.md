@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nMurmures des pharisiens contre J\xE9sus-Christ qui re\xE7oit les p\xE9\

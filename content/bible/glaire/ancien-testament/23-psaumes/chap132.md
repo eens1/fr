@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nBonheur des Juifs rassembl\xE9s \xE0 J\xE9rusalem apr\xE8s la captivit\xE9\

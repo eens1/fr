@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nDaniel \xE9lev\xE9 en honneur par Darius le M\xE8de.\nJalousie des satrapes\

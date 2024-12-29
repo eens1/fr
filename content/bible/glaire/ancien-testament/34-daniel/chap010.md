@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nVision de Daniel sur le Tigre.\nLe prince des Perses r\xE9siste \xE0 l\u2019\

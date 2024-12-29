@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nLes eaux se retirent.\nNo\xE9 sort de l\u2019arche ; il offre un sacrifice\

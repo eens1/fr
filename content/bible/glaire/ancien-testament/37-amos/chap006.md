@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nMalheur aux grands de Samarie.\nReproches contre eux.\nVengeances du Seigneur\

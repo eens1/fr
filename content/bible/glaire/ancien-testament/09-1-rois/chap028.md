@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nDerni\xE8re guerre des Philistins contre Sa\xFCl.\nDavid s\u2019engage\

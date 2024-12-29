@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nJosaphat est repris d\u2019avoir donn\xE9 du secours \xE0 Achab.\nIl fait\

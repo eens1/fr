@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nMenaces contre la terre d\u2019Isra\xEBl.\nEp\xE9e du Seigneur pr\xE9\

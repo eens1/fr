@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nVanit\xE9 des songes.\nAvantage de l\u2019exp\xE9rience.\nBonheur de celui\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nLe roi de Syrie et le roi d\u2019Isra\xEBl se liguent contre J\xE9rusalem.\n\

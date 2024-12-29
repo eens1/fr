@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nFaux raisonnement des impies qui nient l\u2019immortalit\xE9 de l\u2019\

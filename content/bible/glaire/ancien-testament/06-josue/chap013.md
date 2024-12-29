@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nDieu ordonne \xE0 Josu\xE9 de partager aux Isra\xE9lites les terres qu\u2019\

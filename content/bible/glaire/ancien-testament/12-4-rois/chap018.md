@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nEz\xE9chias r\xE9tablit le culte du Seigneur dans sa puret\xE9.\nSennach\xE9\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nLe Psalmiste exalte la mis\xE9ricorde du Seigneur par le r\xE9cit des\

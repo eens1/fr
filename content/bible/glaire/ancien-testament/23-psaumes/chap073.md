@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nPlainte et pri\xE8re \xE0 Dieu au sujet de son peuple qui a \xE9t\xE9\

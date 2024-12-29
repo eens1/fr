@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nEloge de Josias, de J\xE9r\xE9mie, d\u2019Ez\xE9chiel, des douze petits\

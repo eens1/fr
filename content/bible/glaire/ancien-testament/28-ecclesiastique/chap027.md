@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nLe d\xE9sir des richesses, source de p\xE9ch\xE9.\nLes paroles de l\u2019\

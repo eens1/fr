@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nPlusieurs rapportent ce psaume \xE0 la d\xE9faite de l\u2019arm\xE9e de\

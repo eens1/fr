@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nNe pas avoir de d\xE9m\xEAl\xE9s avec un homme puissant.\nNe pas faire\

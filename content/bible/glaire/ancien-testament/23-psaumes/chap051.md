@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nTout en reprochant \xE0 Do\xEBg, l\u2019Idum\xE9en, d\u2019avoir irrit\xE9\

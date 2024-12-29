@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nNaissance de Dan, de Nephtali, de Gad, d\u2019Aser, d\u2019Issachar, de\

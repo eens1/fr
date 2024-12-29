@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nEtre attentif \xE0 la sagesse.\nVeiller sur ses pens\xE9es et sur ses\

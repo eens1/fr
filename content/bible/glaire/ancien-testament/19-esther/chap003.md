@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nEl\xE9vation d\u2019Aman.\nSa haine contre Mardoch\xE9e.\nIl obtient un\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:37+02:00
 draft: false
 summary: "\nLe Seigneur envoie Elie devant Achab.\nElie persuade \xE0 Abdias d\u2019\

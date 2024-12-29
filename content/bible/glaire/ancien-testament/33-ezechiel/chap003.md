@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:42+02:00
 draft: false
 summary: "\nEz\xE9chiel mange le livre qui lui est pr\xE9sent\xE9.\nLe Seigneur lui\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:39+02:00
 draft: false
 summary: "\nDavid se fortifie contre la crainte qu\u2019on voulait lui donner de ses\

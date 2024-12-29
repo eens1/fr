@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:34+02:00
 draft: false
 summary: "\nDina, fille de Jacob, est viol\xE9e par Sichem, fils d\u2019H\xE9mor.\n\

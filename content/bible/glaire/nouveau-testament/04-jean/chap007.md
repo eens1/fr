@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nLes parents de J\xE9sus veulent le persuader d\u2019aller en Jud\xE9e.\n\

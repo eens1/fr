@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nExhortation \xE0 l\u2019aum\xF4ne, \xE0 la douceur et \xE0 la compassion\

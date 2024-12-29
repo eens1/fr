@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:44+02:00
 draft: false
 summary: "\nAvantage des Juifs sur les gentils.\nL\u2019infid\xE9lit\xE9 de l\u2019\

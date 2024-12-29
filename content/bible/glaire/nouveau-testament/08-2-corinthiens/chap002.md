@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nCharit\xE9 de saint Paul envers les fid\xE8les de Corinthe.\nSon indulgence\

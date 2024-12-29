@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nEloge du grand-pr\xEAtre Simon, fils d\u2019Onias.\nLes Isra\xE9lites\

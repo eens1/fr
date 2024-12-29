@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:45+02:00
 draft: false
 summary: "\nSaint Paul menace de punir avec s\xE9v\xE9rit\xE9 ceux qui n\u2019auront\

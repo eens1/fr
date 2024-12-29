@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:46+02:00
 draft: false
 summary: "\nLe dragon est enferm\xE9 dans l\u2019ab\xEEme pour mille ans.\nLes \xE2\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:46+02:00
 draft: false
 summary: "\nLes parvis du temple et la ville sainte sont abandonn\xE9s \xE0 la profanation\

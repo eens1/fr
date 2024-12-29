@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nLois pour le discernement de la l\xE8pre des hommes et des habits.\n"

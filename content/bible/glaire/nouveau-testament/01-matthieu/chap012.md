@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nMurmures des pharisiens contre les disciples de J\xE9sus-Christ, qui arrachaient\

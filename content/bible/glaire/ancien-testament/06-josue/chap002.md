@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:36+02:00
 draft: false
 summary: "\nJosu\xE9 envoie deux espions pour reconna\xEEtre la ville de J\xE9richo.\n\

@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nParabole du festin des noces.\nRendre \xE0 C\xE9sar ce qui est \xE0 C\xE9\

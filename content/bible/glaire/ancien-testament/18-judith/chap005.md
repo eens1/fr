@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nHoloferne, averti que les enfants d\u2019Isra\xEBl vont lui r\xE9sister,\

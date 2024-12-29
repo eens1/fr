@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:43+02:00
 draft: false
 summary: "\nGu\xE9rison d\u2019un paralytique.\nVocation de saint Matthieu.\nJe\xFB\

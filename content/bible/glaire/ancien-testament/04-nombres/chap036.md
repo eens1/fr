@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:35+02:00
 draft: false
 summary: "\nLoi touchant les mariages des filles qui ont h\xE9rit\xE9, \xE0 d\xE9\

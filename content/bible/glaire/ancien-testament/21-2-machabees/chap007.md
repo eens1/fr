@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:38+02:00
 draft: false
 summary: "\nMartyre des sept fr\xE8res Machab\xE9es et de leur m\xE8re.\n"

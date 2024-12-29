@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:41+02:00
 draft: false
 summary: "\nPunition du prince oppresseur des Isra\xE9lites.\nD\xE9livrance de ce\

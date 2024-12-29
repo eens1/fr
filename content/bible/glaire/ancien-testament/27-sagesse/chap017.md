@@ -1,4 +1,5 @@
 ---
+show_summary: true
 date: 2024-09-06 20:00:40+02:00
 draft: false
 summary: "\nJugements de Dieu.\nT\xE9n\xE8bres de l\u2019Egypte et frayeur des Egyptiens,\
