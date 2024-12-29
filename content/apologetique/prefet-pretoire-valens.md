@@ -1,9 +1,4 @@
 ---
-{}
----
-
-
----
 title: "Célèbre entretien entre Saint Basile et le préfet du prétoire sous l'empereur Valens"
 ---
 
