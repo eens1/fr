@@ -1,8 +1,10 @@
 ---
-title: "Solitude"
-date: 2024-09-06T20:03:00+02:00
+date: 2024-09-06 20:03:00+02:00
 draft: false
+title: Solitude
 ---
+
+
 
 
 > *Saint Thomas d'Aquin, Somme théologique, p. 3, q. 188, a. 8* : "... la solitude convient au contemplatif qui est déjà arrivé à la perfection...

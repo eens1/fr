@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Jour de vengeance contre les méchants et de salut pour les justes.
-  Avènement d’Elie, conversion future des Juifs.
+summary: "\nJour de vengeance contre les m\xE9chants et de salut pour les justes.\n\
+  Av\xE8nement d\u2019Elie, conversion future des Juifs.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Car voici que viendra un jour embrasé comme la fournaise ; et tous les superbes et tous ceux qui commettent l'impiété seront de la paille, et le jour qui viendra les enflammera, dit le Seigneur des armées, et il ne leur laissera ni racine ni germe.

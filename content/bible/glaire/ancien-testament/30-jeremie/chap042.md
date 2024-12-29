@@ -1,13 +1,15 @@
 ---
-title: "Chapitre 42"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Les Juifs prient Jérémie de consulter le Seigneur.
-  Le Seigneur leur déclare que, s’ils restent en Judée, il les affermira ; il les exhorte à ne pas craindre le roi de Babylone, et les menace de ses vengeances s’ils se retirent en Egypte.
-  Jérémie leur reproche leur indocilité.
+summary: "\nLes Juifs prient J\xE9r\xE9mie de consulter le Seigneur.\nLe Seigneur\
+  \ leur d\xE9clare que, s\u2019ils restent en Jud\xE9e, il les affermira ; il les\
+  \ exhorte \xE0 ne pas craindre le roi de Babylone, et les menace de ses vengeances\
+  \ s\u2019ils se retirent en Egypte.\nJ\xE9r\xE9mie leur reproche leur indocilit\xE9\
+  .\n"
+title: Chapitre 42
 ---
+
+
 
 
 1 Et s'approchèrent tous les princes des hommes de guerre, Johanan, fils de Carée, et Jézonias, fils d'Osaïas, et tout le reste du peuple, depuis le petit jusqu'au grand ;

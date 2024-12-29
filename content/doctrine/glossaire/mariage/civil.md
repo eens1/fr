@@ -1,8 +1,10 @@
 ---
-title: "Acte civil"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Acte civil
 ---
+
+
 
 
 > *Instruction de la Sacrée Pénitencerie, 15 janvier 1866* : "(2) La Sacrée Pénitencerie estime superflu de remettre en mémoire à quiconque que c'est un dogme bien connu de notre très sainte religion que le mariage est l'un des sept sacrements institués par le Christ, le Seigneur, et que par conséquent son administration appartient uniquement à l'Eglise elle-même à qui ce même Christ a confié la dispensation de ses mystères divins; de même elle estime superflu de remettre en mémoire à quiconque la forme qui a été prescrite par le concile de Trente (24e session, Reforme du mariage, chap. 1 : 1813-1816, et sans l'observance de laquelle, dans les lieux où elle a été promulguée, en aucun cas un mariage ne peut être contracté de façon valide.

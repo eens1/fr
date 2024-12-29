@@ -1,11 +1,13 @@
 ---
-title: "Chapitre 17"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Cantique d’actions de grâces de David, ou description des périls auxquels il a été exposé, des victoires qu’il a remportées, et des grâces qu’il a reçues du Seigneur.
+summary: "\nCantique d\u2019actions de gr\xE2ces de David, ou description des p\xE9\
+  rils auxquels il a \xE9t\xE9 expos\xE9, des victoires qu\u2019il a remport\xE9es,\
+  \ et des gr\xE2ces qu\u2019il a re\xE7ues du Seigneur.\n"
+title: Chapitre 17
 ---
+
+
 
 
 1 Pour la fin, par le serviteur du Seigneur, David, qui a prononce à la gloire du Seigneur les paroles de ce cantique, au jour où le Seigneur l'arracha à la main de ses ennemis, et à la main de Saül, et a dit:

@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 18"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Dieu défend aux Israélites les coutumes des Egyptiens, et les mariages dans plusieurs degrés de parenté.
-  Il leur défend d’offrir leurs enfants à Moloch, et de commettre des impuretés contre nature.
+summary: "\nDieu d\xE9fend aux Isra\xE9lites les coutumes des Egyptiens, et les mariages\
+  \ dans plusieurs degr\xE9s de parent\xE9.\nIl leur d\xE9fend d\u2019offrir leurs\
+  \ enfants \xE0 Moloch, et de commettre des impuret\xE9s contre nature.\n"
+title: Chapitre 18
 ---
+
+
 
 
 1 Le Seigneur parla à Moïse, disant :2 Parle aux enfants d'Israël et tu leur diras : Je suis le Seigneur votre Dieu :

@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Guerre entre Abia, roi de Juda, et Jéroboam, roi d’Israël.
-  Défaite de Jéroboam.
+summary: "\nGuerre entre Abia, roi de Juda, et J\xE9roboam, roi d\u2019Isra\xEBl.\n\
+  D\xE9faite de J\xE9roboam.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 En la dix-huitième année du règne de Jéroboam, Abia régna sur Juda.

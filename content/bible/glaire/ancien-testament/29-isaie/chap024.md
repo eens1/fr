@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 24"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Maux qui doivent tomber sur la Judée.
-  Punition de ses ennemis.
-  Rétablissement de Jérusalem.
+summary: "\nMaux qui doivent tomber sur la Jud\xE9e.\nPunition de ses ennemis.\nR\xE9\
+  tablissement de J\xE9rusalem.\n"
+title: Chapitre 24
 ---
+
+
 
 
 1 Voici que le Seigneur dévastera la terre, et il la mettra à nu, et il affligera sa face, et il dispersera ses habitants.

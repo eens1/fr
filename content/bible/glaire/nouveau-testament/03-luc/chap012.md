@@ -1,20 +1,15 @@
 ---
-title: "Chapitre 12"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Levain des pharisiens ; ne craindre que Dieu.
-  Blasphème contre le Saint-Esprit.
-  Se garder de l’avarice.
-  Ne pas s’inquiéter pour les besoins de la vie.
-  Ne chercher que Dieu.
-  Vigilance.
-  Partage des serviteurs, fidèle et infidèle.
-  Feu apporté sur la terre.
-  Temps du Messie inconnu.
-  S’accorder avec son adversaire.
+summary: "\nLevain des pharisiens ; ne craindre que Dieu.\nBlasph\xE8me contre le\
+  \ Saint-Esprit.\nSe garder de l\u2019avarice.\nNe pas s\u2019inqui\xE9ter pour les\
+  \ besoins de la vie.\nNe chercher que Dieu.\nVigilance.\nPartage des serviteurs,\
+  \ fid\xE8le et infid\xE8le.\nFeu apport\xE9 sur la terre.\nTemps du Messie inconnu.\n\
+  S\u2019accorder avec son adversaire.\n"
+title: Chapitre 12
 ---
+
+
 
 
 1 Cependant une grande multitude s'étant assemblée autour de lui, de sorte qu'ils marchaient les uns sur les autres, il commença à dire à ses disciples : Gardez-vous du levain des pharisiens, qui est l'hypocrisie.

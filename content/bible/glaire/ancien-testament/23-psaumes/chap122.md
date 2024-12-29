@@ -1,12 +1,14 @@
 ---
-title: "Chapitre 122"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Ce psaume contient une prière, qu’Origène, saint Jean Chrysostome, Théodore d’Héraclée, Théodoret, Bède, etc. , mettent dans la bouche des captifs accablés sous le joug des Babyloniens.
-  Cantique des degrés.
+summary: "\nCe psaume contient une pri\xE8re, qu\u2019Orig\xE8ne, saint Jean Chrysostome,\
+  \ Th\xE9odore d\u2019H\xE9racl\xE9e, Th\xE9odoret, B\xE8de, etc. , mettent dans\
+  \ la bouche des captifs accabl\xE9s sous le joug des Babyloniens.\nCantique des\
+  \ degr\xE9s.\n"
+title: Chapitre 122
 ---
+
+
 
 
 1 J'ai levé mes yeux vers vous, qui habitez dans les cieux.

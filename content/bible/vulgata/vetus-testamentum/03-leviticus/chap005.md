@@ -1,8 +1,10 @@
 ---
-title: "Caput 5"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 5
 ---
+
+
 
 
 1 Si peccaverit anima, et audierit vocem iurantis, testisque fuerit quod aut ipse vidit, aut conscius est: nisi indicaverit, portabit iniquitatem suam.

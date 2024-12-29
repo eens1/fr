@@ -1,8 +1,10 @@
 ---
-title: "Chap. 3 - Le sujet de la pénitence (901-907)"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Chap. 3 - Le sujet de la p\xE9nitence (901-907)"
 ---
+
+
 
 
 **901**

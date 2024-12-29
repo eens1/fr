@@ -1,11 +1,13 @@
 ---
-title: "Chapitre 22"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  David exprime dans ce psaume les sentiments d’une âme que Dieu conduit lui-même et qu’il nourrit de sa grâce, de sa parole et de ses instructions.
+summary: "\nDavid exprime dans ce psaume les sentiments d\u2019une \xE2me que Dieu\
+  \ conduit lui-m\xEAme et qu\u2019il nourrit de sa gr\xE2ce, de sa parole et de ses\
+  \ instructions.\n"
+title: Chapitre 22
 ---
+
+
 
 
 1 Psaume de David. Le Seigneur me conduit, et rien ne me manquera;

@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Infidélité des enfants d’Israël ; leur longue captivité ; leur retour au Seigneur.
+summary: "\nInfid\xE9lit\xE9 des enfants d\u2019Isra\xEBl ; leur longue captivit\xE9\
+  \ ; leur retour au Seigneur.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 Et le Seigneur me dit : Vas encore, et aime une femme aimée par un ami, et adultère; comme le Seigneur aime les enfants d'Israël, et eux se tournent vers les dieux étrangers, et ils aiment le marc de raisins.

@@ -1,8 +1,10 @@
 ---
-title: "Chap. 2 - De la révélation"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Chap. 2 - De la r\xE9v\xE9lation"
 ---
+
+
 
 
 La méme sainte mère l'Eglise tient et enseigne que, par les choses créées, la lumière naturelle de la raison peut connaître avec certitude Dieu, principe et fin de toutes choses : car les perfections invisibles de Dieu sont devenues visibles depuis la création du monde par la connaissance que ses ouvrages nous donnent de lui; que cependant il a plu à sa sagesse et à sa bonté de révéler au genre humain, par une autre voie, par une voie surnaturelle, et lui-même et les décrets éternels de sa volonté. C'est ce que dit l'ApGtre dans ces paroles : « Dieu, qui avait parlé autrefois à nos pères en diverses manières et en diverses occasions par les prophètes, nous a parlé en ces derniers temps par son Fils ».

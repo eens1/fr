@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 9"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Le Seigneur apparaît une seconde fois à Salomon.
-  Ce prince donne vingt villes au roi de Tyr.
-  Il bâtit plusieurs villes et s’assujettit plusieurs peuples.
-  Il envoie une flotte au pays d’Ophir.
+summary: "\nLe Seigneur appara\xEEt une seconde fois \xE0 Salomon.\nCe prince donne\
+  \ vingt villes au roi de Tyr.\nIl b\xE2tit plusieurs villes et s\u2019assujettit\
+  \ plusieurs peuples.\nIl envoie une flotte au pays d\u2019Ophir.\n"
+title: Chapitre 9
 ---
+
+
 
 
 1 Or, il arriva que lorsque Salomon eut achevé l'édifice de la maison du Seigneur, l'édifice du roi, et tout ce qu'il avait souhaité et voulu faire, 2 Le Seigneur lui apparut une seconde fois, comme il lui avait apparu à Gabaon.

@@ -1,11 +1,11 @@
 ---
-title: "Chapitre 12"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Cérémonie de la Pâque.
+summary: "\nC\xE9r\xE9monie de la P\xE2que.\n"
+title: Chapitre 12
 ---
+
+
 
 
 1 Le Seigneur dit aussi à Moïse et à Aaron dans la terre d'Egypte :

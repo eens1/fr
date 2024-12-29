@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 16"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Paul prend avec lui Timothée.
-  Il est détourné de prêcher en Asie et en Bythinie ; mais il est appelé en Macédoine.
-  Il arrive à Philippes ; conversion de Lydie.
-  Pythonisse délivrée.
-  Paul et Silas, fouettés et mis en prison, convertissent le geôlier ; leur délivrance.
+summary: "\nPaul prend avec lui Timoth\xE9e.\nIl est d\xE9tourn\xE9 de pr\xEAcher\
+  \ en Asie et en Bythinie ; mais il est appel\xE9 en Mac\xE9doine.\nIl arrive \xE0\
+  \ Philippes ; conversion de Lydie.\nPythonisse d\xE9livr\xE9e.\nPaul et Silas, fouett\xE9\
+  s et mis en prison, convertissent le ge\xF4lier ; leur d\xE9livrance.\n"
+title: Chapitre 16
 ---
+
+
 
 
 1 Paul arriva à Derbe, puis à Lystre. Et voilà qu'il s'y trouvait un disciple du nom de Timothée, fils d'une femme juive fidèle et d'un père gentil.

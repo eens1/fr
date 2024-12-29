@@ -1,8 +1,10 @@
 ---
-title: "Caput 31"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 31
 ---
+
+
 
 
 1 Postquam autem audivit verba filiorum Laban dicentium: Tulit Iacob omnia quae fuerunt patris nostri, et de illius facultate ditatus, factus est inclytus:

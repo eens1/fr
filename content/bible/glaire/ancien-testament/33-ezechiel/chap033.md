@@ -1,14 +1,15 @@
 ---
-title: "Chapitre 33"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Ezéchiel est établi sentinelle pour la maison d’Israël.
-  Le Seigneur ne veut pas la perte de la maison d’Israël, mais sa conversion.
-  En vain les enfants d’Israël se flattent-il de demeurer en possession de leur terre, tandis qu’ils irritent le Seigneur.
-  Ils écoutent Ezéchiel sans profiter de ses avertissements.
+summary: "\nEz\xE9chiel est \xE9tabli sentinelle pour la maison d\u2019Isra\xEBl.\n\
+  Le Seigneur ne veut pas la perte de la maison d\u2019Isra\xEBl, mais sa conversion.\n\
+  En vain les enfants d\u2019Isra\xEBl se flattent-il de demeurer en possession de\
+  \ leur terre, tandis qu\u2019ils irritent le Seigneur.\nIls \xE9coutent Ez\xE9chiel\
+  \ sans profiter de ses avertissements.\n"
+title: Chapitre 33
 ---
+
+
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

@@ -1,8 +1,10 @@
 ---
-title: "Caput 20"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 20
 ---
+
+
 
 
 1 Et audivit Phassur filius Emmer sacerdos, qui constitutus erat princeps in domo Domini, Ieremiam prophetantem sermones istos.

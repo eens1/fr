@@ -1,8 +1,9 @@
 ---
-title: "Lois pour l'Eglise universelle"
-date: 2024-09-06T20:02:53+02:00
+date: 2024-09-06 20:02:53+02:00
 draft: false
+title: Lois pour l'Eglise universelle
 ---
+
 
 
 > *E. Jombart, Manuel de droit canon, 1958* : "Autrefois l'abstinence faisait partie du jeûne. Aujourd'hui, jeûne et abstinence sont deux pratiques différentes, qu'on rencontre l'une sans l'autre." [^1]

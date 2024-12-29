@@ -1,8 +1,10 @@
 ---
-title: "Silence"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: Silence
 ---
+
+
 
 
 "1. Le silence sera gardé depuis complies jusques au sortir de prime au lendemain."

@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 21"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Coeur du roi dans la main de Dieu.
-  Paresse, source de misères.
-  Malheur de ceux qui ont le coeur dur pour les pauvres.
-  Avantages de la justice et de la sagesse.
-  Le salut est un don du Seigneur.
+summary: "\nCoeur du roi dans la main de Dieu.\nParesse, source de mis\xE8res.\nMalheur\
+  \ de ceux qui ont le coeur dur pour les pauvres.\nAvantages de la justice et de\
+  \ la sagesse.\nLe salut est un don du Seigneur.\n"
+title: Chapitre 21
 ---
+
+
 
 
 1 Comme sont les courants des eaux, ainsi est le coeur du roi dans la main du Seigneur : de quelque côté qu'il veut, il le fera tourner.

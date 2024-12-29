@@ -1,8 +1,10 @@
 ---
-title: "Caput 38"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 38
 ---
+
+
 
 
 1 Audivit autem Saphatias filius Mathan, et Gedelias filius Phassur, et Iuchal filius Selemiae, et Phassur filius Melchiae, sermones, quos Ieremias loquebatur ad omnem populum, dicens:

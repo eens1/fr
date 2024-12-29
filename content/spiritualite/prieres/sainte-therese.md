@@ -1,9 +1,11 @@
 ---
-title: "Prière à sainte Thérèse de l'Enfant Jésus (de Lisieux)"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
-image: "https://i.ibb.co/tJCwXbZ/sainte-therese-de-lisieux.jpg"
+image: https://i.ibb.co/tJCwXbZ/sainte-therese-de-lisieux.jpg
+title: "Pri\xE8re \xE0 sainte Th\xE9r\xE8se de l'Enfant J\xE9sus (de Lisieux)"
 ---
+
+
 
 {{< figure src="https://i.ibb.co/tJCwXbZ/sainte-therese-de-lisieux.jpg" >}}
 

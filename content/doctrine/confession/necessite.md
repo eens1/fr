@@ -1,8 +1,10 @@
 ---
-title: "Nécessité "
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "N\xE9cessit\xE9 "
 ---
+
+
 
 
 > *Ezéchiel 18:30-32* : "C'est pour cela que je jugerai chacun selon ses voies, maison d'Israël, dit le Seigneur Dieu. Convertissez-vous, et faites pénitence de toutes vos iniquités, et l'iniquité ne vous serapas à ruine.

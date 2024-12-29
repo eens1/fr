@@ -1,8 +1,10 @@
 ---
-title: "Caput 19"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 19
 ---
+
+
 
 
 1 Haec dicit Dominus: Vade, et accipe lagunculam figuli testeam a senioribus populi, et a senioribus sacerdotum:

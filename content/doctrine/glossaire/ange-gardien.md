@@ -1,8 +1,10 @@
 ---
-title: "Ange gardien"
-date: 2024-09-06T20:02:54+02:00
+date: 2024-09-06 20:02:54+02:00
 draft: false
+title: Ange gardien
 ---
+
+
 
 
 > *Saint Basile* : "Qu'il y ait auprès de chaque fidèle un ange qui dirige sa vie comme un guide et un Mentor, personne ne le contestera s'il se souvient de ces paroles du Seigneur : Ne méprisez pas un seul de ces petits, parce que leurs anges voient sans cesse la face de mon Père qui est sans le ciel. 

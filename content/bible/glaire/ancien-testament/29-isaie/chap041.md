@@ -1,15 +1,12 @@
 ---
-title: "Chapitre 41"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Règne du juste.
-  Ses conquêtes.
-  Délivrance d’Israël.
-  Ruine de Babylone.
-  Vanité et impuissance des idoles.
+summary: "\nR\xE8gne du juste.\nSes conqu\xEAtes.\nD\xE9livrance d\u2019Isra\xEBl.\n\
+  Ruine de Babylone.\nVanit\xE9 et impuissance des idoles.\n"
+title: Chapitre 41
 ---
+
+
 
 
 1 Que les îles se taisent devant moi, et que les nations prennent une nouvelle force; qu'elles s'approchent, et alors qu'elles parlent, et entrons ensemble en jugement.

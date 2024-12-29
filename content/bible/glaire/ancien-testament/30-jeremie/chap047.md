@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 47"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Prophétie de l’expédition de Nabuchodonosor contre les Philistins, après la prise de Jérusalem.
+summary: "\nProph\xE9tie de l\u2019exp\xE9dition de Nabuchodonosor contre les Philistins,\
+  \ apr\xE8s la prise de J\xE9rusalem.\n"
+title: Chapitre 47
 ---
+
+
 
 
 1 Parole du Seigneur qui fut adressée à Jérémie, le prophète, contre les Philistins, avant que Pharaon attaquât Gaza.

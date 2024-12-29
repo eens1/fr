@@ -1,8 +1,10 @@
 ---
-title: "Préambule"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Pr\xE9ambule"
 ---
+
+
 
 
 Le Fils de Dieu et Rédempteur du genre humain, Notre-Seigneur Jésus-Christ, sur le point de retourner à son Père céleste, promit d'être avec son Eglise militante sur la terre tous les jours, jusqu'à la consommation des siècles. C'est pourquoi il n'a jamais cessé un instant d'être avec son épouse bien-aimée, de l'assister dans ses enseignements, de la bénir dans ses oeuvres, de la secourir dans ses dangers. Mais cette Providence salutaire de Jésus-Christ, qui s'est continuellement montrée par d'autres bienfaits innombrables, s'est fait remarquer surtout par les fruits merveilleux que les Conciles oecuméniqnes, et nommément le Concile de Trente, bien qu'il se soit tenu dans de mauvais jours, ont répandu sur l'univers chrétien. Par là, en eflet, on a vu les dogmes très-saints de la religion définis avec plus de précision, exposés avec plus de développements, les erreurs condamnées et réprimées; par là, la discipline de l'Eglise rétablie et plus fortement sanctionnée, le zèle de la science et de la piété accru parmi les clercs, des collèges établis pour former à la sainte milice les jeunes gens, enfin les moeurs du peuple chrétien réformées grâce à l'instruction des fidèles plus soignée et à un plus fréquent usage des sacrements; par là encore une union plus intime des membres avec leur chef visible, et une nouvelle vigueur dans le corps mystique du Christ; par là les corporations religieuses multipliées, ainsi que d'autres établissements de la piété chrétienne; par là cette ardeur assidue et constante jusqu'au martyre pour propager au loin dans le monde le règne du Christ.

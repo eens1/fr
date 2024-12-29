@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 16"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Agneau envoyé de Moab.
-  Ressource offerte aux Moabites.
-  Défaite de Sennachérib.
-  Nouvel éclat du règne d’Ezéchias.
-  Endurcissement des Moabites ; leur prochaine désolation.
+summary: "\nAgneau envoy\xE9 de Moab.\nRessource offerte aux Moabites.\nD\xE9faite\
+  \ de Sennach\xE9rib.\nNouvel \xE9clat du r\xE8gne d\u2019Ez\xE9chias.\nEndurcissement\
+  \ des Moabites ; leur prochaine d\xE9solation.\n"
+title: Chapitre 16
 ---
+
+
 
 
 1 Envoyez, Seigneur, l'agneau dominateur de la terre, de la Pierre du désert à la montagne de la fille de Sion.

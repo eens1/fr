@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Description de l’autel des holocaustes, de la mer d’airain, des conques, chandeliers, tables et autres vaisseaux et ouvrages du temple.
+summary: "\nDescription de l\u2019autel des holocaustes, de la mer d\u2019airain,\
+  \ des conques, chandeliers, tables et autres vaisseaux et ouvrages du temple.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Il fit aussi un autel d'airain de vingt coudées de longueur, de vingt coudées de largeur, et de dix coudées de hauteur :

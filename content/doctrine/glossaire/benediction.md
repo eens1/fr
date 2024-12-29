@@ -1,8 +1,10 @@
 ---
-title: "Bénédiction"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "B\xE9n\xE9diction"
 ---
+
+
 
 
 > *Catholic Encyclopedia*, 1913 : "... à son sens strictement liturgique et restreint, la bénédiction peut être décrite comme un rite, consistant en une cérémonie et des prières accomplies au nom et avec l'autorité de l'Église par un ministre dûment qualifié, par lequel des personnes ou des choses sont sanctifiées comme étant dédié au service divin, ou par lequel certaines marques de faveur divine sont invoquées sur eux." [^1]

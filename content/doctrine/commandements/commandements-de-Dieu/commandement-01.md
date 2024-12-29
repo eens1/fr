@@ -1,8 +1,10 @@
 ---
-title: "Premier Commandement"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Premier Commandement
 ---
+
+
 
 
 > *Exode 20:3* : "Tu n'auras point de dieux étrangers devant moi." [^1]

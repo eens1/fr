@@ -1,8 +1,9 @@
 ---
-title: "Evangélisation catholique en Amérique "
-date: 2024-09-06T20:02:29+02:00
+date: 2024-09-06 20:02:29+02:00
 draft: false
+title: "Evang\xE9lisation catholique en Am\xE9rique "
 ---
+
 
 
 > *Annales des Frères Mineurs, 1680* : "Providence Divine, que vous êtes adorable ! L'Allemagne voit renverser sans dessus dessous, tout ce qu'elle a de plus saint et de plus sacré : l'Enfer produit une infinité de monstres d'hérésie, qui tâchent d'obscurcir la vérité de l'Evangile, sans qu'on puisse les faire revenir de leurs folies, ni par la force des raisons que les prédicateurs, et les écrivains catholiques leur proposent; ni par les assemblées que tant de princes et de docteurs ont faites sur ce sujet, ni même par la force des armes; 

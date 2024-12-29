@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 141"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  David, dans la caverne d’Engaddi, prie le Seigneur de le délivrer du danger pressant où l’exposent la malice et la fureur de ses ennemis.
+summary: "\nDavid, dans la caverne d\u2019Engaddi, prie le Seigneur de le d\xE9livrer\
+  \ du danger pressant o\xF9 l\u2019exposent la malice et la fureur de ses ennemis.\n"
+title: Chapitre 141
 ---
+
+
 
 
 1 Intelligence de David, lorsqu'il était dans la caverne, prière.

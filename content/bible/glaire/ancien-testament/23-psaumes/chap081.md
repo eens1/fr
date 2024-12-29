@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 81"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste exhorte les juges de la terre à exercer la justice sans acception des personnes et dans la crainte du jugement du Seigneur.
+summary: "\nLe Psalmiste exhorte les juges de la terre \xE0 exercer la justice sans\
+  \ acception des personnes et dans la crainte du jugement du Seigneur.\n"
+title: Chapitre 81
 ---
+
+
 
 
 1 Psaume d'Asaph. Dieu a assisté à une assemblée de dieux, mais au milieu deux, il juge des dieux.

@@ -1,9 +1,11 @@
 ---
-title: "Magnificat"
 date: 2024-12-08T06:07:26+0000
 draft: false
 tags: []
+title: Magnificat
 ---
+
+
 
 Source: Glaire 1905, Luc 1:46-54.
 

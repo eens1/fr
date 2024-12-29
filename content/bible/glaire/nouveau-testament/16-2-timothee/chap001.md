@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Saint Paul salue Timothée, lui témoigne son affection, l’exhorte à ranimer en lui la grâce de son ordination, et à ne pas rougir du Seigneur.
-  Plusieurs l’abandonnent.
-  Il rend témoignage à Onésiphore.
+summary: "\nSaint Paul salue Timoth\xE9e, lui t\xE9moigne son affection, l\u2019exhorte\
+  \ \xE0 ranimer en lui la gr\xE2ce de son ordination, et \xE0 ne pas rougir du Seigneur.\n\
+  Plusieurs l\u2019abandonnent.\nIl rend t\xE9moignage \xE0 On\xE9siphore.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Paul, apôtre de Jésus-Christ par la volonté de Dieu, selon la promesse de vie, qui est dans le Christ Jésus ;

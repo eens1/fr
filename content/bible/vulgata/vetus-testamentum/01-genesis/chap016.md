@@ -1,8 +1,10 @@
 ---
-title: "Caput 16"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 16
 ---
+
+
 
 
 1 Igitur Sarai, uxor Abram, non genuerat liberos: sed habens ancillam AEgyptiam nomine Agar,

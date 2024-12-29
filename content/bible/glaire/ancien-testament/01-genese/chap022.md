@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 22"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Sacrifice d’Isaac.
-  Dieu réitère ses promesses à Abraham.
-  Dénombrement des enfants de Nachor, frère d’Abraham.
+summary: "\nSacrifice d\u2019Isaac.\nDieu r\xE9it\xE8re ses promesses \xE0 Abraham.\n\
+  D\xE9nombrement des enfants de Nachor, fr\xE8re d\u2019Abraham.\n"
+title: Chapitre 22
 ---
+
+
 
 
 1 Après que ces choses se furent passées, Dieu éprouva Abraham, et lui dit : Abraham, Abraham. Et lui répondit : Me voici.

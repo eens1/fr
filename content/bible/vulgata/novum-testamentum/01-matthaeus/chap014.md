@@ -1,8 +1,10 @@
 ---
-title: "Caput 14"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
+title: Caput 14
 ---
+
+
 
 
 1 In illo tempore audivit Herodes tetrarcha fama Iesu:

@@ -1,8 +1,10 @@
 ---
-title: "Pensées"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: "Pens\xE9es"
 ---
+
+
 
 
 > *Jean Cassien, Conférences* : "Notre principal effort, la pensée fixe de notre coeur est de nous occuper sans cesse de Dieu et des choses divines. Tout ce qui peut nous en distraire, quelque grand qu'il puisse être, doit nous paraître secondaire et nuisible même. Cette obligation de notre esprit est parfaitement représentée dans l'Evangile par l'histoire de Marthe et de Marie." [^1]

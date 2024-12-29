@@ -1,8 +1,10 @@
 ---
-title: "Caput 9"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 9
 ---
+
+
 
 
 1 Et dixit David: Putasne est aliquis qui remanserit de domo Saul, ut faciam cum eo misericordiam propter Ionathan?

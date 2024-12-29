@@ -1,10 +1,13 @@
 ---
-title: "Marie d'Agréda"
 date: 2024-12-08T05:06:21+0000
 draft: false
+summary: "De l'Immacul\xE9e Conception de Marie, M\xE8re de Dieu, par la vertu du\
+  \ pouvoir divin."
 tags: []
-summary: "De l'Immaculée Conception de Marie, Mère de Dieu, par la vertu du pouvoir divin."
+title: "Marie d'Agr\xE9da"
 ---
+
+
 
 Source: [Marie d'Agréda, Cité de Dieu](https://www.google.fr/books/edition/La_cit%C3%A9_mystique_de_Dieu/d24wd3awK1YC?hl=fr&gbpv=1&dq=MArie%20d'agr%C3%A9da&pg=PA132&printsec=frontcover)
 

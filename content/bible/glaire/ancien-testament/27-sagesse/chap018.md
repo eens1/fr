@@ -1,13 +1,15 @@
 ---
-title: "Chapitre 18"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Les Egyptiens sont dans les ténèbres, tandis que les Israélites jouissent de la lumière.
-  Ces derniers sont ensuite guidés par une colonne de feu.
-  Les premiers-nés de l’Egypte sont exterminés sans réserve ; la plaie de la mort qui frappe les Hébreux dans le désert est bientôt arrêtée.
+summary: "\nLes Egyptiens sont dans les t\xE9n\xE8bres, tandis que les Isra\xE9lites\
+  \ jouissent de la lumi\xE8re.\nCes derniers sont ensuite guid\xE9s par une colonne\
+  \ de feu.\nLes premiers-n\xE9s de l\u2019Egypte sont extermin\xE9s sans r\xE9serve\
+  \ ; la plaie de la mort qui frappe les H\xE9breux dans le d\xE9sert est bient\xF4\
+  t arr\xEAt\xE9e.\n"
+title: Chapitre 18
 ---
+
+
 
 
 1 Mais, Seigneur, il y avait pour vos saints une grande lumière, et ils entendaient leur voix, mais ne voyaient pas leur visage. Et parce qu'ils ne souffraient pas les mêmes choses, ils vous glorifiaient :

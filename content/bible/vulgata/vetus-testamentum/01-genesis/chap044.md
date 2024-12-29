@@ -1,8 +1,10 @@
 ---
-title: "Caput 44"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 44
 ---
+
+
 
 
 1 Praecepit autem Ioseph dispensatori domus suae, dicens: Imple saccos eorum frumento, quantum possunt capere: et pone pecuniam singulorum in summitate sacci.

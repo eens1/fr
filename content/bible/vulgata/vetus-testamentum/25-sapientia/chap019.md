@@ -1,8 +1,10 @@
 ---
-title: "Caput 19"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 19
 ---
+
+
 
 
 1 Impiis autem usque in novissimum sine misericordia ira supervenit. Praesciebat enim et futura illorum:

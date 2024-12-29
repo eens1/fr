@@ -1,12 +1,16 @@
 ---
-title: "Chapitre 97"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste invite toutes les créatures à s’unir à lui pour louer Dieu des merveilles qu’il avait faites en faveur de son peuple et du salut qu’il lui avait procuré.
-  Les Juifs expliquent ce psaume de l’avènement du Messie qu’ils attendent ; les Pères et les interprètes chrétiens, du premier ou du second avènement de Jésus-Christ ou de tous les deux.
+summary: "\nLe Psalmiste invite toutes les cr\xE9atures \xE0 s\u2019unir \xE0 lui\
+  \ pour louer Dieu des merveilles qu\u2019il avait faites en faveur de son peuple\
+  \ et du salut qu\u2019il lui avait procur\xE9.\nLes Juifs expliquent ce psaume de\
+  \ l\u2019av\xE8nement du Messie qu\u2019ils attendent ; les P\xE8res et les interpr\xE8\
+  tes chr\xE9tiens, du premier ou du second av\xE8nement de J\xE9sus-Christ ou de\
+  \ tous les deux.\n"
+title: Chapitre 97
 ---
+
+
 
 
 1 Psaume à David {de David) lui-même. Chantez au Seigneur un cantique nouveau, parce qu'il a fait des merveilles. Sa droite et son bras saint l'ont sauvé lui-même.

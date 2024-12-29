@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 112"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste exhorte les serviteurs du Seigneur à le louer pour sa grandeur, sa puissance et sa bonté.
-  Alleluia.
+summary: "\nLe Psalmiste exhorte les serviteurs du Seigneur \xE0 le louer pour sa\
+  \ grandeur, sa puissance et sa bont\xE9.\nAlleluia.\n"
+title: Chapitre 112
 ---
+
+
 
 
 1 Louez le Seigneur, enfants, louez le nom du Seigneur.

@@ -1,8 +1,10 @@
 ---
-title: "Indifférentisme religieux"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "Indiff\xE9rentisme religieux"
 ---
+
+
 
 
 > *Pape Pie XI, Mortalium animos, 1928* : "Convaincus qu'il est très rare de rencontrer des hommes dépourvus de tout sens religieux, on les voit nourrir l'espoir qu'il serait possible d'amener sans difficulté les peuples, malgré leurs divergences, religieuses, à une entente fraternelle sur la profession de certaines doctrines considérées comme un fondement commun de vie spirituelle. C'est pourquoi, ils se mettent à tenir des congrès, des réunions, des conférences, fréquentés par un nombre appréciable d'auditeurs, et, à leurs discussions, ils invitent tous les hommes indistinctement, les infidèles de tout genre comme les fidèles du Christ, et même ceux qui, par malheur, se sont séparés du Christ ou qui, avec âpreté et obstination, nient la divinité de sa nature et de sa mission. 

@@ -1,8 +1,10 @@
 ---
-title: "Dans la Bible"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Dans la Bible
 ---
+
+
 
 
 > *Tite 3:10* : "Evite un homme hérétique, après une première et une seconde admonition; Sachant qu'un tel homme est perverti, et qu'il pèche, puisqu'il est condamné par son propre jugement." [^1]

@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 12"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Mardochée découvre une conspiration que deux eunuques d’Assuérus avaient formée contre lui.
+summary: "\nMardoch\xE9e d\xE9couvre une conspiration que deux eunuques d\u2019Assu\xE9\
+  rus avaient form\xE9e contre lui.\n"
+title: Chapitre 12
 ---
+
+
 
 
 1 Or il demeurait en ce temps-là à la cour du roi avec Bagatha et Thara, eunuques du roi, qui étaient les portiers du palais.

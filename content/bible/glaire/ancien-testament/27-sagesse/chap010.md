@@ -1,11 +1,13 @@
 ---
-title: "Chapitre 10"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Merveilles opérées par la sagesse depuis le commencement du monde, en la personne d’Adam, de Noé, d’Abraham, de Jacob, de Joseph, de Moïse, et en faveur des Israélites.
+summary: "\nMerveilles op\xE9r\xE9es par la sagesse depuis le commencement du monde,\
+  \ en la personne d\u2019Adam, de No\xE9, d\u2019Abraham, de Jacob, de Joseph, de\
+  \ Mo\xEFse, et en faveur des Isra\xE9lites.\n"
+title: Chapitre 10
 ---
+
+
 
 
 1 C'est elle qui conserva celui qui fut formé le premier par Dieu, pour être le père du globe de la terre, ayant d'abord été créé seul ; 2 Et elle le tira de son péché, et lui donna la force de gouverner toutes choses.

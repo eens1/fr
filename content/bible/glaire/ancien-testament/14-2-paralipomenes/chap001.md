@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Sacrifice de Salomon sur l’autel de Gabaon.
-  Dieu lui donne la sagesse, la gloire et les richesses.
+summary: "\nSacrifice de Salomon sur l\u2019autel de Gabaon.\nDieu lui donne la sagesse,\
+  \ la gloire et les richesses.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Salomon, fils de David, fut donc affermi dans la royauté, et le Seigneur son Dieu était avec lui ; et le Seigneur l'éleva très haut.

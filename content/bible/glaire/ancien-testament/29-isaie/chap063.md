@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 63"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Vainqueur qui sort de l’Idumée tout couvert de sang.
-  Reconnaissance des miséricordes du Seigneur sur Israël.
-  Aveu de l’infidélité de ce peuple.
-  Voeu pour son entière délivrance.
+summary: "\nVainqueur qui sort de l\u2019Idum\xE9e tout couvert de sang.\nReconnaissance\
+  \ des mis\xE9ricordes du Seigneur sur Isra\xEBl.\nAveu de l\u2019infid\xE9lit\xE9\
+  \ de ce peuple.\nVoeu pour son enti\xE8re d\xE9livrance.\n"
+title: Chapitre 63
 ---
+
+
 
 
 1 Quel est celui qui vient d'Edom, de Bosra, les vêtements teints? il est beau dans sa robe, il marche dans la grandeur de sa puissance. C'est moi qui parle justice, et qui combats pour sauver.

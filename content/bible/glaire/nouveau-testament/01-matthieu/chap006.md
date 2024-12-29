@@ -1,19 +1,13 @@
 ---
-title: "Chapitre 6"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Suite du sermon sur la montagne.
-  Aumône.
-  Prière.
-  Jeûne.
-  Trésor dans le ciel.
-  OEil simple.
-  Servir Dieu, non l’argent.
-  Ne point s’inquiéter des besoins de la vie.
-  Confiance en la Providence.
+summary: "\nSuite du sermon sur la montagne.\nAum\xF4ne.\nPri\xE8re.\nJe\xFBne.\n\
+  Tr\xE9sor dans le ciel.\nOEil simple.\nServir Dieu, non l\u2019argent.\nNe point\
+  \ s\u2019inqui\xE9ter des besoins de la vie.\nConfiance en la Providence.\n"
+title: Chapitre 6
 ---
+
+
 
 
 1 Prenez garde à ne pas faire votre justice devant les hommes, pour être vus deux ; autrement vous n'aurez point de récompense de votre Père qui est dans les cieux. 2 Lors donc que tu fais l'aumône, ne sonne pas de la trompette devant toi, comme font les hypocrites dans les synagogues et dans les rues, afin d'être honorés des hommes. En vérité, je vous le dis, ils ont reçu leur récompense. 3 Pour toi, quand tu fais l'aumône, que ta main gauche ne sache pas ce que fait ta droite, 4 Afin que ton aumône soit dans le secret; et ton Père, qui voit dans le secret, te le rendra.

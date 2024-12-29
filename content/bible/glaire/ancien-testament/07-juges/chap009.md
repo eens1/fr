@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 9"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Abimélech se fait déclarer roi.
-  Les Sichémites lui dressent des embûches.
-  Il prend Sichem.
-  Il est tué au siège de Thébès.
+summary: "\nAbim\xE9lech se fait d\xE9clarer roi.\nLes Sich\xE9mites lui dressent\
+  \ des emb\xFBches.\nIl prend Sichem.\nIl est tu\xE9 au si\xE8ge de Th\xE9b\xE8s.\n"
+title: Chapitre 9
 ---
+
+
 
 
 1 Or, Abimélech, fils de Jérobaal, s'en alla à Sichem vers les frères de sa mère, et il leur parla, ainsi qu'à toute la parenté de la maison du père de sa mère, disant :

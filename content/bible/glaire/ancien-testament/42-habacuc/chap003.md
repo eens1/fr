@@ -1,14 +1,14 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Prière d’Habacuc.
-  Il se rappelle les merveilles opérées par le Seigneur en faveur de son peuple.
-  Il s’afflige de la désolation qui menace son peuple.
-  Il se console par l’espoir du secours que le Seigneur accordera à ce peuple.
+summary: "\nPri\xE8re d\u2019Habacuc.\nIl se rappelle les merveilles op\xE9r\xE9es\
+  \ par le Seigneur en faveur de son peuple.\nIl s\u2019afflige de la d\xE9solation\
+  \ qui menace son peuple.\nIl se console par l\u2019espoir du secours que le Seigneur\
+  \ accordera \xE0 ce peuple.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 Prière d'Habacuc, le prophète, pour les ignorances.

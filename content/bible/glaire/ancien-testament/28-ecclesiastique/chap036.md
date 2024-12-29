@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 36"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Prière de l’auteur de ce livre pour attirer la miséricorde de Dieu sur Israël.
-  Du coeur éclairé et du coeur corrompu.
-  Avantage de celui qui a une femme vertueuse.
+summary: "\nPri\xE8re de l\u2019auteur de ce livre pour attirer la mis\xE9ricorde\
+  \ de Dieu sur Isra\xEBl.\nDu coeur \xE9clair\xE9 et du coeur corrompu.\nAvantage\
+  \ de celui qui a une femme vertueuse.\n"
+title: Chapitre 36
 ---
+
+
 
 
 1 Ayez pitié de nous, Dieu de toutes choses, et regardez-nous, et montrez-nous la lumière de vos miséricordes ; 2 Et envoyez votre terreur sur les nations qui ne vous ont point recherché, afin qu'elles sachent qu'il n'y a point de Dieu, si ce n'est vous, et qu'elles racontent vos merveilles. 3 Levez votre main sur les nations étrangères, afin qu'elles voient votre puissance ; 4 Car comme en leur présence vous avez été sanctifié parmi nous, ainsi en notre présence vous serez glorifié parmi elles;

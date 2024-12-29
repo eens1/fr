@@ -1,8 +1,10 @@
 ---
-title: "Caput 21"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
+title: Caput 21
 ---
+
+
 
 
 1 Et cum appropinquassent Ierosolymis, et venissent Bethphage ad Montem oliveti: tunc Iesus misit duos discipulos,

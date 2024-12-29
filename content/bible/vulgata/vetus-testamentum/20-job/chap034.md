@@ -1,8 +1,10 @@
 ---
-title: "Caput 34"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 34
 ---
+
+
 
 
 1 Pronuntians itaque Eliu, etiam haec locutus est:

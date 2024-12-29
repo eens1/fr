@@ -1,8 +1,10 @@
 ---
-title: "Chap. 4 - Le lieu de la confession (908-910)"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Chap. 4 - Le lieu de la confession (908-910)
 ---
+
+
 
 
 **908**

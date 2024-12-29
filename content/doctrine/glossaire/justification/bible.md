@@ -1,8 +1,10 @@
 ---
-title: "Dans la Bible "
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: 'Dans la Bible '
 ---
+
+
 
 
 > *Romains 5:15* : "Mais il n'en est pas du don, comme du péché; car si par le péché d'un seul beaucoup sont morts, bien plus abondamment la grâce et le don de Dieu, par la grâce d'un seul homme, Jésus-Christ, se sont répandus sur un grand nombre." [^1]

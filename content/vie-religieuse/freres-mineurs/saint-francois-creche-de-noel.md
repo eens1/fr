@@ -1,9 +1,11 @@
 ---
-title: "Saint François d'Assise est l'inventeur de la Crèche de Noël"
 date: 2024-12-07T12:41:44+0000
 draft: false
 tags: []
+title: "Saint Fran\xE7ois d'Assise est l'inventeur de la Cr\xE8che de No\xEBl"
 ---
+
+
 
 Source: [Saint Bonaventure, Légendes de Saint François d'Assise](https://www.google.fr/books/edition/L%C3%A9gende_de_Saint_Fran%C3%A7ois_d_Assise_par/e5rW2w07NP4C?hl=en&gbpv=1&dq=cr%C3%A8che&pg=PA180&printsec=frontcover)
 

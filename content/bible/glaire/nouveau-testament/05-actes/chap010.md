@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 10"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Vision de Corneille.
-  Il envoie vers saint Pierre.
-  Saint Pierre va trouver Corneille et lui prêche Jésus.
-  Effusion du Saint-Esprit sur Corneille et sur plusieurs autres gentils : leur baptême.
+summary: "\nVision de Corneille.\nIl envoie vers saint Pierre.\nSaint Pierre va trouver\
+  \ Corneille et lui pr\xEAche J\xE9sus.\nEffusion du Saint-Esprit sur Corneille et\
+  \ sur plusieurs autres gentils : leur bapt\xEAme.\n"
+title: Chapitre 10
 ---
+
+
 
 
 1 Il y avait à Césarée un certain homme, du nom de Corneille, centurion de la cohorte qui est appelée Italique,

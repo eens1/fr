@@ -1,8 +1,10 @@
 ---
-title: "Mère de Dieu"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "M\xE8re de Dieu"
 ---
+
+
 
 
 > *P. Devivier, Cours d'apologétique chrétienne, Divinité de Jésus-Christ, 1907* : "Jésus-Christ est à la fois Dieu parfait et homme parfait. En sa personne unique, il réunit deux natures complètes : la nature divine du Verbe, égal au Père et à l'Esprit-Saint, et la nature de l'homme né de la Vierge Marie. Cette nature humaine se composait d'un corps et d'une âme, très parfaits, mais cependant finis, comme tout ce qui est créé. 

@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 8"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Origine et vertus de Judith.
-  Elle apprend ce qu’Ozias dit, mande les anciens, et leur en fait des reproches.
-  Elle ranime leur courage.
-  Ils lui disent de prier.
-  Elle annonce qu’elle va sortir pour exécuter un dessein qu’elle médite.
+summary: "\nOrigine et vertus de Judith.\nElle apprend ce qu\u2019Ozias dit, mande\
+  \ les anciens, et leur en fait des reproches.\nElle ranime leur courage.\nIls lui\
+  \ disent de prier.\nElle annonce qu\u2019elle va sortir pour ex\xE9cuter un dessein\
+  \ qu\u2019elle m\xE9dite.\n"
+title: Chapitre 8
 ---
+
+
 
 
 1 Et il arriva que Judith apprit ces paroles, Judith, veuve, fille de Mérari, fils d'Idox, fils de Joseph, fils d'Ozias, fils d'Elaï, fils de Jamnor, fils de Gédéon, fils de Raphaïm, fils d'Achitob, fils de Melchias, fils d'Enan, fils de Nathanias, fils de Salathiel, fils de Siméon, fils de Ruben ;

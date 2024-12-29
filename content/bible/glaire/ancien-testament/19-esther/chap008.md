@@ -1,12 +1,11 @@
 ---
-title: "Chapitre 8"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Elévation de Mardochée.
-  Edit en faveur des Juifs.
+summary: "\nEl\xE9vation de Mardoch\xE9e.\nEdit en faveur des Juifs.\n"
+title: Chapitre 8
 ---
+
+
 
 
 1 En ce jour-là, le roi Assuérus donna à la reine Esther la maison d'Aman, l'ennemi des Juifs, et Mardochée entra devant la face du roi ; car Esther lui avait avoué qu'il était son oncle. 2 Et le roi prit l'anneau qu'il avait commandé d'ôter à Aman, et il le remit à Mardochée. Or Esther établit Mardochée sur sa maison.

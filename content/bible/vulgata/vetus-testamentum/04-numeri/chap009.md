@@ -1,8 +1,10 @@
 ---
-title: "Caput 9"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 9
 ---
+
+
 
 
 1 Locutus est Dominus ad Moysen in deserto Sinai anno secundo, postquam egressi sunt de Terra AEgypti, mense primo dicens:

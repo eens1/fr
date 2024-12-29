@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 27"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Ordonnances touchant l’autel des holocaustes, le parvis du tabernacle, les vases sacrés, l’huile et les lampes.
+summary: "\nOrdonnances touchant l\u2019autel des holocaustes, le parvis du tabernacle,\
+  \ les vases sacr\xE9s, l\u2019huile et les lampes.\n"
+title: Chapitre 27
 ---
+
+
 
 
 1 Tu feras encore un autel de bois de sétim, qui aura cinq coudées en longueur et autant en largeur, c'est-à-dire carré, et trois coudées en hauteur.

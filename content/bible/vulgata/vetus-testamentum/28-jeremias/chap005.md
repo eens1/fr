@@ -1,8 +1,10 @@
 ---
-title: "Caput 5"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 5
 ---
+
+
 
 
 1 Circuite vias Ierusalem, et aspicite, et considerate, et quaerite in plateis eius, an inveniatis virum facientem iudicium, et quaerentem fidem: et propitius ero ei.

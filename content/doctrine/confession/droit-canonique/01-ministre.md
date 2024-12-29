@@ -1,8 +1,10 @@
 ---
-title: "Chap. 1 - Ministre de la pénitence (871-892)"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Chap. 1 - Ministre de la p\xE9nitence (871-892)"
 ---
+
+
 
 
 **871**

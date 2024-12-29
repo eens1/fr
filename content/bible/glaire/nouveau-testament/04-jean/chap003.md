@@ -1,15 +1,15 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Nicodème vient trouver Jésus-Christ ; instructions que Jésus lui donne.
-  Le Fils de Dieu envoyé pour sauver le monde.
-  Celui qui ne croit pas en lui est condamné.
-  Dispute entre les disciples de saint Jean et ceux de Jésus-Christ touchant le baptême.
-  Réponse de saint Jean à ses disciples.
+summary: "\nNicod\xE8me vient trouver J\xE9sus-Christ ; instructions que J\xE9sus\
+  \ lui donne.\nLe Fils de Dieu envoy\xE9 pour sauver le monde.\nCelui qui ne croit\
+  \ pas en lui est condamn\xE9.\nDispute entre les disciples de saint Jean et ceux\
+  \ de J\xE9sus-Christ touchant le bapt\xEAme.\nR\xE9ponse de saint Jean \xE0 ses\
+  \ disciples.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 Or il y avait un homme parmi les pharisiens, nommé Nicodème, un des chefs des Juifs.

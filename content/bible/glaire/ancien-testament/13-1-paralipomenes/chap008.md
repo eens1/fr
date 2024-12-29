@@ -1,12 +1,11 @@
 ---
-title: "Chapitre 8"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Descendants de Benjamin jusqu’à Saül.
-  Enfants de Saül.
+summary: "\nDescendants de Benjamin jusqu\u2019\xE0 Sa\xFCl.\nEnfants de Sa\xFCl.\n"
+title: Chapitre 8
 ---
+
+
 
 
 1 Or Benjamin engendra Balé son premier-né, Asbel le second, Ahara le troisième,

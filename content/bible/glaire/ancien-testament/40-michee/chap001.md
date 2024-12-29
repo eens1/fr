@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Vengeance du Seigneur sur Samarie et sur Jérusalem.
-  Ruine de Samarie ; désolation de Jérusalem.
-  Avertissements, reproches, menaces adressés à la maison de Juda.
+summary: "\nVengeance du Seigneur sur Samarie et sur J\xE9rusalem.\nRuine de Samarie\
+  \ ; d\xE9solation de J\xE9rusalem.\nAvertissements, reproches, menaces adress\xE9\
+  s \xE0 la maison de Juda.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Parole du Seigneur, qui fut adressée à Michée le Morasthite, dans les jours de Joathan, d'Achaz, et d'Ezéchias, rois de Juda, parole relative à ce qu'il a lu touchant Samarie et Jérusalem.

@@ -1,11 +1,13 @@
 ---
-title: "Chapitre 19"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Cantique lugubre sur le désastre des princes de Juda représentés sous le symbole de deux lionceaux, et sur la désolation de Jérusalem figurée par une vigne.
+summary: "\nCantique lugubre sur le d\xE9sastre des princes de Juda repr\xE9sent\xE9\
+  s sous le symbole de deux lionceaux, et sur la d\xE9solation de J\xE9rusalem figur\xE9\
+  e par une vigne.\n"
+title: Chapitre 19
 ---
+
+
 
 
 1 Et toi, prophète, emploie un chant lugubre pour les princes d'Israël,

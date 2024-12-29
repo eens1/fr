@@ -1,8 +1,10 @@
 ---
-title: "Caput 101"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 101
 ---
+
+
 
 
 1 Oratio pauperis, Cum anxius fuerit, et in conspectu Domini effuderit precem suam.

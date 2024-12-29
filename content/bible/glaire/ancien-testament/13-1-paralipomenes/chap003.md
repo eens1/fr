@@ -1,11 +1,15 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
+summary: '
+
   Descendants de David et des rois de Juda ses successeurs.
+
+  '
+title: Chapitre 3
 ---
+
+
 
 
 1 Or voici les fils qu'eut David, qui lui naquirent à Hébron : l'aîné, Amnon, fils d'Achinoam de Jezrahel; le second, Daniel, fils d'Abigaïl du Carmel;

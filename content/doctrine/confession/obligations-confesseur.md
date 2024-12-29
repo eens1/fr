@@ -1,8 +1,10 @@
 ---
-title: "Obligations du confesseur"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Obligations du confesseur
 ---
+
+
 
 
 > *Droit canonique de 1917, can. 886* : "Si confessarius dubitare nequeat de poenitentis dispositionibus et hic absolutionem petat, absolutio nec deneganda, nec differenda est." [^1]

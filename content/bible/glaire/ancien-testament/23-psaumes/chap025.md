@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 25"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  David prend Dieu à témoin de son innocence, et le conjure de ne pas le perdre avec les impies.
+summary: "\nDavid prend Dieu \xE0 t\xE9moin de son innocence, et le conjure de ne\
+  \ pas le perdre avec les impies.\n"
+title: Chapitre 25
 ---
+
+
 
 
 1 Pour la fin, psaume de David. Jugez-moi, Seigneur, parce que moi j'ai marché dans mon innocence; et espérant dans le Seigneur, je ne serai pas affaibli.

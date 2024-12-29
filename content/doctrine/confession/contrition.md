@@ -1,8 +1,10 @@
 ---
-title: "Contrition"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Contrition
 ---
+
+
 
 
 > *Concile de Trente, sess. 14, chap. 4, 1551* :  "La Contrition, qui tient le premier lieu entre les Actes du Pénitent, desquels nous venons de parler, est une douleur intérieur, et une détestation du péché que l'on a commis, avec résolution de ne plus pécher à l'avenir. 

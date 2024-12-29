@@ -1,8 +1,10 @@
 ---
-title: "Caput 1"
-date: 2024-09-06T20:00:56+02:00
+date: 2024-09-06 20:00:56+02:00
 draft: false
+title: Caput 1
 ---
+
+
 
 
 1 Et factum est, postquam percussit Alexander Philippi Macedo, qui primus regnavit in Graecia, egressus de terra Cethim, Darium regem Persarum, et Medorum:

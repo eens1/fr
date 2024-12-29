@@ -1,14 +1,14 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Livre scellé de sept sceaux.
-  Nul n’est trouvé digne de l’ouvrir.
-  Jésus paraît sous le symbole d’un agneau immolé, mais plein de vie ; il prend le livre.
-  Cantique des saints, des anges et de toutes les créatures à sa louange.
+summary: "\nLivre scell\xE9 de sept sceaux.\nNul n\u2019est trouv\xE9 digne de l\u2019\
+  ouvrir.\nJ\xE9sus para\xEEt sous le symbole d\u2019un agneau immol\xE9, mais plein\
+  \ de vie ; il prend le livre.\nCantique des saints, des anges et de toutes les cr\xE9\
+  atures \xE0 sa louange.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Je vis ensuite dans la main droite de celui qui est assis sur le trône, un livre écrit dedans et dehors, scellé de sept sceaux.

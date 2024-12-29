@@ -1,8 +1,10 @@
 ---
-title: "Forme"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Forme
 ---
+
+
 
 
 > *Droit canonique de 1917, can. 1099* : "§ 1. Ad statutam superius formam servandam tenentur : 

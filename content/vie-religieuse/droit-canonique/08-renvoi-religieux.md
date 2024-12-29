@@ -1,8 +1,10 @@
 ---
-title: "Chap. 8 - Le renvoi des religieux (646 - 672)"
-date: 2024-09-06T20:00:57+02:00
+date: 2024-09-06 20:00:57+02:00
 draft: false
----  
+title: Chap. 8 - Le renvoi des religieux (646 - 672)
+---
+
+  
   
   **647**
   p.1 Le profès de voeux temporaires, tant dans les ordres que dans les

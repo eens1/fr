@@ -1,12 +1,16 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Jérémie déplore la désolation de Jérusalem, et annonce les vengeances de Jérusalem contre ceux qui se réjouissent du malheur de cette ville.
-  (a) Après qu’Israël eut été mené en captivité, et que Jérusalem fut demeurée déserte, le prophète Jérémie s’assit, et, pleurant, il fit ces lamentations sur Jérusalem, soupirant avec amertume, et disant avec de grands cris :
+summary: "\nJ\xE9r\xE9mie d\xE9plore la d\xE9solation de J\xE9rusalem, et annonce\
+  \ les vengeances de J\xE9rusalem contre ceux qui se r\xE9jouissent du malheur de\
+  \ cette ville.\n(a) Apr\xE8s qu\u2019Isra\xEBl eut \xE9t\xE9 men\xE9 en captivit\xE9\
+  , et que J\xE9rusalem fut demeur\xE9e d\xE9serte, le proph\xE8te J\xE9r\xE9mie s\u2019\
+  assit, et, pleurant, il fit ces lamentations sur J\xE9rusalem, soupirant avec amertume,\
+  \ et disant avec de grands cris :\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 ALEPH.

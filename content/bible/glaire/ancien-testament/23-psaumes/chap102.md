@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 102"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste s’invite lui-même à louer le Seigneur de ses bienfaits.
-  Il convie tous les anges et toutes les oeuvres de Dieu à le bénir avec lui.
+summary: "\nLe Psalmiste s\u2019invite lui-m\xEAme \xE0 louer le Seigneur de ses bienfaits.\n\
+  Il convie tous les anges et toutes les oeuvres de Dieu \xE0 le b\xE9nir avec lui.\n"
+title: Chapitre 102
 ---
+
+
 
 
 1 De David lui-même. Bénis, mon âme, le Seigneur; et que tout ce qui est au-dedans de moi bénisse son saint nom.

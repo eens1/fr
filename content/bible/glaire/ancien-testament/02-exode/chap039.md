@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 39"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Béséléel travaille aux habits pontificaux.
-  Dénombrement des ouvrages faits pour le culte divin.
+summary: "\nB\xE9s\xE9l\xE9el travaille aux habits pontificaux.\nD\xE9nombrement des\
+  \ ouvrages faits pour le culte divin.\n"
+title: Chapitre 39
 ---
+
+
 
 
 1 Or Béséléel fit aussi d'hyacinthe , de pourpre, et d'écarlate et de lin fin, les vêtements dont devait être revêtu Aaron, quand il servait dans les lieux saints, comme avait ordonné le Seigneur à Moïse.

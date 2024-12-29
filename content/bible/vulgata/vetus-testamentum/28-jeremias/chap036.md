@@ -1,8 +1,10 @@
 ---
-title: "Caput 36"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 36
 ---
+
+
 
 
 1 Et factum est in anno quarto Ioakim filii Iosiae regis Iuda: factum est verbum hoc ad Ieremiam a Domino, dicens:

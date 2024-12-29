@@ -1,8 +1,10 @@
 ---
-title: "Heures et choses spirituelles"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: Heures et choses spirituelles
 ---
+
+
 
 
 "1. On dira les matines après neuf heures et non auparavant, ni tant après que l'on n'ait (icelles étant achevées) un quart d'heure à faire l'examen de conscience de ce à quoi on a employé le jour." [^1]

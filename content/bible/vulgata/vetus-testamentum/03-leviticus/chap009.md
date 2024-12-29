@@ -1,8 +1,10 @@
 ---
-title: "Caput 9"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 9
 ---
+
+
 
 
 1 Facto autem octavo die, vocavit Moyses Aaron et filios eius, ac maiores natu Israel, dixitque ad Aaron:

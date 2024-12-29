@@ -1,15 +1,12 @@
 ---
-title: "Chapitre 14"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Délivrance des enfants de Jacob.
-  Ruine du roi de Babylone.
-  Défaite des Assyriens.
-  Menaces contre les Philistins.
-  Promesses en faveur de Juda.
+summary: "\nD\xE9livrance des enfants de Jacob.\nRuine du roi de Babylone.\nD\xE9\
+  faite des Assyriens.\nMenaces contre les Philistins.\nPromesses en faveur de Juda.\n"
+title: Chapitre 14
 ---
+
+
 
 
 1 Près de venir est son temps, et ses jours ne seront pas différés. Car le Seigneur aura pitié de Jacob, il fera encore choix d'Israël, et il les fera reposer dans leur terre; l'étranger se joindra à eux, et il s'attachera à la maison de Jacob.

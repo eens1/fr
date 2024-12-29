@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 30"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Ezéchias invite Israël et Juda à venir à Jérusalem pour célébrer la Pâque.
-  On la célèbre avec solennité.
+summary: "\nEz\xE9chias invite Isra\xEBl et Juda \xE0 venir \xE0 J\xE9rusalem pour\
+  \ c\xE9l\xE9brer la P\xE2que.\nOn la c\xE9l\xE8bre avec solennit\xE9.\n"
+title: Chapitre 30
 ---
+
+
 
 
 1 Ezéchias envoya aussi vers tout Israël et Juda, et il écrivit des lettres à Ephraïm et à Manassé, afin de les inviter à venir à la maison du Seigneur à Jérusalem, pour faire la Pâque du Seigneur, Dieu d'Israël.

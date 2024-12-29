@@ -1,8 +1,10 @@
 ---
-title: "Caput 95"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 95
 ---
+
+
 
 
 1 Canticum ipsi David, Quando domus aedificabatur post captivitatem. Cantate Domino canticum novum: cantate Domino omnis terra.

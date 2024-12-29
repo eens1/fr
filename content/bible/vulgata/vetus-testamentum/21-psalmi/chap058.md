@@ -1,8 +1,10 @@
 ---
-title: "Caput 58"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 58
 ---
+
+
 
 
 1 In finem, Ne disperdas, David in tituli inscriptionem, quando misit Saul, et custodivit domum eius, ut eum interficeret.

@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 21"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Job soutient que les impies jouissent souvent d’une longue prospérité, et que c’est après leur mort que Dieu exerce contre eux ses vengeances.
+summary: "\nJob soutient que les impies jouissent souvent d\u2019une longue prosp\xE9\
+  rit\xE9, et que c\u2019est apr\xE8s leur mort que Dieu exerce contre eux ses vengeances.\n"
+title: Chapitre 21
 ---
+
+
 
 
 1 Mais, répondant. Job dit :

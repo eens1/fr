@@ -1,8 +1,10 @@
 ---
-title: "Caput 16"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 16
 ---
+
+
 
 
 1 Et audivi vocem magnam de templo, dicentem septem Angelis: Ite, et effundite septem phialas irae Dei in terram.

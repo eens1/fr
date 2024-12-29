@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Exhortation à la charité.
-  Dons de Jésus-Christ.
-  Economie de son corps mystique.
-  Vie païenne, vie chrétienne.
-  Se dépouiller du vieil homme, et se revêtir de l’homme nouveau.
+summary: "\nExhortation \xE0 la charit\xE9.\nDons de J\xE9sus-Christ.\nEconomie de\
+  \ son corps mystique.\nVie pa\xEFenne, vie chr\xE9tienne.\nSe d\xE9pouiller du vieil\
+  \ homme, et se rev\xEAtir de l\u2019homme nouveau.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Je vous conjure donc, moi chargé de liens pour le Seigneur, de marcher d'une manière digne de la vocation à laquelle vous avez été appelés,

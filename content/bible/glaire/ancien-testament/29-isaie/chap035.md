@@ -1,12 +1,11 @@
 ---
-title: "Chapitre 35"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Rétablissement de la Judée.
-  Biens promis aux fils de Juda.
+summary: "\nR\xE9tablissement de la Jud\xE9e.\nBiens promis aux fils de Juda.\n"
+title: Chapitre 35
 ---
+
+
 
 
 1 Elle se réjouira, la terre déserte et sans chemin, et elle exultera, la solitude, et fleurira comme le lis.

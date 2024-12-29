@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Terreur des Israélites à l’approche d’Holoferne.
-  Le grand-prêtre Eliachim donne les ordres nécessaires, et exhorte le peuple à implorer le secours du Seigneur.
+summary: "\nTerreur des Isra\xE9lites \xE0 l\u2019approche d\u2019Holoferne.\nLe grand-pr\xEA\
+  tre Eliachim donne les ordres n\xE9cessaires, et exhorte le peuple \xE0 implorer\
+  \ le secours du Seigneur.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Alors les enfants d'Israël, qui habitaient dans la terre de Juda, apprenant cela, redoutèrent extrêmement sa présence. 2 L'effroi et l'horreur saisirent leurs esprits; ils craignirent qu'il ne fît à Jérusalem et au temple du Seigneur ce qu'il avait fait aux autres villes et à leurs temples. 3 Et ils envoyèrent dans toute la Samarie, aux alentours, et jusqu'à Jéricho, et ils occupèrent les premiers tous les sommets des montagnes. 4 Et ils entourèrent leurs bourgs de murs, et amassèrent des blés pour se préparer au combat. 5 Le prêtre Eliachim aussi écrivit à tous ceux qui étaient contre Esdrélon, qui est en face de la grande plaine près de Dothaïn, et à tous ceux par qui le passage de la voie pouvait être gardé, 6 Qu'ils se saisissent des montées des coteaux, par lesquelles on pouvait aher à Jérusalem, et qu'ils fissent le guet là où le passage était resserré entre les montagnes. 7 Et les enfants d'Israël firent selon ce que leur avait commandé le prêtre du Seigneur, Eliachim.

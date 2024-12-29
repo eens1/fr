@@ -1,8 +1,10 @@
 ---
-title: "Totalitarisme"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Totalitarisme
 ---
+
+
 
 
 > *Larousse, définition* : "Système politique dans lequel l'État, au nom d'une idéologie, exerce une mainmise sur la totalité des activités individuelles." [^1]

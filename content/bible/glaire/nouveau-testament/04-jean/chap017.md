@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 17"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Jésus prie pour sa glorification.
-  Il prie pour tous ceux qui croyaient déjà en lui, et pour tous ceux qui devaient croire en lui dans la suite.
+summary: "\nJ\xE9sus prie pour sa glorification.\nIl prie pour tous ceux qui croyaient\
+  \ d\xE9j\xE0 en lui, et pour tous ceux qui devaient croire en lui dans la suite.\n"
+title: Chapitre 17
 ---
+
+
 
 
 1 Jésus parla ainsi; puis, levant les yeux au ciel, il dit : Mon Père, elle est venue l'heure ; glorifiez votre Fils, afin que votre Fils vous glorifie ; 2 Puisque vous lui avez donné puissance sur toute chair, afin que, quant à tous ceux que vous lui avez donnés, il leur donne la vie éternelle.

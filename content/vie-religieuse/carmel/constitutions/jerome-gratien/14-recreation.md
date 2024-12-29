@@ -1,8 +1,10 @@
 ---
-title: "Récréation"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: "R\xE9cr\xE9ation"
 ---
+
+
 
 
 "De même, nous ordonnons que tous les jours après le dîner les religieux se réunissent pendant une heure environ pour se récréer et s'entretenir ensemble, afin de se délasser des fatigues spirituelles de la Règle.

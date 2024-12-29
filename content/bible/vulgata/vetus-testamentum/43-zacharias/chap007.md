@@ -1,8 +1,10 @@
 ---
-title: "Caput 7"
-date: 2024-09-06T20:00:56+02:00
+date: 2024-09-06 20:00:56+02:00
 draft: false
+title: Caput 7
 ---
+
+
 
 
 1 Et factum est in anno quarto Darii regis, factum est verbum Domini ad Zachariam, in quarta mensis noni, qui est Casleu.

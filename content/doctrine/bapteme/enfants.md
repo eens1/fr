@@ -1,8 +1,10 @@
 ---
-title: "Enfants"
-date: 2024-09-06T20:02:54+02:00
+date: 2024-09-06 20:02:54+02:00
 draft: false
+title: Enfants
 ---
+
+
 
 
 > *Luc 18:16* : "Mais Jésus les appelant, dit : Laissez les enfants venir à moi, et ne les empêchez point; car à de tels est le royaume de Dieu." [^1]

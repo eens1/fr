@@ -1,8 +1,10 @@
 ---
-title: "Esclavage"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Esclavage
 ---
+
+
 
 
 > *Pape Léon XIII, In Plurimis, 1888* : "Cela nous a été particulièrement agréable et consolant, surtout parce que Nous en avons reçu la confirmation de l'attente, si vivement chère, que les Brésiliens voudraient abolir désormais et extirper complètement la barbarie de l'esclavage. Cette volonté du peuple a été secondée par le zèle éminent de l'empereur et de son auguste fille, de même que par ceux qui dirigent la chose publique, au moyen des lois qui ont été rendues et sanctionnées à cet effet. La joie que Nous en avons éprouvée, Nous l'avons manifestée, au mois de janvier dernier, à l'envoyé que l'auguste empereur avait délégué auprès de Nous, en ajoutant même que Nous devions écrire à l'Episcopat au sujet des malheureux esclaves." [^1]

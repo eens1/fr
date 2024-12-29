@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 32"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Jacob fait annoncer son retour à Esaü ; celui-ci vient au-devant de lui.
-  Lutte de Jacob avec un ange.
+summary: "\nJacob fait annoncer son retour \xE0 Esa\xFC ; celui-ci vient au-devant\
+  \ de lui.\nLutte de Jacob avec un ange.\n"
+title: Chapitre 32
 ---
+
+
 
 
 1 Jacob aussi s'en alla par le chemin qu'il avait pris : et les anges du Seigneur furent à sa rencontre.

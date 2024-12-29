@@ -1,11 +1,11 @@
 ---
-title: "Examen pour les personnes pieuses"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
-summary: |
-  
-  Par le père Jean-François de Reims, prédicateur Capusin, 1692
+summary: "\nPar le p\xE8re Jean-Fran\xE7ois de Reims, pr\xE9dicateur Capusin, 1692\n"
+title: Examen pour les personnes pieuses
 ---
+
+
 
 
 *Source : Jean-François de Reims 1692, pp. 32-34*.

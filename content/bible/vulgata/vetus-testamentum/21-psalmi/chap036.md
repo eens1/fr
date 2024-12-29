@@ -1,8 +1,10 @@
 ---
-title: "Caput 36"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 36
 ---
+
+
 
 
 1 Psalmus ipsi David. Noli aemulari in malignantibus: neque zelaveris facientes iniquitatem.

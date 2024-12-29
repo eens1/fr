@@ -1,8 +1,10 @@
 ---
-title: "Caput 13"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 13
 ---
+
+
 
 
 1 Rex maximus Artaxerxes ab India usque AEthiopiam centum vigintiseptem provinciarum principibus, et ducibus, qui eius imperio subiecti sunt, salutem.

@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 20"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Vices et vertus de la langue ; succès funestes ; maux heureux.
-  Présents intéressés.
-  Mauvaise honte.
-  Le mensonge déshonore.
-  Mauvais effets des présents.
-  De celui qui cache sa sagesse.
+summary: "\nVices et vertus de la langue ; succ\xE8s funestes ; maux heureux.\nPr\xE9\
+  sents int\xE9ress\xE9s.\nMauvaise honte.\nLe mensonge d\xE9shonore.\nMauvais effets\
+  \ des pr\xE9sents.\nDe celui qui cache sa sagesse.\n"
+title: Chapitre 20
 ---
+
+
 
 
 1 Combien il vaut mieux reprendre, et ne pas empêcher de parler celui qui confesse son tort, que de se mettre en colère !

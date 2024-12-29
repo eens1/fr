@@ -1,8 +1,10 @@
 ---
-title: "Caput 52"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 52
 ---
+
+
 
 
 1 Filius viginti et unius anni erat Sedecias cum regnare coepisset: et undecim annis regnavit in Ierusalem, et nomen matris eius Amital, filia Ieremiae de Lobna.

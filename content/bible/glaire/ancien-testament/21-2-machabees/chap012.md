@@ -1,17 +1,16 @@
 ---
-title: "Chapitre 12"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Les Juifs sont persécutés par les gouverneurs des pays voisins de la Judée.
-  Expédition de Judas contre les habitants de Joppé, et contre ceux de Jamnia.
-  Il marche contre Timothée, au-delà du Jourdain.
-  Il défait l’armée de Timothée.
-  Il revient à Scythopolis.
-  Il marche contre Gorgias, et le met en fuite.
-  Oblation pour les Juifs qui avaient été tués au combat.
+summary: "\nLes Juifs sont pers\xE9cut\xE9s par les gouverneurs des pays voisins de\
+  \ la Jud\xE9e.\nExp\xE9dition de Judas contre les habitants de Jopp\xE9, et contre\
+  \ ceux de Jamnia.\nIl marche contre Timoth\xE9e, au-del\xE0 du Jourdain.\nIl d\xE9\
+  fait l\u2019arm\xE9e de Timoth\xE9e.\nIl revient \xE0 Scythopolis.\nIl marche contre\
+  \ Gorgias, et le met en fuite.\nOblation pour les Juifs qui avaient \xE9t\xE9 tu\xE9\
+  s au combat.\n"
+title: Chapitre 12
 ---
+
+
 
 
 1 Ces conventions faites, Lysias se rendit vers le roi, et les Juifs donnaient leurs soins à l'agriculture. 2 Mais ceux qui étaient demeurés, Timothée et Apollonius, fils de Gennéus, aussi Jérôme et Démophon, et Nicanor, gouverneur de Chypre, ne les laissaient pas vivre en paix et en repos.

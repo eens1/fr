@@ -1,8 +1,10 @@
 ---
-title: "Caput 102"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 102
 ---
+
+
 
 
 1 Ipsi David. Benedic anima mea Domino et omnia, quae intra me sunt, nomini sancto eius.

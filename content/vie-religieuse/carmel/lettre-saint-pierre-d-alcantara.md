@@ -1,8 +1,11 @@
 ---
-title: "Lettre de saint Pierre d’Alcantara à sainte Térèse d’Avila au sujet des rentes de son Monastère"
-date: 2024-09-06T20:00:58+02:00
+date: 2024-09-06 20:00:58+02:00
 draft: false
+title: "Lettre de saint Pierre d\u2019Alcantara \xE0 sainte T\xE9r\xE8se d\u2019Avila\
+  \ au sujet des rentes de son Monast\xE8re"
 ---
+
+
 
 
 Source : De Favuel 1670, pp. 88-93.

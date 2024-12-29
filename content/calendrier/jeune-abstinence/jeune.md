@@ -1,8 +1,9 @@
 ---
-title: "Sur le jeûne"
-date: 2024-09-06T20:02:53+02:00
+date: 2024-09-06 20:02:53+02:00
 draft: false
+title: "Sur le je\xFBne"
 ---
+
 
 
 > *Saint Thomas d'Aquin, Somme théologique, p. 3, q. 147, a. 1* : "... un acte est vertueux par là même que la raison le rapporte à un bien honnête. Or, il en est ainsi du jeûne; car on jeûne principalement pour trois motifs : 

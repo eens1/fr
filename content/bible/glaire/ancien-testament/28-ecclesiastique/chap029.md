@@ -1,17 +1,13 @@
 ---
-title: "Chapitre 29"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Prêter à son prochain.
-  Ingratitude de ceux qui empruntent.
-  Faire l’aumône.
-  Répondre pour son prochain.
-  Danger d’être caution.
-  Choses nécessaires à la vie.
-  Hôtes ingrats.
+summary: "\nPr\xEAter \xE0 son prochain.\nIngratitude de ceux qui empruntent.\nFaire\
+  \ l\u2019aum\xF4ne.\nR\xE9pondre pour son prochain.\nDanger d\u2019\xEAtre caution.\n\
+  Choses n\xE9cessaires \xE0 la vie.\nH\xF4tes ingrats.\n"
+title: Chapitre 29
 ---
+
+
 
 
 1 Celui qui fait miséricorde prête à intérêt à son prochain ; et celui qui prévaut par la main garde les commandements.

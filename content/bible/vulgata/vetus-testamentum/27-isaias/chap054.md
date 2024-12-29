@@ -1,8 +1,10 @@
 ---
-title: "Caput 54"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 54
 ---
+
+
 
 
 1 Lauda sterilis quae non paris: decanta laudem, et hinni quae non pariebas: quoniam multi filii desertae magis quam eius, quae habet virum, dicit Dominus.

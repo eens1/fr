@@ -1,8 +1,10 @@
 ---
-title: "Caput 21"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 21
 ---
+
+
 
 
 1 Iuraverunt quoque filii Israel in Maspha et dixerunt: Nullus nostrum dabit filiis Beniamin de filiabus suis uxorem.

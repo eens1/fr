@@ -1,8 +1,10 @@
 ---
-title: "Caput 11"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 11
 ---
+
+
 
 
 1 Et datus est mihi calamus similis virgae, et dictum est mihi: Surge, et metire templum Dei, et altare, et adorantes in eo.

@@ -1,15 +1,12 @@
 ---
-title: "Chapitre 28"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Ne pas se venger.
-  Eviter les querelles.
-  Maux que cause la langue.
-  Ne pas écouter les médisants.
-  Veiller sur ses paroles.
+summary: "\nNe pas se venger.\nEviter les querelles.\nMaux que cause la langue.\n\
+  Ne pas \xE9couter les m\xE9disants.\nVeiller sur ses paroles.\n"
+title: Chapitre 28
 ---
+
+
 
 
 1 Celui qui veut se venger rencontrera la vengeance venant du Seigneur, et le Seigneur réservant, réservera ses péchés.

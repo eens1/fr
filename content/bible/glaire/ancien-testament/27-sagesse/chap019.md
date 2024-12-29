@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 19"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Les Egyptiens engloutis dans la mer en poursuivant les Hébreux, qui y trouvent un passage libre.
-  Parallèle des jugements de Dieu sur Sodome et sur l’Egypte.
-  Les éléments employés à l’exécution des jugements du Seigneur.
+summary: "\nLes Egyptiens engloutis dans la mer en poursuivant les H\xE9breux, qui\
+  \ y trouvent un passage libre.\nParall\xE8le des jugements de Dieu sur Sodome et\
+  \ sur l\u2019Egypte.\nLes \xE9l\xE9ments employ\xE9s \xE0 l\u2019ex\xE9cution des\
+  \ jugements du Seigneur.\n"
+title: Chapitre 19
 ---
+
+
 
 
 1 Mais aux impies, jusqu'au dernier moment, sans miséricorde survint la colère du Seigneur; car il savait d'avance leur avenir;

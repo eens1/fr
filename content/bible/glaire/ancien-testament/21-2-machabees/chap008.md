@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 8"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Judas Machabée fortifie son parti et attaque les ennemis.
-  Nicanor et Gorgias sont envoyés contre lui.
-  Il exhorte les siens à combattre avec courage.
-  Il met en fuite l’armée ennemie.
-  Il continue de rapporter de grands avantages.
-  Nicanor s’enfuit à Antioche.
+summary: "\nJudas Machab\xE9e fortifie son parti et attaque les ennemis.\nNicanor\
+  \ et Gorgias sont envoy\xE9s contre lui.\nIl exhorte les siens \xE0 combattre avec\
+  \ courage.\nIl met en fuite l\u2019arm\xE9e ennemie.\nIl continue de rapporter de\
+  \ grands avantages.\nNicanor s\u2019enfuit \xE0 Antioche.\n"
+title: Chapitre 8
 ---
+
+
 
 
 1 Cependant Judas Machabée et ceux qui étaient avec lui entraient secrètement dans les villages, et, appelant leurs parents et leurs amis, et ceux qui étaient demeurés fermes dans le judaïsme, les prenant avec eux, ils s'attirèrent six mille hommes.

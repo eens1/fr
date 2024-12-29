@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Jeûne et tentation de Jésus-Christ.
-  Il se retire en Galilée et fixe sa demeure à Capharnaüm.
-  Il prêche dans ce pays.
-  Vocation de Pierre et d’André, de Jacques et de Jean.
-  Miracles et réputation de Jésus-Christ.
+summary: "\nJe\xFBne et tentation de J\xE9sus-Christ.\nIl se retire en Galil\xE9e\
+  \ et fixe sa demeure \xE0 Capharna\xFCm.\nIl pr\xEAche dans ce pays.\nVocation de\
+  \ Pierre et d\u2019Andr\xE9, de Jacques et de Jean.\nMiracles et r\xE9putation de\
+  \ J\xE9sus-Christ.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Alors Jésus fut conduit par l'Esprit dans le désert pour y être tenté par le diable.

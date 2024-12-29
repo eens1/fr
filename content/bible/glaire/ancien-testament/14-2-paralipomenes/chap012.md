@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 12"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Invasion de Sésac, roi d’Egypte.
-  Mort de Roboam.
-  Abia lui succède.
+summary: "\nInvasion de S\xE9sac, roi d\u2019Egypte.\nMort de Roboam.\nAbia lui succ\xE8\
+  de.\n"
+title: Chapitre 12
 ---
+
+
 
 
 1 Et lorsque le royaume de Roboam fut fortifié et affermi, il abandonna la loi du Seigneur, lui et tout Israël avec lui. 2 Mais à la cinquième année du règne de Roboam, Sésac, roi d'Egypte, monta à Jérusalem (parce que les Israélites avaient péché contre le Seigneur)

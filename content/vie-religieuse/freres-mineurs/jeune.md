@@ -1,9 +1,11 @@
 ---
-title: "Jeûne"
 date: 2024-11-29T04:27:08+0000
 draft: false
 tags: []
+title: "Je\xFBne"
 ---
+
+
 
 
 > Père Jacques d'Autun, prédicateur Capucin, *La vie de S. François d'Assise, Patriarche des Frères Mineurs*, 1676 : "... il [Saint François] jeûnait neuf Carêmes :

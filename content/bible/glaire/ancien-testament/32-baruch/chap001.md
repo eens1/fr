@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Prologue du livre de Baruch.
-  Ce livre fut lu devant les Juifs captifs à Babylone, et envoyé par eux à leurs frères de Jérusalem.
-  Livre de Baruch, où d’abord ce prophète confesse au nom de son peuple la justice des châtiments que le Seigneur exerce sur eux.
+summary: "\nPrologue du livre de Baruch.\nCe livre fut lu devant les Juifs captifs\
+  \ \xE0 Babylone, et envoy\xE9 par eux \xE0 leurs fr\xE8res de J\xE9rusalem.\nLivre\
+  \ de Baruch, o\xF9 d\u2019abord ce proph\xE8te confesse au nom de son peuple la\
+  \ justice des ch\xE2timents que le Seigneur exerce sur eux.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Et voici les paroles du livre qu'a écrites Baruch, fils de Nérias, fils de Maasias, fils de Sédécias, fils de Sédéi, fils d'Helcias, à Babylone, 2 En la cinquième année, au septième jour du mois, dans le temps que les Chaldéens prirent Jérusalem et y mirent le feu.

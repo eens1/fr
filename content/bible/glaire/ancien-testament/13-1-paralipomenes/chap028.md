@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 28"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  David exhorte les principaux d’Israël et Salomon, son fils, à être fidèles au Seigneur.
-  Il donne à Salomon le plan du temple et de toutes les choses destinées à son usage.
+summary: "\nDavid exhorte les principaux d\u2019Isra\xEBl et Salomon, son fils, \xE0\
+  \ \xEAtre fid\xE8les au Seigneur.\nIl donne \xE0 Salomon le plan du temple et de\
+  \ toutes les choses destin\xE9es \xE0 son usage.\n"
+title: Chapitre 28
 ---
+
+
 
 
 1 David convoqua donc tous les princes d'Israël, les chefs des tribus et les préposés de ses troupes, lesquels servaient le roi ; comme aussi les tribuns et les centurions, et ceux qui étaient à la tête des biens et des possessions du roi, ses enfants avec les eunuques, les puissants; de même que les plus vigoureux dans l'armée, et les réunit à Jérusalem.

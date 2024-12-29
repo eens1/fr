@@ -1,8 +1,10 @@
 ---
-title: "Caput 141"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 141
 ---
+
+
 
 
 1 Intellectus David, Cum esset in spelunca, oratio.

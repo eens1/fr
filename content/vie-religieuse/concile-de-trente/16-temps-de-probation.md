@@ -1,8 +1,10 @@
 ---
-title: "Chap. 16 - Temps de probation"
-date: 2024-09-06T20:00:57+02:00
+date: 2024-09-06 20:00:57+02:00
 draft: false
+title: Chap. 16 - Temps de probation
 ---
+
+
 
 
 Nulle renonciation ou obligation faite auparavant, même avec serment, ou en faveur de quelque oeuvre pieuse que ce soit, ne sera valable si elle n'est faite avec la permission de l'évêque ou de son vicaire-général, dans les deux mois précédant immédiatement la profession. 

@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 18"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  De l’ami infidèle.
-  De la confiance du juste et de celle du riche.
-  Orgueil et humiliation.
-  Fruits de la langue.
-  Bonne et mauvaise femme.
-  De l’homme sociable.
+summary: "\nDe l\u2019ami infid\xE8le.\nDe la confiance du juste et de celle du riche.\n\
+  Orgueil et humiliation.\nFruits de la langue.\nBonne et mauvaise femme.\nDe l\u2019\
+  homme sociable.\n"
+title: Chapitre 18
 ---
+
+
 
 
 1 Celui qui veut rompre avec son ami en cherche les occasions ; mais il sera couvert d'opprobre en tout temps.

@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 17"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Hébreux idolâtres punis de mort.
-  Consulter les prêtres dans les causes difficiles.
-  Election d’un roi.
+summary: "\nH\xE9breux idol\xE2tres punis de mort.\nConsulter les pr\xEAtres dans\
+  \ les causes difficiles.\nElection d\u2019un roi.\n"
+title: Chapitre 17
 ---
+
+
 
 
 1 Tu n'immoleras pas au Seigneur ton Dieu une brebis, ni un boeuf dans lequel est une tache, ou quelque défaut, parce que c'est une abomination pour le Seigneur ton Dieu.

@@ -1,15 +1,15 @@
 ---
-title: "Chapitre 8"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Il n’y a pas de condamnation pour ceux qui se conduisent, non selon la chair, mais selon l’esprit.
-  Ils sont enfants de Dieu et cohéritiers de Jésus-Christ.
-  Délivrance attendue par eux et par toutes les créatures.
-  Le Saint-Esprit prie lui-même en nous.
-  Rien ne peut nous séparer de l’amour de Dieu en Jésus-Christ.
+summary: "\nIl n\u2019y a pas de condamnation pour ceux qui se conduisent, non selon\
+  \ la chair, mais selon l\u2019esprit.\nIls sont enfants de Dieu et coh\xE9ritiers\
+  \ de J\xE9sus-Christ.\nD\xE9livrance attendue par eux et par toutes les cr\xE9atures.\n\
+  Le Saint-Esprit prie lui-m\xEAme en nous.\nRien ne peut nous s\xE9parer de l\u2019\
+  amour de Dieu en J\xE9sus-Christ.\n"
+title: Chapitre 8
 ---
+
+
 
 
 1 Il n'y a donc pas maintenant de condamnation pour ceux qui sont en Jésus-Christ, qui ne marchent pas selon la chair. 2 Parce que la loi de l'esprit de vie, qui est dans le Christ Jésus, m'a affranchi de la loi du péché et de la mort. 3 Car ce qui était impossible à la loi, parce qu'elle était affaiblie par la chair, Dieu, envoyant son Fils dans une chair semblable à celle du péché, a condamné le péché dans la chair à cause du péché même, 4 Afin que la justification de la loi s'accomplît en nous qui ne marchons point selon la chair, mais selon l'esprit.

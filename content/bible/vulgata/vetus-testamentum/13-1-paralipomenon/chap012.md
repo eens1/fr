@@ -1,8 +1,10 @@
 ---
-title: "Caput 12"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 12
 ---
+
+
 
 
 1 Hi quoque venerunt ad David in Siceleg, cum adhuc fugeret Saul filium Cis, qui erant fortissimi et egregii pugnatores,

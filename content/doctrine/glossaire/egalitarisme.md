@@ -1,8 +1,10 @@
 ---
-title: "Egalitarisme"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Egalitarisme
 ---
+
+
 
 
 > *Pape Léon XIII, Rerum Novarum, 1891* : "Le premier principe à mettre en avant, c’est que l’homme doit prendre en patience sa condition; il est impossible que, dans la société civile, tout le monde soit élevé au même niveau. Sans doute, c’est là ce que poursuivent les socialistes; mais contre la nature tous les efforts sont vains. C’est elle, en effet, qui a disposé parmi les hommes des différences aussi multiples que profondes: différence d’intelligence, de talent, d’habileté, de santé, de force; différences nécessaires, d’où naît spontanément l’inégalité des conditions. 

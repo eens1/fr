@@ -1,12 +1,14 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  David, plein de reconnaissance de ce que Dieu a écouté sa prière, l’invoque de nouveau.
-  Il exhorte ses ennemis à ne pas mettre leur confiance dans les biens de ce monde, mais à ne chercher, comme lui, leur repos qu’en Dieu seul.
+summary: "\nDavid, plein de reconnaissance de ce que Dieu a \xE9cout\xE9 sa pri\xE8\
+  re, l\u2019invoque de nouveau.\nIl exhorte ses ennemis \xE0 ne pas mettre leur confiance\
+  \ dans les biens de ce monde, mais \xE0 ne chercher, comme lui, leur repos qu\u2019\
+  en Dieu seul.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Pour la fin, dans les cantiques, psaume de David.

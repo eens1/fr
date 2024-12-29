@@ -1,8 +1,10 @@
 ---
-title: "Caput 29"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 29
 ---
+
+
 
 
 1 Profectus ergo Iacob venit in terram Orientalem.

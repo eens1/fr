@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 22"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Retraite de David dans la caverne d’Odollam, et de là auprès du roi de Moab.
-  Il revient dans le pays de Juda.
-  Saül fait tuer tous les prêtres de Nobé.
-  Abiathar se sauve et se retire auprès de David.
+summary: "\nRetraite de David dans la caverne d\u2019Odollam, et de l\xE0 aupr\xE8\
+  s du roi de Moab.\nIl revient dans le pays de Juda.\nSa\xFCl fait tuer tous les\
+  \ pr\xEAtres de Nob\xE9.\nAbiathar se sauve et se retire aupr\xE8s de David.\n"
+title: Chapitre 22
 ---
+
+
 
 
 1 David s'en alla donc de là, et il s'enfuit dans la caverne d'Odollam. Lorsque ses frères l'eurent appris et toute la maison de son père, ils descendirent vers lui en cet endroit.

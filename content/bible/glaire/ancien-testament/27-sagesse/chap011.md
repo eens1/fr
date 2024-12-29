@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 11"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  La sagesse a conduit les Israélites dans le désert.
-  Miracle de l’eau tirée du rocher par Moïse.
-  Sagesse de Dieu marquée dans les plaies dont il frappa l’Egypte.
-  Bonté de Dieu pour ses créatures.
+summary: "\nLa sagesse a conduit les Isra\xE9lites dans le d\xE9sert.\nMiracle de\
+  \ l\u2019eau tir\xE9e du rocher par Mo\xEFse.\nSagesse de Dieu marqu\xE9e dans les\
+  \ plaies dont il frappa l\u2019Egypte.\nBont\xE9 de Dieu pour ses cr\xE9atures.\n"
+title: Chapitre 11
 ---
+
+
 
 
 1 Elle a dirigé leurs oeuvres par les mains d'un saint prophète.

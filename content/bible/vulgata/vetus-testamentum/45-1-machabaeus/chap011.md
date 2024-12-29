@@ -1,8 +1,10 @@
 ---
-title: "Caput 11"
-date: 2024-09-06T20:00:56+02:00
+date: 2024-09-06 20:00:56+02:00
 draft: false
+title: Caput 11
 ---
+
+
 
 
 1 Et rex AEgypti congregavit exercitum, sicut arena, quae est circa oram maris, et naves multas: et quaerebat obtinere regnum Alexandri dolo, et addere illud regno suo.

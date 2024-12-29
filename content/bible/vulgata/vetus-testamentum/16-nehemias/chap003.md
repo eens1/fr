@@ -1,8 +1,10 @@
 ---
-title: "Caput 3"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 3
 ---
+
+
 
 
 1 Et surrexit Eliasib sacerdos magnus, et fratres eius sacerdotes, et aedificaverunt portam gregis: ipsi sanctificaverunt eam, et statuerunt valvas eius, et usque ad turrim centum cubitorum sanctificaverunt eam, usque ad turrim Hananeel.

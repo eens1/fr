@@ -1,11 +1,10 @@
 ---
-title: "Jésus est le Messie annoncé"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Extrait de la Cité Mystique de Dieu de la Vén. Marie de Agreda.
+summary: "\nExtrait de la Cit\xE9 Mystique de Dieu de la V\xE9n. Marie de Agreda.\n"
+title: "J\xE9sus est le Messie annonc\xE9"
 ---
+
 
 Extrait de la Cité Mystique de Dieu de la Vén. Marie de Agreda.
 

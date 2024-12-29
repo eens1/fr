@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 17"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Guerre des Philistins contre Israël.
-  Insultes de Goliath.
-  David abat ce géant d’un coup de fronde.
+summary: "\nGuerre des Philistins contre Isra\xEBl.\nInsultes de Goliath.\nDavid abat\
+  \ ce g\xE9ant d\u2019un coup de fronde.\n"
+title: Chapitre 17
 ---
+
+
 
 
 1 Or les Philistins assemblant leurs troupes pour le combat, se réunirent à Socho de Juda, et ils campèrent entre Socho et Azéca sur les confins de Dommim.

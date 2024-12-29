@@ -1,8 +1,10 @@
 ---
-title: "Caput 6"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 6
 ---
+
+
 
 
 1 Haec sunt praecepta, et ceremoniae, atque iudicia, quae mandavit Dominus Deus vester ut docerem vos, et faciatis ea in Terra, ad quam transgredimini possidendam:

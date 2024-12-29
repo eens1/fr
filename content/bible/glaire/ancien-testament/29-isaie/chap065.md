@@ -1,17 +1,13 @@
 ---
-title: "Chapitre 65"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Conversion des gentils.
-  Incrédulité des Juifs.
-  Vengeance du Seigneur sur ce peuple.
-  Restes sauvés par grâce.
-  Bénédiction du Seigneur sur ses serviteurs.
-  Nouveau monde.
-  Félicité de Jérusalem
+summary: "\nConversion des gentils.\nIncr\xE9dulit\xE9 des Juifs.\nVengeance du Seigneur\
+  \ sur ce peuple.\nRestes sauv\xE9s par gr\xE2ce.\nB\xE9n\xE9diction du Seigneur\
+  \ sur ses serviteurs.\nNouveau monde.\nF\xE9licit\xE9 de J\xE9rusalem\n"
+title: Chapitre 65
 ---
+
+
 
 
 1 Ils m'ont cherché, ceux qui auparavant ne m'interrogeaient pas; ils m'ont trouvé, ceux qui ne m'ont pas cherché ; j'ai dit : Me voici, me voici, à une nation qui n'invoquait pas mon nom.

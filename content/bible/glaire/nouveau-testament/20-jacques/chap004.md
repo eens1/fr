@@ -1,17 +1,14 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Divisions produites par les passions.
-  On n’obtient pas, parce qu’on demande mal.
-  Amitié du monde ennemie du Dieu.
-  Se soumettre à Dieu ; résister au démon.
-  S’affliger par la pénitence.
-  Ne pas médire, ne pas juger.
-  Ne pas s’appuyer sur la vie, parce qu’elle est incertaine.
+summary: "\nDivisions produites par les passions.\nOn n\u2019obtient pas, parce qu\u2019\
+  on demande mal.\nAmiti\xE9 du monde ennemie du Dieu.\nSe soumettre \xE0 Dieu ; r\xE9\
+  sister au d\xE9mon.\nS\u2019affliger par la p\xE9nitence.\nNe pas m\xE9dire, ne\
+  \ pas juger.\nNe pas s\u2019appuyer sur la vie, parce qu\u2019elle est incertaine.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 D'où viennent les guerres et les procès entre vous? N'est-ce pas de là? de vos convoitises qui combattent dans vos membres? 2 Vous convoitez et vous n'avez point ; vous tuez, vous êtes envieux, et ne pouvez obtenir; vous plaidez et faites la guerre, et VOUS n'avez point, parce que vous ne demandez point.

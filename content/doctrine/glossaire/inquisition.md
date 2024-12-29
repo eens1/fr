@@ -1,8 +1,10 @@
 ---
-title: "Inquisition"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Inquisition
 ---
+
+
 
 
 > *Pape Innocent III, Concile du Latran 4, Can. 3* : "Le Concile prononce anathème contre toutes les hérésies contraires à l'exposition de foi précédente; et ordonne que les hérétiques, après avoir été condamnés, seront livrés aux puissances séculières, en observant toutefois de dégrader les clercs avant de les livrer au bras séculier; on ordonne que les biens des laïques ainsi condamnés soient confisqués, et ceux des clercs, appliqués aux églises, dont ils ont reçu les rétributions; 

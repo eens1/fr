@@ -1,8 +1,10 @@
 ---
-title: "Caput 2"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 2
 ---
+
+
 
 
 1 Ascenditque Angelus Domini de Galgalis ad Locum flentium, et ait: Eduxi vos de AEgypto, et introduxi in Terram, pro qua iuravi patribus vestris: et pollicitus sum ut non facerem irritum pactum meum vobiscum in sempiternum:

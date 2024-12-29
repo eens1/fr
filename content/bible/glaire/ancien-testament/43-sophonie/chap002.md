@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Exhortation à prévenir la colère du Seigneur.
-  Menaces contre les Philistins, les Moabites, les Ammonites et les Ethiopiens.
-  Vengeances du Seigneur sur les Assyriens.
-  Ruine de Ninive.
+summary: "\nExhortation \xE0 pr\xE9venir la col\xE8re du Seigneur.\nMenaces contre\
+  \ les Philistins, les Moabites, les Ammonites et les Ethiopiens.\nVengeances du\
+  \ Seigneur sur les Assyriens.\nRuine de Ninive.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Venez tous ensemble, réunissez-vous, nation indigne d'être aimée; 2 Avant qu'un ordre enfante un jour comme la poussière qui passe, avant que vienne sur vous la colère de la fureur du Seigneur, avant que vienne sur vous le jour de l'indignation du Seigneur.

@@ -1,8 +1,10 @@
 ---
-title: "Haine"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Haine
 ---
+
+
 
 
 > *Saint Thomas d'Aquin, Somme Théologique, p. II-II, q. 34, a. 3* : "... on doit aimer sont prochain selon ce qu'il a reçu de Dieu, c'est-à-dire suivant la nature et la grâce; mais on ne doit pas l'aimer pour ce qu'il possède de lui-même et ce qui provient du démon, c'est-à-dire parce qu'il pèche et qu'il manque de justice. 

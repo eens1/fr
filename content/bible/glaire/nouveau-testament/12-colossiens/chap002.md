@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Sollicitude de saint Paul pour les Colossiens.
-  Il les exhorte à demeurer fermes dans la doctrine qu’ils ont reçue, et à se garder des faux docteurs.
-  Grandeur de Jésus-Christ ; son triomphe par la croix.
-  Culte superstitieux des anges.
-  Vaine attache aux observances légales.
+summary: "\nSollicitude de saint Paul pour les Colossiens.\nIl les exhorte \xE0 demeurer\
+  \ fermes dans la doctrine qu\u2019ils ont re\xE7ue, et \xE0 se garder des faux docteurs.\n\
+  Grandeur de J\xE9sus-Christ ; son triomphe par la croix.\nCulte superstitieux des\
+  \ anges.\nVaine attache aux observances l\xE9gales.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Car je veux que vous sachiez quelle sollicitude j'ai pour vous, pour ceux qui sont à Laodicée, et pour tous ceux qui n'ont pas vu ma face dans la chair;

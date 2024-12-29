@@ -1,17 +1,14 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Orgueil des Iduméens.
-  Leur infidélité à l’égard des enfants de Jacob.
-  Vengeance du Seigneur contre les Iduméens.
-  Rétablissement des enfants de Jacob.
-  Etendue de leurs possessions.
-  Jugement exercé par eux sur la maison d’Esaü.
-  Règne du Seigneur.
+summary: "\nOrgueil des Idum\xE9ens.\nLeur infid\xE9lit\xE9 \xE0 l\u2019\xE9gard des\
+  \ enfants de Jacob.\nVengeance du Seigneur contre les Idum\xE9ens.\nR\xE9tablissement\
+  \ des enfants de Jacob.\nEtendue de leurs possessions.\nJugement exerc\xE9 par eux\
+  \ sur la maison d\u2019Esa\xFC.\nR\xE8gne du Seigneur.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Vision d'Abdias. Voici ce que dit le Seigneur Dieu à Edom: [Nous avons entendu une nouvelle venant du Seigneur; et il a envoyé un messager vers les nations : Levez-vous, et levons-nous ensemble contre lui pour le combat].

@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 18"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Jésus dans le jardin.
-  Juifs renversés.
-  Jésus pris et mené devant Anne.
-  Saint Pierre le suit.
-  Jésus est envoyé à Caïphe, renié par saint Pierre et présenté à Pilate.
-  Barabbas lui est préféré.
+summary: "\nJ\xE9sus dans le jardin.\nJuifs renvers\xE9s.\nJ\xE9sus pris et men\xE9\
+  \ devant Anne.\nSaint Pierre le suit.\nJ\xE9sus est envoy\xE9 \xE0 Ca\xEFphe, reni\xE9\
+  \ par saint Pierre et pr\xE9sent\xE9 \xE0 Pilate.\nBarabbas lui est pr\xE9f\xE9\
+  r\xE9.\n"
+title: Chapitre 18
 ---
+
+
 
 
 1 Lorsqu'il eut dit ces choses, Jésus s'en alla avec ses disciples au-delà du torrent de Cédron, où il y avait un jardin dans lequel il entra, lui et ses disciples.

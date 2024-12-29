@@ -1,8 +1,10 @@
 ---
-title: "Sacrilège"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "Sacril\xE8ge"
 ---
+
+
 
 
 > *Saint Thomas d'Aquin, Somme théologique, p. 3, q. 99, a. 3* : "... le sacrilège consiste en ce qu'on manque de respect envers une chose sainte. 

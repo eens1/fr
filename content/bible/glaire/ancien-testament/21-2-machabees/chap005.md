@@ -1,16 +1,15 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Antiochus se prépare à marcher contre l’Egypte.
-  Prodiges effrayants qui paraissent dans l’air au-dessus de Jérusalem.
-  Expédition de Jason contre Jérusalem ; sa fuite et sa fin malheureuse.
-  Antiochus marche contre Jérusalem ; violences qu’il y exerce.
-  Il y envoie Apollonius, qui exerce de nouvelles cruautés.
-  Judas Machabée se retire dans le désert.
+summary: "\nAntiochus se pr\xE9pare \xE0 marcher contre l\u2019Egypte.\nProdiges effrayants\
+  \ qui paraissent dans l\u2019air au-dessus de J\xE9rusalem.\nExp\xE9dition de Jason\
+  \ contre J\xE9rusalem ; sa fuite et sa fin malheureuse.\nAntiochus marche contre\
+  \ J\xE9rusalem ; violences qu\u2019il y exerce.\nIl y envoie Apollonius, qui exerce\
+  \ de nouvelles cruaut\xE9s.\nJudas Machab\xE9e se retire dans le d\xE9sert.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Dans le même temps, Antiochus prépara une seconde expédition en Egypte.

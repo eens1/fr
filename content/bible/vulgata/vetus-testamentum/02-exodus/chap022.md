@@ -1,8 +1,10 @@
 ---
-title: "Caput 22"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 22
 ---
+
+
 
 
 1 Si quis furatus fuerit bovem, aut ovem, et occiderit vel vendiderit: quinque boves pro uno bove restituet, et quattuor oves pro una ove.

@@ -1,11 +1,11 @@
 ---
-title: "Chapitre 20"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Captivité des Egyptiens et des Ethiopiens.
+summary: "\nCaptivit\xE9 des Egyptiens et des Ethiopiens.\n"
+title: Chapitre 20
 ---
+
+
 
 
 1 En l'année que Tharthan entra dans Azot, lorsque Sargon roi des Assyriens l'eut envoyé, et qu'il eut combattu Azot, et l'eut prise;

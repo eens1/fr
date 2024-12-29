@@ -1,8 +1,10 @@
 ---
-title: "Dans la Bible"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Dans la Bible
 ---
+
+
 
 
 > *1 Corinthiens 7:25* : "Quant aux vierges, je n'ai pas reçu de commandement du Seigneur, mais je donnerai un conseil, comme ayant obtenu de la miséricorde du Seigneur d'être fidèle." [^1]

@@ -1,8 +1,10 @@
 ---
-title: "Caput 20"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 20
 ---
+
+
 
 
 1 Porro Benadad rex Syriae, congregavit omnem exercitum suum, et triginta duos reges secum, et equos, et currus: et ascendens pugnabat contra Samariam, et obsidebat eum.

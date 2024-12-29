@@ -1,17 +1,14 @@
 ---
-title: "Chapitre 31"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Rétablissement de la maison d’Israël réunie à celle de Juda.
-  Ephraïm reconnaît son iniquité.
-  Dieu le regarde dans sa miséricorde.
-  Prodige de la naissance du Messie.
-  Bonheur des Israélites après la captivité.
-  Alliance nouvelle.
-  Jérusalem rebâtie.
+summary: "\nR\xE9tablissement de la maison d\u2019Isra\xEBl r\xE9unie \xE0 celle de\
+  \ Juda.\nEphra\xEFm reconna\xEEt son iniquit\xE9.\nDieu le regarde dans sa mis\xE9\
+  ricorde.\nProdige de la naissance du Messie.\nBonheur des Isra\xE9lites apr\xE8\
+  s la captivit\xE9.\nAlliance nouvelle.\nJ\xE9rusalem reb\xE2tie.\n"
+title: Chapitre 31
 ---
+
+
 
 
 1 En ce temps-là, dit le Seigneur, je serai le Dieu de toutes les familles d'Israël, et elles seront mon peuple.

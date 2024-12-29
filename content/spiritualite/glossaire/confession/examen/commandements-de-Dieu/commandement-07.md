@@ -1,8 +1,10 @@
 ---
-title: "Septième Commandement"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: "Septi\xE8me Commandement"
 ---
+
+
 
 
 > *Saint Léonard de Port-Maurice* : "Examinez si dans le poids ou la mesure, en vendant ou en achetant, vous n'avez pas dérobé, trompé, ou causé quelque dommage à autrui.

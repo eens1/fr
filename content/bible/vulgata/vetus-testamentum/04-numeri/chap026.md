@@ -1,8 +1,10 @@
 ---
-title: "Caput 26"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 26
 ---
+
+
 
 
 1 Postquam noxiorum sanguis effusus est, dixit Dominus ad Moysen et Eleazarum filium Aaron sacerdotem:

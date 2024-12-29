@@ -1,8 +1,10 @@
 ---
-title: "Caput 4"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 4
 ---
+
+
 
 
 1 Quae cum audisset Mardochaeus, scidit vestimenta sua, et indutus est sacco, spargens cinerem capiti: et in platea mediae civitatis voce magna clamabat, ostendens amaritudinem animi sui,

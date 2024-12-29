@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 14"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Prise de Jérusalem.
-  Division de la montagne des Oliviers.
-  Jour du Seigneur.
-  Rétablissement de Jérusalem.
-  Ruine de ses ennemis.
-  Les peuples viendront adorer à Jérusalem ; ceux qui n’y viendront pas seront punis.
+summary: "\nPrise de J\xE9rusalem.\nDivision de la montagne des Oliviers.\nJour du\
+  \ Seigneur.\nR\xE9tablissement de J\xE9rusalem.\nRuine de ses ennemis.\nLes peuples\
+  \ viendront adorer \xE0 J\xE9rusalem ; ceux qui n\u2019y viendront pas seront punis.\n"
+title: Chapitre 14
 ---
+
+
 
 
 1 Voici que viendront les jours du Seigneur, et seront partagées tes dépouilles au milieu de toi.

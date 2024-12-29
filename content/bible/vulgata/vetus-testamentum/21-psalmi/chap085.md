@@ -1,8 +1,10 @@
 ---
-title: "Caput 85"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 85
 ---
+
+
 
 
 1 Oratio ipsi David. Inclina Domine aurem tuam, et exaudi me: quoniam inops, et pauper sum ego.

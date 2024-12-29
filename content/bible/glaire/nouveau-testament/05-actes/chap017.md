@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 17"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Paul à Thessalonique ; les Juifs y soulèvent le peuple contre lui.
-  Il passe à Bérée ; les Juifs de Thessalonique l’y poursuivent.
-  Il est conduit à Athènes.
-  Il prêche dans l’Aréopage.
+summary: "\nPaul \xE0 Thessalonique ; les Juifs y soul\xE8vent le peuple contre lui.\n\
+  Il passe \xE0 B\xE9r\xE9e ; les Juifs de Thessalonique l\u2019y poursuivent.\nIl\
+  \ est conduit \xE0 Ath\xE8nes.\nIl pr\xEAche dans l\u2019Ar\xE9opage.\n"
+title: Chapitre 17
 ---
+
+
 
 
 1 Après avoir passé par Amphipolis et Apollonie, ils vinrent à Thessalonique, à l'endroit où était la synagogue des Juifs.

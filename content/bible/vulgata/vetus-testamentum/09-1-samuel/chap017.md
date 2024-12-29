@@ -1,8 +1,10 @@
 ---
-title: "Caput 17"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 17
 ---
+
+
 
 
 1 Congregantes autem Philisthiim agmina sua in praelium, convenerunt in Socho Iudae: et castrametati sunt inter Socho et Azeca in finibus Dommim.

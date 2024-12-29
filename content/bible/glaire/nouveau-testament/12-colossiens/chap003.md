@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Amour des choses du ciel.
-  Vie cachée en Dieu.
-  Vieil homme ; nouvel homme.
-  Abrégé des vertus chrétiennes.
-  Devoirs des femmes et des maris, des enfants, des pères et des serviteurs.
+summary: "\nAmour des choses du ciel.\nVie cach\xE9e en Dieu.\nVieil homme ; nouvel\
+  \ homme.\nAbr\xE9g\xE9 des vertus chr\xE9tiennes.\nDevoirs des femmes et des maris,\
+  \ des enfants, des p\xE8res et des serviteurs.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 Si donc vous êtes ressuscités avec le Christ, recherchez les choses d'en haut, où le Christ est assis à la droite de Dieu. 2 Goûtez les choses d'en haut, et non les choses de la terre ; 3 Car vous êtes morts, et votre vie est cachée avec le Christ en Dieu. 4 Quand le Christ, qui est votre vie, apparaîtra, alors vous aussi vous apparaîtrez avec lui dans la gloire.

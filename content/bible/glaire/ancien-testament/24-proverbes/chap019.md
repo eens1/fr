@@ -1,17 +1,13 @@
 ---
-title: "Chapitre 19"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Du pauvre et du riche.
-  Du faux témoin.
-  De la colère et de la bienveillance du roi.
-  La femme prudente est un don du Seigneur.
-  Correction des enfants.
-  Crainte du Seigneur.
-  Châtiments réservés aux méchants.
+summary: "\nDu pauvre et du riche.\nDu faux t\xE9moin.\nDe la col\xE8re et de la bienveillance\
+  \ du roi.\nLa femme prudente est un don du Seigneur.\nCorrection des enfants.\n\
+  Crainte du Seigneur.\nCh\xE2timents r\xE9serv\xE9s aux m\xE9chants.\n"
+title: Chapitre 19
 ---
+
+
 
 
 1 Mieux vaut un pauvre qui marche en sa simplicité qu'un riche qui tord ses lèvres et qui est insensé.

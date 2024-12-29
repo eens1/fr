@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Prologue de saint Luc.
-  Ascension de Jésus-Christ.
-  Retour des Apôtres à Jérusalem.
-  Saint Mathias est élu à la place de Judas.
+summary: "\nPrologue de saint Luc.\nAscension de J\xE9sus-Christ.\nRetour des Ap\xF4\
+  tres \xE0 J\xE9rusalem.\nSaint Mathias est \xE9lu \xE0 la place de Judas.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 J'ai fait mon premier récit, ô Théophile, sur tout ce que Jésus-Christ a fait et enseigné depuis le commencement,

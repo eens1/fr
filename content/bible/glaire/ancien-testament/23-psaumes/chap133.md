@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 133"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste exhorte les prêtres et les Lévites à louer le Seigneur et à l’invoquer pour son peuple.
+summary: "\nLe Psalmiste exhorte les pr\xEAtres et les L\xE9vites \xE0 louer le Seigneur\
+  \ et \xE0 l\u2019invoquer pour son peuple.\n"
+title: Chapitre 133
 ---
+
+
 
 
 1 Cantique des degrés. Vous maintenant, bénissez le Seigneur, vous tous serviteurs du Seigneur; Qui demeurez dans la maison du Seigneur, dans les parvis de la maison de notre Dieu,

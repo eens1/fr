@@ -1,8 +1,10 @@
 ---
-title: "Tierçaires"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: "Tier\xE7aires"
 ---
+
+
 
 
 "De même, nous ordonnons que parmi vous on ne donne pas l'habit à des béates ou tierçaires avec la profession des trois voeux. Vous pourrez cependant imposer un petit scapulaire bénit et communiquer les faveurs et la confraternité de l'Ordre à certaines personnes, si vous le jugez à propos." [^1]

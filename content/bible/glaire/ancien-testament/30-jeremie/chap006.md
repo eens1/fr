@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 6"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Désolation de Jérusalem et de Juda.
-  Infidélité des Juifs.
-  Fausse paix qui leur est promise.
-  S’instruire de la bonne voie ; et y marcher.
-  Sentinelles établies et non écoutées.
-  Jérémie est établi sur le peuple de Seigneur pour l’éprouver.
+summary: "\nD\xE9solation de J\xE9rusalem et de Juda.\nInfid\xE9lit\xE9 des Juifs.\n\
+  Fausse paix qui leur est promise.\nS\u2019instruire de la bonne voie ; et y marcher.\n\
+  Sentinelles \xE9tablies et non \xE9cout\xE9es.\nJ\xE9r\xE9mie est \xE9tabli sur\
+  \ le peuple de Seigneur pour l\u2019\xE9prouver.\n"
+title: Chapitre 6
 ---
+
+
 
 
 1 Fortifiez-vous, fils de Benjamin, au milieu de Jérusalem, et dans Thécua sonnez de la trompette, et sur Bethacarem levez l'étendard; parce qu'un mal a été vu du côté de l'aquilon, ainsi qu'une grande destruction.

@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 12"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Sentiment de saint Paul.
-  Dieu l’humilie de peur qu’il ne s’élève.
-  Plus il est faible, plus il est fort.
-  Son désintéressement et celui de ses disciples.
-  Son zèle pour les Corinthiens.
+summary: "\nSentiment de saint Paul.\nDieu l\u2019humilie de peur qu\u2019il ne s\u2019\
+  \xE9l\xE8ve.\nPlus il est faible, plus il est fort.\nSon d\xE9sint\xE9ressement\
+  \ et celui de ses disciples.\nSon z\xE8le pour les Corinthiens.\n"
+title: Chapitre 12
 ---
+
+
 
 
 1 S'il faut se glorifier (cela ne convient pas sans doute), je viendrai aux visions et aux révélations du Seigneur. 2 Je sais un homme en Jésus-Christ, qui, il y a quatorze ans, fut ravi (si ce fut dans son corps ou hors de son corps, je ne sais, Dieu le sait) jusqu'au troisième ciel,

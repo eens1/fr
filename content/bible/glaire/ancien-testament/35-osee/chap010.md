@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 10"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Vengeance du Seigneur sur Israël.
-  Les deux maisons de Jacob, d’abord celle d’Israël, puis celle de Juda, porteront chacune la peine de leurs iniquités.
+summary: "\nVengeance du Seigneur sur Isra\xEBl.\nLes deux maisons de Jacob, d\u2019\
+  abord celle d\u2019Isra\xEBl, puis celle de Juda, porteront chacune la peine de\
+  \ leurs iniquit\xE9s.\n"
+title: Chapitre 10
 ---
+
+
 
 
 1 Israël était une vigne couverte de feuilles, le fruit les égalait; selon l'abondance de son fruit elle a multiplié ses autels; suivant la fertilité de sa terre, elle a été féconde en simulacres. 2 Leur coeur s'est partagé, maintenant ils périront; lui-même brisera leurs simulacres, il renversera leurs autels.

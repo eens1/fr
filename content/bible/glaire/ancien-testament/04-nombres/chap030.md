@@ -1,11 +1,15 @@
 ---
-title: "Chapitre 30"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
+summary: '
+
   Lois touchant les voeux et les promesses faites avec serment.
+
+  '
+title: Chapitre 30
 ---
+
+
 
 
 1 Et Moïse raconta aux enfants d'Israël tout ce que le Seigneur lui avait commandé ;

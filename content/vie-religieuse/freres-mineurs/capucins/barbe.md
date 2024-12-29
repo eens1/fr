@@ -1,8 +1,10 @@
 ---
-title: "Barbe longue"
-date: 2024-09-06T20:02:59+02:00
+date: 2024-09-06 20:02:59+02:00
 draft: false
+title: Barbe longue
 ---
+
+
 
 
 > *Annales des Frères Mineurs Capucins*, 1675 : "Il faut encore considérer en troisième lieu bien profondément, que le Pape [Clément VII] a voulu de son propre mouvement, exprimé dans sa Bulle, que ceux de cette nouvelle Réforme [les Capucins], portassent la barbe longue, puisque nous ne lisons en aucun lieu, que les premiers Pères l'aient demandé à sa Sainteté, ce qui doit sans doute paraître merveilleux, à cause principalement, qu'en ce temps, et bien auparavant, tout l'Ordre de l'Observance avait la barbe rasée : mais encore que le Pape l'ai ordonné, pour distinquer, avec plus de différence, la Réforme, de la famille des Observantins, et pour faire connaître, que les enfants de cette Réforme nouvelle, étaient sour l'obéissance des Mineurs Conventuels, qui portaient une longue barbe, une raison pourtant prise de la condition de l'Instituteur, est une preuve bien visible, que cela ne s'est pas fait, sans une Providence particulière de Dieu.

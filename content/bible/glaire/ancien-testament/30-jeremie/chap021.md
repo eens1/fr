@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 21"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Sédécias envoie consulter Jérémie.
-  Le Prophète lui prédit les maux qui vont fondre sur Jérusalem.
-  Moyens que Dieu donne à ses habitants pour sauver leur vie, et au roi de Juda pour éviter les maux dont il est menacé.
+summary: "\nS\xE9d\xE9cias envoie consulter J\xE9r\xE9mie.\nLe Proph\xE8te lui pr\xE9\
+  dit les maux qui vont fondre sur J\xE9rusalem.\nMoyens que Dieu donne \xE0 ses habitants\
+  \ pour sauver leur vie, et au roi de Juda pour \xE9viter les maux dont il est menac\xE9\
+  .\n"
+title: Chapitre 21
 ---
+
+
 
 
 1 Parole qui fut adressée à Jérémie par le Seigneur, quand le roi Sédécias envoya vers lui Phassur, fils de Melchias, et Sophonias, le prêtre, fils de Maasias, disant :

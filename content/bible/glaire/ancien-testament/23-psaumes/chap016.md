@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 16"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le psalmiste implore le secours de Dieu contre ses ennemis.
-  Il représente à Dieu sa propre innocence, et décrit la malice et la violence de ceux qui le persécutent.
+summary: "\nLe psalmiste implore le secours de Dieu contre ses ennemis.\nIl repr\xE9\
+  sente \xE0 Dieu sa propre innocence, et d\xE9crit la malice et la violence de ceux\
+  \ qui le pers\xE9cutent.\n"
+title: Chapitre 16
 ---
+
+
 
 
 1 Prière de David. Exaucez, Seigneur, ma justice. Soyez attentif à ma supplication. Prêtez l'oreille à ma prière, elle ne vient pas de lèvres trompeuses.

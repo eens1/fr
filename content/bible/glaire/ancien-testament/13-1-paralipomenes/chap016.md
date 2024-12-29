@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 16"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  L’arche est mise dans le tabernacle de Sion.
-  Cantique qui fut chanté dans cette cérémonie.
-  Lévites établis pour chanter devant le Seigneur.
+summary: "\nL\u2019arche est mise dans le tabernacle de Sion.\nCantique qui fut chant\xE9\
+  \ dans cette c\xE9r\xE9monie.\nL\xE9vites \xE9tablis pour chanter devant le Seigneur.\n"
+title: Chapitre 16
 ---
+
+
 
 
 1 On apporta donc l'arche de Dieu, et on la plaça au milieu du tabernacle que David lui avait dressé; et l'on offrit des holocaustes et des sacrifices pacifiques devant Dieu.

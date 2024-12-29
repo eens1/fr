@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 11"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  David tombe en adultère avec Bethsabée, femme d’Urie.
-  Il donne ordre à Joab d’exposer Urie au danger.
-  Après la mort d’Urie, Bethsabée épouse David.
+summary: "\nDavid tombe en adult\xE8re avec Bethsab\xE9e, femme d\u2019Urie.\nIl donne\
+  \ ordre \xE0 Joab d\u2019exposer Urie au danger.\nApr\xE8s la mort d\u2019Urie,\
+  \ Bethsab\xE9e \xE9pouse David.\n"
+title: Chapitre 11
 ---
+
+
 
 
 1 Or, il arriva qu'au retour de l'année, au temps que les rois ont coutume d'aller à la guerre, David envoya Joab et ses serviteurs avec lui et tout Israël, et il ravagèrent les enfants d'Ammon et assiégèrent Rabba ; mais David demeura à Jérusalem.

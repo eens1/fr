@@ -1,8 +1,10 @@
 ---
-title: "Caput 8"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 8
 ---
+
+
 
 
 1 Hi sunt ergo principes familiarum, et genealogia eorum, qui ascenderunt mecum in regno Artaxerxis regis de Babylone.

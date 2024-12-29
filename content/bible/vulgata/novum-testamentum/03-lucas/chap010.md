@@ -1,8 +1,10 @@
 ---
-title: "Caput 10"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
+title: Caput 10
 ---
+
+
 
 
 1 Post haec autem designavit Dominus et alios septuaginta duos. et misit illos binos ante faciem suam in omnem civitatem, et locum, quo erat ipse venturus.

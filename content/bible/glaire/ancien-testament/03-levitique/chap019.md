@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 19"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Respecter ses parents.
-  Garder le sabbat.
-  Lois contre l’avarice, le jurement, la calomnie, l’injustice et la vengeance.
-  Divers autres commandements.
+summary: "\nRespecter ses parents.\nGarder le sabbat.\nLois contre l\u2019avarice,\
+  \ le jurement, la calomnie, l\u2019injustice et la vengeance.\nDivers autres commandements.\n"
+title: Chapitre 19
 ---
+
+
 
 
 1 Le Seigneur parla à Moïse, disant :2 Parle à toute l'assemblée des enfants d'Israël, et tu leur diras : Soyez saints, parce que je suis saint, moi, le Seigneur votre Dieu.

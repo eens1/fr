@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 14"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  David représente la sainteté que doivent avoir ceux qui aspirent à demeurer dans les tabernacles éternels de la Jérusalem céleste.
+summary: "\nDavid repr\xE9sente la saintet\xE9 que doivent avoir ceux qui aspirent\
+  \ \xE0 demeurer dans les tabernacles \xE9ternels de la J\xE9rusalem c\xE9leste.\n"
+title: Chapitre 14
 ---
+
+
 
 
 1 Psaume de David. Seigneur, qui habitera dans votre tabernacle, et qui reposera sur votre montagne sainte?

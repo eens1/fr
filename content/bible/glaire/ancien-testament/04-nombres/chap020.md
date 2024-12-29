@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 20"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Mort de Marie, soeur de Moïse.
-  Eaux de contradiction.
-  Moïse repris de sa défiance.
-  Le roi d’Edom refuse le passage aux Israélites.
-  Mort d’Aaron ; Eléazar lui succède.
+summary: "\nMort de Marie, soeur de Mo\xEFse.\nEaux de contradiction.\nMo\xEFse repris\
+  \ de sa d\xE9fiance.\nLe roi d\u2019Edom refuse le passage aux Isra\xE9lites.\n\
+  Mort d\u2019Aaron ; El\xE9azar lui succ\xE8de.\n"
+title: Chapitre 20
 ---
+
+
 
 
 1 Or, les enfants d'Israël et toute la multitude vinrent dans le désert de Sin, au premier mois; et le peuple demeura à Cadès. Et Marie mourut là, et elle fut ensevelie au même lieu.

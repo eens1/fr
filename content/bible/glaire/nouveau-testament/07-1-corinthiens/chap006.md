@@ -1,15 +1,15 @@
 ---
-title: "Chapitre 6"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Saint Paul reproche aux Corinthiens de s’appeler en jugement devant les infidèles.
-  Il les exhorte à fuir les procès.
-  Il leur rappelle les péchés qui ferment l’entrée du ciel.
-  Il leur recommande de fuir la fornication.
-  Nos corps sont les membres de Jésus-Christ et les temples du Saint-Esprit.
+summary: "\nSaint Paul reproche aux Corinthiens de s\u2019appeler en jugement devant\
+  \ les infid\xE8les.\nIl les exhorte \xE0 fuir les proc\xE8s.\nIl leur rappelle les\
+  \ p\xE9ch\xE9s qui ferment l\u2019entr\xE9e du ciel.\nIl leur recommande de fuir\
+  \ la fornication.\nNos corps sont les membres de J\xE9sus-Christ et les temples\
+  \ du Saint-Esprit.\n"
+title: Chapitre 6
 ---
+
+
 
 
 1 Quelqu'un de vous ayant avec un autre un différend, ose l'appeler en jugement devant les infidèles et non devant les saints !

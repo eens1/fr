@@ -1,8 +1,10 @@
 ---
-title: "Gloria Patri"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: Gloria Patri
 ---
+
+
 
 
 > *Brevarium romanum, 1936* : "Glória Patri, et Fílio, et Spirítui Sancto. Sicut erat in princípio, et nunc, et semper, et in sáecula saeculórum. Amen." [^1]

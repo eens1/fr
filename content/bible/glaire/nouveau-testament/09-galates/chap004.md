@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Juifs en tutelle sous la loi, libres par la foi.
-  Galates entraînés dans le judaïsme.
-  Leur première affection pour saint Paul.
-  Tendresse de saint Paul pour eux.
-  Agar et Sara figures des deux alliances.
+summary: "\nJuifs en tutelle sous la loi, libres par la foi.\nGalates entra\xEEn\xE9\
+  s dans le juda\xEFsme.\nLeur premi\xE8re affection pour saint Paul.\nTendresse de\
+  \ saint Paul pour eux.\nAgar et Sara figures des deux alliances.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Je dis de plus : Tant que l'héritier est enfant, il ne diffère point d'un serviteur, quoiqu'il soit maître de tout. 2 Mais il est sous des tuteurs et des curateurs jusqu'au temps marqué par son père. 3 Ainsi, nous aussi, quand nous étions enfants, nous étions asservis aux premiers éléments du monde.

@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 7"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Maux communs à tous les hommes.
-  Job représente au Seigneur sa misère et sa faiblesse, et le supplie de lui pardonner son péché.
+summary: "\nMaux communs \xE0 tous les hommes.\nJob repr\xE9sente au Seigneur sa mis\xE8\
+  re et sa faiblesse, et le supplie de lui pardonner son p\xE9ch\xE9.\n"
+title: Chapitre 7
 ---
+
+
 
 
 1 C'est une milice que la vie de l'homme sur la terre ; et ses jours sont comme les jours d'un mercenaire. 2 Comme un esclave désire l'ombre, et comme un mercenaire attend la fin de son ouvrage, 3 Ainsi moi aussi j'ai eu des mois vides, et j'ai compté des nuits laborieuses.

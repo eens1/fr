@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Esther se présente devant Assuérus, et le prie de venir au festin qu’elle lui a préparé.
-  Aman prend la résolution de faire pendre Mardochée.
+summary: "\nEsther se pr\xE9sente devant Assu\xE9rus, et le prie de venir au festin\
+  \ qu\u2019elle lui a pr\xE9par\xE9.\nAman prend la r\xE9solution de faire pendre\
+  \ Mardoch\xE9e.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Or, le troisième jour, Esther se revêtit de vêtements royaux et se présenta dans le vestibule de la maison du roi, lequel était intérieur, contre la chambre du roi : or il était assis sur son trône, dans la chambre du conseil du palais, contre la porte de la maison. 2 Et lorsqu'il vit la reine Esther devant lui, elle plut à ses yeux, et il étendit vers elle le sceptre d'or qu'il avait à la main. Esther, s'approchant, baisa le bout de son sceptre. 3 Et le roi lui dit : Que voulez-vous, reine Esther? Quelle est votre demande? Quand vous me demanderiez la moitié de mon royaume, elle vous serait donnée. 4 Mais elle répondit : S'il plaît au roi, je vous conjure de venir, et Aman avec vous, au festin que j'ai préparé.

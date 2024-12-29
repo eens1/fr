@@ -1,8 +1,10 @@
 ---
-title: "Caput 15"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 15
 ---
+
+
 
 
 1 Et vidi aliud signum in caelo magnum, et mirabile, Angelos septem, habentes plagas septem novissimas: Quoniam in illis consummata est ira Dei.

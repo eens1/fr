@@ -1,8 +1,10 @@
 ---
-title: "Unité"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "Unit\xE9"
 ---
+
+
 
 
 > *Ephésiens 4:3* : "Appliqués à conserver l'unité d'esprit, par le lien de la paix." [^1]

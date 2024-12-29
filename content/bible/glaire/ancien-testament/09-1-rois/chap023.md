@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 23"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  David délivre Céila.
-  Il se retire au désert de Ziph.
-  Saül le poursuit dans le désert de Maon.
+summary: "\nDavid d\xE9livre C\xE9ila.\nIl se retire au d\xE9sert de Ziph.\nSa\xFC\
+  l le poursuit dans le d\xE9sert de Maon.\n"
+title: Chapitre 23
 ---
+
+
 
 
 1 Et on apporta une nouvelle à David en disant : Voilà que les Philistins attaquent Céila, et qu'ils pillent les aires.

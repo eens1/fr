@@ -1,8 +1,10 @@
 ---
-title: "Gouvernement"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Gouvernement
 ---
+
+
 
 
 > *Saint Thomas d'Aquin, Opuscule 20, chap. 2, *Il vaut mieux pour une société d'être gouverné par un seul, que par plusieurs** : "... il faut voir s'il est plus avantageux pour une ville ou une province d'être gouvernée par un seul ou par plusieurs. Cette question est décidée par la fin même du gouvernement. En effet, tous les soins et tous les efforts d'un chef doivent tendre à procurer le salut de ce qui est sous sa domination. Un pilote habile doit éviter les écueils et conduire au port son navire sain et sauf. Or le bien et le salut d'un peuple formé en société est la conservation de son unité, ce qui s'appelle la paix, sans laquelle la vie sociale est sans utilité, et bien plus, une société qui ne s'entend pas, est insupportable à elle-même. 

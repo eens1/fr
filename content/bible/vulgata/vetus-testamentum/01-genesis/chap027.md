@@ -1,8 +1,10 @@
 ---
-title: "Caput 27"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 27
 ---
+
+
 
 
 1 Senuit autem Isaac, et caligaverunt oculi eius, et videre non poterat: vocavitque Esau filium suum maiorem, et dixit ei: Fili mi? Qui respondit: Adsum.

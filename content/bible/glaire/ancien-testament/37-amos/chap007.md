@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 7"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Diverses visions d’Amos sur la désolation d’Israël.
-  Ruine de la maison de Jéroboam.
-  Amasias s’élève contre Amos.
-  Punition d’Amasias.
-  Captivité d’Israël.
+summary: "\nDiverses visions d\u2019Amos sur la d\xE9solation d\u2019Isra\xEBl.\n\
+  Ruine de la maison de J\xE9roboam.\nAmasias s\u2019\xE9l\xE8ve contre Amos.\nPunition\
+  \ d\u2019Amasias.\nCaptivit\xE9 d\u2019Isra\xEBl.\n"
+title: Chapitre 7
 ---
+
+
 
 
 1 Voici ce que m'a montré le Seigneur Dieu : or voici qu'il formait la sauterelle, lorsque les plantes commençaient à germer par la pluie de l'arrière-saison ; et voici la pluie de l'arrière-saison après la coupe du roi.

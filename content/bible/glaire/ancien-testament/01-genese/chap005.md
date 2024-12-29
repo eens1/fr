@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Généalogie de Noé, remontant jusqu’à Adam, par les descendants de Seth.
+summary: "\nG\xE9n\xE9alogie de No\xE9, remontant jusqu\u2019\xE0 Adam, par les descendants\
+  \ de Seth.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Voici le livre de la génération d'Adam. Au jour que Dieu créa l'homme, c'est à la ressemblance de Dieu qu'il le fit.

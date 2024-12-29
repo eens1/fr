@@ -1,8 +1,10 @@
 ---
-title: "Caput 39"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 39
 ---
+
+
 
 
 1 Igitur Ioseph ductus est in AEgyptum, emitque eum Putiphar eunuchus Pharaonis, princeps exercitus, vir AEgyptius, de manu Ismaelitarum, a quibus perductus erat.

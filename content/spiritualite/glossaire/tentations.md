@@ -1,8 +1,10 @@
 ---
-title: "Tentations"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: Tentations
 ---
+
+
 
 
 > *Saint Léonard de Port-Maurice* : "... par péché de pensée on n'entend point toute pensée mauvaise qui se présente à l'esprit, car si s'en est présenté, ou il peut s'en présenter à l'esprit des plus grands saints; mais on entend pensée coupable à laquelle vous adhérez volontairement.

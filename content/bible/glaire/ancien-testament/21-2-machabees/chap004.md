@@ -1,19 +1,17 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Calomnies de Simon.
-  Jason obtient à prix d’argent la souveraine sacrificature.
-  Il commet toutes sortes d’impiétés.
-  Antiochus est reçu à Jérusalem ; Ménélaüs supplante Jason.
-  Il est accusé devant Antiochus et laisse à sa place Lysimaque.
-  Onias reprend Ménélaüs, et est tué par Andronique.
-  Antiochus venge la mort d’Onias.
-  Lysimaque est tué par le peuple.
-  Ménélaüs rachète sa vie par une somme d’argent.
+summary: "\nCalomnies de Simon.\nJason obtient \xE0 prix d\u2019argent la souveraine\
+  \ sacrificature.\nIl commet toutes sortes d\u2019impi\xE9t\xE9s.\nAntiochus est\
+  \ re\xE7u \xE0 J\xE9rusalem ; M\xE9n\xE9la\xFCs supplante Jason.\nIl est accus\xE9\
+  \ devant Antiochus et laisse \xE0 sa place Lysimaque.\nOnias reprend M\xE9n\xE9\
+  la\xFCs, et est tu\xE9 par Andronique.\nAntiochus venge la mort d\u2019Onias.\n\
+  Lysimaque est tu\xE9 par le peuple.\nM\xE9n\xE9la\xFCs rach\xE8te sa vie par une\
+  \ somme d\u2019argent.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Mais Simon, le délateur qui a été dit des sommes d'argent et de la patrie, parlait mal d'Onias, comme si Onias avait inspiré à Héliodore ce qu'il avait fait, et qu'il eût été l'instigateur de ces maux; 2 Et le pourvoyeur de la cité et le défenseur de sa nation, et le zélateur de la loi de Dieu, il osait le dire formant des desseins contre le royaume. 3 Mais comme cette inimitié allait si loin que même par quelques amis de Simon, il se commettait des meurtres,

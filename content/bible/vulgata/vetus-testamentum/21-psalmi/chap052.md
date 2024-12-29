@@ -1,8 +1,10 @@
 ---
-title: "Caput 52"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 52
 ---
+
+
 
 
 1 In finem, Pro Maeleth intelligentiae David. Dixit insipiens in corde suo: Non est Deus.

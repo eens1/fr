@@ -1,8 +1,10 @@
 ---
-title: "Caput 5"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 5
 ---
+
+
 
 
 1 Naaman princeps militiae regis Syriae, erat vir magnus apud dominum suum, et honoratus: per illum enim dedit Dominus salutem Syriae: erat autem vir fortis et dives, sed leprosus.

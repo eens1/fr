@@ -1,8 +1,10 @@
 ---
-title: "Caput 14"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 14
 ---
+
+
 
 
 1 Et accidit quadam die ut diceret Ionathas filius Saul ad adolescentem armigerum suum: Veni, et transeamus ad stationem Philisthinorum, quae est trans locum illum. Patri autem suo hoc ipsum non indicavit.

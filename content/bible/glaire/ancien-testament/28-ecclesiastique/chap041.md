@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 41"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Souvenir de la mort doux ou amer.
-  L’opprobre et la malédiction sont le partage des méchants.
-  Bonne réputation préférable aux richesses.
-  Diverses choses dont on doit rougir.
+summary: "\nSouvenir de la mort doux ou amer.\nL\u2019opprobre et la mal\xE9diction\
+  \ sont le partage des m\xE9chants.\nBonne r\xE9putation pr\xE9f\xE9rable aux richesses.\n\
+  Diverses choses dont on doit rougir.\n"
+title: Chapitre 41
 ---
+
+
 
 
 1 Ô mort, que ton souvenir est amer à l'homme qui jouit de la paix au milieu de ses biens ;

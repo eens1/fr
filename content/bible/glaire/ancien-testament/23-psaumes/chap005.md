@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Belle prière du psalmiste.
-  Il y représente ce que les méchants doivent craindre de la justice de Dieu, et ce que les justes doivent attendre de sa bonté.
+summary: "\nBelle pri\xE8re du psalmiste.\nIl y repr\xE9sente ce que les m\xE9chants\
+  \ doivent craindre de la justice de Dieu, et ce que les justes doivent attendre\
+  \ de sa bont\xE9.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Pour la fin, pour celle qui obtient l'héritage, psaume de David.

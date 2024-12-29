@@ -1,18 +1,14 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Faire pénitence.
-  Parabole du figuier stérile.
-  Guérison d’une femme courbée.
-  Paraboles du grain de sénevé et du levain dans la pâte.
-  Porte étroite.
-  Les derniers devenus les premiers.
-  Réponse de Jésus-Christ touchant Hérode.
-  Vengeances prédites contre Jésus-Christ.
+summary: "\nFaire p\xE9nitence.\nParabole du figuier st\xE9rile.\nGu\xE9rison d\u2019\
+  une femme courb\xE9e.\nParaboles du grain de s\xE9nev\xE9 et du levain dans la p\xE2\
+  te.\nPorte \xE9troite.\nLes derniers devenus les premiers.\nR\xE9ponse de J\xE9\
+  sus-Christ touchant H\xE9rode.\nVengeances pr\xE9dites contre J\xE9sus-Christ.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 En ce même temps, quelques-uns vinrent lui annoncer ce qui s'était passé touchant les Galiléens, dont Pilate avait mêlé le sang à leurs sacrifices.

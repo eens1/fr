@@ -1,8 +1,10 @@
 ---
-title: "Caput 13"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 13
 ---
+
+
 
 
 1 Factum est autem post haec, ut Absalom filii David sororem speciosissimam, vocabulo Thamar, adamaret Amnon filius David,

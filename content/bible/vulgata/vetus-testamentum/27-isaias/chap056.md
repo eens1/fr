@@ -1,8 +1,10 @@
 ---
-title: "Caput 56"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 56
 ---
+
+
 
 
 1 Haec dicit Dominus: Custodite iudicium, et facite iustitiam: quia iuxta est salus mea ut veniat, et iustitia mea ut reveletur.

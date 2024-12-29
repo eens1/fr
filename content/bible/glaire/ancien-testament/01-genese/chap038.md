@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 38"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Juda marie successivement deux de ses fils à Thamar.
-  Naissance de Pharès et de Zara.
+summary: "\nJuda marie successivement deux de ses fils \xE0 Thamar.\nNaissance de\
+  \ Phar\xE8s et de Zara.\n"
+title: Chapitre 38
 ---
+
+
 
 
 1 Dans le même temps, Juda, s'éloignant de ses frères, alla loger chez un homme d'Odollam, du nom d'Hiras.

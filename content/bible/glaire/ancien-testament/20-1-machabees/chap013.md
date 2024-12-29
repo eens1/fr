@@ -1,19 +1,16 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Simon succède à Jonathas.
-  Il s’oppose aux entreprises de Tryphon.
-  Mort de Jonathas.
-  Simon bâtit un sépulcre pour son père et ses frères.
-  Tryphon tue le jeune Antiochus, et règne à sa place.
-  Simon recherche l’amitié de Démétrius Nicanor, et obtient l’affranchissement de son pays.
-  Il assiège et prend Gaza.
-  La citadelle de Jérusalem lui est rendue.
-  Il met Jean Hyrcan son fils à la tête de l’armée.
+summary: "\nSimon succ\xE8de \xE0 Jonathas.\nIl s\u2019oppose aux entreprises de Tryphon.\n\
+  Mort de Jonathas.\nSimon b\xE2tit un s\xE9pulcre pour son p\xE8re et ses fr\xE8\
+  res.\nTryphon tue le jeune Antiochus, et r\xE8gne \xE0 sa place.\nSimon recherche\
+  \ l\u2019amiti\xE9 de D\xE9m\xE9trius Nicanor, et obtient l\u2019affranchissement\
+  \ de son pays.\nIl assi\xE8ge et prend Gaza.\nLa citadelle de J\xE9rusalem lui est\
+  \ rendue.\nIl met Jean Hyrcan son fils \xE0 la t\xEAte de l\u2019arm\xE9e.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 Or Simon apprit que Tryphon avait assemblé une armée considérable, afin de venir dans la terre de Juda et de la ravager. 2 Et voyant que le peuple était dans la frayeur et la crainte, il monta à Jérusalem, et assembla le peuple; 3 Et l'exhortant, il dit : Vous, vous savez combien moi et mes frères, et la maison de mon père, nous avons livré de combats pour les lois et pour les saints lieux, et quelles angoisses nous avons éprouvées;

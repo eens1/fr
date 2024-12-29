@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 45"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Victoires de Cyrus, règne de justice.
-  Délivrance d’Israël.
-  Le Seigneur reconnu par les nations.
-  Il est le seul Dieu véritable.
-  Tous les peuples le reconnaîtront ; tout Israël se glorifiera en lui.
+summary: "\nVictoires de Cyrus, r\xE8gne de justice.\nD\xE9livrance d\u2019Isra\xEB\
+  l.\nLe Seigneur reconnu par les nations.\nIl est le seul Dieu v\xE9ritable.\nTous\
+  \ les peuples le reconna\xEEtront ; tout Isra\xEBl se glorifiera en lui.\n"
+title: Chapitre 45
 ---
+
+
 
 
 1 Voici ce que dit le Seigneur à mon christ, Cyrus, que j'ai pris par la droite, afin d'assujettir devant sa face les nations, de faire tourner le dos aux rois, et d'ouvrir devant lui les portes des maisons, et les portes des villes ne seront pas fermées.

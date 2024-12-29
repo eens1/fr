@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 7"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Vision de quatre bêtes qui représentent quatre empires.
-  Caractères particuliers de la quatrième bête.
-  Puissance ennemie des saints.
-  Jugement du Seigneur.
-  Règne du Fils de l’homme, règne des saints.
+summary: "\nVision de quatre b\xEAtes qui repr\xE9sentent quatre empires.\nCaract\xE8\
+  res particuliers de la quatri\xE8me b\xEAte.\nPuissance ennemie des saints.\nJugement\
+  \ du Seigneur.\nR\xE8gne du Fils de l\u2019homme, r\xE8gne des saints.\n"
+title: Chapitre 7
 ---
+
+
 
 
 1 En la première année de Baltassar, roi de Babylone, Daniel vit un songe; mais cette vision de sa tête, il l'eut dans son lit; et écrivant le songe, il le recueillit en peu de paroles, et le rapportant sommairement, il dit :

@@ -1,8 +1,10 @@
 ---
-title: "Caput 25"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 25
 ---
+
+
 
 
 1 Igitur David, et magistratus exercitus segregaverunt in ministerium filios Asaph, et Heman, et Idithun: qui prophetarent in citharis, et psalteriis, et cymbalis secundum numerum suum dedicato sibi officio servientes.

@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 10"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Un des sept hommes est envoyé prendre des charbons de feu pour les répandre sur Jérusalem.
-  Nouvelle description du char mystérieux.
-  Le Seigneur qui était descendu de ce char y remonte.
+summary: "\nUn des sept hommes est envoy\xE9 prendre des charbons de feu pour les\
+  \ r\xE9pandre sur J\xE9rusalem.\nNouvelle description du char myst\xE9rieux.\nLe\
+  \ Seigneur qui \xE9tait descendu de ce char y remonte.\n"
+title: Chapitre 10
 ---
+
+
 
 
 1 Et je vis, et voilà que dans le firmament qui était sur la tête des chérubins, parut comme une pierre de saphir, comme une espèce de ressemblance de trône au-dessus d'eux.

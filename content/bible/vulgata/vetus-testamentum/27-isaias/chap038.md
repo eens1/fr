@@ -1,8 +1,10 @@
 ---
-title: "Caput 38"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 38
 ---
+
+
 
 
 1 In diebus illis aegrotavit Ezechias usque ad mortem: et introivit ad eum Isaias filius Amos propheta, et dixit ei: Haec dicit Dominus: Dispone domui tuae, quia morieris tu, et non vives.

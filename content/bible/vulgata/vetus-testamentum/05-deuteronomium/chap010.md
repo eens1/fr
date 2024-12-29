@@ -1,8 +1,10 @@
 ---
-title: "Caput 10"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 10
 ---
+
+
 
 
 1 In tempore illo dixit Dominus ad me: Dola tibi duas tabulas lapideas, sicut priores fuerunt, et ascende ad me in montem: faciesque arcam ligneam,

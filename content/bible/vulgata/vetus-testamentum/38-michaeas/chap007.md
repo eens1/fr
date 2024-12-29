@@ -1,8 +1,10 @@
 ---
-title: "Caput 7"
-date: 2024-09-06T20:00:56+02:00
+date: 2024-09-06 20:00:56+02:00
 draft: false
+title: Caput 7
 ---
+
+
 
 
 1 Vae mihi, quia factus sum sicut qui colligit in autumno racemos vindemiae: non est botrus ad comedendum, praecoquas ficus desideravit anima mea.

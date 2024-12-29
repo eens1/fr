@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Violence et jalousie des hommes.
-  Oisiveté des insensés.
-  Folie des avares.
-  Avantage de la société.
-  Vanité de la souveraine puissance.
-  Obéissance préférable aux sacrifices.
+summary: "\nViolence et jalousie des hommes.\nOisivet\xE9 des insens\xE9s.\nFolie\
+  \ des avares.\nAvantage de la soci\xE9t\xE9.\nVanit\xE9 de la souveraine puissance.\n\
+  Ob\xE9issance pr\xE9f\xE9rable aux sacrifices.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Je me suis tourné vers d'autres choses, et j'ai vu les oppressions qui se font sous le soleil, et les larmes des innocents que personne ne console : j'ai vu qu'ils ne peuvent résister à la violence des oppresseurs, étant destitués du secours de tous.

@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 19"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Vase de terre brisé par Jérémie dans la vallée de Topheth, symbole de la désolation de Juda et de Jérusalem.
-  Jérémie parle dans le temple, et y réitère des menaces.
+summary: "\nVase de terre bris\xE9 par J\xE9r\xE9mie dans la vall\xE9e de Topheth,\
+  \ symbole de la d\xE9solation de Juda et de J\xE9rusalem.\nJ\xE9r\xE9mie parle dans\
+  \ le temple, et y r\xE9it\xE8re des menaces.\n"
+title: Chapitre 19
 ---
+
+
 
 
 1 Voici ce que dit le Seigneur: Va, et reçois des anciens du peuple et des anciens des prêtres une petite bouteille de terre de potier ; 2 Et sors vers la vallée du fils d'Ennom, qui est près de l'entrée de la porte d'argile, et tu publieras là les paroles que moi je te dirai.

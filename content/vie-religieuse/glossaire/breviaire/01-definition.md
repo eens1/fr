@@ -1,8 +1,10 @@
 ---
-title: "Définition"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: "D\xE9finition"
 ---
+
+
 
 
 > *Abbé Maugère* : "Le Bréviaire peut se définir : L'ensemble des prières vocales établies par l'Eglise et qui doivent être récitées chaque jour par des personnes députées à cet effet." [^1]

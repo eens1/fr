@@ -1,8 +1,10 @@
 ---
-title: "Prophéties"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: "Proph\xE9ties"
 ---
+
+
 
 
 > *Louis de sainte Térèse, parlant du bienheureux Pierre Thomas* : "... il s'était couché dans une extême tristesse, causée de l'appréhension qu'il avait que son ordre ne périt; qu'en cette détresse il s'était addressé à Notre-Dame, afin qu'elle protégea et conserva son ordre : que cette Mère de miséricorde s'était apparu à lui cette nuit, et l'avait assuré que son ordre subsisterait jusqu'à la fin du monde, et que le Prophète Elie son instituteur, avait demandé et impétré cette faveur du Fils de Dieu, pendant qu'il assista à Sa Transfiguration. Cette vision a été reconnue pour véritable par l'Eglise universelle, lorsqu'elle l'a insérée dans l'office de ce Saint, duquel la fête se célèbre en tout l'ordre des Carmes, le 29 janvier." [^1]

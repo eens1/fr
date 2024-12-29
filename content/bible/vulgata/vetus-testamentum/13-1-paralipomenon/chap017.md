@@ -1,8 +1,10 @@
 ---
-title: "Caput 17"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 17
 ---
+
+
 
 
 1 Cum autem habitaret David in domo sua, dixit ad Nathan prophetam: Ecce ego habito in domo cedrina: arca autem foederis Domini sub pellibus est.

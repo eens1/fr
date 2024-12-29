@@ -1,8 +1,10 @@
 ---
-title: "Profession de foi tridentine"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Profession de foi tridentine
 ---
+
+
 
 
 > *Pape Pie IV, Injunctum nobis, sur la forme du serment de la Profession de Foi* : "Je crois en un seul Dieu, le Père Tout-puissant, Créateur du Ciel et de la Terre, de toutes les choses visibles, et invisibles, et en un seul Seigneur Jésus-Christ, Fils unique de Dieu; 

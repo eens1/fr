@@ -1,8 +1,10 @@
 ---
-title: "Forme"
-date: 2024-09-06T20:02:54+02:00
+date: 2024-09-06 20:02:54+02:00
 draft: false
+title: Forme
 ---
+
+
 
 
 > *Matthieu 28:19* : "Allez donc, enseignez toutes les nations, les baptisant au nom du Père, et du Fils, et du Saint-Esprit; leur apprenant à garder tout ce que je vous ai commandé : et voici que je suis avec vous tous les jours, jusqu'à la consommation du siècle." [^1]

@@ -1,8 +1,9 @@
 ---
-title: "Lois spécifiques à la France"
-date: 2024-09-06T20:02:53+02:00
+date: 2024-09-06 20:02:53+02:00
 draft: false
+title: "Lois sp\xE9cifiques \xE0 la France"
 ---
+
 
 
 > *E. Jombart, Manuel de droit canon* : "Dans beaucoup de diocèses de France, en vertu d'indults, l'abstinence du samedi en carême est remplacée par celle du mercredi." [^1]

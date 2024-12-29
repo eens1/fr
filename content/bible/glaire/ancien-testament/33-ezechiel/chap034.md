@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 34"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Prophétie contre les mauvais pasteurs d’Israël.
-  Le Seigneur vient juger les pasteurs et les brebis.
-  Il rassemblera son troupeau et le fera paître lui-même.
-  Il suscitera au milieu des brebis un pasteur unique.
-  Il fera avec elles une alliance de paix.
+summary: "\nProph\xE9tie contre les mauvais pasteurs d\u2019Isra\xEBl.\nLe Seigneur\
+  \ vient juger les pasteurs et les brebis.\nIl rassemblera son troupeau et le fera\
+  \ pa\xEEtre lui-m\xEAme.\nIl suscitera au milieu des brebis un pasteur unique.\n\
+  Il fera avec elles une alliance de paix.\n"
+title: Chapitre 34
 ---
+
+
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

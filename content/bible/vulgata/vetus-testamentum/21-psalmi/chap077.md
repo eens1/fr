@@ -1,8 +1,10 @@
 ---
-title: "Caput 77"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 77
 ---
+
+
 
 
 1 Intellectus Asaph. Attendite popule meus legem meam: inclinate aurem vestram in verba oris mei.

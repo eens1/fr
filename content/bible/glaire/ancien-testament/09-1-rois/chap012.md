@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 12"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Samuel prend tout le peuple à témoin de l’innocence de sa conduite.
-  Il lui représente toutes les miséricordes du Seigneur, et ses propres infidélités.
-  Il l’exhorte à ne s’attacher qu’au Seigneur.
+summary: "\nSamuel prend tout le peuple \xE0 t\xE9moin de l\u2019innocence de sa conduite.\n\
+  Il lui repr\xE9sente toutes les mis\xE9ricordes du Seigneur, et ses propres infid\xE9\
+  lit\xE9s.\nIl l\u2019exhorte \xE0 ne s\u2019attacher qu\u2019au Seigneur.\n"
+title: Chapitre 12
 ---
+
+
 
 
 1 Or Samuel dit à tout Israël : Voilà que j'ai entendu votre voix, selon tout ce que vous m'avez dit, et j'ai établi sur vous un roi. 2 Et maintenant ce roi marche devant vous; pour moi, j'ai vieilli, et j'ai blanchi; mais mes fils sont avec vous. C'est pourquoi, ayant vécu devant vous depuis ma jeunesse jusqu'à ce jour, me voici en votre présence. 3 Dites de moi devant le Seigneur et devant son christ, si j'ai pris le boeuf ou l'âne de personne, si j'ai calomnié qui que ce soit, si j'ai opprimé quelqu'un, si j'ai reçu un présent de la main de personne, je le dédaignerai aujourd'hui et je vous le rendrai.

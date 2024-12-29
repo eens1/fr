@@ -1,8 +1,10 @@
 ---
-title: "Pensées impures"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: "Pens\xE9es impures"
 ---
+
+
 
 
 > *P. Laurent, fautes intérieures contre le voeux de chasteté, 1890* : "Donner avec une entière advertance, un plein consentement à une pensée directement contraire à la sainte vertu de chasteté, c'est se rendre coupable de péché mortel. Mais une mauvaise pensée ne nous est imputable qu'autant qu'elle est volontaire. Pour juger si elle est volontaire, il faut distinguer trois choses : la suggestion, la délectation et le consentement.

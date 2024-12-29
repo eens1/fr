@@ -1,11 +1,15 @@
 ---
-title: "Chapitre 109"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  L’histoire ne présente aucun prince à qui on puisse faire l’application littérale de ce psaume ; mais il convient parfaitement à Jésus-Christ, car on y voit exactement retracés sa génération éternelle, son sacerdoce, selon l’ordre de Melchisédech, ses souffrances, son règne sur toutes les nations, etc.
+summary: "\nL\u2019histoire ne pr\xE9sente aucun prince \xE0 qui on puisse faire l\u2019\
+  application litt\xE9rale de ce psaume ; mais il convient parfaitement \xE0 J\xE9\
+  sus-Christ, car on y voit exactement retrac\xE9s sa g\xE9n\xE9ration \xE9ternelle,\
+  \ son sacerdoce, selon l\u2019ordre de Melchis\xE9dech, ses souffrances, son r\xE8\
+  gne sur toutes les nations, etc.\n"
+title: Chapitre 109
 ---
+
+
 
 
 1 Psaume de David. Le Seigneur a dit à mon Seigneur : Asseyez-vous à ma droite, Jusqu'à ce que je fasse de vos ennemis l'escabeau de vos pieds.

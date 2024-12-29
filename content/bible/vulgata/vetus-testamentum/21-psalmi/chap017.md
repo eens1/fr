@@ -1,8 +1,10 @@
 ---
-title: "Caput 17"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 17
 ---
+
+
 
 
 1 In finem puero Domini David, qui locutus est Domino verba cantici huius, in die, qua eripuit eum Dominus de manu omnium inimicorum eius, et de manu Saul, et dixit:

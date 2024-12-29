@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Cérémonies qu’on doit observer dans les sacrifices offerts pour les péchés d’ignorance.
+summary: "\nC\xE9r\xE9monies qu\u2019on doit observer dans les sacrifices offerts\
+  \ pour les p\xE9ch\xE9s d\u2019ignorance.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Le Seigneur parla encore à Moïse, disant :

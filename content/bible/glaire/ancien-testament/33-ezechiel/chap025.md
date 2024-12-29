@@ -1,11 +1,13 @@
 ---
-title: "Chapitre 25"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Prophéties contre les Ammonites et les Moabites, qui se sont réjouis des maux de la maison de Juda, et contre les Iduméens et les Philistins, qui ont satisfait sur elle leur haine.
+summary: "\nProph\xE9ties contre les Ammonites et les Moabites, qui se sont r\xE9\
+  jouis des maux de la maison de Juda, et contre les Idum\xE9ens et les Philistins,\
+  \ qui ont satisfait sur elle leur haine.\n"
+title: Chapitre 25
 ---
+
+
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

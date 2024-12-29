@@ -1,8 +1,10 @@
 ---
-title: "Caput 73"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 73
 ---
+
+
 
 
 1 Intellectus Asaph. Ut quid Deus repulisti in finem: iratus est furor tuus super oves pascuae tuae?

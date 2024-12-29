@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 9"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Saint Paul exhorte les Corinthiens à préparer leurs aumônes.
-  Donner libéralement et avec joie.
-  Qui sème peu moissonnera peu.
-  Avantages de l’aumône.
+summary: "\nSaint Paul exhorte les Corinthiens \xE0 pr\xE9parer leurs aum\xF4nes.\n\
+  Donner lib\xE9ralement et avec joie.\nQui s\xE8me peu moissonnera peu.\nAvantages\
+  \ de l\u2019aum\xF4ne.\n"
+title: Chapitre 9
 ---
+
+
 
 
 1 Quant à la dispensation qui se prépare pour les saints, il serait superflu de vous en écrire,

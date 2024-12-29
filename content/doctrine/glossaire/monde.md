@@ -1,8 +1,10 @@
 ---
-title: "Monde"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Monde
 ---
+
+
 
 
 > *Exode 23:2* :  "Tu ne suivras point la multitude pour faire le mal; et en jugement tu n'acquiesceras pas à l'avis du plus grand nombre pour dévier de la vérité." [^1]

@@ -1,8 +1,10 @@
 ---
-title: "Profession"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: Profession
 ---
+
+
 
 
 > *Père De Tracy, profession des Chartreux de choeur* : "Je promets stabilité et obéissance et conversion de mes moeurs devant Dieu et ses Saints, et les reliques de cet hermitage qui est construit en l'honneur de Dieu, de la bienheureuse Marie, toujours vierge, et du bienheureux Jean-Baptiste, en présence de Dom (N.), Prieur." [^1]

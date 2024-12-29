@@ -1,8 +1,10 @@
 ---
-title: "Justice"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Justice
 ---
+
+
 
 
 > *Sagesse 1:6* : "Car bienfaisant est l'esprit de sagesse, mais il ne sauvera pas le médisant à cause de ses lèvres, parce que Dieu est témoin de ses reins, qu'il est scrutateur véritable de son coeur, et qu'il entend sa langue." [^1]

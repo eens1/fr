@@ -1,8 +1,10 @@
 ---
-title: "Troisième Commandement"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: "Troisi\xE8me Commandement"
 ---
+
+
 
 
 > *Saint Léonard de Port-Maurice* : "[Examinez] si vous n'avez pas transgressé les dimanches ou les jours de fêtes, soit par le travail, soit en vous livrant à des divertissements immodérés..." [^1]

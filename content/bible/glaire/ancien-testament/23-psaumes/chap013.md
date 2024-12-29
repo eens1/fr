@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  David décrit d’une manière très vive la corruption générale des hommes.
-  Il prédit la délivrance du peuple de Dieu et la joie dont elle sera suivie.
+summary: "\nDavid d\xE9crit d\u2019une mani\xE8re tr\xE8s vive la corruption g\xE9\
+  n\xE9rale des hommes.\nIl pr\xE9dit la d\xE9livrance du peuple de Dieu et la joie\
+  \ dont elle sera suivie.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 Pour la fin, psaume de David. L'insensé a dit dans son coeur : Il n'y a point de Dieu. Ils se sont corrompus, et ils sont devenus abominables dans leurs affections ; il n'y en a point qui fasse le bien, il n'y en a pas même un seul.

@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 27"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Division du peuple en douze bandes pour servir tour à tour auprès du roi.
-  Noms des chefs des tribus.
-  Officiers de la maison de David.
+summary: "\nDivision du peuple en douze bandes pour servir tour \xE0 tour aupr\xE8\
+  s du roi.\nNoms des chefs des tribus.\nOfficiers de la maison de David.\n"
+title: Chapitre 27
 ---
+
+
 
 
 1 Or les enfants d'Israël, suivant leur nombre, les princes de familles, les tribuns , les centurions, et les préposés qui, selon leurs bandes, servaient le roi, entrant et sortant à chaque mois dans l'année, étaient chacun à la tête de vingt-quatre mille hommes.

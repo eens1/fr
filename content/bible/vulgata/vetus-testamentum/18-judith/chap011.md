@@ -1,8 +1,10 @@
 ---
-title: "Caput 11"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 11
 ---
+
+
 
 
 1 Tunc Holofernes dixit ei: AEquo animo esto, et noli pavere in corde tuo: quoniam ego numquam nocui viro, qui voluit servire Nabuchodonosor regi.

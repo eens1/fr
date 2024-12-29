@@ -1,8 +1,10 @@
 ---
-title: "Caput 32"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 32
 ---
+
+
 
 
 1 Filii autem Ruben et Gad habebant pecora multa, et erat illis in iumentis infinita substantia. Cumque vidissent Iazer, et Galaad aptas animalibus alendis terras,

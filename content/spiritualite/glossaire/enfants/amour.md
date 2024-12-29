@@ -1,9 +1,11 @@
 ---
-title: "L'amour déréglé des enfants"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
-summary: "Sermon de Saint Léonard de Port-Maurice"
+summary: "Sermon de Saint L\xE9onard de Port-Maurice"
+title: "L'amour d\xE9r\xE9gl\xE9 des enfants"
 ---
+
+
 
 Source: Labis 1858, t. 3, pp. 307-308, 314.
 

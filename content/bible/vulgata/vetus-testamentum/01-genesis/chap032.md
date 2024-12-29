@@ -1,8 +1,10 @@
 ---
-title: "Caput 32"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 32
 ---
+
+
 
 
 1 Iacob quoque abiit itinere quo coeperat: fueruntque ei obviam Angeli Dei.

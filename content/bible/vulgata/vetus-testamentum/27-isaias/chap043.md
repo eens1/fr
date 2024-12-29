@@ -1,8 +1,10 @@
 ---
-title: "Caput 43"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 43
 ---
+
+
 
 
 1 Et nunc haec dicit Dominus creans te Iacob, et formans te Israel: Noli timere, quia redemi te, et vocavi te nomine tuo: meus es tu.

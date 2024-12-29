@@ -1,8 +1,10 @@
 ---
-title: "Avant le repas (Benedicite)"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: Avant le repas (Benedicite)
 ---
+
+
 
 
 > *Diurnal latin-français* : "Benedicite. Dominus. Nos, et ea quae sumus sumpturi, benedicat dextera Christi. In nomine Patris, et Filii, et Spiritus sancti. Amen.

@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 21"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Naboth refuse de vendre sa vigne à Achab.
-  Jézabel fait condamner Naboth à être lapidé.
-  Elie fait de terribles menaces à Achab, et détourne de dessus lui les maux dont il était menacé.
+summary: "\nNaboth refuse de vendre sa vigne \xE0 Achab.\nJ\xE9zabel fait condamner\
+  \ Naboth \xE0 \xEAtre lapid\xE9.\nElie fait de terribles menaces \xE0 Achab, et\
+  \ d\xE9tourne de dessus lui les maux dont il \xE9tait menac\xE9.\n"
+title: Chapitre 21
 ---
+
+
 
 
 1 Or après ces événements, en ce même temps, Naboth, le Jezrahélite, avait une vigne qui était dans Jezrahel, près du palais d'Achab, roi de Samarie.

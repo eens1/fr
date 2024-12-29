@@ -1,8 +1,10 @@
 ---
-title: "Ministre"
-date: 2024-09-06T20:02:54+02:00
+date: 2024-09-06 20:02:54+02:00
 draft: false
+title: Ministre
 ---
+
+
 
 
 > *Concile de Trente, sess. 7, Décret des Sacrement, can. 11, 1547* : "Si quelqu'un dit, que l'intention, au moins celle de faire ce que l'Eglise fait, n'est pas requise dans les Ministres des Sacrements, lorsqu'ils les font, et les confèrent; qu'il soit anathème. [^1]

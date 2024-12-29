@@ -1,8 +1,10 @@
 ---
-title: "Caput 7"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 7
 ---
+
+
 
 
 1 Intravit itaque rex et Aman, ut biberent cum regina.

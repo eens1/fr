@@ -1,8 +1,10 @@
 ---
-title: "Caput 43"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 43
 ---
+
+
 
 
 1 Altitudinis firmamentum pulchritudo eius est, species caeli in visione gloriae.

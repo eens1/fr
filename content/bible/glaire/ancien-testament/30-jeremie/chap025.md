@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 25"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Juda est indocile à la voix du Prophète.
-  Vengeance du Seigneur sur Juda et sur les nations qui l’environnent.
-  Soixante-dix ans de captivité.
-  Vengeance du Seigneur sur Babylone.
-  Calice de la colère du Seigneur ; exécution de ses vengeances.
+summary: "\nJuda est indocile \xE0 la voix du Proph\xE8te.\nVengeance du Seigneur\
+  \ sur Juda et sur les nations qui l\u2019environnent.\nSoixante-dix ans de captivit\xE9\
+  .\nVengeance du Seigneur sur Babylone.\nCalice de la col\xE8re du Seigneur ; ex\xE9\
+  cution de ses vengeances.\n"
+title: Chapitre 25
 ---
+
+
 
 
 1 Parole qui fut adressée à Jérémie touchant tout le peuple de Juda, en la quatrième année de Joakim, fils de Josias, roi de Juda, qui est la première année de Nabuchodonosor, roi de Babylone;

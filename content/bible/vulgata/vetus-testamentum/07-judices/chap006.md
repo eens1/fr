@@ -1,8 +1,10 @@
 ---
-title: "Caput 6"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 6
 ---
+
+
 
 
 1 Fecerunt autem filii Israel malum in conspectu Domini: qui tradidit illos in manu Madian septem annis,

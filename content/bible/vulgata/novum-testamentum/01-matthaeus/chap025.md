@@ -1,8 +1,10 @@
 ---
-title: "Caput 25"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
+title: Caput 25
 ---
+
+
 
 
 1 Tunc simile erit regnum caelorum decem virginibus: quae accipientes lampades suas exierunt obviam sponso, et sponsae.

@@ -1,8 +1,10 @@
 ---
-title: "Caput 25"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 25
 ---
+
+
 
 
 1 In finem, Psalmus David. Iudica me Domine, quoniam ego in innocentia mea ingressus sum: et in Domino sperans non infirmabor.

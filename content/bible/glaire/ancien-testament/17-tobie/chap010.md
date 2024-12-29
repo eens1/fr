@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 10"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Inquiétude du père et de la mère du jeune Tobie.
-  Raguel et le jeune Tobie se séparent.
+summary: "\nInqui\xE9tude du p\xE8re et de la m\xE8re du jeune Tobie.\nRaguel et le\
+  \ jeune Tobie se s\xE9parent.\n"
+title: Chapitre 10
 ---
+
+
 
 
 1 Mais, comme Tobie différait de revenir à cause de son mariage, son père Tobie était inquiet, disant : Penses-tu pourquoi mon fils est en retard, ou pourquoi il est retenu là?

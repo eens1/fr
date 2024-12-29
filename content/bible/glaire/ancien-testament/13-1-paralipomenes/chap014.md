@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 14"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Message d’Hiram à David.
-  Femmes et enfants de David.
-  Ses victoires contre les Philistins.
+summary: "\nMessage d\u2019Hiram \xE0 David.\nFemmes et enfants de David.\nSes victoires\
+  \ contre les Philistins.\n"
+title: Chapitre 14
 ---
+
+
 
 
 1 Hiram, roi de Tyr, envoya aussi des messagers à David, et des bois de cèdre, et des maçons, et des charpentiers, pour lui bâtir une maison.

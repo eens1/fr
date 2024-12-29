@@ -1,8 +1,10 @@
 ---
-title: "Caput 9"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 9
 ---
+
+
 
 
 1 Dixit autem Dominus ad Moysen: Ingredere ad Pharaonem, et loquere ad eum: Haec dicit Dominus Deus Hebraeorum: Dimitte populum meum ut sacrificet mihi.

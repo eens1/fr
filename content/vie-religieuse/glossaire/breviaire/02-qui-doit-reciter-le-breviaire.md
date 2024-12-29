@@ -1,8 +1,10 @@
 ---
-title: "Qui doit réciter l'office ?"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: "Qui doit r\xE9citer l'office ?"
 ---
+
+
 
 
 > *Droit canonique de 1917, can. 610* : "§ 1. In religionibus sive virorum sive mulierum, quibus est chori obligatio, in singulis domibus ubi quatuor saltem sint religiosi choro obligati et actu legitime non impediti, et etiam pauciores, si ita ferant constitutiones, debet ad normam constitutionum quotidie divinum officium communiter persolvi.  

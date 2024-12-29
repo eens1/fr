@@ -1,8 +1,10 @@
 ---
-title: "Caput 2"
-date: 2024-09-06T20:00:47+02:00
+date: 2024-09-06 20:00:47+02:00
 draft: false
+title: Caput 2
 ---
+
+
 
 
 1 Statui autem hoc ipsum apud me, ne iterum in tristitia venirem ad vos.

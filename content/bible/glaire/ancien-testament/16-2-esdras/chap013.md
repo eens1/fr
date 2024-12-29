@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Néhémias, qui était allé vers Artaxerxès, trouve à son retour à Jérusalem plusieurs désordres auxquels il remédie.
+summary: "\nN\xE9h\xE9mias, qui \xE9tait all\xE9 vers Artaxerx\xE8s, trouve \xE0 son\
+  \ retour \xE0 J\xE9rusalem plusieurs d\xE9sordres auxquels il rem\xE9die.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 En ce jour-là, on lut dans le volume de Moïse, le peuple écoutant, et on y trouva écrit que les Ammonites et les Moabites ne devaient jamais entrer dans l'assemblée de Dieu.

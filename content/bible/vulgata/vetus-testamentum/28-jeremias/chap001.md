@@ -1,8 +1,10 @@
 ---
-title: "Caput 1"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 1
 ---
+
+
 
 
 1 Verba Ieremiae filii Helciae, de sacerdotibus, qui fuerunt in Anathoth, in Terra Beniamin.

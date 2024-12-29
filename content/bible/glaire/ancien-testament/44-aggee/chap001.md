@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Temps de la prophétie d’Aggée.
-  Le Seigneur reproche aux Juifs leur négligence à rebâtir son temple, et leur déclare que c’est là la cause de la stérilité et de la disette dont ils sont affligés.
-  Ils recommencent à bâtir la maison du Seigneur.
+summary: "\nTemps de la proph\xE9tie d\u2019Agg\xE9e.\nLe Seigneur reproche aux Juifs\
+  \ leur n\xE9gligence \xE0 reb\xE2tir son temple, et leur d\xE9clare que c\u2019\
+  est l\xE0 la cause de la st\xE9rilit\xE9 et de la disette dont ils sont afflig\xE9\
+  s.\nIls recommencent \xE0 b\xE2tir la maison du Seigneur.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 En la seconde année du roi Darius, au sixième mois, au premier jour du mois, la parole du Seigneur fut adressée, par l'entremise d'Aggée, le prophète, à Zorobabel, chef de Juda, fils de Salathiel, et à Jésus, le grand-prêtre, fils de Josédec, disant :

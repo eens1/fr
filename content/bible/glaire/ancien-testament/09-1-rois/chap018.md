@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 18"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Amitié de Jonathas et de David.
-  Jalousie de Saül contre David.
-  David épouse Michol, seconde fille de Saül.
+summary: "\nAmiti\xE9 de Jonathas et de David.\nJalousie de Sa\xFCl contre David.\n\
+  David \xE9pouse Michol, seconde fille de Sa\xFCl.\n"
+title: Chapitre 18
 ---
+
+
 
 
 1 Et il arriva, lorsqu'il eut achevé de parler à Saül, que l'âme de Jonathas s'attacha étroitement à l'âme de David, et Jonathas l'aima comme son âme.

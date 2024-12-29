@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 23"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Menaces contre les pasteurs infidèles.
-  Retour de la captivité.
-  Règne du Messie.
-  Douleur et affliction de Jérémie.
-  Reproches et menaces contre les faux prophètes, et contre ceux qui méprisent la parole de Dieu annoncée par les vrais prophètes.
+summary: "\nMenaces contre les pasteurs infid\xE8les.\nRetour de la captivit\xE9.\n\
+  R\xE8gne du Messie.\nDouleur et affliction de J\xE9r\xE9mie.\nReproches et menaces\
+  \ contre les faux proph\xE8tes, et contre ceux qui m\xE9prisent la parole de Dieu\
+  \ annonc\xE9e par les vrais proph\xE8tes.\n"
+title: Chapitre 23
 ---
+
+
 
 
 1 Malheur aux pasteurs qui perdent et déchirent le troupeau de mon pâturage, dit le Seigneur !

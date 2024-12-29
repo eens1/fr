@@ -1,8 +1,10 @@
 ---
-title: "Caput 33"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 33
 ---
+
+
 
 
 1 Locutusque est Dominus ad Moysen, dicens: Vade, ascende de loco isto tu, et populus tuus quem eduxisti de Terra AEgypti, in terram quam iuravi Abraham, Isaac, et Iacob, dicens: Semini tuo dabo eam:

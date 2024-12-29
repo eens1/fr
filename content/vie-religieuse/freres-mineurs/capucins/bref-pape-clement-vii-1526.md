@@ -1,8 +1,10 @@
 ---
-title: "Bref du Pape Clément VII, 1526"
-date: 2024-09-06T20:02:59+02:00
+date: 2024-09-06 20:02:59+02:00
 draft: false
+title: "Bref du Pape Cl\xE9ment VII, 1526"
 ---
+
+
 
 
 *Source : Caluze 1675, pp. 81-82*.

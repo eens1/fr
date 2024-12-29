@@ -1,8 +1,10 @@
 ---
-title: "Histoire"
-date: 2024-09-06T20:02:54+02:00
+date: 2024-09-06 20:02:54+02:00
 draft: false
+title: Histoire
 ---
+
+
 
 
 > *Annales des Frères Mineurs, au sujet du Frère Martin de Valence apôtre du Mexique, 1680* : "On lui présenta à Tlalmanalca un enfant malade, afin qu'il le baptisa, mais il expira avant que le Saint lui pût administrer ce Sacrement. **Cette mort précipitée qui privait cette âme d'un grâce si nécessaire au salut**, lui donna beaucoup de déplaisir : il prit ce petit cadavre, le posa sur l'Autel, se mit en prière, et dans peu de temps le mort ressuscita, fut baptisé, et se trouva parfaitement guéri." [^1]

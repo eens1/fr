@@ -1,9 +1,11 @@
 ---
-title: "Protection de l'Ordre"
 date: 2024-12-06T12:43:18+0000
 draft: false
 tags: []
+title: Protection de l'Ordre
 ---
+
+
 
 Source : Chalippe 1728, p. 280.
 

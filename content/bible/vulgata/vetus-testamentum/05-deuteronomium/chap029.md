@@ -1,8 +1,10 @@
 ---
-title: "Caput 29"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 29
 ---
+
+
 
 
 1 Haec sunt verba foederis quod praecepit Dominus Moysi ut feriret cum filiis Israel in Terra Moab: praeter illud foedus, quod cum eis pepigit in Horeb.

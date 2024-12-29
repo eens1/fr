@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 31"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Instructions que Salomon a reçues de sa mère.
-  Fuir la débauche et les femmes.
-  Ne pas boire de vin avec excès.
-  Portrait de la femme forte : son économie, sa sagesse, sa vigilance, son assiduité au travail.
-  Fragilité de la beauté du corps.
+summary: "\nInstructions que Salomon a re\xE7ues de sa m\xE8re.\nFuir la d\xE9bauche\
+  \ et les femmes.\nNe pas boire de vin avec exc\xE8s.\nPortrait de la femme forte\
+  \ : son \xE9conomie, sa sagesse, sa vigilance, son assiduit\xE9 au travail.\nFragilit\xE9\
+  \ de la beaut\xE9 du corps.\n"
+title: Chapitre 31
 ---
+
+
 
 
 1 Paroles de Lamuel roi. Vision par laquelle l'a instruit sa mère.

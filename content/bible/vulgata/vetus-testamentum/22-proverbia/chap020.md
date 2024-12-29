@@ -1,8 +1,10 @@
 ---
-title: "Caput 20"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 20
 ---
+
+
 
 
 1 Luxuriosa res, vinum, et tumultuosa ebrietas: quicumque his delectatur, non erit sapiens.

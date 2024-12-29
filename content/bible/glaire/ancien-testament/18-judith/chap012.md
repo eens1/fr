@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 12"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Judith refuse les mets de la table d’Holoferne, et lui assure que les provisions qu’elle a apportées lui suffiront.
-  Elle sort du camp pendant les nuits pour prier.
-  Holoferne donne un festin où il fait venir Judith et où il s’enivre.
+summary: "\nJudith refuse les mets de la table d\u2019Holoferne, et lui assure que\
+  \ les provisions qu\u2019elle a apport\xE9es lui suffiront.\nElle sort du camp pendant\
+  \ les nuits pour prier.\nHoloferne donne un festin o\xF9 il fait venir Judith et\
+  \ o\xF9 il s\u2019enivre.\n"
+title: Chapitre 12
 ---
+
+
 
 
 1 Or il commanda qu'on la fît entrer où étaient déposés ses trésors; et il commanda de plus qu'elle y demeurât, et il régla ce qui lui serait donné de sa table. 2 Judith lui répondit et dit : Je ne pourrai pas manger maintenant des choses que vous ordonnez qu'on me donne, pour ne pas que le scandale vienne sur moi ; mais c'est de ce que j'ai apporté pour moi que je mangerai.

@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 9"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Nul ne sait s’il est digne d’amour ou de haine.
-  Egale condition des bons et des méchants en ce monde.
-  Faire le bien tandis qu’on le peut.
-  Sagesse du pauvre méprisée.
+summary: "\nNul ne sait s\u2019il est digne d\u2019amour ou de haine.\nEgale condition\
+  \ des bons et des m\xE9chants en ce monde.\nFaire le bien tandis qu\u2019on le peut.\n\
+  Sagesse du pauvre m\xE9pris\xE9e.\n"
+title: Chapitre 9
 ---
+
+
 
 
 1 J'ai agité toutes ces choses dans mon coeur, afin de tâcher de les comprendre. Il y a des justes et des sages, et leurs oeuvres sont dans la main de Dieu : et cependant l'homme ne sait s'il est digne d'amour ou de haine ;

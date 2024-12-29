@@ -1,8 +1,10 @@
 ---
-title: "Définition"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "D\xE9finition"
 ---
+
+
 
 
 > *Saint Pierre Canisius, Le grand catéchisme* : "On appelle conseils évangéliques les pratiques qui, sans étre précisément nécessaires à notre salut, nous sont cependant suggérées et conseillées par Jésus-Christ comme autant de moyens de nous sauver plus sûrement et avec moins de peine. 

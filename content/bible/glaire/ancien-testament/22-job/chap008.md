@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 8"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Baldad soutient que les malheurs de Job sont la peine de ses péchés.
-  Il traite d’hypocrisie la vertu de Job, et l’exhorte à recourir à Dieu.
+summary: "\nBaldad soutient que les malheurs de Job sont la peine de ses p\xE9ch\xE9\
+  s.\nIl traite d\u2019hypocrisie la vertu de Job, et l\u2019exhorte \xE0 recourir\
+  \ \xE0 Dieu.\n"
+title: Chapitre 8
 ---
+
+
 
 
 1 Mais, répondant, Baldad, le Suhite, dit :

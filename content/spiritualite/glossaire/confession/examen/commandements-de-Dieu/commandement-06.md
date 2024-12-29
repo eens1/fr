@@ -1,8 +1,10 @@
 ---
-title: "Sixième Commandement"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: "Sixi\xE8me Commandement"
 ---
+
+
 
 
 > *Saint Léonard de Port-Maurice* : "Examinez si vous n'avez pas entretenu avec pleine advertance et avec plaisir des pensées déshonnêtes, ou des désirs de faire des actions impures, et d'en entraîner d'autres au mal.

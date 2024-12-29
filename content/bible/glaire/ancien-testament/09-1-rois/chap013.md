@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Guerre entre les Philistins et les Israélites.
-  Jonathas défait la garnison de Gabaa.
-  Les Philistins assemblent leur armée.
-  Saül offre des sacrifices contre l’ordre du Seigneur.
-  Samuel lui déclare que Dieu l’a rejeté.
+summary: "\nGuerre entre les Philistins et les Isra\xE9lites.\nJonathas d\xE9fait\
+  \ la garnison de Gabaa.\nLes Philistins assemblent leur arm\xE9e.\nSa\xFCl offre\
+  \ des sacrifices contre l\u2019ordre du Seigneur.\nSamuel lui d\xE9clare que Dieu\
+  \ l\u2019a rejet\xE9.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 Saül avait un an, lorsqu'il commença à régner, et il régna pendant deux ans sur Israël.

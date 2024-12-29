@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 15"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Absalom se fait proclamer roi à Hébron.
-  David s’enfuit de Jérusalem.
-  Ethaï Géthéen s’attache à lui.
-  David renvoie l’arche à Jérusalem avec les grands prêtres.
-  Il y renvoie aussi Chusaï pour détruire les conseils d’Achitophel.
+summary: "\nAbsalom se fait proclamer roi \xE0 H\xE9bron.\nDavid s\u2019enfuit de\
+  \ J\xE9rusalem.\nEtha\xEF G\xE9th\xE9en s\u2019attache \xE0 lui.\nDavid renvoie\
+  \ l\u2019arche \xE0 J\xE9rusalem avec les grands pr\xEAtres.\nIl y renvoie aussi\
+  \ Chusa\xEF pour d\xE9truire les conseils d\u2019Achitophel.\n"
+title: Chapitre 15
 ---
+
+
 
 
 1 Ainsi, après cela, Absalom se procura des chariots, des cavaliers et cinquante hommes qui le précédaient. 2 Et, se levant dès le matin, Absalom se tenait à l'entrée de la porte ; et tout homme qui avait une affaire telle, qu'il venait au jugement du roi, Absalom l'appelait à lui, et demandait : De quelle ville es-tu ? Celui-ci répondant, disait: Moi votre serviteur, je suis de telle tribu d'Israël.

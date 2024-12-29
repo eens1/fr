@@ -1,8 +1,10 @@
 ---
-title: "Caput 126"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 126
 ---
+
+
 
 
 1 Canticum graduum Salomonis. Nisi Dominus aedificaverit domum, in vanum laboraverunt qui aedificant eam. Nisi Dominus custodierit civitatem, frustra vigilat qui custodit eam.

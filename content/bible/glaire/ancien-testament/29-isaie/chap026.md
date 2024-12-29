@@ -1,11 +1,11 @@
 ---
-title: "Chapitre 26"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Cantique sur la délivrance du peuple de Juda.
+summary: "\nCantique sur la d\xE9livrance du peuple de Juda.\n"
+title: Chapitre 26
 ---
+
+
 
 
 1 En ce jour-là sera chanté ce cantique dans la terre de Juda :

@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Naaman est guéri de la lèpre par le prophète Elisée.
-  Giézi est frappé de cette maladie pour avoir reçu des présents de Naaman.
+summary: "\nNaaman est gu\xE9ri de la l\xE8pre par le proph\xE8te Elis\xE9e.\nGi\xE9\
+  zi est frapp\xE9 de cette maladie pour avoir re\xE7u des pr\xE9sents de Naaman.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Naaman, prince de la milice du roi de Syrie, était un homme puissant auprès de son maître et honoré ; car c'est par lui que le Seigneur avait sauvé la Syrie : or il était vaillant et riche, mais lépreux.

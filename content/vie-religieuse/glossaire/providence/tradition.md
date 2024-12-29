@@ -1,12 +1,14 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-15
-draft: false
-description: ""
-summary: ""
-tags: []
 categories: []
+date: 2024-09-15
+description: ''
+draft: false
+summary: ''
+tags: []
+title: Dans la Tradition
 ---
+
+
 
 > *Père Marchese, Vie de saint Pierre d'Alcantara* : "Il avait aussi reçu de Dieu cette foi que l'Apôtre appelle gratuite, qui est un don tout particulier, qui consiste en une ferme confiance d'obtenir de Dieu tout ce qu'on lui demande, et par la puissance de laquelle les Saints ont fait de si étonnants miracles, et se sont signalés par des entreprises si éloignées des forces de la nature.
 

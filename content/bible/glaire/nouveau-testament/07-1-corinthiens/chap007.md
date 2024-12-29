@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 7"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Règles de conduite touchant le mariage, la viduité et la virginité.
-  Chacun a son don particulier et doit demeurer dans l’état où il était lorsque Dieu l’a appelé.
-  Avantages de la virginité ; peines du mariage ; bonheur des veuves.
+summary: "\nR\xE8gles de conduite touchant le mariage, la viduit\xE9 et la virginit\xE9\
+  .\nChacun a son don particulier et doit demeurer dans l\u2019\xE9tat o\xF9 il \xE9\
+  tait lorsque Dieu l\u2019a appel\xE9.\nAvantages de la virginit\xE9 ; peines du\
+  \ mariage ; bonheur des veuves.\n"
+title: Chapitre 7
 ---
+
+
 
 
 1 Quant aux choses dont vous m'avez écrit, il est avantageux à l'homme de ne toucher aucune femme ;

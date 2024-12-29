@@ -1,8 +1,10 @@
 ---
-title: "Caput 10"
-date: 2024-09-06T20:00:56+02:00
+date: 2024-09-06 20:00:56+02:00
 draft: false
+title: Caput 10
 ---
+
+
 
 
 1 Vitis frondosa Israel, fructus adaequatus est ei: secundum multitudinem fructus sui multiplicavit altaria, iuxta ubertatem terrae suae exuberavit simulachris.

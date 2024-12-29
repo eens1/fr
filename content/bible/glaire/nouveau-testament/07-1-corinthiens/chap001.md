@@ -1,16 +1,16 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Saint Paul salue les fidèles de Corinthe.
-  Il rend grâces à Dieu des dons surnaturels qu’il a répandus sur eux.
-  Il les exhorte à éviter les divisions.
-  Sagesse humaine réprouvée de Dieu.
-  Croix, scandale aux yeux des Juifs, folie aux yeux des gentils, force de Dieu pour sauver ceux qui croient.
-  Dieu confond les puissants par les faibles, afin que nul ne se glorifie qu’en lui.
+summary: "\nSaint Paul salue les fid\xE8les de Corinthe.\nIl rend gr\xE2ces \xE0 Dieu\
+  \ des dons surnaturels qu\u2019il a r\xE9pandus sur eux.\nIl les exhorte \xE0 \xE9\
+  viter les divisions.\nSagesse humaine r\xE9prouv\xE9e de Dieu.\nCroix, scandale\
+  \ aux yeux des Juifs, folie aux yeux des gentils, force de Dieu pour sauver ceux\
+  \ qui croient.\nDieu confond les puissants par les faibles, afin que nul ne se glorifie\
+  \ qu\u2019en lui.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Paul appelé à l'apostolat de Jésus-Christ par la volonté de Dieu, et Sosthène, son frère,

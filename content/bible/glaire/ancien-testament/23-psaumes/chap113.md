@@ -1,12 +1,14 @@
 ---
-title: "Chapitre 113"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste représente les merveilles que le Seigneur opéra à la sortie d’Egypte, au passage de la mer Rouge et du Jourdain, fait ressortir la vanité des idoles, et rapporte la bénédiction du Seigneur sur Israël.
-  Alleluia.
+summary: "\nLe Psalmiste repr\xE9sente les merveilles que le Seigneur op\xE9ra \xE0\
+  \ la sortie d\u2019Egypte, au passage de la mer Rouge et du Jourdain, fait ressortir\
+  \ la vanit\xE9 des idoles, et rapporte la b\xE9n\xE9diction du Seigneur sur Isra\xEB\
+  l.\nAlleluia.\n"
+title: Chapitre 113
 ---
+
+
 
 
 1 Lorsque qu'Israël sortit de l'Egypte, et la maison de Jacob du milieu d'un peuple barbare,

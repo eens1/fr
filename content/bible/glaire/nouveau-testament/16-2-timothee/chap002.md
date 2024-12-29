@@ -1,18 +1,14 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Dépôt de doctrine.
-  Vie laborieuse des ministres de l’Evangile.
-  Souffrir avec Jésus-Christ pour régner avec lui.
-  Vaines disputes.
-  Doctrine contagieuse.
-  Solide fondement de Dieu.
-  Vases d’honneur et d’ignominie.
-  Fuir les contestations.
+summary: "\nD\xE9p\xF4t de doctrine.\nVie laborieuse des ministres de l\u2019Evangile.\n\
+  Souffrir avec J\xE9sus-Christ pour r\xE9gner avec lui.\nVaines disputes.\nDoctrine\
+  \ contagieuse.\nSolide fondement de Dieu.\nVases d\u2019honneur et d\u2019ignominie.\n\
+  Fuir les contestations.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Toi donc, ô mon fils, fortifie-toi dans la grâce qui est en Jésus-Christ ; 2 Et ce que tu as entendu de moi, devant un grand nombre de témoins, confie-le à des hommes fidèles, qui soient eux-mêmes capables d'en instruire les autres. 3 Travaille comme un bon soldat du Christ Jésus. 4 Quiconque est enrôlé au service de Dieu, ne s'embarrasse point dans les affaires du siècle, afin de satisfaire celui à qui il s'est donné. 5 Et celui qui combat dans l'arène n'est point couronné, s'il n'a légitimement combattu. 6 Le laboureur qui travaille doit avoir la première part des fruits. 7 Comprends bien ce que je dis; car le Seigneur te donnera l'intelligence en toutes choses.

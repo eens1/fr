@@ -1,9 +1,11 @@
 ---
-title: "Bernard de Quintavalle"
 date: 2024-12-06T16:10:07+0000
 draft: false
 tags: []
+title: Bernard de Quintavalle
 ---
+
+
 
 Source: [Chroniques des Capucins](https://www.google.fr/books/edition/Les_annales_des_fr%C3%A8res_mineurs_capucins/uywyN7uqW0gC?hl=fr&gbpv=1&pg=PA38&printsec=frontcover)
 

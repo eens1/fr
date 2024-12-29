@@ -1,8 +1,10 @@
 ---
-title: "Peine de mort"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Peine de mort
 ---
+
+
 
 
 > *Pape Innocent III, Concile du Latran 4, can. 18* :  "Défense aux clercs de dicter ou de prononcer une sentence de mort, ni de rien faire qui ait rapport au dernier supplice; d'exercer aucune partie de la chirurgie où il faut employer le fer ou le feu, de donner la bénédiction pour faire l'épreuve de l'eau chaude ou froide, ou du fer chaud." [^1]

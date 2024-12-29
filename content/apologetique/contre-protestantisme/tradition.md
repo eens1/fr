@@ -1,8 +1,9 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:02:29+02:00
+date: 2024-09-06 20:02:29+02:00
 draft: false
+title: Dans la Tradition
 ---
+
 
 > *Pape Pie XI, Rerum omnium perturbationem, 26 janvier 1923* : "Ce saint n'était autre que François de Sales, évêque de Genève et docteur de l'Église universelle. Comme ces brillants exemples de perfection et de sagesse chrétiennes dont Nous venons de parler, il semblait avoir été spécialement envoyé par Dieu pour lutter contre **les hérésies engendrées par la Réforme. C'est dans ces hérésies que nous découvrons les débuts de cette apostasie de l'humanité de l'Église, dont les effets tristes et désastreux sont déplorés, jusqu'à l'heure actuelle, par tout esprit juste**." [^1]
 

@@ -1,8 +1,10 @@
 ---
-title: "Purgatoire"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Purgatoire
 ---
+
+
 
 
 > *1 Corinthiens 3:11-15* : "Car personne ne peut poser d'autre fondement que celui qui a été posé, lequel est le Christ Jésus. 

@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Reproches et menaces du Seigneur contre les enfants d’Israël.
-  Promesse de leur délivrance.
+summary: "\nReproches et menaces du Seigneur contre les enfants d\u2019Isra\xEBl.\n\
+  Promesse de leur d\xE9livrance.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 Ephraïm parlant, un frisson a saisi Israël, et il a péché en adorant Baal, et il est mort.

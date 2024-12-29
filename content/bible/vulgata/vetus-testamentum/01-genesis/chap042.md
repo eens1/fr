@@ -1,8 +1,10 @@
 ---
-title: "Caput 42"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 42
 ---
+
+
 
 
 1 Audiens autem Iacob quod alimenta venderentur in AEgypto, dixit filiis suis: Quare negligitis?

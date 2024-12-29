@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 27"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Jacob surprend la bénédiction d’Esaü.
-  Menace d’Esaü contre Jacob, qui se retire en Mésopotamie.
+summary: "\nJacob surprend la b\xE9n\xE9diction d\u2019Esa\xFC.\nMenace d\u2019Esa\xFC\
+  \ contre Jacob, qui se retire en M\xE9sopotamie.\n"
+title: Chapitre 27
 ---
+
+
 
 
 1 Or Isaac devint vieux et ses yeux s'obscurcirent, et il ne pouvait plus voir : il appela Esaü, son fils aîné, et lui dit : Mon fils. Celui-ci répondit : Me voici. 2 Et son père : Tu vois, lui dit-il, que je suis devenu vieux et que j'ignore le jour de ma mort. 3 Prends tes armes, ton carquois et ton arc, et sors dehors ; et quand à la chasse tu auras pris quelque chose, 4 Fais-m'en un mets comme tu sais que je les veux, et apporte-le-moi, afin que je le mange, et que mon âme te bénisse avant que je meure. 5 Lorsque Rébecca eut entendu cela, et qu'Esaü fut allé dans les champs pour remplir les ordres de son père,

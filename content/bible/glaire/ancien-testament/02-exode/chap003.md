@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Dieu se manifeste à Moïse ; il l’envoie pour tirer les Hébreux de l’Egypte ; il lui déclare le nom sous lequel il veut être connu.
+summary: "\nDieu se manifeste \xE0 Mo\xEFse ; il l\u2019envoie pour tirer les H\xE9\
+  breux de l\u2019Egypte ; il lui d\xE9clare le nom sous lequel il veut \xEAtre connu.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 Cependant Moïse paissait les brebis de Jéthro son beau-père, prêtre de Madian ; or lorsqu'il eut conduit le troupeau dans l'intérieur du désert, il vint à la montagne de Dieu, Horeb.

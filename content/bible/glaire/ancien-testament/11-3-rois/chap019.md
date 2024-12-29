@@ -1,14 +1,14 @@
 ---
-title: "Chapitre 19"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Jézabel veut faire mourir Elie.
-  Le prophète se retire à la montagne d’Horeb.
-  Le Seigneur l’envoie sacrer Hazaël roi de Syrie, et Jéhu, roi d’Israël.
-  Elisée reçoit l’esprit de prophétie, et s’attache à Elie.
+summary: "\nJ\xE9zabel veut faire mourir Elie.\nLe proph\xE8te se retire \xE0 la montagne\
+  \ d\u2019Horeb.\nLe Seigneur l\u2019envoie sacrer Haza\xEBl roi de Syrie, et J\xE9\
+  hu, roi d\u2019Isra\xEBl.\nElis\xE9e re\xE7oit l\u2019esprit de proph\xE9tie, et\
+  \ s\u2019attache \xE0 Elie.\n"
+title: Chapitre 19
 ---
+
+
 
 
 1 Or Achab annonça à Jézabel tout ce qu'avait fait Elie, et de quelle manière il avait tué par le glaive tous les prophètes. 2 Et Jézabel envoya un messager à Elie, disant : Que les dieux me fassent ceci, et qu'ils ajoutent cela, si demain à cette heure, je ne mets ton âme comme l'âme de chacun d'eux !

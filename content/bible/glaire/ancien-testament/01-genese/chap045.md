@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 45"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Joseph se fait connaître à ses frères.
-  Ceux-ci s’en retournent vers Jacob chargés de présents.
+summary: "\nJoseph se fait conna\xEEtre \xE0 ses fr\xE8res.\nCeux-ci s\u2019en retournent\
+  \ vers Jacob charg\xE9s de pr\xE9sents.\n"
+title: Chapitre 45
 ---
+
+
 
 
 1 Joseph ne pouvait plus se contenir, beaucoup de personnes se trouvant là présentes; c'est pourquoi il commanda que toutes sortissent dehors, et qu'aucun étranger ne fût présent à la reconnaissance mutuelle. 2 Alors il éleva la voix avec larmes; les Egyptiens l'entendirent et toute la maison de Pharaon.

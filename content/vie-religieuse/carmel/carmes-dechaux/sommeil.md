@@ -1,8 +1,10 @@
 ---
-title: "Sommeil"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: Sommeil
 ---
+
+
 
 
 > *François de Sainte Marie* : "Leur lit était fait de la même façon qu'il est encore à présent en usage parmi les carmes déchaussés, il ne faut que deux planches et deux couvertures pour le dresser, encore n'avaient-il dans ce commencement qu'une seule couverture." [^1]

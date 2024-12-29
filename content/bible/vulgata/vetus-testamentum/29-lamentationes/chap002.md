@@ -1,8 +1,10 @@
 ---
-title: "Caput 2"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 2
 ---
+
+
 
 
 1 ALEPH. Quomodo obtexit caligine in furore suo Dominus filiam Sion: proiecit de caelo in terram inclytam Israel, et non est recordatus scabelli pedum suorum in die furoris sui.

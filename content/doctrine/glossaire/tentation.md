@@ -1,8 +1,10 @@
 ---
-title: "Tentation"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Tentation
 ---
+
+
 
 
 > *Ecclésiastique 34:9-11"Celui qui n'a point été tenté, que sait-il? Un homme expérimenté en beaucoup de choses en pensera beaucoup, et celui qui a beaucoup appris parlera avec intelligence.

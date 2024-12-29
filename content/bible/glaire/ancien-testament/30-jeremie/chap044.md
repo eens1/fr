@@ -1,14 +1,14 @@
 ---
-title: "Chapitre 44"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Jérémie reprend de leur idolâtrie les Juifs qui étaient en Egypte, et leur annonce les vengeances du Seigneur.
-  Ils persistent dans leur idolâtrie.
-  Il réitère ses reproches et ses menaces.
-  Il annonce la prise du roi d’Egypte.
+summary: "\nJ\xE9r\xE9mie reprend de leur idol\xE2trie les Juifs qui \xE9taient en\
+  \ Egypte, et leur annonce les vengeances du Seigneur.\nIls persistent dans leur\
+  \ idol\xE2trie.\nIl r\xE9it\xE8re ses reproches et ses menaces.\nIl annonce la prise\
+  \ du roi d\u2019Egypte.\n"
+title: Chapitre 44
 ---
+
+
 
 
 1 Parole qui fut adressée par Jérémie à tous les Juifs qui habitaient dans la terre d'Egypte, à Magdalum, et à Taphnis, et à Memphis, et dans la terre de Phaturès, disant :

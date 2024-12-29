@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Jésus retourne en Galilée.
-  Il s’entretient avec la Samaritaine, et répond à ses disciples au sujet de cet entretien.
-  Foi des Samaritains.
-  Jésus vient de nouveau à Cana.
-  Il guérit un malade à Capharnaüm.
+summary: "\nJ\xE9sus retourne en Galil\xE9e.\nIl s\u2019entretient avec la Samaritaine,\
+  \ et r\xE9pond \xE0 ses disciples au sujet de cet entretien.\nFoi des Samaritains.\n\
+  J\xE9sus vient de nouveau \xE0 Cana.\nIl gu\xE9rit un malade \xE0 Capharna\xFCm.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Lors donc que Jésus sut que les pharisiens avaient appris qu'il faisait plus de disciples et baptisait plus que Jean,

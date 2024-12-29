@@ -1,8 +1,10 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Dans la Tradition
 ---
+
+
 
 
 > *Concile de Trente, sess. 13, chap. 4* : "Et parce que Jésus-Christ notre Rédempeteur a dit, que ce qu'il offrait sous l'espèce du pain, était véritablement son Corps; pour cela il a toujours été tenu pour constant dans l'Eglise de Dieu; et le Saint Concile le déclare encore de nouveau, que par la consécration du pain, et du vin, il se fait une conversion, et changement de toute la substance du pain, en la substance du Corps de notre Seigneur; et de toute la substance du vin, en la substance de son Sang; lequel changement a été fort à propos, et fort proprement nommé par la Saint Eglise Catholique, Transsubstantiation." [^2]

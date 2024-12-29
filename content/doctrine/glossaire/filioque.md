@@ -1,8 +1,10 @@
 ---
-title: "Filioque"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Filioque
 ---
+
+
 
 
 > *Pape Eugène IV, concile de Florence, Laetentur Caeli, 6 juillet 1439* : "En conséquence, au nom de la Sainte-Trinité, du Père, du Fils et du Saint-Esprit, avec l'approbation de ce saint concile universel de Florence, nous décidons que l'article de foi dont il s'agit, sera cru, accepté et professé par tous les chrétiens de la manière suivante :

@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 8"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Dénombrement de ceux qui revinrent de Babylone avec Esdras.
-  Esdras envoie rassembler des Lévites ; il arrive à Jérusalem.
+summary: "\nD\xE9nombrement de ceux qui revinrent de Babylone avec Esdras.\nEsdras\
+  \ envoie rassembler des L\xE9vites ; il arrive \xE0 J\xE9rusalem.\n"
+title: Chapitre 8
 ---
+
+
 
 
 1 Voici donc les princes des familles, et la généalogie de ceux qui sont montés avec moi sous le règne d'Artaxerxès, roi de Babylone :2 D'entre les fils de Phinéès, Gersom; des fils d'Ithamar, Daniel; des fils de David, Hattus;

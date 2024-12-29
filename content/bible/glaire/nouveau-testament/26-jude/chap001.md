@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Combattre pour la foi et pour la tradition.
-  Exemples de la justice de Dieu.
-  Faux docteurs caractérisés.
-  Contestation touchant le corps de Moïse.
-  Prophétie d’Hénoch.
-  Foi, prière, confiance, amour de Dieu, haine de la chair.
+summary: "\nCombattre pour la foi et pour la tradition.\nExemples de la justice de\
+  \ Dieu.\nFaux docteurs caract\xE9ris\xE9s.\nContestation touchant le corps de Mo\xEF\
+  se.\nProph\xE9tie d\u2019H\xE9noch.\nFoi, pri\xE8re, confiance, amour de Dieu, haine\
+  \ de la chair.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Jude, serviteur de Jésus-Christ et frère de Jacques, à ceux qui sont aimés de Dieu le Père, et conservés et appelés en Jésus-Christ. 2 Que la miséricorde, la paix et la charité abondent en vous.

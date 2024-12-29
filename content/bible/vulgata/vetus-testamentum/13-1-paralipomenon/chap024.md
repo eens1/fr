@@ -1,8 +1,10 @@
 ---
-title: "Caput 24"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 24
 ---
+
+
 
 
 1 Porro filiis Aaron hae partitiones erant: Filii Aaron: Nadab, et Abiu, et Eleazar, et Ithamar.

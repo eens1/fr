@@ -1,8 +1,10 @@
 ---
-title: "Caput 7"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 7
 ---
+
+
 
 
 1 Filii autem Israel praevaricati sunt mandatum, et usurpaverunt de anathemate. Nam Achan filius Charmi, filii Zabdi, filii Zare de tribu Iuda, tulit aliquid de anathemate: iratusque est Dominus contra filios Israel.

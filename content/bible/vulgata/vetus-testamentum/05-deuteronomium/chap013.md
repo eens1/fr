@@ -1,8 +1,10 @@
 ---
-title: "Caput 13"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 13
 ---
+
+
 
 
 1 Si surrexerit in medio tui prophetes, aut qui somnium vidisse se dicat, et praedixerit signum atque portentum,

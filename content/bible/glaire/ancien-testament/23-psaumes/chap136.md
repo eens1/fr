@@ -1,11 +1,13 @@
 ---
-title: "Chapitre 136"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste représente les Juifs captifs à Babylone comme n’ayant d’autre joie et d’autre consolation que celles que leur donnent le souvenir de Jérusalem et l’espérance d’y retourner.
+summary: "\nLe Psalmiste repr\xE9sente les Juifs captifs \xE0 Babylone comme n\u2019\
+  ayant d\u2019autre joie et d\u2019autre consolation que celles que leur donnent\
+  \ le souvenir de J\xE9rusalem et l\u2019esp\xE9rance d\u2019y retourner.\n"
+title: Chapitre 136
 ---
+
+
 
 
 1 Sur les fleuves de Babylone, là nous nous sommes assis, et nous avons pleuré, comme nous nous souvenions de Sion.

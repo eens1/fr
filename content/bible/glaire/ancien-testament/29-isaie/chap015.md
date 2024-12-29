@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 15"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Vengeance que le Seigneur exercera contre les Moabites.
-  Désolation et ruine de leur pays.
+summary: "\nVengeance que le Seigneur exercera contre les Moabites.\nD\xE9solation\
+  \ et ruine de leur pays.\n"
+title: Chapitre 15
 ---
+
+
 
 
 1 Malheur accablant de Moab. Parce que pendant la nuit Ar a été dévastée, Moab s'est tu ; parce que pendant la nuit a été détruit le mur, Moab s'est tu.

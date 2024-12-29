@@ -1,8 +1,10 @@
 ---
-title: "Société"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "Soci\xE9t\xE9"
 ---
+
+
 
 
 > *Pape Léon XIII, Libertas Praestantissimum* : "D'autres vont un peu moins loin, mais sans être plus conséquents avec eux-mêmes; selon eux, les lois divines doivent régler la vie et la conduite des particuliers, mais non celle des Etats; il est permis dans les choses publiques de s'écarter des ordres de Dieu et de légiférer sans en tenir aucun compte; d'où naît cette conséquence pernicieuse de la séparation de l'Eglise et de l'Etat. Mais l'absurdité de ces opinions se comprend sans peine. Il faut, la nature même le crie, il faut que la société donne aux citoyens les moyens et les facilités de passer leur vie selon l'honnêteté, c'est-à-dire selon les lois de Dieu, puisque Dieu est le principe de toute honnêteté et de toute justice; il répugnerait donc absolument que l'Etat pût se désintéresser de ces mêmes lois ou même aller contre elles en quoi que ce soit.

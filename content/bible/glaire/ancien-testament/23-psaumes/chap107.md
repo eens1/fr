@@ -1,12 +1,15 @@
 ---
-title: "Chapitre 107"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste s’excite lui-même à louer le Seigneur ; il le conjure de délivrer son peuple de l’oppression ; il se promet de rentrer bientôt dans les limites de ses anciennes possessions.
-  Les Pères expliquent ce psaume de la venue ou de la Rédemption de Jésus-Christ, et de la vocation des Gentils.
+summary: "\nLe Psalmiste s\u2019excite lui-m\xEAme \xE0 louer le Seigneur ; il le\
+  \ conjure de d\xE9livrer son peuple de l\u2019oppression ; il se promet de rentrer\
+  \ bient\xF4t dans les limites de ses anciennes possessions.\nLes P\xE8res expliquent\
+  \ ce psaume de la venue ou de la R\xE9demption de J\xE9sus-Christ, et de la vocation\
+  \ des Gentils.\n"
+title: Chapitre 107
 ---
+
+
 
 
 1 Cantique de psaume, de David lui-même.

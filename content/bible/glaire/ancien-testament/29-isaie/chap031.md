@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 31"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Vaine confiance de la Judée dans le secours de l’Egypte.
-  Délivrance de Jérusalem.
-  Défaite de ses ennemis.
+summary: "\nVaine confiance de la Jud\xE9e dans le secours de l\u2019Egypte.\nD\xE9\
+  livrance de J\xE9rusalem.\nD\xE9faite de ses ennemis.\n"
+title: Chapitre 31
 ---
+
+
 
 
 1 Malheur à ceux qui descendront en Egypte pour y chercher du secours, qui espèrent dans des chevaux, et qui ont confiance dans des quadriges, parce qu'ils sont nombreux, et dans des cavaliers, parce qu'ils sont très forts, et qui ne se sont pas confiés au saint d'Israël, et n'ont pas recherché le Seigneur. 2 Mais lui-même sage a amené le malheur, et n'a pas retiré ses paroles ; et il s'élèvera contre la maison des méchants, et contre le secours de ceux qui opèrent l'iniquité.

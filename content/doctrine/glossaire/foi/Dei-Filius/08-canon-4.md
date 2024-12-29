@@ -1,8 +1,10 @@
 ---
-title: "Canon 4 - De la foi et de la raison"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Canon 4 - De la foi et de la raison
 ---
+
+
 
 
 1° Si quelqu'un dit que la révélation divine ne contient point de vrais mystères, de mystères proprement dits, mais que tous les dogmes de la foi peuvent, à l'aide d'une raison exercée, être compris et démontrés par les principes naturels; qu'il soit anaihème.

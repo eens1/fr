@@ -1,11 +1,11 @@
 ---
-title: "Chapitre 7"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Gédéon, avec trois cents hommes, défait les Madianites.
+summary: "\nG\xE9d\xE9on, avec trois cents hommes, d\xE9fait les Madianites.\n"
+title: Chapitre 7
 ---
+
+
 
 
 1 Ainsi Jérobaal, c'est-à-dire, Gédéon, se levant de nuit, et tout le peuple avec lui, vint à la fontaine qui est appelée Harad. Or, le camp de Madian était dans la vallée vers le côté septentrional de la colline fort élevée.

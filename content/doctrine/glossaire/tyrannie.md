@@ -1,8 +1,10 @@
 ---
-title: "Tyrannie"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Tyrannie
 ---
+
+
 
 
 > *Saint Thomas d'Aquin, p. 3, q. 42, a. 2* : "... le gouvernement tyrannique n'est pas juste, parce qu'il n'a pas pour but le bien général, mais le bien particulier de celui qui gouverne... 

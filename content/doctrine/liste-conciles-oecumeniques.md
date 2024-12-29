@@ -1,8 +1,10 @@
 ---
-title: "Liste des conciles oecuméniques "
-date: 2024-09-06T20:00:57+02:00
+date: 2024-09-06 20:00:57+02:00
 draft: false
+title: "Liste des conciles oecum\xE9niques "
 ---
+
+
 
 
 Sources : Guérin 1872.

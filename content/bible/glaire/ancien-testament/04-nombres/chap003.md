@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Dieu choisit les Lévites pour le service du tabernacle.
-  Dénombrement de la tribu de Lévi.
+summary: "\nDieu choisit les L\xE9vites pour le service du tabernacle.\nD\xE9nombrement\
+  \ de la tribu de L\xE9vi.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 Voici les générations d'Aaron et de Moïse, au jour que le Seigneur parla à Moïse sur la montagne de Sinaï.

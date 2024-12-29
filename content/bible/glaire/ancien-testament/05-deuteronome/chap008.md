@@ -1,11 +1,11 @@
 ---
-title: "Chapitre 8"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Exhortation à conserver le souvenir des bienfaits du Seigneur.
+summary: "\nExhortation \xE0 conserver le souvenir des bienfaits du Seigneur.\n"
+title: Chapitre 8
 ---
+
+
 
 
 1 Prends bien garde de pratiquer tous les préceptes, que moi, je te prescris aujourd'hui, afin que vous puissiez vivre, que vous vous multipliiez, et, qu'après y être entrés, vous possédiez la terre au sujet de laquelle le Seigneur a juré à vos pères. 2 Et tu te souviendras de tout le chemin par lequel le Seigneur ton Dieu t'a conduit pendant quarante ans à travers le désert, pour t'affliger, t'éprouver et faire connaître ce qui se passait dans ton coeur : si tu garderais ses commandements, ou non. 3 Il t'a affligé par la faim, et il t'a donné pour nourriture la manne que tu ignorais, toi, et tes pères, afin de te montrer que ce n'est pas de pain seulement que l'homme vit, mais de toute parole qui sort de la bouche de Dieu.

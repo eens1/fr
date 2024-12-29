@@ -1,11 +1,11 @@
 ---
-title: "Chapitre 12"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Loi touchant la purification des femmes après leur accouchement.
+summary: "\nLoi touchant la purification des femmes apr\xE8s leur accouchement.\n"
+title: Chapitre 12
 ---
+
+
 
 
 1 Le Seigneur parla encore à Moïse, disant :2 Parle aux enfants d'Israël et tu leur diras : Si une femme, après avoir conçu, enfante un enfant mâle, elle sera impure pendant sept jours, selon les jours de la séparation menstruelle,

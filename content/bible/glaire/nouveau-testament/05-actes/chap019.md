@@ -1,17 +1,14 @@
 ---
-title: "Chapitre 19"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Paul vient à Ephèse.
-  Disciples qui n’avaient reçu que le baptême de Jean.
-  Miracles de Paul.
-  Exorcistes.
-  Juifs battus par les démons.
-  Progrès de la parole divine.
-  Sédition contre Paul, excitée par Démétrius.
+summary: "\nPaul vient \xE0 Eph\xE8se.\nDisciples qui n\u2019avaient re\xE7u que le\
+  \ bapt\xEAme de Jean.\nMiracles de Paul.\nExorcistes.\nJuifs battus par les d\xE9\
+  mons.\nProgr\xE8s de la parole divine.\nS\xE9dition contre Paul, excit\xE9e par\
+  \ D\xE9m\xE9trius.\n"
+title: Chapitre 19
 ---
+
+
 
 
 1 Or il arriva pendant qu'Apollo était à Corinthe, que Paul, ayant parcouru les provinces supérieures, vint à Ephèse et y trouva quelques disciples, 2 Et il leur demanda : Avez-vous reçu l'Esprit-Saint depuis que vous croyez? Ils lui répondirent : S'il y a un Esprit-Saint, nous ne l'avons pas même ouï dire. 3 Et lui leur repartit : De quel baptême avez-vous donc été baptisés? Ils répondirent ; Du baptême de Jean. 4 Alors Paul répliqua : Jean a baptisé le peuple du baptême de pénitence, leur disant de croire en celui qui devait venir après lui, c'est-à-dire en Jésus-Christ.

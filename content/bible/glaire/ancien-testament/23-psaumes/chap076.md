@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 76"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste affligé se console par le souvenir des merveilles que Dieu a opérées en faveur de son peuple.
-  Elles lui font tout espérer de sa puissance et de sa bonté.
+summary: "\nLe Psalmiste afflig\xE9 se console par le souvenir des merveilles que\
+  \ Dieu a op\xE9r\xE9es en faveur de son peuple.\nElles lui font tout esp\xE9rer\
+  \ de sa puissance et de sa bont\xE9.\n"
+title: Chapitre 76
 ---
+
+
 
 
 1 Pour la fin, pour Idithun, psaume d'Asaph.

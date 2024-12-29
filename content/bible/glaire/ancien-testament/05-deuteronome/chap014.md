@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 14"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Défense de se faire des incisions, et de se couper les cheveux dans le deuil.
-  Animaux purs et impurs.
-  Dîmes.
-  Repas devant le Seigneur.
+summary: "\nD\xE9fense de se faire des incisions, et de se couper les cheveux dans\
+  \ le deuil.\nAnimaux purs et impurs.\nD\xEEmes.\nRepas devant le Seigneur.\n"
+title: Chapitre 14
 ---
+
+
 
 
 1 Soyez les enfants du Seigneur votre Dieu : vous ne vous ferez point d'incisions; et vous ne couperez point vos cheveux à cause d'un mort,

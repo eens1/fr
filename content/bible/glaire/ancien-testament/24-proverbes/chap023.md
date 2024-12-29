@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 23"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Sobriété à la table des grands.
-  Ne pas opprimer les pupilles.
-  Demeurer ferme dans la crainte du Seigneur.
-  Fuir les femmes de mauvaise vie et l’ivrognerie.
+summary: "\nSobri\xE9t\xE9 \xE0 la table des grands.\nNe pas opprimer les pupilles.\n\
+  Demeurer ferme dans la crainte du Seigneur.\nFuir les femmes de mauvaise vie et\
+  \ l\u2019ivrognerie.\n"
+title: Chapitre 23
 ---
+
+
 
 
 1 Quand tu seras assis pour manger avec le prince, considère attentivement ce qui est servi devant toi;

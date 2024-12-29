@@ -1,8 +1,10 @@
 ---
-title: "Vision de Saint François sur l'avenir de son Ordre"
-date: 2024-09-06T20:03:00+02:00
+date: 2024-09-06 20:03:00+02:00
 draft: false
+title: "Vision de Saint Fran\xE7ois sur l'avenir de son Ordre"
 ---
+
+
 
 
 Source : Annales des Frères Mineurs, Castet 1680, t. 1, pp. 166-167.

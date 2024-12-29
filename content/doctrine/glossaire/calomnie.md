@@ -1,8 +1,10 @@
 ---
-title: "Calomnie"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Calomnie
 ---
+
+
 
 
 > *Abbé Vittrant, Théologie morale, 1941* : "Il y a calomnie lorsqu'en parlant de quelqu'un à un tiers on lui attribue des défauts qu'il n'a pas ou des fautes qu'il n'a pas commises.

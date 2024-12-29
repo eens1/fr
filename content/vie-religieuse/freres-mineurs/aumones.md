@@ -1,9 +1,11 @@
 ---
-title: "Aumônes"
 date: 2024-11-29T04:25:51+0000
 draft: false
 tags: []
+title: "Aum\xF4nes"
 ---
+
+
 
 
 > *Père Marchese, Vie de saint Pierre d'Alcantara, 1670* : "Le principal fondement sur lequel saint Pierre d'Alcantara se proposa d'établir sa réforme, et l'unique trésor qu'il eut dessein de laisser en partage à ses enfants, fut la même pauvreté rigoureuse que son saint instituteur avait introduite dans la fondation de l'ordre; c'est pourquoi il avait accoûtumé de dire à ses religieux que la pauvreté d'un frère mineur devait être si indigente et si nécessiteuse, que même il fallait qu'elle se retrancha une partie du nécessaire.

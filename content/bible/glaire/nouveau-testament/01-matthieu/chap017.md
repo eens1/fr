@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 17"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Transfiguration de Jésus-Christ.
-  Avènement d’Elie.
-  Guérison d’un enfant lunatique.
-  Puissance de la foi.
-  Jésus-Christ prédit sa passion.
-  Il paye le tribut pour lui et pour saint Pierre.
+summary: "\nTransfiguration de J\xE9sus-Christ.\nAv\xE8nement d\u2019Elie.\nGu\xE9\
+  rison d\u2019un enfant lunatique.\nPuissance de la foi.\nJ\xE9sus-Christ pr\xE9\
+  dit sa passion.\nIl paye le tribut pour lui et pour saint Pierre.\n"
+title: Chapitre 17
 ---
+
+
 
 
 1 Six jours après, Jésus prit Pierre, Jacques et Jean son frère, et les conduisit sur une haute montagne, à l'écart.

@@ -1,8 +1,10 @@
 ---
-title: "Caput 10"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 10
 ---
+
+
 
 
 1 Sic ergo orante Esdra, et implorante eo, et flente, et iacente ante templum Dei, collectus est ad eum de Israel coetus grandis nimis virorum et mulierum et puerorum, et flevit populus fletu multo.

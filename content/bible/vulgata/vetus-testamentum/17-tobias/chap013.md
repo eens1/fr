@@ -1,8 +1,10 @@
 ---
-title: "Caput 13"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 13
 ---
+
+
 
 
 1 Aperiens autem Tobias senior os suum, benedixit Dominum, et dixit: Magnus es Domine in aeternum, et in omnia saecula regnum tuum:

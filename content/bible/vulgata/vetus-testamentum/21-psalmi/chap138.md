@@ -1,8 +1,10 @@
 ---
-title: "Caput 138"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 138
 ---
+
+
 
 
 1 In finem, Psalmus David. Domine probasti me, et cognovisti me:

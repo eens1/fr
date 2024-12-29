@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 9"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Prière de Salomon au Seigneur pour obtenir la sagesse.
-  La sagesse est nécessaire pour gouverner les autres et pour se conduire soi-même.
+summary: "\nPri\xE8re de Salomon au Seigneur pour obtenir la sagesse.\nLa sagesse\
+  \ est n\xE9cessaire pour gouverner les autres et pour se conduire soi-m\xEAme.\n"
+title: Chapitre 9
 ---
+
+
 
 
 1 Dieu de mes pères, et Seigneur de miséricorde, qui avez fait toutes choses par votre parole,

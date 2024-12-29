@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 10"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Jéhu fait mourir les fils d’Achab et les frères d’Ochozias.
-  Il extermine les faux prophètes de Baal, détruit son temple, et brûle sa statue.
-  Hazaël remporte de grands avantages sur Israël.
-  Mort de Jéhu.
-  Joachaz lui succède.
+summary: "\nJ\xE9hu fait mourir les fils d\u2019Achab et les fr\xE8res d\u2019Ochozias.\n\
+  Il extermine les faux proph\xE8tes de Baal, d\xE9truit son temple, et br\xFBle sa\
+  \ statue.\nHaza\xEBl remporte de grands avantages sur Isra\xEBl.\nMort de J\xE9\
+  hu.\nJoachaz lui succ\xE8de.\n"
+title: Chapitre 10
 ---
+
+
 
 
 1 Or Achab avait soixante-dix fils dans Samarie : Jéhu écrivit donc des lettres, et il les envoya à Samarie aux grands de la ville, aux anciens et à ceux qui élevaient les enfants d'Achab, disant:2 Aussitôt que vous aurez reçu ces lettres, vous qui avez les enfants de votre maître, les chars, les chevaux, les villes fortes et les armes, 3 Choisissez le meilleur et celui qui vous plaira davantage, d'entre les fils de votre maître, et mettez-le sur le trône de son père, et combattez pour la maison de votre maître. 4 Ceux-ci furent saisis d'une grande crainte, et ils dirent : Voilà que deux rois n'ont pu subsister devant lui, et comment nous, pourrons-nous résister? 5 Les intendants de la maison du roi, les chefs de la ville, les anciens et ceux qui élevaient les princes, envoyèrent donc vers Jéhu, disant : Nous sommes vos serviteurs, tout ce que vous nous commanderez, nous le ferons; nous ne nous établirons point de roi : tout ce qu'il vous plaît, faites-le. 6 Or il leur écrivit des lettres une seconde fois,

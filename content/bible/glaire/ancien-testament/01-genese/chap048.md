@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 48"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Jacob bénit Ephraïm et Manassé ; il laisse à Joseph le champ voisin de Sichem.
+summary: "\nJacob b\xE9nit Ephra\xEFm et Manass\xE9 ; il laisse \xE0 Joseph le champ\
+  \ voisin de Sichem.\n"
+title: Chapitre 48
 ---
+
+
 
 
 1 Ces choses s'étant ainsi passées, on annonça à Joseph que son père était malade; or, Joseph ayant pris avec lui ses deux fils, Manassé et Ephraïm, se mit en chemin. 2 Et on dit au vieillard : Voici votre fils Joseph qui vient vers vous. Or reprenant ses forces, il s'assit sur son lit.

@@ -1,8 +1,10 @@
 ---
-title: "Caput 45"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 45
 ---
+
+
 
 
 1 Verbum, quod locutus est Ieremias propheta ad Baruch filium Neriae, cum scripsisset verba haec in libro ex ore Ieremiae, anno quarto Ioakim filii Iosiae regis Iuda, dicens:

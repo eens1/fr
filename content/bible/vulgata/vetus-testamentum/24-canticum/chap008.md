@@ -1,8 +1,10 @@
 ---
-title: "Caput 8"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 8
 ---
+
+
 
 
 1 Quis mihi det te fratrem meum sugentem ubera matris meae, ut inveniam te foris, et deosculer te, et iam me nemo despiciat?

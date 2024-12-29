@@ -1,8 +1,10 @@
 ---
-title: "Caput 13"
-date: 2024-09-06T20:00:56+02:00
+date: 2024-09-06 20:00:56+02:00
 draft: false
+title: Caput 13
 ---
+
+
 
 
 1 Anno centesimo quadragesimonono, cognovit Iudas Antiochum Eupatorem venire cum multitudine adversus Iudaeam,

@@ -1,8 +1,10 @@
 ---
-title: "Lois (séculières)"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "Lois (s\xE9culi\xE8res)"
 ---
+
+
 
 
 > *Dictionnaire de l'académie française, définition du terme "lois"* : "Chacune des prescriptions qui règlent le gouvernement d’une société ou qui fixent les droits et les devoirs des citoyens." [^1]

@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 11"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Saint Jean envoie deux de ses disciples à Jésus-Christ.
-  Eloge de saint Jean.
-  Jésus-Chrsist et saint Jean rejetés par les Juifs.
-  Villes impénitentes pire que Sodome.
-  Sages aveuglés ; simples éclairés.
-  Joug de Jésus-Christ doux et léger.
+summary: "\nSaint Jean envoie deux de ses disciples \xE0 J\xE9sus-Christ.\nEloge de\
+  \ saint Jean.\nJ\xE9sus-Chrsist et saint Jean rejet\xE9s par les Juifs.\nVilles\
+  \ imp\xE9nitentes pire que Sodome.\nSages aveugl\xE9s ; simples \xE9clair\xE9s.\n\
+  Joug de J\xE9sus-Christ doux et l\xE9ger.\n"
+title: Chapitre 11
 ---
+
+
 
 
 1 Et il arriva que lorsque Jésus eut fini de donner ces commandements à ses douze disciples, il partit de là pour enseigner et prêcher dans leurs villes.

@@ -1,8 +1,10 @@
 ---
-title: "Immitation du Christ"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: Immitation du Christ
 ---
+
+
 
 
 > *1 Pierre 2:21* : "Car c'est à quoi vous avez été appelés, parce que le Christ même a souffert pour nous, vous laissant un exemple, afin que vous suiviez ses traces." [^1]

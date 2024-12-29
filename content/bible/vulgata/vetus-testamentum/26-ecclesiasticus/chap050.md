@@ -1,8 +1,10 @@
 ---
-title: "Caput 50"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 50
 ---
+
+
 
 
 1 Simon Oniae filius, sacerdos magnus, qui in vita sua suffulsit domum, et in diebus suis corroboravit templum.

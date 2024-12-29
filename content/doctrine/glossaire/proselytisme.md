@@ -1,8 +1,10 @@
 ---
-title: "Prosélytisme"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "Pros\xE9lytisme"
 ---
+
+
   
 > *Pape Léon XIII, Sapientiae Christianae, 10 janv. 1890* : \" ... quand les circonstances en font une nécessité, ce ne sont pas seulement les prélats qui doivent veiller à l'intégrité de la foi, mais, comme le dit saint Thomas : \"Chacun est tenu de manifester publiquement sa foi, soit pour instruire et encourager les autres fidèles, soit pour repousser les attaques des adversaires.\" 
   

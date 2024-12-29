@@ -1,8 +1,9 @@
 ---
-title: "Saints "
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: 'Saints '
 ---
+
 
 
 > Saint Pierre Canisius, *Grand catéchisme* : "Hors de cette communion des saints comme autrefois hors de l’arche de Noé, il n’y a de salut pour personne, mais pour tous au contraire une damnation assurée; et ainsi faut-il raisonner, soit par rapport aux juifs et aux gentils, qui n'ont jamais embrassé la foi de l’Eglise; soit par rapport aux hérétiques, qui l’ont abandonnée ou altérée; soit par rapport aux schismatiques, qui ont rompu la paix et l’unité de l’Eglise; soit enfin par rapport aux excommuniés, qui ont mérité pour quelque autre cause grave d’être retranchés et séparés du corps de l’Eglise comme des membres gâtés. 

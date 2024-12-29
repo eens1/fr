@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 15"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
-summary: |
-  
-  Mer transparente sur laquelle les vainqueurs chantent le cantique de Moïse et le cantique de l’Agneau.
-  Sept coupes de la colère du Seigneur sont données à sept anges.
+summary: "\nMer transparente sur laquelle les vainqueurs chantent le cantique de Mo\xEF\
+  se et le cantique de l\u2019Agneau.\nSept coupes de la col\xE8re du Seigneur sont\
+  \ donn\xE9es \xE0 sept anges.\n"
+title: Chapitre 15
 ---
+
+
 
 
 1 Je vis dans le ciel un autre prodige grand et merveilleux : sept anges ayant les sept dernières plaies, puisque c'est par elles que la colère de Dieu a été consommée.

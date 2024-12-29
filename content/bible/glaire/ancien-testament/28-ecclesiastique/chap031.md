@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 31"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Fatigues des avares.
-  Heureux le riche qui est demeuré dans l’innocence.
-  Garder la modestie et la tempérance dans les festins.
-  User de vin avec sobriété.
+summary: "\nFatigues des avares.\nHeureux le riche qui est demeur\xE9 dans l\u2019\
+  innocence.\nGarder la modestie et la temp\xE9rance dans les festins.\nUser de vin\
+  \ avec sobri\xE9t\xE9.\n"
+title: Chapitre 31
 ---
+
+
 
 
 1 Veiller pour la richesse dessèche la chair, et y penser enlève le sommeil;

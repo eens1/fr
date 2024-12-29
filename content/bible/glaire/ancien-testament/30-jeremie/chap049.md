@@ -1,11 +1,13 @@
 ---
-title: "Chapitre 49"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Prophéties de la désolation, de la captivité et du retour des Ammonites ; de la désolation des Iduméens, des Syriens et des Cédaréniens ; de la dispersion et du retour des Elamites.
+summary: "\nProph\xE9ties de la d\xE9solation, de la captivit\xE9 et du retour des\
+  \ Ammonites ; de la d\xE9solation des Idum\xE9ens, des Syriens et des C\xE9dar\xE9\
+  niens ; de la dispersion et du retour des Elamites.\n"
+title: Chapitre 49
 ---
+
+
 
 
 1 Aux fils d'Ammon, voici ce que dit le Seigneur : Est-ce qu'Israël n'a point d'enfants? ou n'a-t-il point d'héritiers? Pourquoi donc Melchom s'est-il emparé de Gad comme de son héritage, et son peuple a-t-il établi son habitation dans ses villes ?

@@ -1,11 +1,13 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Lois touchant ceux qui doivent être chassés hors du champ, touchant la restitution, touchant l’épreuve des femmes soupçonnées d’adultère.
+summary: "\nLois touchant ceux qui doivent \xEAtre chass\xE9s hors du champ, touchant\
+  \ la restitution, touchant l\u2019\xE9preuve des femmes soup\xE7onn\xE9es d\u2019\
+  adult\xE8re.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Le Seigneur parla encore à Moïse, disant :2 Ordonne aux enfants d'Israël qu'ils jettent hors du camp tout lépreux, celui qui a la gonorrhée et celui qui a été souillé à cause d'un mort :

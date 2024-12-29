@@ -1,15 +1,12 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Caïn et Abel ; leurs sacrifices.
-  Caïn tue Abel.
-  Descendants de Caïn.
-  Seth, fils d’Adam.
-  Enos, fils de Seth.
+summary: "\nCa\xEFn et Abel ; leurs sacrifices.\nCa\xEFn tue Abel.\nDescendants de\
+  \ Ca\xEFn.\nSeth, fils d\u2019Adam.\nEnos, fils de Seth.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Or Adam connut sa femme Eve, qui conçut et enfanta Caïn, disant : J'ai acquis un homme par la grâce de Dieu. 2 Et de nouveau elle enfanta son frère Abel. Or Abel fut pasteur de brebis, et Caïn laboureur.

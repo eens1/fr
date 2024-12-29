@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 20"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Les Israélites vengent sur les enfants de benjamin l’injure faite au Lévite.
+summary: "\nLes Isra\xE9lites vengent sur les enfants de benjamin l\u2019injure faite\
+  \ au L\xE9vite.\n"
+title: Chapitre 20
 ---
+
+
 
 
 1 C'est pourquoi tous les enfants d'Israël sortirent, et s'étant réunis ensemble comme un seul homme, depuis Dan jusqu'à Bersabée, ils se rendirent, ainsi que la terre de Galaad, vers le Seigneur, à Maspha;

@@ -1,8 +1,10 @@
 ---
-title: "Chap. 3 - L'admission en religion (538 - 586)"
-date: 2024-09-06T20:00:57+02:00
+date: 2024-09-06 20:00:57+02:00
 draft: false
----  
+title: Chap. 3 - L'admission en religion (538 - 586)
+---
+
+  
   
   **539**
   p.1 Dans les religions de voeux perpétuels, toutes les femmes,

@@ -1,14 +1,15 @@
 ---
-title: "Chapitre 20"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Le Seigneur reproche aux Israélites leurs infidélités et celles de leurs pères, depuis la sortie d’Egypte jusqu’alors.
-  Il leur annonce ses vengeances.
-  Il promet de les ramener dans leur pays, et de les attacher à son service.
-  Prophétie contre la forêt, c’est-à-dire contre la Judée.
+summary: "\nLe Seigneur reproche aux Isra\xE9lites leurs infid\xE9lit\xE9s et celles\
+  \ de leurs p\xE8res, depuis la sortie d\u2019Egypte jusqu\u2019alors.\nIl leur annonce\
+  \ ses vengeances.\nIl promet de les ramener dans leur pays, et de les attacher \xE0\
+  \ son service.\nProph\xE9tie contre la for\xEAt, c\u2019est-\xE0-dire contre la\
+  \ Jud\xE9e.\n"
+title: Chapitre 20
 ---
+
+
 
 
 1 Or il arriva en la septième année, au cinquième mois, au dixième jour du mois, que des hommes d'entre les anciens d'Israël vinrent pour consulter le Seigneur, et qu'ils s'assirent devant moi.

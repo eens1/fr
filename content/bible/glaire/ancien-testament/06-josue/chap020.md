@@ -1,11 +1,11 @@
 ---
-title: "Chapitre 20"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Villes de refuge marquées par l’ordre du Seigneur.
+summary: "\nVilles de refuge marqu\xE9es par l\u2019ordre du Seigneur.\n"
+title: Chapitre 20
 ---
+
+
 
 
 1 Ensuite le Seigneur parla à Josué, disant : Parle aux enfants d'Israël, et dis-leur :

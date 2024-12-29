@@ -1,8 +1,10 @@
 ---
-title: "Caput 12"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 12
 ---
+
+
 
 
 1 Hi sunt reges, quos percusserunt filii Israel, et possederunt Terram eorum trans Iordanem ad solis ortum, a torrente Arnon usque ad montem Hermon, et omnem Orientalem plagam, quae respicit solitudinem.

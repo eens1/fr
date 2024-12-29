@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 6"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Corriger avec douceur, s’entre-supporter.
-  Croire qu’on n’est rien.
-  Semer pour recueillir.
-  Saint Paul ne se glorifie que dans la foi.
-  Salutations.
+summary: "\nCorriger avec douceur, s\u2019entre-supporter.\nCroire qu\u2019on n\u2019\
+  est rien.\nSemer pour recueillir.\nSaint Paul ne se glorifie que dans la foi.\n\
+  Salutations.\n"
+title: Chapitre 6
 ---
+
+
 
 
 1 Mes frères, si un homme est tombé par surprise dans quelque faute, vous qui êtes spirituels, instruisez-le en esprit de douceur, regardant à toi-même, de peur que toi aussi tu ne sois tenté.

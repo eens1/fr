@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 8"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Le Seigneur, après avoir châtié Sion, reviendra vers elle, lui rendra la paix, et rassemblera son peuple.
-  Les deux maisons d’Israël et de Juda seront en bénédiction.
-  Les peuples étrangers se joindront aux fils de Juda pour adorer avec eux le Seigneur.
+summary: "\nLe Seigneur, apr\xE8s avoir ch\xE2ti\xE9 Sion, reviendra vers elle, lui\
+  \ rendra la paix, et rassemblera son peuple.\nLes deux maisons d\u2019Isra\xEBl\
+  \ et de Juda seront en b\xE9n\xE9diction.\nLes peuples \xE9trangers se joindront\
+  \ aux fils de Juda pour adorer avec eux le Seigneur.\n"
+title: Chapitre 8
 ---
+
+
 
 
 1 Et la parole du Seigneur des armées me fut adressée, disant :

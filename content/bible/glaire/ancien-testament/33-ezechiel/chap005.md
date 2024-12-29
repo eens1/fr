@@ -1,12 +1,14 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Dieu ordonne à Ezéchiel de couper ses cheveux, sa barbe, et de les détruire de différentes manières, pour figurer les divers châtiments qu’il devait exercer sur son peuple.
-  Jérusalem deviendra un exemple terrible de la sévérité de sa justice.
+summary: "\nDieu ordonne \xE0 Ez\xE9chiel de couper ses cheveux, sa barbe, et de les\
+  \ d\xE9truire de diff\xE9rentes mani\xE8res, pour figurer les divers ch\xE2timents\
+  \ qu\u2019il devait exercer sur son peuple.\nJ\xE9rusalem deviendra un exemple terrible\
+  \ de la s\xE9v\xE9rit\xE9 de sa justice.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Et toi, fils d'un homme, prends un glaive affilé, qui rase les poils; et tu le prendras, et tu le feras passer sur ta tête et sur ta barbe, et tu prendras pour toi un poids de balance, et tu les partageras.

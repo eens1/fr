@@ -1,8 +1,10 @@
 ---
-title: "Création"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Cr\xE9ation"
 ---
+
+
 
 
 > *Job 12:7-11* : "Certes, interroge les bêtes, et elles te l'enseigneront; et les volatiles du ciel, et ils te l'indiqueront. Parle à la terre, et elle te répondra; et les poissons de la mer te le raconteront. Qui ignore que la main du Seigneur a fait toutes ces choses ? C'est dans sa main qu'est l'âme de tout vivant, et l'esprit de toute chair d'homme. Est-ce que l'oreille ne discerne pas les paroles, et le palais de celui qui mange la saveur des aliments ?" [^1]

@@ -1,11 +1,13 @@
 ---
-title: "Chapitre 20"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Peine de mort contre ceux qui offrent leurs enfants à Moloch, qui consultent les devins, qui maudissent leurs pères ou leurs mères ; contre les adultères, les incestueux, les abominables.
+summary: "\nPeine de mort contre ceux qui offrent leurs enfants \xE0 Moloch, qui consultent\
+  \ les devins, qui maudissent leurs p\xE8res ou leurs m\xE8res ; contre les adult\xE8\
+  res, les incestueux, les abominables.\n"
+title: Chapitre 20
 ---
+
+
 
 
 1 Le Seigneur parla encore à Moïse, disant:2 Tu diras ces choses aux enfants d'Israël : Si quelque homme d'entre les enfants d'Israël, et d'entre les étrangers qui habitent en Israël, donne de ses enfants à l idole de Moloch, qu'il meure de mort : le peuple du pays le lapidera,

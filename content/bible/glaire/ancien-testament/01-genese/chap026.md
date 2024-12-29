@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 26"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Voyage d’Isaac à Gérara ; son retour à Bersabée ; son alliance avec Abimélech.
-  Mariage d’Esaü.
+summary: "\nVoyage d\u2019Isaac \xE0 G\xE9rara ; son retour \xE0 Bersab\xE9e ; son\
+  \ alliance avec Abim\xE9lech.\nMariage d\u2019Esa\xFC.\n"
+title: Chapitre 26
 ---
+
+
 
 
 1 Cependant une famine étant survenue dans ce pays, après la disette qui était arrivée dans les jours d'Abraham, Isaac s'en alla vers Abimélech, roi des Philistins, à Gérara.

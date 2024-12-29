@@ -1,12 +1,14 @@
 ---
-title: "Chapitre 8"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le psalmiste admire la grandeur de Dieu peinte dans ses ouvrages, et l’excès de sa bonté dans le soin qu’il prend de l’homme et dans la puissance qu’il lui a donnée sur toutes les créatures.
-  Ce psaume regarde particulièrement Jésus-Christ.
+summary: "\nLe psalmiste admire la grandeur de Dieu peinte dans ses ouvrages, et l\u2019\
+  exc\xE8s de sa bont\xE9 dans le soin qu\u2019il prend de l\u2019homme et dans la\
+  \ puissance qu\u2019il lui a donn\xE9e sur toutes les cr\xE9atures.\nCe psaume regarde\
+  \ particuli\xE8rement J\xE9sus-Christ.\n"
+title: Chapitre 8
 ---
+
+
 
 
 1 Pour la fin, pour les pressoirs, psaume de David.

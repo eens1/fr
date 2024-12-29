@@ -1,8 +1,10 @@
 ---
-title: "Pauvreté de Saint Pierre d'Alcantara"
-date: 2024-09-06T20:00:58+02:00
+date: 2024-09-06 20:00:58+02:00
 draft: false
+title: "Pauvret\xE9 de Saint Pierre d'Alcantara"
 ---
+
+
 
 
 Source : Marchese 1670, p. 292-295.

@@ -1,8 +1,10 @@
 ---
-title: "Huitième Commandement"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: "Huiti\xE8me Commandement"
 ---
+
+
 
 
 > *Saint Léonard de Port-Maurice* : "[Examinez] si vous n'avez pas médit gravement d'une ou de plusieurs personnes; si vous n'avez pas écouté des médisances sans les empêcher, quand vous le pouviez; si vous n'avez pas manifesté des fautes ou des défaults cachés, et à combien de personnes.

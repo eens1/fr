@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 11"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Prédiction de la dixième et dernière plaie, mort des premiers-nés des Egyptiens.
-  Sortie des Israélites de l’Egypte.
-  Préceptes touchant la Pâque.
+summary: "\nPr\xE9diction de la dixi\xE8me et derni\xE8re plaie, mort des premiers-n\xE9\
+  s des Egyptiens.\nSortie des Isra\xE9lites de l\u2019Egypte.\nPr\xE9ceptes touchant\
+  \ la P\xE2que.\n"
+title: Chapitre 11
 ---
+
+
 
 
 1 Et le Seigneur dit à Moïse : Je frapperai encore, mais d'une seule plaie, Pharaon et l'Egypte; et après cela il vous laissera aller, il vous forcera même de sortir. 2 Tu diras donc à tout le peuple, que chaque homme demande à son ami, et chaque femme à sa voisine, des vases d'argent et d'or.

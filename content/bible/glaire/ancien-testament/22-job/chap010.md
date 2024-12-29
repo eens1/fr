@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 10"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Job adresse ses plaintes à Dieu.
-  Il s’humilie devant lui, et le supplie de lui accorder quelque relâche avant la mort.
+summary: "\nJob adresse ses plaintes \xE0 Dieu.\nIl s\u2019humilie devant lui, et\
+  \ le supplie de lui accorder quelque rel\xE2che avant la mort.\n"
+title: Chapitre 10
 ---
+
+
 
 
 1 Mon âme a du dégoût pour ma vie, je lâcherai ma propre parole contre moi, je parlerai dans l'amertume de mon âme.

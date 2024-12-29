@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 16"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Dieu dispose de la langue et des pas de l’homme.
-  Colère et clémence du roi.
-  Maux que cause l’orgueil.
-  Voie funeste qui paraît bonne.
-  Dieu règle et conduit le sort.
+summary: "\nDieu dispose de la langue et des pas de l\u2019homme.\nCol\xE8re et cl\xE9\
+  mence du roi.\nMaux que cause l\u2019orgueil.\nVoie funeste qui para\xEEt bonne.\n\
+  Dieu r\xE8gle et conduit le sort.\n"
+title: Chapitre 16
 ---
+
+
 
 
 1 C'est à l'homme de préparer son âme, et au Seigneur de gouverner la langue.

@@ -1,8 +1,10 @@
 ---
-title: "Dans la Bible"
-date: 2024-09-06T20:02:54+02:00
+date: 2024-09-06 20:02:54+02:00
 draft: false
+title: Dans la Bible
 ---
+
+
 
 
 > *Romains 8:1* : "Il n'y a donc pas maintenant de condamnation pour ceux qui sont en Jésus-Christ, qui ne marchent pas selon la chair." [^1]

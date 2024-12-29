@@ -1,18 +1,15 @@
 ---
-title: "Chapitre 9"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Antiochus revient de Perse.
-  Il apprend la défaite de ses généraux par les Juifs.
-  Il jure la perte de ce peuple.
-  Dieu le frappe et le force de confesser sa propre faiblesse.
-  Vaine protestation d’Antiochus.
-  Lettre qu’il écrit aux Juifs.
-  Il meurt misérablement.
-  Philippe transporte son corps.
+summary: "\nAntiochus revient de Perse.\nIl apprend la d\xE9faite de ses g\xE9n\xE9\
+  raux par les Juifs.\nIl jure la perte de ce peuple.\nDieu le frappe et le force\
+  \ de confesser sa propre faiblesse.\nVaine protestation d\u2019Antiochus.\nLettre\
+  \ qu\u2019il \xE9crit aux Juifs.\nIl meurt mis\xE9rablement.\nPhilippe transporte\
+  \ son corps.\n"
+title: Chapitre 9
 ---
+
+
 
 
 1 Dans le même temps, Antiochus revenait honteusement de Perse,

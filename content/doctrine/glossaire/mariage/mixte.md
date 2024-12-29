@@ -1,8 +1,10 @@
 ---
-title: "Mariage entre catholique et non-catholique"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Mariage entre catholique et non-catholique
 ---
+
+
 
 
 > *Pape Grégoire XVI, Summo Iugiter Studio, 1832* : "Le Siège apostolique a toujours veillé à ce que les canons interdisant les mariages des catholiques avec les hérétiques soient observés religieusement. Parfois, de tels mariages ont été tolérés afin d'éviter de plus graves scandales. Or, même dans ce cas, les Pontifes romains ont veillé à ce que les fidèles sachent à quel point ces mariages sont déformés et quels dangers spirituels ils présentent. Un homme ou une femme catholique se rendrait coupable d'un grand crime s'il présumait de violer les sanctions canoniques en la matière. Et si les Pontifes romains eux-mêmes ont assoupli à contrecoeur cette même interdiction canonique dans certains cas graves, ils ont toujours ajouté à leur dispense une condition formelle : que le parti catholique ne soit pas perverti, mais s'efforce au contraire de retirer le parti non catholique de l'erreur et que la progéniture des deux sexes doit être entièrement éduquée dans la religion catholique." [^1]

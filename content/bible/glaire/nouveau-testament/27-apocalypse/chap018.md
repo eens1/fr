@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 18"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
-summary: |
-  
-  Un ange annonce la chute de la grande Babylone.
-  Le peuple fidèle est exhorté à en sortir.
-  Jugement prononcé contre elle.
-  Effroi, étonnement et consternation de ceux qui étaient liés avec elle.
-  Cause de sa ruine.
+summary: "\nUn ange annonce la chute de la grande Babylone.\nLe peuple fid\xE8le est\
+  \ exhort\xE9 \xE0 en sortir.\nJugement prononc\xE9 contre elle.\nEffroi, \xE9tonnement\
+  \ et consternation de ceux qui \xE9taient li\xE9s avec elle.\nCause de sa ruine.\n"
+title: Chapitre 18
 ---
+
+
 
 
 1 Après cela je vis un autre ange qui descendait du ciel, ayant une grande puissance; et la terre fut illuminée de sa gloire. 2 Et il cria avec force, disant : Elle est tombée, la grande Babylone, et elle est devenue une demeure de démons, et une retraite de tout esprit impur, de tout oiseau immonde et qui inspire de l'horreur ;

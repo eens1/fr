@@ -1,12 +1,17 @@
 ---
-title: "Chapitre 7"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
+summary: '
+
   Description du palais de Salomon.
+
   Divers ouvrages faits pour le temple.
+
+  '
+title: Chapitre 7
 ---
+
+
 
 
 1 Quant à sa maison, Salomon la bâtit et l'acheva entièrement en treize ans.

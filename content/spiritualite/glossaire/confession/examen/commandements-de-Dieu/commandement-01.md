@@ -1,8 +1,10 @@
 ---
-title: "Premier Commandement"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: Premier Commandement
 ---
+
+
 
 
 > *Saint Léonard de Port-Maurice* : "Examinez si vous connaissez les principaux mystères de la foi et les choses nécessaires au salut.

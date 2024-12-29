@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Jérémie continue de déplorer la désolation de Jérusalem.
-  Il exhorte Sion à gémir sans cesse et à exposer au Seigneur son affliction.
+summary: "\nJ\xE9r\xE9mie continue de d\xE9plorer la d\xE9solation de J\xE9rusalem.\n\
+  Il exhorte Sion \xE0 g\xE9mir sans cesse et \xE0 exposer au Seigneur son affliction.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 ALEPH.

@@ -1,8 +1,10 @@
 ---
-title: "Caput 14"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 14
 ---
+
+
 
 
 1 Et vidi: et ecce Agnus stabat supra montem Sion, et cum eo centum quadraginta quattuor millia habentes nomen eius, et nomen Patris eius scriptum in frontibus suis.

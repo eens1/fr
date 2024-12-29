@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Désordres des princes, des juges, des prêtres et des faux prophètes de Juda et d’Israël.
-  Menaces contre ces princes et ces juges.
-  Jérusalem et le temple seront détruits.
+summary: "\nD\xE9sordres des princes, des juges, des pr\xEAtres et des faux proph\xE8\
+  tes de Juda et d\u2019Isra\xEBl.\nMenaces contre ces princes et ces juges.\nJ\xE9\
+  rusalem et le temple seront d\xE9truits.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 Et j'ai dit : Ecoutez, princes de Jacob, et chefs de la maison d'Israël : N'est-ce pas à vous de connaître ce qui est juste,

@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Arrivée des Israélites à Pharan.
-  Moïse envoie considérer la terre de Chanaan.
-  Murmure du peuple.
-  Fidélité de Caleb et de Josué.
+summary: "\nArriv\xE9e des Isra\xE9lites \xE0 Pharan.\nMo\xEFse envoie consid\xE9\
+  rer la terre de Chanaan.\nMurmure du peuple.\nFid\xE9lit\xE9 de Caleb et de Josu\xE9\
+  .\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 Après cela le peuple partit d'Haséroth, et planta ses tentes dans le désert de Pharan. 2 Et là, le Seigneur parla à Moïse, disant :

@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 14"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Mort de saint Jean-Baptiste.
-  Multiplication des cinq pains et des deux poissons.
-  Jésus et Pierre marchent sur les eaux.
-  Vertus des vêtements de Jésus-Christ.
+summary: "\nMort de saint Jean-Baptiste.\nMultiplication des cinq pains et des deux\
+  \ poissons.\nJ\xE9sus et Pierre marchent sur les eaux.\nVertus des v\xEAtements\
+  \ de J\xE9sus-Christ.\n"
+title: Chapitre 14
 ---
+
+
 
 
 1 En ce temps-là Hérode, le tétrarque, apprit la renommée de Jésus;

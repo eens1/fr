@@ -1,8 +1,10 @@
 ---
-title: "Humilité"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: "Humilit\xE9"
 ---
+
+
 
 
 "De même, conernant l'humilité que la Règle recommande au prieur et à tous les religieux, nous défendons que désormais, sous aucun prétexte d'exemption ou de privilège, nul gradué, présenté ou maître, soit dispensé du choeur, du réfectoire et autres obligations imposées par la Règle;

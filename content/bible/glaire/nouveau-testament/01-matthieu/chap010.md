@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 10"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Mission des Apôtres.
-  Leurs noms.
-  Instructions que Jésus-Christ leur donne ; puissance qu’il leur communique.
-  Il leur recommande le désintéressement, la prudence, la patience, la confiance en Dieu.
-  Il leur annonce les maux qu’ils auront à souffrir et la récompense qu’ils en recevront.
+summary: "\nMission des Ap\xF4tres.\nLeurs noms.\nInstructions que J\xE9sus-Christ\
+  \ leur donne ; puissance qu\u2019il leur communique.\nIl leur recommande le d\xE9\
+  sint\xE9ressement, la prudence, la patience, la confiance en Dieu.\nIl leur annonce\
+  \ les maux qu\u2019ils auront \xE0 souffrir et la r\xE9compense qu\u2019ils en recevront.\n"
+title: Chapitre 10
 ---
+
+
 
 
 1 Et ayant convoqué ses douze disciples, il leur donna puissance sur les esprits impurs, pour le? chasser, et pour guérir toute maladie et toute infirmité.

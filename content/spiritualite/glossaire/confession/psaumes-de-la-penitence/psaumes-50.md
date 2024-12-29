@@ -1,11 +1,16 @@
 ---
-title: "Psaumes 50"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
-summary: |
-  
-  Ce psaume contient la prière ardente d’une âme affligée et pénitente. Le titre annonce clairement que ce sont les sentiments dans lesquels David entra lorsque le prophète Nathan lui eut reproché son crime avec Bethsabée, femme d’Urie. Le 2e Livre des Rois, d’où le titre est tiré, ajoute que le prophète reprocha en même temps à David le meurtre d’Urie (voir 2 Rois, chapitre 12).
+summary: "\nCe psaume contient la pri\xE8re ardente d\u2019une \xE2me afflig\xE9e\
+  \ et p\xE9nitente. Le titre annonce clairement que ce sont les sentiments dans lesquels\
+  \ David entra lorsque le proph\xE8te Nathan lui eut reproch\xE9 son crime avec Bethsab\xE9\
+  e, femme d\u2019Urie. Le 2e Livre des Rois, d\u2019o\xF9 le titre est tir\xE9, ajoute\
+  \ que le proph\xE8te reprocha en m\xEAme temps \xE0 David le meurtre d\u2019Urie\
+  \ (voir 2 Rois, chapitre 12).\n"
+title: Psaumes 50
 ---
+
+
 
 
 1 Pour la fin, psaume de David.

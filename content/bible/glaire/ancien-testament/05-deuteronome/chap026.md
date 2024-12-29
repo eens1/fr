@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 26"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Cérémonies qui devaient s’observer lorsqu’on offrait les prémices des fruits.
+summary: "\nC\xE9r\xE9monies qui devaient s\u2019observer lorsqu\u2019on offrait les\
+  \ pr\xE9mices des fruits.\n"
+title: Chapitre 26
 ---
+
+
 
 
 1 Lorsque tu seras entré dans la terre que le Seigneur ton Dieu va le donner pour la posséder, que tu l'auras conquise et que tu auras habité en elle, 2 Tu prendras les prémices de tous tes fruits, tu les mettras dans la corbeille, et tu iras au lieu que le Seigneur ton Dieu aura choisi, afin que son nom y soit invoqué,

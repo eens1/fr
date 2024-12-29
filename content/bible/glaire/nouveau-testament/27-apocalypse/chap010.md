@@ -1,12 +1,14 @@
 ---
-title: "Chapitre 10"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
-summary: |
-  
-  Un ange descend du ciel pour annoncer qu’il n’y aura plus de temps ; que le mystère de Dieu va être consommée et les prophéties accomplies.
-  Il donne un livre à saint Jean, en lui commandant de le manger ; ce livre est à la fois doux et amer.
+summary: "\nUn ange descend du ciel pour annoncer qu\u2019il n\u2019y aura plus de\
+  \ temps ; que le myst\xE8re de Dieu va \xEAtre consomm\xE9e et les proph\xE9ties\
+  \ accomplies.\nIl donne un livre \xE0 saint Jean, en lui commandant de le manger\
+  \ ; ce livre est \xE0 la fois doux et amer.\n"
+title: Chapitre 10
 ---
+
+
 
 
 1 Je vis un autre ange fort, qui descendait du ciel, revêtu d'une nuée, et ayant un arc-en-ciel sur la tête ; son visage était comme le soleil, et ses pieds comme des colonnes de feu. 2 Il avait en sa main un petit livre ouvert ; et il posa son pied droit sur la mer, et le gauche sur la terre. 3 Puis il cria d'une voix forte, comme quand un lion rugit. Et lorsqu'il eut crié, sept tonnerres firent entendre leurs voix. 4 Et quand les tonnerres eurent fait entendre leurs voix, moi j'allais écrire ; mais j'entendis une voix du ciel qui me dit : Scelle ce qu'ont dit les sept tonnerres et ne l'écris pas.

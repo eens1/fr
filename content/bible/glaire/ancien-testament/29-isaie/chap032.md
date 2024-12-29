@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 32"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Règne de justice promis à Juda.
-  Désolation de la Judée.
-  Son rétablissement.
-  Ruine de ses ennemis.
+summary: "\nR\xE8gne de justice promis \xE0 Juda.\nD\xE9solation de la Jud\xE9e.\n\
+  Son r\xE9tablissement.\nRuine de ses ennemis.\n"
+title: Chapitre 32
 ---
+
+
 
 
 1 Voici que dans la justice régnera un roi, et que des princes gouverneront selon le droit.

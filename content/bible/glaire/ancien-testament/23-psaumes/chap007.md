@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 7"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  David, persécuté par Saül, invoque le secours du Seigneur.
-  Il prend à témoin de son innocence, et il prédit que le mal que son ennemi veut lui faire retombera sur lui.
+summary: "\nDavid, pers\xE9cut\xE9 par Sa\xFCl, invoque le secours du Seigneur.\n\
+  Il prend \xE0 t\xE9moin de son innocence, et il pr\xE9dit que le mal que son ennemi\
+  \ veut lui faire retombera sur lui.\n"
+title: Chapitre 7
 ---
+
+
 
 
 1 Psaume de David qu'il chanta au Seigneur, à cause des paroles de Chus, fils de Jémini.

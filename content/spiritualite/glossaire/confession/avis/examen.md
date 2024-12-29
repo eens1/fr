@@ -1,8 +1,10 @@
 ---
-title: "Examen de conscience"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: Examen de conscience
 ---
+
+
 
 
 > *Saint Léonard de Port-Maurice* : "Dans votre examen... tâchez de vous rappeler le nombre des péchés commis; réfléchissez à la durée des mauvaises habitudes et aux circonstances qui ont accompagné la faute; voyez, par exemple, si elle a été commise dans l'église, si vous avez employé des moyens coupables en eux-mêmes pour arriver à une fin mauvaise; si vous avez scandalisé en faisant le mal. N'oubliez pas que la loi de la confession demande une déclaration humble et sincère de tout ce dont on peut se souvenir après un diligent examen; mais cette loi, qui est une loi de miséricorde, veut en même temps que la bonne volonté des pénitents supplée au défaut involontaire de la mémoire." [^1]

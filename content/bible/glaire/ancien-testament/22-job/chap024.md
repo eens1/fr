@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 24"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Job soutient que le crime est souvent impuni en ce monde, parce que Dieu en réserve ordinairement la vengeance après cette vie.
+summary: "\nJob soutient que le crime est souvent impuni en ce monde, parce que Dieu\
+  \ en r\xE9serve ordinairement la vengeance apr\xE8s cette vie.\n"
+title: Chapitre 24
 ---
+
+
 
 
 1 Les temps ne sont pas cachés au Tout-Puissant; mais ceux qui le connaissent ignorent ses jours.

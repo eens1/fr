@@ -1,8 +1,10 @@
 ---
-title: "Caput 26"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 26
 ---
+
+
 
 
 1 Divisiones autem ianitorum: de Coritis Meselemia, filius Core, de filiis Asaph.

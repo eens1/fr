@@ -1,14 +1,14 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Jeûne et tentation de Jésus-Christ.
-  Il prêche dans la Galilée ; il va à Nazareth ; et comme on veut le précipiter du haut d’une montagne, il se retire à Capharnaüm.
-  Il y délivre un possédé, et guérit la belle-mère de saint Pierre.
-  Autres merveilles qu’il opère.
+summary: "\nJe\xFBne et tentation de J\xE9sus-Christ.\nIl pr\xEAche dans la Galil\xE9\
+  e ; il va \xE0 Nazareth ; et comme on veut le pr\xE9cipiter du haut d\u2019une montagne,\
+  \ il se retire \xE0 Capharna\xFCm.\nIl y d\xE9livre un poss\xE9d\xE9, et gu\xE9\
+  rit la belle-m\xE8re de saint Pierre.\nAutres merveilles qu\u2019il op\xE8re.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Jésus, plein de l'Esprit-Saint, revint du Jourdain ; et il était conduit par l'Esprit dans le désert

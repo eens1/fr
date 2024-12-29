@@ -1,8 +1,10 @@
 ---
-title: "Tonsure"
-date: 2024-09-06T20:03:00+02:00
+date: 2024-09-06 20:03:00+02:00
 draft: false
+title: Tonsure
 ---
+
+
 
 
 > *Saint Alphonse de Liguori, Théologie morale* : "La tonsure n'est pas un Ordre, mais une disposition aux Ordres." [^1]

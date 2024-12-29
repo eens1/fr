@@ -1,8 +1,10 @@
 ---
-title: "Caput 30"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 30
 ---
+
+
 
 
 1 Vae filii desertores, dicit Dominus, ut faceretis consilium, et non ex me: et ordiremini telam, et non per spiritum meum, ut adderetis peccatum super peccatum:

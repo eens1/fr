@@ -1,12 +1,15 @@
 ---
-title: "Chapitre 108"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste implore le secours du Seigneur contre ses ennemis, qui l’outragent de mille manières.
-  Les Pères ont regardé ce psaume comme une prophétie du malheur qui devait arriver au traître Juda et aux Juifs meurtriers de Jésus-Christ, dont les souffrances sont aussi parfaitement représentées dans la personne de David.
+summary: "\nLe Psalmiste implore le secours du Seigneur contre ses ennemis, qui l\u2019\
+  outragent de mille mani\xE8res.\nLes P\xE8res ont regard\xE9 ce psaume comme une\
+  \ proph\xE9tie du malheur qui devait arriver au tra\xEEtre Juda et aux Juifs meurtriers\
+  \ de J\xE9sus-Christ, dont les souffrances sont aussi parfaitement repr\xE9sent\xE9\
+  es dans la personne de David.\n"
+title: Chapitre 108
 ---
+
+
 
 
 1 Pour la fin, psaume de David.

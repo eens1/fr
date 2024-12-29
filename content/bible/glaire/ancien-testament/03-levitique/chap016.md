@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 16"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Entrée du grand prêtre dans le sanctuaire.
-  Bouc émissaire chargé des péchés du peuple.
-  Fête de l’expiation.
+summary: "\nEntr\xE9e du grand pr\xEAtre dans le sanctuaire.\nBouc \xE9missaire charg\xE9\
+  \ des p\xE9ch\xE9s du peuple.\nF\xEAte de l\u2019expiation.\n"
+title: Chapitre 16
 ---
+
+
 
 
 1 Or, le Seigneur parla à Moïse après la mort des deux fils d'Aaron, quand, offrant un feu étranger, ils furent tués ;

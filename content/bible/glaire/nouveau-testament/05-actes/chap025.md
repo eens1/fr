@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 25"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Les Juifs accusent Paul devant Festus.
-  Paul se défend et en appelle à César.
-  Agrippa et Bérénice viennent à Césarée.
-  Agrippa veut voir Paul.
-  Festus fait venir Paul devant Agrippa.
+summary: "\nLes Juifs accusent Paul devant Festus.\nPaul se d\xE9fend et en appelle\
+  \ \xE0 C\xE9sar.\nAgrippa et B\xE9r\xE9nice viennent \xE0 C\xE9sar\xE9e.\nAgrippa\
+  \ veut voir Paul.\nFestus fait venir Paul devant Agrippa.\n"
+title: Chapitre 25
 ---
+
+
 
 
 1 Festus donc, étant arrivé dans la province, monta, trois jours après, de Césarée à Jérusalem.

@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 20"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Siège de Samarie par Bénadad.
-  Défaite de son armée.
-  Seconde défaite de l’armée des Syriens.
-  Achab fait alliance avec Bénadad.
-  Il en est repris par un prophète.
+summary: "\nSi\xE8ge de Samarie par B\xE9nadad.\nD\xE9faite de son arm\xE9e.\nSeconde\
+  \ d\xE9faite de l\u2019arm\xE9e des Syriens.\nAchab fait alliance avec B\xE9nadad.\n\
+  Il en est repris par un proph\xE8te.\n"
+title: Chapitre 20
 ---
+
+
 
 
 1 Or Bénadad, roi de Syrie, assembla toute son armée, et trente-deux rois avec lui, des chevaux et des chars; puis montant, il combattait contre Samarie, et l'assiégeait. 2 Et envoyant dans la ville des messagers à Achab, roi d'Israël, 3 Il dit : Voici ce que dit Bénadad : Votre argent et votre or est à moi; vos femmes et vos enfants les meilleurs sont à moi. 4 Et le roi d'Israël lui répondit : Selon votre parole, ô roi mon seigneur, je suis à vous, moi et tout ce que j'ai. 5 Et revenant, les messagers dirent : Voici ce que dit Bénadad, qui nous a envoyés vers vous : Vous me donnerez votre argent, votre or, vos femmes et vos fils. 6 Demain donc, à cette même heure, j'enverrai mes serviteurs vers vous, et ils fouilleront votre maison et la maison de vos serviteurs, et tout ce qui leur plaira, ils le prendront en leurs mains et l'emporteront.

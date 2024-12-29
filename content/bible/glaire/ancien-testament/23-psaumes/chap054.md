@@ -1,14 +1,16 @@
 ---
-title: "Chapitre 54"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  David, exposé à un grand danger, demande les ailes de la colombe pour se sauver.
-  Il décrit la fourberie de ses ennemis.
-  Il met toute sa confiance dans le Seigneur, et prédit la perte de ceux qui le persécutent.
-  Les Pères font l’application de ce psaume à Jésus-Christ, trahi par Judas et livré aux Romains par les Juifs, à l’Eglise chrétienne, persécutée au dehors par les païens et trahie par les hérétiques.
+summary: "\nDavid, expos\xE9 \xE0 un grand danger, demande les ailes de la colombe\
+  \ pour se sauver.\nIl d\xE9crit la fourberie de ses ennemis.\nIl met toute sa confiance\
+  \ dans le Seigneur, et pr\xE9dit la perte de ceux qui le pers\xE9cutent.\nLes P\xE8\
+  res font l\u2019application de ce psaume \xE0 J\xE9sus-Christ, trahi par Judas et\
+  \ livr\xE9 aux Romains par les Juifs, \xE0 l\u2019Eglise chr\xE9tienne, pers\xE9\
+  cut\xE9e au dehors par les pa\xEFens et trahie par les h\xE9r\xE9tiques.\n"
+title: Chapitre 54
 ---
+
+
 
 
 1 Pour la fin, dans les cantiques, intelligence à David.

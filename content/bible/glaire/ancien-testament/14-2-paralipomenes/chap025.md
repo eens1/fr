@@ -1,11 +1,13 @@
 ---
-title: "Chapitre 25"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Amasias achète des troupes du roi d’Israël ; il défait les Iduméens, est vaincu par Joas, roi d’Israël, et est tué par ses propres sujets.
+summary: "\nAmasias ach\xE8te des troupes du roi d\u2019Isra\xEBl ; il d\xE9fait les\
+  \ Idum\xE9ens, est vaincu par Joas, roi d\u2019Isra\xEBl, et est tu\xE9 par ses\
+  \ propres sujets.\n"
+title: Chapitre 25
 ---
+
+
 
 
 1 Amasias avait vingt-cinq ans lorsqu'il commença à régner, et il régna vingt-neuf ans à Jérusalem : le nom de sa mère était Joadan de Jérusalem.

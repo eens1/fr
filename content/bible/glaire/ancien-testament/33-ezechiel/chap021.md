@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 21"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Menaces contre la terre d’Israël.
-  Epée du Seigneur préparée contre son peuple.
-  Nabuchodonosor délibère s’il doit marcher contre les Ammonites ou contre Jérusalem.
-  La couronne est cédée à Sédécias.
-  Prophétie contre les Ammonites et contre les Babyloniens.
+summary: "\nMenaces contre la terre d\u2019Isra\xEBl.\nEp\xE9e du Seigneur pr\xE9\
+  par\xE9e contre son peuple.\nNabuchodonosor d\xE9lib\xE8re s\u2019il doit marcher\
+  \ contre les Ammonites ou contre J\xE9rusalem.\nLa couronne est c\xE9d\xE9e \xE0\
+  \ S\xE9d\xE9cias.\nProph\xE9tie contre les Ammonites et contre les Babyloniens.\n"
+title: Chapitre 21
 ---
+
+
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

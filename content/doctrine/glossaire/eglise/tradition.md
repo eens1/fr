@@ -1,8 +1,10 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Dans la Tradition
 ---
+
+
 
 
 > *Pape Léon XIII, Satis Cognitum, 1896* : "C'est pour toutes ces raisons que l'Eglise, dans les saintes lettres, est si souvent appelée un corps, et aussi le corps du Christ. Vous êtes le corps du Christ. Parce que l'Eglise est un corps, elle est visible aux yeux; parce qu'elle est le corps du Christ, elle est un corps vivant, actif, plein de sève, soutenu qu'il est et animé par Jésus-Christ qui le pénètre de sa vertu à peu près comme le tronc de la vigne nourrit et rend fertiles les rameaux qui lui sont unis. Dans les êtres animés, le principe vital est invisible et caché au plus profond de l'être, mais il se trahi! et se manifeste par le mouvement et l'action des membres : ainsi le principe de vie surnaturelle qui anime l'Eglise apparaît à tous les yeux par les actes qu'elle produit. 

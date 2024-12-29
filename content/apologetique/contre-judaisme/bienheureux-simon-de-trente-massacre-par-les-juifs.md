@@ -1,9 +1,10 @@
 ---
-title: "Bienheureux Simon de Trente, massacré par les Juifs"
 date: 2024-11-19
 draft: false
-image: "https://i.ibb.co/fF9Bvht/Pietro-Stefanoni-Simon-von-Trient.jpg"
+image: https://i.ibb.co/fF9Bvht/Pietro-Stefanoni-Simon-von-Trient.jpg
+title: "Bienheureux Simon de Trente, massacr\xE9 par les Juifs"
 ---
+
 
 {{< figure src="https://i.ibb.co/fF9Bvht/Pietro-Stefanoni-Simon-von-Trient.jpg" >}}
 

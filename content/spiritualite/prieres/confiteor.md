@@ -1,8 +1,10 @@
 ---
-title: "Confiteor"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: Confiteor
 ---
+
+
 
 
 > *Missel Dom Gaspar Lefèbvre, 1924* : "Confíteor Deo omnipoténti, beátae Mariae semper Vírgini, beáto Michaéli Archángelo, beáto Joánni Baptistae, Sanctis Apóstolis Petro et Paulo, et ómnibus Sanctis, quia peccávi nimis cogitatióne, verbo et ópere, mea culpa, mea culpa, mea máxima culpa.

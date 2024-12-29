@@ -1,14 +1,19 @@
 ---
-title: "Chapitre 96"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Ce Psaume représente le règne du Seigneur, la confusion des méchants et la joie des justes.
-  Les uns croient qu’il fut composé par David, lorsqu’après la mort de Saül il se vit paisiblement établi dans son pays, et en possession du royaume que le Seigneur lui avait promis.
-  D’autres pensent qu’il contient les actions de grâces des Juifs, délivrés de la captivité de Babylone, et la description de la vengeance exercée par le Seigneur contre les Babyloniens.
-  Les Pères l’expliquent du premier et du second avènement de Jésus-Christ, de son règne dans l’Eglise et de la vocation des Gentils.
+summary: "\nCe Psaume repr\xE9sente le r\xE8gne du Seigneur, la confusion des m\xE9\
+  chants et la joie des justes.\nLes uns croient qu\u2019il fut compos\xE9 par David,\
+  \ lorsqu\u2019apr\xE8s la mort de Sa\xFCl il se vit paisiblement \xE9tabli dans\
+  \ son pays, et en possession du royaume que le Seigneur lui avait promis.\nD\u2019\
+  autres pensent qu\u2019il contient les actions de gr\xE2ces des Juifs, d\xE9livr\xE9\
+  s de la captivit\xE9 de Babylone, et la description de la vengeance exerc\xE9e par\
+  \ le Seigneur contre les Babyloniens.\nLes P\xE8res l\u2019expliquent du premier\
+  \ et du second av\xE8nement de J\xE9sus-Christ, de son r\xE8gne dans l\u2019Eglise\
+  \ et de la vocation des Gentils.\n"
+title: Chapitre 96
 ---
+
+
 
 
 1 A David. Quand sa terre fut restituée. Le Seigneur a établi son règne, que la terre exulte : que des îles en quantité se livrent à la joie.

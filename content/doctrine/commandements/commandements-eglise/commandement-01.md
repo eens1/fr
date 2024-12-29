@@ -1,8 +1,10 @@
 ---
-title: "Premier Commandement"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Premier Commandement
 ---
+
+
 
 
 > *Droit canonique de 1917, can. 1247* : "§ 1. Dies festi sub praecepto in universa Ecclesia sunt tantum : Omnes et singuli dies dominici, festa Nativitatis, Circumcisionis, Epiphaniae, Ascensionis et sanctissimi Corporis Christi, Immaculatae Conceptionis et Assumptionis Almae Genitricis Dei Mariae, sancti Ioseph eius sponsi, Beatorum Petri et Pauli Apostolorum, Omnium denique Sanctorum.  

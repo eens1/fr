@@ -1,17 +1,13 @@
 ---
-title: "Chapitre 20"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Vin, source de luxure.
-  De l’homme paresseux.
-  Double poids et double mesure, choses abominables.
-  Danger d’être caution.
-  Honorer ses parents.
-  Ne pas rendre le mal.
-  Les grands maux demandent de grands remèdes.
+summary: "\nVin, source de luxure.\nDe l\u2019homme paresseux.\nDouble poids et double\
+  \ mesure, choses abominables.\nDanger d\u2019\xEAtre caution.\nHonorer ses parents.\n\
+  Ne pas rendre le mal.\nLes grands maux demandent de grands rem\xE8des.\n"
+title: Chapitre 20
 ---
+
+
 
 
 1 C'est une chose luxurieuse que le vin; et l'ivresse est tumultueuse : quiconque y met son plaisir ne sera pas sage.

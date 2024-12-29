@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Avènement du précurseur du Messie et du Messie lui-même.
-  Les enfants de Juda sont exhortés à se convertir.
-  Reproches contre les enfants de Juda qui manquent à offrir leurs dîmes et leurs prémices au Seigneur, et qui blasphèment contre sa providence.
+summary: "\nAv\xE8nement du pr\xE9curseur du Messie et du Messie lui-m\xEAme.\nLes\
+  \ enfants de Juda sont exhort\xE9s \xE0 se convertir.\nReproches contre les enfants\
+  \ de Juda qui manquent \xE0 offrir leurs d\xEEmes et leurs pr\xE9mices au Seigneur,\
+  \ et qui blasph\xE8ment contre sa providence.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 Voici que moi j'envoie mon ange, et il préparera la voie devant ma face. Et aussitôt viendra dans son temple le dominateur que vous cherchez, et l'ange de l'alliance que vous désirez. Voici qu'il vient, dit le Seigneur des armées ;

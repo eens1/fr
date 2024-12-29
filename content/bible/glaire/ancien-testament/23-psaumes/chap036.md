@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 36"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  David fortifie les fidèles contre le scandale que leur cause la prospérité des méchants.
-  Il montre la vanité de la grandeur des impies et la solidité du bonheur des justes.
+summary: "\nDavid fortifie les fid\xE8les contre le scandale que leur cause la prosp\xE9\
+  rit\xE9 des m\xE9chants.\nIl montre la vanit\xE9 de la grandeur des impies et la\
+  \ solidit\xE9 du bonheur des justes.\n"
+title: Chapitre 36
 ---
+
+
 
 
 1 Psaume par David lui-même. Ne rivalise pas avec les méchants, et ne sois pas zélé pour ceux qui commettent l'iniquité.

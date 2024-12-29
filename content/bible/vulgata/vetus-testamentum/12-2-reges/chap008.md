@@ -1,8 +1,10 @@
 ---
-title: "Caput 8"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 8
 ---
+
+
 
 
 1 Eliseus autem locutus est ad mulierem, cuius vivere fecerat filium, dicens: Surge, vade tu et domus tua, et peregrinare ubicumque repereris: vocavit enim Dominus famem, et veniet super terram septem annis.

@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 22"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  David prépare toutes les choses nécessaires pour bâtir le temple du Seigneur.
-  Il ordonne à Salomon et aux princes d’Israël de s’employer à cette entreprise.
+summary: "\nDavid pr\xE9pare toutes les choses n\xE9cessaires pour b\xE2tir le temple\
+  \ du Seigneur.\nIl ordonne \xE0 Salomon et aux princes d\u2019Isra\xEBl de s\u2019\
+  employer \xE0 cette entreprise.\n"
+title: Chapitre 22
 ---
+
+
 
 
 1 Et David dit : C'est la maison de Dieu, et c'est l'autel pour l'holocauste d'Israël.

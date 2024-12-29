@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Origine de Job.
-  Sa vertu, ses richesses.
-  Dieu permet au démon de le tenter.
-  Job perd ses biens et ses enfants.
+summary: "\nOrigine de Job.\nSa vertu, ses richesses.\nDieu permet au d\xE9mon de\
+  \ le tenter.\nJob perd ses biens et ses enfants.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Il y avait un homme dans la terre de Hus du nom de Job ; et cet homme était simple, droit, craignant Dieu et s'éloignant du mal.

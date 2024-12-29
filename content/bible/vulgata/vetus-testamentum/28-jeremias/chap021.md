@@ -1,8 +1,10 @@
 ---
-title: "Caput 21"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 21
 ---
+
+
 
 
 1 Verbum, quod factum est ad Ieremiam a Domino, quando misit ad eum rex Sedecias Phassur filium Melchiae, et Sophoniam filium Maasiae sacerdotem, dicens:

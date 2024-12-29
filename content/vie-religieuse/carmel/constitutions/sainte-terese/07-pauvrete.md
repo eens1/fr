@@ -1,8 +1,10 @@
 ---
-title: "Pauvreté"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: "Pauvret\xE9"
 ---
+
+
 
 
 "1. L'on doit vivre d'aumône sans aucun revenu en les couvents qui seront dans les villes riches et abondantes, où cela se pourra porter : et aux lieux où elles ne se pourront pas nourrir des aumônes seules, elles pourront avoir du revenu en commun : mais en tout le reste il n'y doit avoir aucun différence entre les monastères rentés et ceux qui sont pauvres." [^1]

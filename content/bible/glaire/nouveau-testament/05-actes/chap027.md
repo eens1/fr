@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 27"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Paul est mis dans un vaisseau pour aller à Rome.
-  Description de son voyage.
-  Le vaisseau où il se trouvait est battu par la tempête.
-  Dieu donne à Paul tous ceux qui étaient avec lui.
-  Le vaisseau se brise ; tous se sauvent.
+summary: "\nPaul est mis dans un vaisseau pour aller \xE0 Rome.\nDescription de son\
+  \ voyage.\nLe vaisseau o\xF9 il se trouvait est battu par la temp\xEAte.\nDieu donne\
+  \ \xE0 Paul tous ceux qui \xE9taient avec lui.\nLe vaisseau se brise ; tous se sauvent.\n"
+title: Chapitre 27
 ---
+
+
 
 
 1 Lorsqu'il eut été résolu que Paul irait par mer en Italie, et qu'on le remettrait, avec d'autres prisonniers, entre les mains d'un nommé Julius, centurion de la cohorte Augusta,

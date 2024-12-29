@@ -1,14 +1,14 @@
 ---
-title: "Chapitre 7"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Holoferne assiège Béthulie ; les Israélites en sont effrayés.
-  Holoferne s’empare de toutes les fontaines.
-  Les habitants de Béthulie, pressés par la soif, veulent se rendre.
-  Ozias promet de rendre la ville dans cinq jours.
+summary: "\nHoloferne assi\xE8ge B\xE9thulie ; les Isra\xE9lites en sont effray\xE9\
+  s.\nHoloferne s\u2019empare de toutes les fontaines.\nLes habitants de B\xE9thulie,\
+  \ press\xE9s par la soif, veulent se rendre.\nOzias promet de rendre la ville dans\
+  \ cinq jours.\n"
+title: Chapitre 7
 ---
+
+
 
 
 1 Holoferne donc, le jour suivant, ordonna à ses armées de monter contre Béthulie. 2 Or il y avait cent vingt mille combattants à pied, et vingt-deux mille cavaliers, outre les hommes armés que la captivité avait atteints, et toute la jeunesse qui avait été amenée des provinces et des villes.

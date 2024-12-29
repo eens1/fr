@@ -1,11 +1,11 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Vengeance que le Seigneur exercera contre Israël et contre Juda.
+summary: "\nVengeance que le Seigneur exercera contre Isra\xEBl et contre Juda.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Ecoutez ceci, prêtres, et soyez attentive, maison d'Israël; et, maison du roi, prêtez l'oreille; parce que c'est contre vous que le jugement est préparé, parce que vous êtes devenus un lacs dans un lieu d'observation, et un rets tendu sur le Thabor.

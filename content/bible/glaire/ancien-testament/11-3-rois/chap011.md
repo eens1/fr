@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 11"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Salomon se laisse aller à l’amour des femmes.
-  Elles le font tomber dans l’idolâtrie.
-  Ennemis que Dieu lui suscite.
-  Le prophète Ahias promet à Jéroboam le royaume des dix tribus.
-  Mort de Salomon.
-  Roboam lui succède.
+summary: "\nSalomon se laisse aller \xE0 l\u2019amour des femmes.\nElles le font tomber\
+  \ dans l\u2019idol\xE2trie.\nEnnemis que Dieu lui suscite.\nLe proph\xE8te Ahias\
+  \ promet \xE0 J\xE9roboam le royaume des dix tribus.\nMort de Salomon.\nRoboam lui\
+  \ succ\xE8de.\n"
+title: Chapitre 11
 ---
+
+
 
 
 1 Or le roi Salomon aima beaucoup de femmes étrangères, la fille de Pharaon aussi, et des Moabites, des Ammonites, des Iduméennes, des Sidoniennes et des Héthéennes,

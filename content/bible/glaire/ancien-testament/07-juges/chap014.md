@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 14"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Samson épouse une Philistine, elle le trahit ; il la quitte, et se retire chez son père.
+summary: "\nSamson \xE9pouse une Philistine, elle le trahit ; il la quitte, et se\
+  \ retire chez son p\xE8re.\n"
+title: Chapitre 14
 ---
+
+
 
 
 1 Ensuite Samson descendit à Thamnatha; et voyant là une femme d'entre les filles des Philistins,

@@ -1,8 +1,10 @@
 ---
-title: "Caput 34"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 34
 ---
+
+
 
 
 1 Verbum, quod factum est ad Ieremiam a Domino, quando Nabuchodonosor rex Babylonis, et omnis exercitus eius, universaque regna terrae, quae erant sub potestate manus eius, et omnes populi bellabant contra Ierusalem, et contra omnes urbes eius, dicens:

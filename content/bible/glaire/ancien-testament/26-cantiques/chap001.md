@@ -1,12 +1,11 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Désirs ardents de l’Epouse.
-  Affection mutuelle des Epoux.
+summary: "\nD\xE9sirs ardents de l\u2019Epouse.\nAffection mutuelle des Epoux.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 L'ÉPOUSE. Qu'il me baise d'un baiser de sa bouche ; car tes mamelles sont meilleures que le vin,

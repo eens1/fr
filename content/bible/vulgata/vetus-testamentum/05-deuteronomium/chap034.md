@@ -1,8 +1,10 @@
 ---
-title: "Caput 34"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 34
 ---
+
+
 
 
 1 Ascendit ergo Moyses de campestribus Moab super montem Nebo, in verticem Phasga contra Iericho: ostenditque ei Dominus omnem Terram Galaad usque Dan,

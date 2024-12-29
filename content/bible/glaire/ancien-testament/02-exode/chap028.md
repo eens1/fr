@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 28"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Ordonnances touchant les habits pontificaux et sacerdotaux d’Aaron et de ses fils.
+summary: "\nOrdonnances touchant les habits pontificaux et sacerdotaux d\u2019Aaron\
+  \ et de ses fils.\n"
+title: Chapitre 28
 ---
+
+
 
 
 1 Fais aussi approcher de toi Aaron ton frère avec ses fils du milieu des enfants d'Israël, afin qu'ils exercent les fonctions du sacerdoce pour moi: Aaron, Nadab et Abiu, Eléazar et Ithamar.

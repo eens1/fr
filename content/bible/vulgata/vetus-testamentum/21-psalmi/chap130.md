@@ -1,8 +1,10 @@
 ---
-title: "Caput 130"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 130
 ---
+
+
 
 
 1 Canticum graduum David. Domine non est exaltatum cor meum: neque elati sunt oculi mei. Neque ambulavi in magnis: neque in mirabilibus super me.

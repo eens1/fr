@@ -1,8 +1,9 @@
 ---
-title: "Pour la France"
-date: 2024-09-06T20:02:53+02:00
+date: 2024-09-06 20:02:53+02:00
 draft: false
+title: Pour la France
 ---
+
 
 
 > *Convention entre le pape Pie VII et le gouvernement français, Indult pour la réduction des fêtes, 1802* : "Les jours de fêtes qui seront célébrés en France, outre les dimanches, sont :

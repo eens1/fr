@@ -1,8 +1,10 @@
 ---
-title: "Caput 5"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 5
 ---
+
+
 
 
 1 Hic est liber generationis Adam. In die, qua creavit Deus hominem, ad similitudinem Dei fecit illum.

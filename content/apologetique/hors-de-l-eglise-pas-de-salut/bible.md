@@ -1,8 +1,9 @@
 ---
-title: "Dans la Bible"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
+title: Dans la Bible
 ---
+
 
 
 Jean 15:6 : "Si quelqu'un ne demeure pas en moi, il sera jeté dehors comme le sarment, et il séchera; et on le ramassera, et on le jettera au feu, et il brûlera." [^1]

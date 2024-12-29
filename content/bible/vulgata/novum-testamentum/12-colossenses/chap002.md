@@ -1,8 +1,10 @@
 ---
-title: "Caput 2"
-date: 2024-09-06T20:00:47+02:00
+date: 2024-09-06 20:00:47+02:00
 draft: false
+title: Caput 2
 ---
+
+
 
 
 1 Volo enim vos scire qualem solicitudinem habeam pro vobis, et pro iis, qui sunt Laodiciae, et quicumque non viderunt faciem meam in carne:

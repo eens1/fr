@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 52"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste déplore la corruption générale des hommes.
-  Il décrit la confusion où tombent ceux qui persécutent le peuple du Seigneur, et il prédit la délivrance de ce peuple et la joie dont elle sera suivie.
+summary: "\nLe Psalmiste d\xE9plore la corruption g\xE9n\xE9rale des hommes.\nIl d\xE9\
+  crit la confusion o\xF9 tombent ceux qui pers\xE9cutent le peuple du Seigneur, et\
+  \ il pr\xE9dit la d\xE9livrance de ce peuple et la joie dont elle sera suivie.\n"
+title: Chapitre 52
 ---
+
+
 
 
 1 Pour la fin, pour Maheleth. Intelligence à David.

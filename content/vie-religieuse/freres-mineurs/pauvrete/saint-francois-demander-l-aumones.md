@@ -1,8 +1,10 @@
 ---
-title: "Saint François au sujet de la quête"
-date: 2024-09-06T20:00:58+02:00
+date: 2024-09-06 20:00:58+02:00
 draft: false
+title: "Saint Fran\xE7ois au sujet de la qu\xEAte"
 ---
+
+
 
 
 Source : Berthaumier 1863, pp. 117-118.

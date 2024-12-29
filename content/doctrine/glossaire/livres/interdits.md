@@ -1,8 +1,10 @@
 ---
-title: "Liste des livres interdits"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Liste des livres interdits
 ---
+
+
 
 
 > *Pape Léon XIII, Officiorum ac munerum, fév. 1897* : "Les livres des apostats, des hérétiques, des schismatiques et de tout autre écrivain, propageant l'hérésie ou le schisme, ou ébranlant en quelque façon les fondements de la religion, sont absolument prohibés.

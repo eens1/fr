@@ -1,8 +1,10 @@
 ---
-title: "Caput 4"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 4
 ---
+
+
 
 
 1 Audierunt autem hostes Iudae, et Beniamin, quia filii captivitatis aedificarent templum Domino Deo Israel:

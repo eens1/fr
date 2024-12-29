@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 16"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Prodige demandé et refusé.
-  Levain des pharisiens et des saduccéens.
-  Confession et primauté de Pierre.
-  Jésus-Christ prédit sa passion, sa mort et sa résurrection.
-  Saint Pierre repris.
-  Croix et renoncement à soi-même.
+summary: "\nProdige demand\xE9 et refus\xE9.\nLevain des pharisiens et des saducc\xE9\
+  ens.\nConfession et primaut\xE9 de Pierre.\nJ\xE9sus-Christ pr\xE9dit sa passion,\
+  \ sa mort et sa r\xE9surrection.\nSaint Pierre repris.\nCroix et renoncement \xE0\
+  \ soi-m\xEAme.\n"
+title: Chapitre 16
 ---
+
+
 
 
 1 Alors vinrent à lui les pharisiens et les sadducéens, pour le tenter, et ils le prièrent de leur faire voir un prodige dans le ciel.

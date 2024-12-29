@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 42"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Dans le psaume précédent, David demande au Seigneur la grâce de revoir son tabernacle.
-  Dans celui-ci, il le remercie d’en avoir approché.
-  Il s’excite à espérer en Dieu et à le louer.
+summary: "\nDans le psaume pr\xE9c\xE9dent, David demande au Seigneur la gr\xE2ce\
+  \ de revoir son tabernacle.\nDans celui-ci, il le remercie d\u2019en avoir approch\xE9\
+  .\nIl s\u2019excite \xE0 esp\xE9rer en Dieu et \xE0 le louer.\n"
+title: Chapitre 42
 ---
+
+
 
 
 1 Psaume de David. Jugez-moi, Seigneur, et distinguez ma cause de celle d'une nation non sainte; arrachez-moi à un homme inique et trompeur.

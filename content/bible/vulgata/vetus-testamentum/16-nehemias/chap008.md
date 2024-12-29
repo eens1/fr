@@ -1,8 +1,10 @@
 ---
-title: "Caput 8"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 8
 ---
+
+
 
 
 1 Et venerat mensis septimus: filii autem Israel erant in civitatibus suis. Congregatusque est omnis populus quasi vir unus ad plateam, quae est ante portam aquarum: et dixerunt Esdrae scribae ut afferret Librum legis Moysi, quam praeceperat Dominus Israeli.

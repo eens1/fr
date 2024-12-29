@@ -1,8 +1,10 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
+title: Chapitre 1
 ---
+
+
 
 
 1 Or le Seigneur appela Moïse, et il lui parla du tabernacle de témoignage, disant :2 Tu parleras aux enfants d'Israël et tu leur diras : Un homme d'entre vous qui offrira au Seigneur une hostie de bêtes à quatre pieds, c'est-à-dire qui offrira des boeufs et des brebis comme victimes,

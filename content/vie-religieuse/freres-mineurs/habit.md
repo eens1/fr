@@ -1,9 +1,11 @@
 ---
-title: "Habit des Frères Mineurs"
 date: 2024-11-29T04:13:40+0000
 draft: false
 tags: []
+title: "Habit des Fr\xE8res Mineurs"
 ---
+
+
 
 > *Pape Urbain VIII, Bulle Sacro Sanctum, 1624* :  "Tout l'habit des frères mineurs profès consiste et doit consister en deux tuniques seulement, et ils ne peuvent se servir d'une troisième, ni d'une chemise d'étamine, ni de linges ni de quelque autre chose contre la teneur de la Règle." [^1]
 

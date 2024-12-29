@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Antiochus Eupator marche contre les Juifs avec une puissante armée.
-  Il fait mourir Ménélaüs.
-  Judas jette le trouble dans le camp des ennemis.
-  Siège de Bethsura.
-  Paix entre Eupator et les Juifs.
+summary: "\nAntiochus Eupator marche contre les Juifs avec une puissante arm\xE9e.\n\
+  Il fait mourir M\xE9n\xE9la\xFCs.\nJudas jette le trouble dans le camp des ennemis.\n\
+  Si\xE8ge de Bethsura.\nPaix entre Eupator et les Juifs.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 En l'année cent quarante-neuvième, Judas sut qu'Antiochus Eupator venait avec une multitude contre la Judée,

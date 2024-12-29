@@ -1,11 +1,13 @@
 ---
-title: "Chapitre 78"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste se plaint de la cruauté des ennemis de Dieu qui ont ruiné la ville et le temple de Jérusalem, et adresse des prières au Seigneur pour le peuple en captivité.
+summary: "\nLe Psalmiste se plaint de la cruaut\xE9 des ennemis de Dieu qui ont ruin\xE9\
+  \ la ville et le temple de J\xE9rusalem, et adresse des pri\xE8res au Seigneur pour\
+  \ le peuple en captivit\xE9.\n"
+title: Chapitre 78
 ---
+
+
 
 
 1 Psaume d'Asaph: Ô Dieu, des nations sont venues dans votre héritage, elles ont souillé votre saint temple ; elles ont fait de Jérusalem une cabane à garder les fruits.

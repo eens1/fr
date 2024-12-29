@@ -1,8 +1,10 @@
 ---
-title: "Caput 47"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 47
 ---
+
+
 
 
 1 Descende, sede in pulvere virgo filia Babylon, sede in terra: non est solium filiae Chaldaeorum, quia ultra non vocaberis mollis et tenera.

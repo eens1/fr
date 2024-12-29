@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 10"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Paraboles de Salomon
-  Du fils sage et de l’insensé.
-  De l’homme juste et de l’impie.
-  Du diligent et du paresseux.
-  De la charité et de la haine.
-  De la bonne et de la mauvaise langue.
+summary: "\nParaboles de Salomon\nDu fils sage et de l\u2019insens\xE9.\nDe l\u2019\
+  homme juste et de l\u2019impie.\nDu diligent et du paresseux.\nDe la charit\xE9\
+  \ et de la haine.\nDe la bonne et de la mauvaise langue.\n"
+title: Chapitre 10
 ---
+
+
 
 
 1 Un fils sage réjouit son père, mais un fils insensé est la tristesse de sa mère.

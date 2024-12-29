@@ -1,9 +1,11 @@
 ---
-title: "Bernardin d'Asti - exhortations"
 date: 2024-11-29T04:23:39+0000
 draft: false
 tags: []
+title: Bernardin d'Asti - exhortations
 ---
+
+
 
 > *Annales des Frères Mineurs Capucins, 1675* : "Il [Frères Bernardin d'Astie, Ministre général] faisait souvent des discours si fervents, de la perfection évangélique, des moeurs comme de la discipline des religieux, et de toute l'observance régulière, qu'il animait tous ses Frères à l'exercice des vertus. Quelque fois même il avertissait, principalement les jeunes, qu'il évitassent fort diligemment les plus petits commencements de relâche, qui viennent ordinairement, soit d'une négligente garde du coeur, et du corps, soit d'un extrême lâcheté de tout un homme, dans les affaires spirituelles du salut, parce qu'un commençant qui sort des vices, et est contraint comme par des fers à la vertu, retombe facilement dans ses premiers désordres, s'il ne s'observe fort, et s'il ne prend des précautions bien justes, dans ses exercices de piété, et un religieux jeune, qui s'est une fois écarté de ses actions ordinaires de vertu, n'y retourne pas si facilement, au contraire il se précipite dans de plus grands désordres, et il se corrompt dans les vices.
 

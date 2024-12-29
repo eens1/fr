@@ -1,8 +1,10 @@
 ---
-title: "Bienheureuse Angele de Foligno : l’abjection"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: "Bienheureuse Angele de Foligno : l\u2019abjection"
 ---
+
+
 
 
 <p><i>La Théologie de la Croix de Jésus-Christ</i>, Angele de Foligni, traduit de l’original latin, pp. 50-59, 1696.</p>

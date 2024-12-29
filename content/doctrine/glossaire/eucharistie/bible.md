@@ -1,8 +1,10 @@
 ---
-title: "Dans la Bible"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Dans la Bible
 ---
+
+
 
 
 > *Jean 6:48-58* : "C'est moi qui suis le pain de la vie. Vos pères ont mangé la manne dans le désert et sont morts. Voici le pain qui descend du ciel, afin que si quelqu'un en mange, il ne meure point. Je suis le pain vivant, moi qui suis descendu du ciel. Si quelqu'un mange de ce pain, il vivra éternellement; et le pain que je donnerai, c'est ma chair pour la vie du monde. 

@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 7"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Noé entre dans l’arche avec sa famille.
-  Il y fait entrer les animaux.
-  Le déluge.
+summary: "\nNo\xE9 entre dans l\u2019arche avec sa famille.\nIl y fait entrer les\
+  \ animaux.\nLe d\xE9luge.\n"
+title: Chapitre 7
 ---
+
+
 
 
 1 Or le Seigneur dit à Noé : Entre, toi et toute ta maison, dans l'arche; car je t'ai trouvé juste devant moi au milieu de cette génération.

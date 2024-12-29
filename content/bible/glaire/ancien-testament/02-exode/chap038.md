@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 38"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Construction de l’autel des holocaustes, du bassin d’airain, du parvis.
-  Quantité de l’or, de l’argent et de l’airain qui furent employés à la construction du tabernacle.
+summary: "\nConstruction de l\u2019autel des holocaustes, du bassin d\u2019airain,\
+  \ du parvis.\nQuantit\xE9 de l\u2019or, de l\u2019argent et de l\u2019airain qui\
+  \ furent employ\xE9s \xE0 la construction du tabernacle.\n"
+title: Chapitre 38
 ---
+
+
 
 
 1 Il fit encore l'autel de l'holocauste de bois de sétim, de cinq coudées en carré, et de trois en hauteur.

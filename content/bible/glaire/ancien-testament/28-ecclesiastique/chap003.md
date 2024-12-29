@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Devoirs des enfants envers leurs pères et mères.
-  Exhortation à la douceur et à l’humilité.
-  Réprimer sa curiosité.
-  Malheur du coeur dur, superbe et indocile.
-  Vertu de l’aumône ; sa récompense.
+summary: "\nDevoirs des enfants envers leurs p\xE8res et m\xE8res.\nExhortation \xE0\
+  \ la douceur et \xE0 l\u2019humilit\xE9.\nR\xE9primer sa curiosit\xE9.\nMalheur\
+  \ du coeur dur, superbe et indocile.\nVertu de l\u2019aum\xF4ne ; sa r\xE9compense.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 Les fils de la sagesse sont l'assemblée des justes ; et leur nation est obéissance et amour.

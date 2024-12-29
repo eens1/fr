@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 40"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Misères communes à tous les hommes.
-  Sort funeste des richesses injustes.
-  Avantage de la crainte du Seigneur.
-  Ne pas mener une vie de mendiant.
+summary: "\nMis\xE8res communes \xE0 tous les hommes.\nSort funeste des richesses\
+  \ injustes.\nAvantage de la crainte du Seigneur.\nNe pas mener une vie de mendiant.\n"
+title: Chapitre 40
 ---
+
+
 
 
 1 Une grande occupation a été créée pour tous les hommes, et un joug pesant est sur les fils d'Adam, depuis le jour de la sortie du sein de leur mère jusqu'au jour de la sépulture, dans la mère de tous.

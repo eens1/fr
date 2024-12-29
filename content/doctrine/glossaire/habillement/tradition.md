@@ -1,8 +1,10 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Dans la Tradition
 ---
+
+
 
 
 Pape Benoît XV, *Sacra propediem*, 6 janv. 1921 : "A cet égard, Nous ne pouvons assez déplorer l'aveuglement de tant de femmes de tout âge et de toute condition : affolées par le désir de plaire, elles ne voient pas à quel point l'indécence de leurs vêtements choque tout homme honnête et offense Dieu. La plupart eussent rougi autrefois de ces toilettes comme d'une faute grave contre la modestie chrétienne; maintenant, il ne leur suffit pas de les produire sur les voies publiques; elles ne craignent point de franchir ainsi le seuil des églises, d'assister au Saint Sacrifice de la messe, et même de porter jusqu'à la table eucharistique, où l'on reçoit le céleste Auteur de la pureté, l'aliment séducteur des passions honteuses. 

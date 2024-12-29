@@ -1,8 +1,9 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:02:29+02:00
+date: 2024-09-06 20:02:29+02:00
 draft: false
+title: Dans la Tradition
 ---
+
 
 
 > *Saint Augustin, Confessions (réfutation du manichéisme)* : "Car je ne soupçonnais pas cette autre nature qui seule est en vérité, et je me démenais en subtilités pour complaire à ces ridicules imposteurs, quand ils me demandaient d’où vient le mal; si Dieu est borné aux limites d’une forme corporelle; s’il a des cheveux et des ongles; et s’il faut tenir pour justes ceux qui avaient plusieurs femmes, tuaient des hommes et sacrifiaient des animaux ? Ces questions (382) troublaient mon ignorance; je me retirais de la vérité, et me figurais aller vers elle, parce que je ne savais pas que le mal n’est que la privation du bien, privation dont le dernier terme est le néant. Et pouvais-je le voir, moi dont la vue s’arrêtait au corps, et l’esprit au fantôme ?  

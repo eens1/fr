@@ -1,8 +1,10 @@
 ---
-title: "Caput 3"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 3
 ---
+
+
 
 
 1 Iamque venerat mensis septimus, et erant filii Israel in civitatibus suis: congregatus est ergo populus quasi vir unus in Ierusalem.

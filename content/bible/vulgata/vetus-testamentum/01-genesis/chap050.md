@@ -1,8 +1,10 @@
 ---
-title: "Caput 50"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 50
 ---
+
+
 
 
 1 Quod cernens Ioseph, ruit super faciem patris flens et deosculans eum.

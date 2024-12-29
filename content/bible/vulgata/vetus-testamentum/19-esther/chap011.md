@@ -1,8 +1,10 @@
 ---
-title: "Caput 11"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 11
 ---
+
+
 
 
 1 Anno quarto regnantibus Ptolemaeo, et Cleopatra, attulerunt Dosithaeus, qui se Sacerdotem, et Levitici generis ferebat, et Ptolemaeus filius eius hanc epistolam phurim, quam dixerunt interpretatum esse Lysimachum Ptolemaei filium in Ierusalem.

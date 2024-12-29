@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Jérémie déplore sa propre misère.
-  Il exhorte les enfants de Juda à retourner au Seigneur.
-  Il expose au Seigneur ses souffrances, et annonce la ruine de ses enfants.
+summary: "\nJ\xE9r\xE9mie d\xE9plore sa propre mis\xE8re.\nIl exhorte les enfants\
+  \ de Juda \xE0 retourner au Seigneur.\nIl expose au Seigneur ses souffrances, et\
+  \ annonce la ruine de ses enfants.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 ALEPH.

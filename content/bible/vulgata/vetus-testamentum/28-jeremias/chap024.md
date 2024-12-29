@@ -1,8 +1,10 @@
 ---
-title: "Caput 24"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 24
 ---
+
+
 
 
 1 Ostendit mihi Dominus: et ecce duo calathi pleni ficis, positi ante templum Domini, postquam transtulit Nabuchodonosor rex Babylonis Iechoniam filium Ioakim regem Iuda, et principes eius, et fabrum, et inclusorem, de Ierusalem, et adduxit eos in Babylonem.

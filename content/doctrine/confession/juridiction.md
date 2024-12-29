@@ -1,8 +1,10 @@
 ---
-title: "Juridiction"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Juridiction
 ---
+
+
 
 
 > *Concile de Trente, sess. 14, chap. 7* : "Or il est convenable à l'autorité divine, que cette réserve des péchés, non-seulement ait lieu pour la police extérieure, mais qu'elle ait effet même devant Dieu. Cependant, de peur qu'à cette occasion quelqu'un ne vint à périr, il a toujours été observé dans la même Eglise de Dieu, par un pieux usage, qu'il n'y eut aucuns cas de réservés à l'article de la mort; et que tous prêtres pûssent absoudre tous pénitents, des censures, et de quelque péché que ce soit : Mais hors cela, les prêtres n'ayant point de pouvoir pour les cas réservés; tout ce qu'ils ont à faire, est de tâcher de persuader aux pénitents, d'aller trouver les juges supérieurs et légitimes, pour en obtenir l'absolution." [^1]

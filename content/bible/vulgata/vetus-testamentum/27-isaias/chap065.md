@@ -1,8 +1,10 @@
 ---
-title: "Caput 65"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 65
 ---
+
+
 
 
 1 Quaesierunt me qui ante non interrogabant, invenerunt qui non quaesierunt me. dixi: Ecce ego, ecce ego ad Gentem, quae non invocabat nomen meum.

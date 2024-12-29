@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 64"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste prie Dieu de ramener son peuple captif dans la terre dont il a été enlevé.
-  Il décrit la fertilité de cette terre, et il prédit les biens dont il comblera son peuple lorsqu’il y sera retourné.
-  Pour la fin, psaume de David.
+summary: "\nLe Psalmiste prie Dieu de ramener son peuple captif dans la terre dont\
+  \ il a \xE9t\xE9 enlev\xE9.\nIl d\xE9crit la fertilit\xE9 de cette terre, et il\
+  \ pr\xE9dit les biens dont il comblera son peuple lorsqu\u2019il y sera retourn\xE9\
+  .\nPour la fin, psaume de David.\n"
+title: Chapitre 64
 ---
+
+
 
 
 1 Cantique de Jérémie et d'Ezéchiel, pour le peuple émigré, lorsqu'il commençait à sortir.

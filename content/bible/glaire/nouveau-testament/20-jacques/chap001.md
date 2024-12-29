@@ -1,20 +1,14 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Joie dans les souffrances.
-  Demander à Dieu la sagesse.
-  Prier avec foi.
-  Pauvres élevés, riches abaissés.
-  Souffrances heureuses.
-  Dieu ne tente pas.
-  Il est l’auteur de tout bien.
-  Ecouter volontiers : parler peu.
-  Pratique la vérité.
-  Caractère de la vraie piété.
+summary: "\nJoie dans les souffrances.\nDemander \xE0 Dieu la sagesse.\nPrier avec\
+  \ foi.\nPauvres \xE9lev\xE9s, riches abaiss\xE9s.\nSouffrances heureuses.\nDieu\
+  \ ne tente pas.\nIl est l\u2019auteur de tout bien.\nEcouter volontiers : parler\
+  \ peu.\nPratique la v\xE9rit\xE9.\nCaract\xE8re de la vraie pi\xE9t\xE9.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Jacques, serviteur de Dieu et de Notre Seigneur Jésus-Christ, aux douze tribus qui sont dans la dispersion, salut.

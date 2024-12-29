@@ -1,11 +1,14 @@
 ---
-title: "Mystici Corporis Christi"
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
-summary: |
-  
+summary: '
+
   Pape Pie XII, 29 juin 1943.
+
+  '
+title: Mystici Corporis Christi
 ---
+
 
 Source : [vatican.va](https://www.vatican.va/content/pius-xii/fr/encyclicals/documents/hf_p-xii_enc_29061943_mystici-corporis-christi.html)
 

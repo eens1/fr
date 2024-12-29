@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Ne pas finir par la chair, ayant commencé par l’esprit.
-  C’est par la foi qu’Abraham et ses vrais enfants sont justifiés.
-  La loi ne justifie pas.
-  Le juste vit de la foi.
-  C’est par la foi que les promesses faites à Abraham sont accomplies.
-  Tous une seule chose en Jésus-Christ.
+summary: "\nNe pas finir par la chair, ayant commenc\xE9 par l\u2019esprit.\nC\u2019\
+  est par la foi qu\u2019Abraham et ses vrais enfants sont justifi\xE9s.\nLa loi ne\
+  \ justifie pas.\nLe juste vit de la foi.\nC\u2019est par la foi que les promesses\
+  \ faites \xE0 Abraham sont accomplies.\nTous une seule chose en J\xE9sus-Christ.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 Ô Galates insensés, qui vous a fascinés, pour ne pas obéir à la vérité, vous aux yeux de qui a été dépeint Jésus-Christ crucifié au milieu de vous? 2 Je veux seulement savoir de vous ceci : Est-ce par les oeuvres de la loi que vous avez reçu l'Esprit, ou par l'audition de la foi? 3 Etes-vous si insensés, qu'ayant commencé par l'esprit, vous finissez maintenant par la chair? 4 Est-ce en vain que vous avez tant souffert? Si cependant c'est en vain.

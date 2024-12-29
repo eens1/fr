@@ -1,8 +1,10 @@
 ---
-title: "Caput 49"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 49
 ---
+
+
 
 
 1 Audite insulae, et attendite populi de longe: Dominus ab utero vocavit me, de ventre matris meae recordatus est nominis mei.

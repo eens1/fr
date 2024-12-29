@@ -1,19 +1,13 @@
 ---
-title: "Chapitre 30"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  La sagesse est un don de Dieu.
-  Danger des richesses et de la pauvreté.
-  Races exécrables.
-  Filles de la sangsue.
-  Choses insatiables.
-  Choses inconnues.
-  Choses insupportables.
-  Choses très sages.
-  Choses qui marchent bien.
+summary: "\nLa sagesse est un don de Dieu.\nDanger des richesses et de la pauvret\xE9\
+  .\nRaces ex\xE9crables.\nFilles de la sangsue.\nChoses insatiables.\nChoses inconnues.\n\
+  Choses insupportables.\nChoses tr\xE8s sages.\nChoses qui marchent bien.\n"
+title: Chapitre 30
 ---
+
+
 
 
 1 Paroles de celui qui assemble, du fils de celui qui répand les vérités.

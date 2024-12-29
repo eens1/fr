@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Généalogie d’Adam jusqu’à Noé, et depuis Noé jusqu’à Abraham.
-  Enfants d’Abraham.
-  Postérité d’Esaü.
+summary: "\nG\xE9n\xE9alogie d\u2019Adam jusqu\u2019\xE0 No\xE9, et depuis No\xE9\
+  \ jusqu\u2019\xE0 Abraham.\nEnfants d\u2019Abraham.\nPost\xE9rit\xE9 d\u2019Esa\xFC\
+  .\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Adam, Seth, Enos,

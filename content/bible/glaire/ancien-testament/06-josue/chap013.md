@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Dieu ordonne à Josué de partager aux Israélites les terres qu’il avait conquises.
-  Partage des terres d’au-delà du Jourdain fait par Moïse.
+summary: "\nDieu ordonne \xE0 Josu\xE9 de partager aux Isra\xE9lites les terres qu\u2019\
+  il avait conquises.\nPartage des terres d\u2019au-del\xE0 du Jourdain fait par Mo\xEF\
+  se.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 Josué était vieux et d'un âge fort avancé, et le Seigneur lui dit : Tu es vieux, et même très avancé en âge, et une terre très étendue est restée, qui n'a pas été encore divisée par le sort :2 Savoir, toute la Galilée, la terre des Philistins et toute celle de Gessuri,

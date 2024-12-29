@@ -1,19 +1,15 @@
 ---
-title: "Chapitre 9"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Bacchide et Alcime reviennent en Judée.
-  Judas est tué dans le combat.
-  Jonathas son frère lui succède.
-  Bacchide le poursuit.
-  Jean, frère de Jonathas, est tué.
-  Jonathas traverse le Jourdain à la vue de l’ennemi.
-  Alcime meurt frappé de Dieu.
-  Bacchide se retire ; il revient et est défait par Jonathas.
-  Paix entre Jonathas et Bacchide.
+summary: "\nBacchide et Alcime reviennent en Jud\xE9e.\nJudas est tu\xE9 dans le combat.\n\
+  Jonathas son fr\xE8re lui succ\xE8de.\nBacchide le poursuit.\nJean, fr\xE8re de\
+  \ Jonathas, est tu\xE9.\nJonathas traverse le Jourdain \xE0 la vue de l\u2019ennemi.\n\
+  Alcime meurt frapp\xE9 de Dieu.\nBacchide se retire ; il revient et est d\xE9fait\
+  \ par Jonathas.\nPaix entre Jonathas et Bacchide.\n"
+title: Chapitre 9
 ---
+
+
 
 
 1 Cependant, dès que Démétrius apprit que Nicanor était tombé, ainsi que son armée, dans le combat, il se proposa d'envoyer de nouveau Bacchide et Alcime en Judée et l'aile droite de ses troupes avec eux.

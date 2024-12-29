@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Suite de la lettre précédente, où se trouvent diverses particularités arrivées au temps de la transmigration des Juifs à Babylone.
-  Préface où l’auteur de ce livre expose son dessein.
+summary: "\nSuite de la lettre pr\xE9c\xE9dente, o\xF9 se trouvent diverses particularit\xE9\
+  s arriv\xE9es au temps de la transmigration des Juifs \xE0 Babylone.\nPr\xE9face\
+  \ o\xF9 l\u2019auteur de ce livre expose son dessein.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Or on trouve, dans les écrits du prophète Jérémie, qu'il commanda à ceux qui émigraient de prendre le feu sacré, comme on l'a indiqué auparavant, et comme il avait commandé aux émigrés précédents.

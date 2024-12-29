@@ -1,8 +1,10 @@
 ---
-title: "Caput 14"
-date: 2024-09-06T20:00:56+02:00
+date: 2024-09-06 20:00:56+02:00
 draft: false
+title: Caput 14
 ---
+
+
 
 
 1 Anno centesimo septuagesimo secundo congregavit rex Demetrius exercitum suum, et abiit in Mediam ad contrahenda sibi auxilia, ut expugnaret Tryphonem.

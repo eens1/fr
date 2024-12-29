@@ -1,8 +1,10 @@
 ---
-title: "Caput 8"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 8
 ---
+
+
 
 
 1 Omne mandatum, quod ego praecipio tibi hodie, cave diligenter ut facias: ut possitis vivere, et multiplicemini, ingressique possideatis Terram, pro qua iuravit Dominus patribus vestris.

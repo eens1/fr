@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 29"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Sacrifice pour la fête des Trompettes, pour celle de l’Expiation et pour celle des Tabernacles.
+summary: "\nSacrifice pour la f\xEAte des Trompettes, pour celle de l\u2019Expiation\
+  \ et pour celle des Tabernacles.\n"
+title: Chapitre 29
 ---
+
+
 
 
 1 Le premier jour du septième , mois sera aussi vénérable et saint pour vous : vous ne ferez aucune , oeuvre servile en ce jour, parce que c'est le jour du son éclatant et des trompettes.

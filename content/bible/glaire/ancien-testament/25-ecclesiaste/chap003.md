@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Toutes choses ont leur temps.
-  Tout est dans une vicissitude continuelle.
-  Inquiétude partout.
-  L’homme et les bêtes meurent également.
+summary: "\nToutes choses ont leur temps.\nTout est dans une vicissitude continuelle.\n\
+  Inqui\xE9tude partout.\nL\u2019homme et les b\xEAtes meurent \xE9galement.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 Toutes choses ont leur temps, et dans leurs limites elles passent toutes sous le ciel.

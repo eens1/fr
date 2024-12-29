@@ -1,8 +1,10 @@
 ---
-title: "Caput 5"
-date: 2024-09-06T20:00:56+02:00
+date: 2024-09-06 20:00:56+02:00
 draft: false
+title: Caput 5
 ---
+
+
 
 
 1 Audite hoc sacerdotes, et attendite domus Israel, et domus regis auscultate: quia vobis iudicium est, quoniam laqueus facti estis speculationi, et rete expansum super Thabor.

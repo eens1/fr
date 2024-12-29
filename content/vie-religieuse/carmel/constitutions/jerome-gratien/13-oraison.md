@@ -1,8 +1,10 @@
 ---
-title: "Oraison"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: Oraison
 ---
+
+
 
 
 "De même, nous ordonnons, en ce qui concerne l'oraison mentale et la pratique des actes de vertu, que tous les jours après Matines vous fassiez une heure d'oraison mentale et une autre heure après Complies en hiver. 

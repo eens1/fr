@@ -1,11 +1,11 @@
 ---
-title: "Chapitre 29"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Job fait la description de son premier état.
+summary: "\nJob fait la description de son premier \xE9tat.\n"
+title: Chapitre 29
 ---
+
+
 
 
 1 Job prenant encore de nouveau sa parabole, dit :

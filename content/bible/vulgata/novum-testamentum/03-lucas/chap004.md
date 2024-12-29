@@ -1,8 +1,10 @@
 ---
-title: "Caput 4"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
+title: Caput 4
 ---
+
+
 
 
 1 Iesus autem plenus Spiritu sancto regressus est a Iordane: et agebatur a Spiritu in desertum

@@ -1,8 +1,10 @@
 ---
-title: "Assomption de la Sainte Vierge Marie"
-date: 2024-09-06T20:02:54+02:00
+date: 2024-09-06 20:02:54+02:00
 draft: false
+title: Assomption de la Sainte Vierge Marie
 ---
+
+
 
 
 > *Pie XII, Constitution Apostolique "Munificentissimus Deus", 1950* : "C'est pourquoi, après avoir adressé à Dieu d'incessantes et suppliantes prières et invoqué les lumières de l’Esprit de vérité, pour la gloire du Dieu Tout-Puissant qui prodigua sa particulière bienveillance à la Vierge Marie, pour l'honneur de son Fils, Roi immortel des siècles et Vainqueur de la mort et du péché, pour accroître la gloire de son auguste Mère et pour la joie et l'exultation de l'Église tout entière, par l'autorité de Notre-Seigneur Jésus-Christ, des bienheureux apôtres Pierre et Paul et par la Nôtre, Nous proclamons, déclarons et définissons que c'est un dogme divinement révélé que Marie, l'Immaculée Mère de Dieu toujours Vierge, à la fin du cours de sa vie terrestre, a été élevée en âme et en corps à la gloire céleste. 

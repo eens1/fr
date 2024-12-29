@@ -1,8 +1,10 @@
 ---
-title: "Caput 30"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 30
 ---
+
+
 
 
 1 Qui diligit filium suum, assiduat illi flagella, ut laetetur in novissimo suo, et non palpet proximorum ostia.

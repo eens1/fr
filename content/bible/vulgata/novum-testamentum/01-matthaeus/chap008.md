@@ -1,8 +1,10 @@
 ---
-title: "Caput 8"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
+title: Caput 8
 ---
+
+
 
 
 1 Cum autem descendisset de monte, secutae sunt eum turbae multae:

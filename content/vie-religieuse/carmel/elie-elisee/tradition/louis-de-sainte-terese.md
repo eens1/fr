@@ -1,8 +1,10 @@
 ---
-title: "Louis de sainte Térèse"
-date: 2024-09-06T20:02:59+02:00
+date: 2024-09-06 20:02:59+02:00
 draft: false
+title: "Louis de sainte T\xE9r\xE8se"
 ---
+
+
 
 
 > *Miracle d'Elie* : "... ce pouvoir de résusciter des morts a été donné à Elie, qui le premier de tous les hommes a [faire] ce miracle." [^1]

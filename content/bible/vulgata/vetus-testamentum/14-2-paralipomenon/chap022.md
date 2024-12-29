@@ -1,8 +1,10 @@
 ---
-title: "Caput 22"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 22
 ---
+
+
 
 
 1 Constituerunt autem habitatores Ierusalem Ochoziam filium eius minimum, regem pro eo: omnes enim maiores natu, qui ante eum fuerant, interfecerant latrones Arabum, qui irruerant in castra: regnavitque Ochozias filius Ioram regis Iuda.

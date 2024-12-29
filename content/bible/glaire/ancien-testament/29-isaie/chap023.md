@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 23"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Humiliation et transmigration de Tyr.
-  Son rétablissement.
-  Elle consacrera au Seigneur le fruit de son commerce.
+summary: "\nHumiliation et transmigration de Tyr.\nSon r\xE9tablissement.\nElle consacrera\
+  \ au Seigneur le fruit de son commerce.\n"
+title: Chapitre 23
 ---
+
+
 
 
 1 Malheur accablant de Tyr. Hurlez, vaisseaux de la mer, parce qu'a été dévastée la maison d'où les navires avaient accoutumé de venir; c'est de la terre de Céthim que cela leur a été révélé.

@@ -1,11 +1,14 @@
 ---
-title: "Psaumes 101"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
-summary: |
-  
-  Ce psaume est un des sept de la pénitence. Le Psalmiste y implore le secours de Dieu avec les sentiments de la plus vive componction et de la plus profonde humilité. Quelques Pères y voient une prière de Jésus-Christ à son Père, prière dans laquelle il lui recommande son Eglise.
+summary: "\nCe psaume est un des sept de la p\xE9nitence. Le Psalmiste y implore le\
+  \ secours de Dieu avec les sentiments de la plus vive componction et de la plus\
+  \ profonde humilit\xE9. Quelques P\xE8res y voient une pri\xE8re de J\xE9sus-Christ\
+  \ \xE0 son P\xE8re, pri\xE8re dans laquelle il lui recommande son Eglise.\n"
+title: Psaumes 101
 ---
+
+
 
 
 1 Oraison du pauvre. Lorsqu'il est dans l'anxiété, et qu'en présence du Seigneur il répand sa prière.

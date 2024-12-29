@@ -1,8 +1,10 @@
 ---
-title: "Infâme Frédéric II"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Inf\xE2me Fr\xE9d\xE9ric II"
 ---
+
+
 
 
 > *Père Castet* : "L'Empereur [Frédéric II] alla en Syrie sans prendre congé du Pape, et y demeura sept mois les bras croisés sans faire aucune expédition; enfin, à la honte du nom Chrétien, il fit un traité avec les Sarrazins, par lequel il consentait qu'ils missent au saint Sépulchre non seulement de leurs soldats pour gardes, mais encore de leurs prêtres pour y faire leurs fonctions sacrilèges; le Pape étant informé de sa mauvaise conduite y envoya deux Frères Mineurs avec des lettres pour le Patriarche de Jérusalem, par lesquelles il ordonnait à ce prélat de déclarer l'Empereur excommunié et parjure, et de défendre aux hospitaliers et aux chevaliers teutoniques de lui obéir; sur cet ordre le patriarche refusa de donner à ce prince, la couronne de roi de Jérusalem qu'il prétendait lui appartenir de par sa femme Iole fille de Jean Trennus roi de cette ville; tous les autres prélats suivirent cet exemple, et sur ce refus général Frédéric la prit lui-même de dessus l'autel de la grande Eglise et fit toutes les autres cérémonies de ce couronnement : 

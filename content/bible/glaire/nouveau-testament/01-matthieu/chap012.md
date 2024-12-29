@@ -1,19 +1,15 @@
 ---
-title: "Chapitre 12"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Murmures des pharisiens contre les disciples de Jésus-Christ, qui arrachaient des épis un jour de sabbat.
-  Guérison d’un homme qui avait la main desséchée.
-  Douceur du Messie.
-  Possédé aveugle et muet.
-  Blasphèmes des pharisiens.
-  Péché contre le Saint-Esprit.
-  Miracle de Jonas.
-  Démon rentrant.
-  Mère et frères de Jésus-Christ.
+summary: "\nMurmures des pharisiens contre les disciples de J\xE9sus-Christ, qui arrachaient\
+  \ des \xE9pis un jour de sabbat.\nGu\xE9rison d\u2019un homme qui avait la main\
+  \ dess\xE9ch\xE9e.\nDouceur du Messie.\nPoss\xE9d\xE9 aveugle et muet.\nBlasph\xE8\
+  mes des pharisiens.\nP\xE9ch\xE9 contre le Saint-Esprit.\nMiracle de Jonas.\nD\xE9\
+  mon rentrant.\nM\xE8re et fr\xE8res de J\xE9sus-Christ.\n"
+title: Chapitre 12
 ---
+
+
 
 
 1 En ce temps-là, Jésus passait le long des blés un jour de sabbat, et ses disciples ayant faim se mirent à cueillir des épis et à les manger.

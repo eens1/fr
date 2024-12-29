@@ -1,13 +1,15 @@
 ---
-title: "Chapitre 110"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste loue Dieu des merveilles qu’il a faites en faveur de son ancien peuple.
-  La plupart des Pères regardent ce psaume comme une action de grâces de Jésus-Christ et de l’Eglise chrétienne, pour les faveurs que Dieu a faites à ses saints, et en particulier pour l’établissement de l’Eucharistie et pour la conversion des Gentils.
-  Alleluia.
+summary: "\nLe Psalmiste loue Dieu des merveilles qu\u2019il a faites en faveur de\
+  \ son ancien peuple.\nLa plupart des P\xE8res regardent ce psaume comme une action\
+  \ de gr\xE2ces de J\xE9sus-Christ et de l\u2019Eglise chr\xE9tienne, pour les faveurs\
+  \ que Dieu a faites \xE0 ses saints, et en particulier pour l\u2019\xE9tablissement\
+  \ de l\u2019Eucharistie et pour la conversion des Gentils.\nAlleluia.\n"
+title: Chapitre 110
 ---
+
+
 
 
 1 Je vous louerai, Seigneur, en tout mon coeur; en conseil des justes et en assemblée.

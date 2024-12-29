@@ -1,8 +1,10 @@
 ---
-title: "Quand réciter le bréviaire ?"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: "Quand r\xE9citer le br\xE9viaire ?"
 ---
+
+
 
 
 > Abbé Velghe 1912 : "Le temps accordé par l’Eglise pour l’accomplissement de la priére publique qui se fait en son nom est de vingt-quatre heures; il s’étend de minuit à minuit. Pour éviter le péché mortel, il suffit donc de dire son office entier en ce temps. 

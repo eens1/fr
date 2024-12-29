@@ -1,8 +1,10 @@
 ---
-title: "Caput 32"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 32
 ---
+
+
 
 
 1 Post quae et huiuscemodi veritatem, venit Sennacherib rex Assyriorum, et ingressus Iudam, obsedit civitates munitas, volens eas capere.

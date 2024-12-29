@@ -1,8 +1,10 @@
 ---
-title: "Deuxième Commandement"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Deuxi\xE8me Commandement"
 ---
+
+
 
 
 > *Exode 20:4* : "Tu ne te feras point d'image taillée au ciseau, ni aucune représentation de ce qui est en haut dans le ciel, et de ce qui est en bas sur la terre, ni de ce qui est dans les eaux sous la terre." [^1]

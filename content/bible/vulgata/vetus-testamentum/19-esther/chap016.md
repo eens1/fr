@@ -1,8 +1,10 @@
 ---
-title: "Caput 16"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 16
 ---
+
+
 
 
 1 Rex magnus Artaxerxes ab India usque AEthiopiam centum vigintiseptem provinciarum ducibus ac principibus, qui nostrae iussioni obediunt, salutem dicit.

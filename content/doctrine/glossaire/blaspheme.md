@@ -1,8 +1,10 @@
 ---
-title: "Blasphème"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Blasph\xE8me"
 ---
+
+
 
 
 > *Saint Thomas d'Aquin, Somme Théologique, p. 3, q. 13, a. 1* : "... celui qui parle contre Dieu avec l'intention de l'outrager, déroge à la bonté divine, non seulement d'après la pensée fausse qu'il a dans l'esprit, mais encore suivant la dépravation de la volonté, qui déteste et qui détruit autant qu'il est en elle l'honneur dû à Dieu; et c'est ce qui rend le blasphème complet.

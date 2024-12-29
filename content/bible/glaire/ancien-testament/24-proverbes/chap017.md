@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 17"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Le serviteur sage.
-  Dieu éprouve les coeurs.
-  Ne pas mépriser le pauvre.
-  Jugements injustes et abominables aux yeux du Seigneur.
-  L’ami aime en tout temps.
-  L’insensé passe pour sage, lorsqu’il se tait.
+summary: "\nLe serviteur sage.\nDieu \xE9prouve les coeurs.\nNe pas m\xE9priser le\
+  \ pauvre.\nJugements injustes et abominables aux yeux du Seigneur.\nL\u2019ami aime\
+  \ en tout temps.\nL\u2019insens\xE9 passe pour sage, lorsqu\u2019il se tait.\n"
+title: Chapitre 17
 ---
+
+
 
 
 1 Vaut mieux une bouchée de pain sec avec la joie, qu'une maison pleine de victimes avec la dispute.

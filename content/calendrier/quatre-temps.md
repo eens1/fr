@@ -1,8 +1,9 @@
 ---
-title: "Calcul des Quatre-Temps"
-date: 2024-09-06T20:02:53+02:00
+date: 2024-09-06 20:02:53+02:00
 draft: false
+title: Calcul des Quatre-Temps
 ---
+
 
 * Semaine qui suit le premier dimanche du Carême
 * Semaine de la Pentecôte

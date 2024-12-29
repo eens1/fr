@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 118"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  L’auteur emploie tout ce long psaume à témoigner par différentes expressions, son amour pour la loi de Dieu et son aversion pour le péché.
-  Alleluia.
+summary: "\nL\u2019auteur emploie tout ce long psaume \xE0 t\xE9moigner par diff\xE9\
+  rentes expressions, son amour pour la loi de Dieu et son aversion pour le p\xE9\
+  ch\xE9.\nAlleluia.\n"
+title: Chapitre 118
 ---
+
+
 
 
 1 ALEPH.

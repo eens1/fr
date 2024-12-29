@@ -1,8 +1,10 @@
 ---
-title: "Caput 2"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 2
 ---
+
+
 
 
 1 Anima cum obtulerit oblationem sacrificii Domino, simila erit eius oblatio. fundetque super eam oleum, et ponet thus,

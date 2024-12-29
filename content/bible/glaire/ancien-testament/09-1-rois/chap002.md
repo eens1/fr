@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Cantique d’actions de grâces d’Anne, mère de Samuel.
-  Désordre des enfants d’Héli.
-  Samuel sert devant le Seigneur.
-  Héli reprend trop faiblement ses enfants.
-  Dieu lui fait prédire la ruine de sa maison.
+summary: "\nCantique d\u2019actions de gr\xE2ces d\u2019Anne, m\xE8re de Samuel.\n\
+  D\xE9sordre des enfants d\u2019H\xE9li.\nSamuel sert devant le Seigneur.\nH\xE9\
+  li reprend trop faiblement ses enfants.\nDieu lui fait pr\xE9dire la ruine de sa\
+  \ maison.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Mon âme a tressailli d'allégresse dans le Seigneur, et ma force a été exaltée en mon Dieu; ma bouche s'est dilatée sur mes ennemis, parce que je me suis réjouie dans votre assistance.

@@ -1,13 +1,15 @@
 ---
-title: "Chapitre 77"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste fait le récit des effets de la bonté de Dieu envers son peuple depuis la sortie d’Egypte jusqu’au règne de David.
-  Dieu choisit la tribu de Juda préférablement à celle d’Ephraïm.
-  Les Pères prennent ce psaume dans le sens moral, pour une instruction de Jésus-Christ à son Eglise ou de Dieu le Père à la synagogue.
+summary: "\nLe Psalmiste fait le r\xE9cit des effets de la bont\xE9 de Dieu envers\
+  \ son peuple depuis la sortie d\u2019Egypte jusqu\u2019au r\xE8gne de David.\nDieu\
+  \ choisit la tribu de Juda pr\xE9f\xE9rablement \xE0 celle d\u2019Ephra\xEFm.\n\
+  Les P\xE8res prennent ce psaume dans le sens moral, pour une instruction de J\xE9\
+  sus-Christ \xE0 son Eglise ou de Dieu le P\xE8re \xE0 la synagogue.\n"
+title: Chapitre 77
 ---
+
+
 
 
 1 Intelligence d'Asaph. Appliquez-vous à ma loi, ô mon peuple, inclinez votre oreille aux paroles de ma bouche.

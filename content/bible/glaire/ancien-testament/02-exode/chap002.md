@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Naissance de Moïse, sa fuite dans le pays de Madian ; son mariage avec Séphora.
+summary: "\nNaissance de Mo\xEFse, sa fuite dans le pays de Madian ; son mariage avec\
+  \ S\xE9phora.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Après cela un homme de la famille de Lévi sortit et prit une femme de sa race ;

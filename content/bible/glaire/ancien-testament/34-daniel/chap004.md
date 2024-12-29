@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Suite de la lettre de Nabuchodonosor, commencée au chapitre 3, verset 98.
-  Son songe : arbre abattu.
-  Daniel lui explique ce songe.
-  Ce songe s’accomplit.
-  Nabuchodonosor est réduit pendant sept ans au rang des bêtes.
-  Il reconnaît la main de Dieu et est rétabli dans son royaume.
+summary: "\nSuite de la lettre de Nabuchodonosor, commenc\xE9e au chapitre 3, verset\
+  \ 98.\nSon songe : arbre abattu.\nDaniel lui explique ce songe.\nCe songe s\u2019\
+  accomplit.\nNabuchodonosor est r\xE9duit pendant sept ans au rang des b\xEAtes.\n\
+  Il reconna\xEEt la main de Dieu et est r\xE9tabli dans son royaume.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Moi, Nabuchodonosor, j'étais tranquille dans ma maison, et florissant dans mon palais; 2 J'ai vu un songe qui m'a fort épouvanté; et mes pensées dans mon lit, et les visions de ma tête m'ont troublé.

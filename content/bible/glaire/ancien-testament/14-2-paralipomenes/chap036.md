@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 36"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Joachaz, successeur de Josias, est mené en Egypte.
-  Joakim, son successeur, est transporté à Babylone.
-  Joachin lui succède, et subit le même sort.
-  Sédécias règne à la place de Joachin.
-  Nabuchodonosor renverse Jérusalem.
-  Cyrus promet aux Juifs d’y retourner.
+summary: "\nJoachaz, successeur de Josias, est men\xE9 en Egypte.\nJoakim, son successeur,\
+  \ est transport\xE9 \xE0 Babylone.\nJoachin lui succ\xE8de, et subit le m\xEAme\
+  \ sort.\nS\xE9d\xE9cias r\xE8gne \xE0 la place de Joachin.\nNabuchodonosor renverse\
+  \ J\xE9rusalem.\nCyrus promet aux Juifs d\u2019y retourner.\n"
+title: Chapitre 36
 ---
+
+
 
 
 1 Le peuple du pays prit donc Joachaz, fils de Josias, et l'établit roi en la place de son père à Jérusalem.

@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 24"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Josué rappelle aux enfants d’Israël tout ce que Dieu a fait pour leurs pères et pour eux.
-  Ils promettent de demeurer attachés au Seigneur.
-  Mort de Josué et d’Eléazar.
+summary: "\nJosu\xE9 rappelle aux enfants d\u2019Isra\xEBl tout ce que Dieu a fait\
+  \ pour leurs p\xE8res et pour eux.\nIls promettent de demeurer attach\xE9s au Seigneur.\n\
+  Mort de Josu\xE9 et d\u2019El\xE9azar.\n"
+title: Chapitre 24
 ---
+
+
 
 
 1 Et Josué assembla toutes les tribus d'Israël à Sichem, et il appela les anciens, les princes, les juges et les magistrats; et ils se tinrent en la présence du Seigneur;

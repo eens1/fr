@@ -1,11 +1,12 @@
 ---
-title: "Sermon du saint curé d'Ars sur le respect humain"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
-summary: |
-  
-  Source : Sermons du vénérable serviteur de Dieu Jean-Baptiste-Marie Vianney, curé d'Ars, 1883, tome 1, pp. 47-65
+summary: "\nSource : Sermons du v\xE9n\xE9rable serviteur de Dieu Jean-Baptiste-Marie\
+  \ Vianney, cur\xE9 d'Ars, 1883, tome 1, pp. 47-65\n"
+title: "Sermon du saint cur\xE9 d'Ars sur le respect humain"
 ---
+
+
 
 
 Bienheureux celui qui ne prendra pas de moi un sujet de scandale. (S. Matth., XI, 6.) 

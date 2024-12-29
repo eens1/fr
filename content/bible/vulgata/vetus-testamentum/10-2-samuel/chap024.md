@@ -1,8 +1,10 @@
 ---
-title: "Caput 24"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 24
 ---
+
+
 
 
 1 Et addidit furor Domini irasci contra Israel, commovitque David in eis dicentem: Vade, numera Israel et Iudam.

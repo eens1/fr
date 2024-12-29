@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 12"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Le prophète se plaint à Dieu de la prospérité des méchants.
-  Dieu lui annonce les persécutions qu’il aura à souffrir.
-  Désolation de l’héritage du Seigneur.
-  Vengeance du Seigneur sur les peuples voisins de Juda.
-  Rétablissement de ces peuples.
-  Dernière vengeance sur eux.
+summary: "\nLe proph\xE8te se plaint \xE0 Dieu de la prosp\xE9rit\xE9 des m\xE9chants.\n\
+  Dieu lui annonce les pers\xE9cutions qu\u2019il aura \xE0 souffrir.\nD\xE9solation\
+  \ de l\u2019h\xE9ritage du Seigneur.\nVengeance du Seigneur sur les peuples voisins\
+  \ de Juda.\nR\xE9tablissement de ces peuples.\nDerni\xE8re vengeance sur eux.\n"
+title: Chapitre 12
 ---
+
+
 
 
 1 Vous êtes certainement juste, vous, Seigneur, si je dispute avec vous; cependant je vous dirai des choses justes : Pourquoi la voie des impies est-elle prospère, et le bonheur est-il pour tous ceux qui prévariquent, et qui agissent iniquement ?

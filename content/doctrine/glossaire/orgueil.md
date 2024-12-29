@@ -1,8 +1,10 @@
 ---
-title: "Orgueil"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Orgueil
 ---
+
+
 
 
 > *Tobie 4:14* : "Ne laisse jamais l'orgueil dominer dans ton esprit ou dans ta parole; car c'est par l'orgueil que toute perdition a pris commencement." [^1]

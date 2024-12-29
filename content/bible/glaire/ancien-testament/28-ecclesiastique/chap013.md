@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Danger de la société avec les superbes et les puissants.
-  Conduite qu’on doit tenir à l’égard des grands.
-  S’attacher à Dieu.
-  S’unir à ses semblables.
-  Parallèle du pauvre et du riche.
+summary: "\nDanger de la soci\xE9t\xE9 avec les superbes et les puissants.\nConduite\
+  \ qu\u2019on doit tenir \xE0 l\u2019\xE9gard des grands.\nS\u2019attacher \xE0 Dieu.\n\
+  S\u2019unir \xE0 ses semblables.\nParall\xE8le du pauvre et du riche.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 Celui qui touche de la poix en sera souillé ; et celui qui communique avec le superbe se revêtira d'orgueil.

@@ -1,8 +1,10 @@
 ---
-title: "Le secret complet de La Salette"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: Le secret complet de La Salette
 ---
+
+
 
 
 Publié par Mélanie de La Salette, soeur Marie de la Croix, précédé d'un préface, suivi des dernières lettres de Mélanie et d'une lettre de Mgr Zola, évêque de Lecce, son directeur spirituel depuis 1867, 1881.

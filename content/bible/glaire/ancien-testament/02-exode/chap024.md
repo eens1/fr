@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 24"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Les Israélites s’engagent à garder l’alliance contractée avec le Seigneur.
-  Moïse remonte sur la montagne et y demeure quarante jours.
+summary: "\nLes Isra\xE9lites s\u2019engagent \xE0 garder l\u2019alliance contract\xE9\
+  e avec le Seigneur.\nMo\xEFse remonte sur la montagne et y demeure quarante jours.\n"
+title: Chapitre 24
 ---
+
+
 
 
 1 Dieu dit aussi à Moïse : Monte vers le Seigneur, toi et Aaron, Nadab et Abiu, et les soixante dix anciens d'Israël, et vous adorerez de loin.

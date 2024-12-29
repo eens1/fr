@@ -1,11 +1,13 @@
 ---
-title: "Chapitre 11"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  David représente à Dieu qu’il n’y a plus de bonne foi parmi les hommes, et il le prie de le sauver des artifices et des calomnies de ses ennemis.
+summary: "\nDavid repr\xE9sente \xE0 Dieu qu\u2019il n\u2019y a plus de bonne foi\
+  \ parmi les hommes, et il le prie de le sauver des artifices et des calomnies de\
+  \ ses ennemis.\n"
+title: Chapitre 11
 ---
+
+
 
 
 1 Pour la fin, pour l'octave, psaume de David.

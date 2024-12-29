@@ -1,21 +1,16 @@
 ---
-title: "Chapitre 22"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
-summary: |
-  
-  Suite de la description de la Jérusalem céleste.
-  Conclusion de ce livre.
-  Paroles véritables ; heureux qui les garde.
-  Adorer Dieu.
-  Prophétie non scellée.
-  Avènement du Seigneur.
-  Heureux qui se purifie dans le sang de l’Agneau.
-  Témoignage de Jésus-Christ ; désir de son avènement.
-  Ne rien ajouter au livre de l’Apocalypse, n’en rien retrancher.
-  Avènement promis.
-  Salut de l’Apôtre.
+summary: "\nSuite de la description de la J\xE9rusalem c\xE9leste.\nConclusion de\
+  \ ce livre.\nParoles v\xE9ritables ; heureux qui les garde.\nAdorer Dieu.\nProph\xE9\
+  tie non scell\xE9e.\nAv\xE8nement du Seigneur.\nHeureux qui se purifie dans le sang\
+  \ de l\u2019Agneau.\nT\xE9moignage de J\xE9sus-Christ ; d\xE9sir de son av\xE8nement.\n\
+  Ne rien ajouter au livre de l\u2019Apocalypse, n\u2019en rien retrancher.\nAv\xE8\
+  nement promis.\nSalut de l\u2019Ap\xF4tre.\n"
+title: Chapitre 22
 ---
+
+
 
 
 1 Il me montra aussi un fleuve d'eau vive, brillant comme du cristal, sortant du trône de Dieu et de l'Agneau. 2 Au milieu de la place de la ville, sur les deux rivages du fleuve, était l'arbre de vie portant douze fruits, et, chaque mois donnant son fruit; et les feuilles de l'arbre sont pour la guérison des nations. 3 Il n'y aura plus là aucune malédiction; mais le trône de Dieu et de l'Agneau y sera, et ses serviteurs le serviront. 4 Ils verront sa face et son nom sera sur leur front. 5 Il n'y aura plus là de nuit, et ils n'auront pas besoin de lampe, ni de la lumière du soleil, parce que le Seigneur les éclairera, et ils régneront dans les siècles des siècles.

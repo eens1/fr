@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Ananie et Saphire frappés de mort en punition de leur mensonge.
-  Miracles des Apôtres.
-  Les Apôtres sont emprisonnés, délivrés par un ange, puis amenés devant le Conseil.
-  Discours de Pierre.
-  Conseil de Gamaliel.
-  Les Apôtres pleins de joie d’avoir souffert des opprobres pour Jésus-Christ.
+summary: "\nAnanie et Saphire frapp\xE9s de mort en punition de leur mensonge.\nMiracles\
+  \ des Ap\xF4tres.\nLes Ap\xF4tres sont emprisonn\xE9s, d\xE9livr\xE9s par un ange,\
+  \ puis amen\xE9s devant le Conseil.\nDiscours de Pierre.\nConseil de Gamaliel.\n\
+  Les Ap\xF4tres pleins de joie d\u2019avoir souffert des opprobres pour J\xE9sus-Christ.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Or un certain homme, du nom d'Ananie, avec Saphire, sa femme, vendit un champ, 2 Et frauda sur le prix du champ, sa femme le sachant, et en apportant une partie, il la déposa aux pieds des apôtres.

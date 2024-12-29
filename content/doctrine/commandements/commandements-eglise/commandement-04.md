@@ -1,8 +1,10 @@
 ---
-title: "Quatrième Commandement "
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Quatri\xE8me Commandement "
 ---
+
+
 
 
 > *Catéchisme de persévérance* : "Tous tes péchés confesseras, à tout le moins une fois l'an." [^1]

@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 37"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Eliu continue de décrire les effets de la puissance et de la sagesse de Dieu.
+summary: "\nEliu continue de d\xE9crire les effets de la puissance et de la sagesse\
+  \ de Dieu.\n"
+title: Chapitre 37
 ---
+
+
 
 
 1 C'est pour cela que mon coeur a été saisi d'effroi, et qu'il est sorti de sa place.

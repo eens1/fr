@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 28"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Prophétie de la ruine du roi de Tyr.
-  Cantique lugubre sur la ruine de ce prince.
-  Prophétie de la désolation de Sidon.
-  Promesse du rétablissement d’Israël.
+summary: "\nProph\xE9tie de la ruine du roi de Tyr.\nCantique lugubre sur la ruine\
+  \ de ce prince.\nProph\xE9tie de la d\xE9solation de Sidon.\nPromesse du r\xE9tablissement\
+  \ d\u2019Isra\xEBl.\n"
+title: Chapitre 28
 ---
+
+
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

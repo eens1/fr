@@ -1,8 +1,10 @@
 ---
-title: "Caput 98"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 98
 ---
+
+
 
 
 1 Psalmus ipsi David. Dominus regnavit, irascantur populi: qui sedet super cherubim, moveatur terra.

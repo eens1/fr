@@ -1,8 +1,10 @@
 ---
-title: "Caput 24"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 24
 ---
+
+
 
 
 1 Ecce Dominus dissipabit terram, et nudabit eam, et affliget faciem eius, et disperget habitatores eius.

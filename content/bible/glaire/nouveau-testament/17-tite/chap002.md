@@ -1,14 +1,14 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Avis que Tite doit donner aux vieillards et aux jeunes gens de l’un et l’autre sexe.
-  Conduite qu’il doit garder lui-même.
-  Avis qu’il doit donner aux serviteurs.
-  Abrégé de tout le christianisme renfermé dans l’économie des deux avènements de Jésus-Christ.
+summary: "\nAvis que Tite doit donner aux vieillards et aux jeunes gens de l\u2019\
+  un et l\u2019autre sexe.\nConduite qu\u2019il doit garder lui-m\xEAme.\nAvis qu\u2019\
+  il doit donner aux serviteurs.\nAbr\xE9g\xE9 de tout le christianisme renferm\xE9\
+  \ dans l\u2019\xE9conomie des deux av\xE8nements de J\xE9sus-Christ.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Pour toi, enseigne ce qui est conforme à la saine doctrine :2 Aux vieillards, d'être sobres, pudiques, graves, prudents, purs dans la foi, dans la charité, dans la patience ; 3 Et de même aux femmes âgées, d'avoir un maintien qui respire la sainteté, de n'être ni médisantes ni adonnées au vin, de bien instruire, 4 D'enseigner la sagesse aux jeunes filles, d'aimer leurs maris, de chérir leurs enfants, 5 D'être prudentes, chastes, sobres, appliquées au soin de leur maison, bonnes, soumises à leurs maris, afin que la parole, de Dieu ne soit point blasphémée. 6 Exhorte également les jeunes hommes à être tempérants. 7 Montre-toi toi-même, en toutes choses, un modèle de bonnes oeuvres, dans la doctrine, dans l'intégrité, dans la gravité. 8 Que ta parole soit saine, irrépréhensible, afin que notre adversaire rougisse, n'ayant aucun mal à dire de nous.

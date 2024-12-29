@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 41"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Ismahel tue Godolias, et tous ceux qui étaient avec lui.
-  Il emmène prisonnier tout le reste du peuple qui était à Masphath.
-  Il est poursuivi par Johanan.
-  Il s’enfuit chez les Ammonites.
-  Johanan ramène les prisonniers.
-  Ils prennent la résolution de rentrer en Egypte.
+summary: "\nIsmahel tue Godolias, et tous ceux qui \xE9taient avec lui.\nIl emm\xE8\
+  ne prisonnier tout le reste du peuple qui \xE9tait \xE0 Masphath.\nIl est poursuivi\
+  \ par Johanan.\nIl s\u2019enfuit chez les Ammonites.\nJohanan ram\xE8ne les prisonniers.\n\
+  Ils prennent la r\xE9solution de rentrer en Egypte.\n"
+title: Chapitre 41
 ---
+
+
 
 
 1 Et il arriva dans le septième mois qu'Ismahel, fils de Nathanias, fils d'Elisama, de la race royale, et les grands du roi, et dix hommes avec lui vinrent vers Godolias, fils d'Ahicam, à Masphath; et ils mangèrent là des pains ensemble à Masphath.

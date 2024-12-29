@@ -1,17 +1,14 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Jésus-Christ victime de propitiation pour les péchés de tout le monde.
-  Qui demeure en lui doit marcher comme lui.
-  Qui hait son frère est dans les ténèbres.
-  Qui aime le monde n’aime pas Dieu.
-  Triple concupiscence.
-  Plusieurs Antéchrists.
-  L’onction divine enseigne tout.
+summary: "\nJ\xE9sus-Christ victime de propitiation pour les p\xE9ch\xE9s de tout\
+  \ le monde.\nQui demeure en lui doit marcher comme lui.\nQui hait son fr\xE8re est\
+  \ dans les t\xE9n\xE8bres.\nQui aime le monde n\u2019aime pas Dieu.\nTriple concupiscence.\n\
+  Plusieurs Ant\xE9christs.\nL\u2019onction divine enseigne tout.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Mes petits enfants, je vous écris ceci pour que vous ne péchiez point. Cependant, si quelqu'un pèche, nous avons pour avocat auprès du Père, Jésus-Christ le Juste.

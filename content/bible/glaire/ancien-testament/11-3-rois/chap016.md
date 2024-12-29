@@ -1,17 +1,14 @@
 ---
-title: "Chapitre 16"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Jéhu prédit à Baasa la ruine de sa famille.
-  Mort de Baasa.
-  Ela lui succède.
-  Zambri tue Ela et se fait roi d’Israël.
-  Amri est choisi par le peuple.
-  Zambri se brûle dans son palais.
-  Mort d’Amri : Achab lui succède et épouse Jézabel.
+summary: "\nJ\xE9hu pr\xE9dit \xE0 Baasa la ruine de sa famille.\nMort de Baasa.\n\
+  Ela lui succ\xE8de.\nZambri tue Ela et se fait roi d\u2019Isra\xEBl.\nAmri est choisi\
+  \ par le peuple.\nZambri se br\xFBle dans son palais.\nMort d\u2019Amri : Achab\
+  \ lui succ\xE8de et \xE9pouse J\xE9zabel.\n"
+title: Chapitre 16
 ---
+
+
 
 
 1 Or la parole du Seigneur fut adressée à Jéhu, fils d'Hanani, contre Baasa, disant :2 Quand je t'ai élevé de la poussière, et je t'ai établi chef sur mon peuple Israël, toi au contraire, tu as marché dans la voie de Jéroboam, et tu as fait pécher mon peuple Israël, pour m'irriter par leurs péchés :3 Voilà que moi, je moissonnerai la postérité de Baasa et la postérité de sa maison, et je ferai de ta maison ce que j'ai fait de la maison de Jéroboam, fils de Nabath. 4 Celui de la race de Baasa qui mourra dans la ville, les chiens le mangeront, et celui qui mourra dans la campagne, les oiseaux du ciel le mangeront.

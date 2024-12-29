@@ -1,8 +1,10 @@
 ---
-title: "Troisième Commandement"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Troisi\xE8me Commandement"
 ---
+
+
 
 
 > *Exode 20:8-11* : "Souviens-toi de sanctifier le jour du sabbat. Pendant six jours tu travailleras, et tu feras tous tes ouvrages. Mais au septième jour est le sabbat du Seigneur ton Dieu; tu ne feras aucun ouvrage en ce jour, ni toi, ni ton fils et ta fille, ton serviteur et ta servante, ta bête et l'étranger qui est au-dedans de tes portes. Car c'est en six jours que le Seigneur a fait le ciel et la terre, et la mer, et tout ce qui est en eux, et il s'est reposé au septième jour; c'est pour cela que le Seigneur a béni le jour du sabbat et l'a sanctifié." [^1]

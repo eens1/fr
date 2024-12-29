@@ -1,8 +1,10 @@
 ---
-title: "Caput 8"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 8
 ---
+
+
 
 
 1 Anno tertio regni Baltassar regis, visio apparuit mihi. Ego Daniel post id, quod videram in principio,

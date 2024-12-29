@@ -1,8 +1,10 @@
 ---
-title: "Clôture"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: "Cl\xF4ture"
 ---
+
+
 
 
 "Les novices ne laisseront d'être visitées aussi bien que les professes, afin que si elles ont quelque mécontentement, il soit connu : car on ne recherche autre chose sinon qu'elles y demeurent de leur pleine volonté, et leur donner moyen de la manifester, si elle n'ont envie de demeurer." [^1]

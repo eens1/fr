@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Ingratitude des Israélites.
-  Menace des vengeances du Seigneur contre eux.
-  Ils sont exhortés à la pénitence.
-  Reproches et menaces contre Jérusalem.
-  Rétablissement de celle-ci.
+summary: "\nIngratitude des Isra\xE9lites.\nMenace des vengeances du Seigneur contre\
+  \ eux.\nIls sont exhort\xE9s \xE0 la p\xE9nitence.\nReproches et menaces contre\
+  \ J\xE9rusalem.\nR\xE9tablissement de celle-ci.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Vision d'Isaïe, fils d'Amos, qu'il a vue touchant Juda et Jérusalem, dans les jours d'Ozias, de Joathan, d'Achaz et d'Ezéchias, rois de Juda.

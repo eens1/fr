@@ -1,8 +1,10 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Dans la Tradition
 ---
+
+
 
 
 > *Concile de Trente, sess. 7, Décret des Sacrements, can. 1, 1547* : "Si quelqu'un dit, que les Sacrements de la nouvelle Loi n'ont pas été tous institués par Notre Seigneur Jésus-Christ; ou qu'il y en a plus ou moins de sept, savoir, le Baptême, la Confirmation, l'Eucharistie, la Pénitence, l'Extrême-onction, l'Ordre, et le Mariage; ou que quelqu'un de ces sept, n'est pas proprement, et véritablement un Sacrement; qu'il soit anathème." [^1]

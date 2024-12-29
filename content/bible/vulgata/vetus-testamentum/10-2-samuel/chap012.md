@@ -1,8 +1,10 @@
 ---
-title: "Caput 12"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 12
 ---
+
+
 
 
 1 Misit ergo Dominus Nathan ad David: qui cum venisset ad eum, dixit ei: Duo viri erant in civitate una, unus dives, et alter pauper.

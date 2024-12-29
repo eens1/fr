@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 23"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Prière contre le mauvais usage de la langue, l’orgueil, la gourmandise et l’impureté.
-  Ne pas jurer, ni dire des paroles indiscrètes.
-  Adultère odieux à Dieu et aux hommes.
+summary: "\nPri\xE8re contre le mauvais usage de la langue, l\u2019orgueil, la gourmandise\
+  \ et l\u2019impuret\xE9.\nNe pas jurer, ni dire des paroles indiscr\xE8tes.\nAdult\xE8\
+  re odieux \xE0 Dieu et aux hommes.\n"
+title: Chapitre 23
 ---
+
+
 
 
 1 Seigneur, père et maître de ma vie, ne m'abandonnez pas à leur conseil; et ne permettez pas que je tombe par elles.

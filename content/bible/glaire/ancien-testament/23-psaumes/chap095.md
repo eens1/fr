@@ -1,13 +1,15 @@
 ---
-title: "Chapitre 95"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Ce psaume contient des louanges et des actions de grâces pour les bienfaits de Dieu, et une invitation aux peuples gentils de venir adorer cette souveraine majesté, et de se soumettre à son empire.
-  Les Pères l’ont expliqué de la venue du Messie et de l’établissement de l’Eglise chrétienne.
-  Cantique à David lui-même.
+summary: "\nCe psaume contient des louanges et des actions de gr\xE2ces pour les bienfaits\
+  \ de Dieu, et une invitation aux peuples gentils de venir adorer cette souveraine\
+  \ majest\xE9, et de se soumettre \xE0 son empire.\nLes P\xE8res l\u2019ont expliqu\xE9\
+  \ de la venue du Messie et de l\u2019\xE9tablissement de l\u2019Eglise chr\xE9tienne.\n\
+  Cantique \xE0 David lui-m\xEAme.\n"
+title: Chapitre 95
 ---
+
+
 
 
 1 Lorsqu'on bâtissait la maison, après la captivité. Chantez au Seigneur un cantique nouveau : chantez au Seigneur, habitants de toute la terre.

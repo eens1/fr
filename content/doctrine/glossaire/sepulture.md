@@ -1,8 +1,10 @@
 ---
-title: "Sépulture"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "S\xE9pulture"
 ---
+
+
 
 
 > *G. Bareille, commentaire du droit canonique, 1922* : "2 - La sépulture ecclésiastique doit être accordée à tous ceux qui n'en sont pas expressément privés par le droit. c. 1239, § 3.

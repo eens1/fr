@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 8"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Gédéon apaise les enfants d’Ephraïm.
-  Il met à mort Zébée et Salmana.
-  Il fait faire un éphod.
-  Mort de Gédéon.
+summary: "\nG\xE9d\xE9on apaise les enfants d\u2019Ephra\xEFm.\nIl met \xE0 mort Z\xE9\
+  b\xE9e et Salmana.\nIl fait faire un \xE9phod.\nMort de G\xE9d\xE9on.\n"
+title: Chapitre 8
 ---
+
+
 
 
 1 Et les hommes d'Ephraïm lui dirent : Qu'est-ce que tu as voulu faire, en ne nous appelant point, lorsque tu allais au combat contre Madian? le querellant fortement et lui faisant presque violence.

@@ -1,8 +1,10 @@
 ---
-title: "Caput 5"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 5
 ---
+
+
 
 
 1 Et factus est clamor populi, et uxorum eius magnus adversus fratres suos Iudaeos.

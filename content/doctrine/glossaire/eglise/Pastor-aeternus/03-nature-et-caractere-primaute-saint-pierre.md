@@ -1,8 +1,10 @@
 ---
-title: "Chap. 3 - De la nature et du caractère de la primauté du Pontife romain"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Chap. 3 - De la nature et du caract\xE8re de la primaut\xE9 du Pontife romain"
 ---
+
+
 
 
 C'est pourquoi, appuyé sur les témoignages manifestes des saintes Ecritures et fermement attaché aux décrets formels et certains, tant de nos prédécesseurs, les Pontifes romains, que des Conciles généraux, nous renouvelons la définition du Concile oecuménique de Florence, en vertu de laquelle tous les fidèles du Christ sont obligés de croire que le Saint-Siége apostolique et le Pontife romain ont la primauté sur le monde entier, que le même Pontife romain est le successeur du bienheureux Pierre, prince des Apôtres, le vrai vicaire de Jésus-Christ, le chef de toute l'Eglise, le père et docteur de tous les chrétiens, et qu'à lui a été confié par Notre-Seigneur Jésus-Christ, en la personne du bienheureux Pierre, le plein pouvoir de paître, de régir et de gouverner l‘Eglise universelle, ainsi qu'il est contenu dans les actes des Conciles oecuméniques et les saints canons.

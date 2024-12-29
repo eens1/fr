@@ -1,14 +1,14 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Songe de Nabuchodonosor, statue composée de quatre métaux.
-  Les devins de Chaldée ne peuvent pas faire connaître au roi ce songe qu’il avait oublié.
-  Daniel le lui fait connaître et le lui explique.
-  Honneurs que Nabuchodonosor fait à Daniel.
+summary: "\nSonge de Nabuchodonosor, statue compos\xE9e de quatre m\xE9taux.\nLes\
+  \ devins de Chald\xE9e ne peuvent pas faire conna\xEEtre au roi ce songe qu\u2019\
+  il avait oubli\xE9.\nDaniel le lui fait conna\xEEtre et le lui explique.\nHonneurs\
+  \ que Nabuchodonosor fait \xE0 Daniel.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 En la seconde année du règne de Nabuchodonosor, Nabuchodonosor vit un songe, et son esprit fut extrêmement effrayé; et son songe s'enfuit de lui.

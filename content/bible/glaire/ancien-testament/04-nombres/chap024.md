@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 24"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Balaam bénit les Israélites pour la troisième fois ; ses prophéties.
+summary: "\nBalaam b\xE9nit les Isra\xE9lites pour la troisi\xE8me fois ; ses proph\xE9\
+  ties.\n"
+title: Chapitre 24
 ---
+
+
 
 
 1 Or lorsque Balaam eut vu qu'il plaisait au Seigneur qu'il bénît Israël, il n'alla nullement comme il était allé auparavant, pour chercher un augure ; mais tournant son visage vers le désert,

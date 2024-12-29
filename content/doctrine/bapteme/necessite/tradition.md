@@ -1,8 +1,10 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Dans la Tradition
 ---
+
+
 
 
 > *Concile de Trente, sess. 7, Décret des Sacrements, can. 5, 1547* : "Si quelqu'un dit, que le Baptême est libre, c'est-à-dire, qu'il n'est pas nécessaire au salut; Qu'il soit anathème." [^1]

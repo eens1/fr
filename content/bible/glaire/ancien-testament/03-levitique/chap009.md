@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 9"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Aaron établi Grand-prêtre offre à Dieu divers sacrifices, tant pour lui que pour tout le peuple.
+summary: "\nAaron \xE9tabli Grand-pr\xEAtre offre \xE0 Dieu divers sacrifices, tant\
+  \ pour lui que pour tout le peuple.\n"
+title: Chapitre 9
 ---
+
+
 
 
 1 Or, le huitième jour venu. Moïse appela Aaron et ses fils, et les anciens d'Israël, et il dit à Aaron :2 Prends d'un troupeau de gros bétail un veau pour le péché et un bélier pour un holocauste, l'un et l'autre sans tache, et offre-les devant le Seigneur.

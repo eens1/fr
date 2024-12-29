@@ -1,8 +1,10 @@
 ---
-title: "Privilèges"
-date: 2024-09-06T20:03:00+02:00
+date: 2024-09-06 20:03:00+02:00
 draft: false
+title: "Privil\xE8ges"
 ---
+
+
 
 
 > *Père Kazenberger, 1872* : "*Privileges insignes que le Seigneur accorda à notre Bienheureux Père Saint François pour son Ordre, et tous ceux qui lui seraient affectionnés*.

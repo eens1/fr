@@ -1,8 +1,10 @@
 ---
-title: "Canon 2 - De la Révélation"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Canon 2 - De la R\xE9v\xE9lation"
 ---
+
+
 
 
 1°Si quelqu'un dit que la lumière naturelle de notre raison ne peut connaltre avec certitude, d'après ce qui a été fait, un seul et vrai Dieu, notre créateur et maître; qu'il soit anathème.

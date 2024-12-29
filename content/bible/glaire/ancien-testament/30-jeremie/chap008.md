@@ -1,17 +1,13 @@
 ---
-title: "Chapitre 8"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Châtiment de Jérusalem.
-  Impénitence du peuple juif.
-  Faux sages.
-  Désolation de la Judée.
-  Affliction du prophète.
-  Gémissement de la fille de Sion.
-  Résine et médecins de Galaad.
+summary: "\nCh\xE2timent de J\xE9rusalem.\nImp\xE9nitence du peuple juif.\nFaux sages.\n\
+  D\xE9solation de la Jud\xE9e.\nAffliction du proph\xE8te.\nG\xE9missement de la\
+  \ fille de Sion.\nR\xE9sine et m\xE9decins de Galaad.\n"
+title: Chapitre 8
 ---
+
+
 
 
 1 En ce temps-là, dit le Seigneur, on jettera les os des rois de Juda, et les os de ses princes, et les os des prêtres, et les os des prophètes, et les os de ceux qui ont habité Jérusalem, hors de leurs sépulcres;

@@ -1,8 +1,10 @@
 ---
-title: "Sacrements de l'excommunié"
-date: 2024-09-06T20:00:57+02:00
+date: 2024-09-06 20:00:57+02:00
 draft: false
---- 
+title: "Sacrements de l'excommuni\xE9"
+---
+
+ 
   
 Droit canonique de 1917, can. 882 : En péril de mort, tous les prêtres, quoique non approuvés pour les confessions, absolvent validement et licitement n'importe quels pénitents de tous péchés ou censures, quoique réservés ou notoires, même si un prêtre approuvé est présent, les prescriptions des Can. 884; Can. 2252 demeurant sauves. [^2]
   

@@ -1,12 +1,11 @@
 ---
-title: "Chapitre 21"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Ruine de Jabès-Galaad.
-  Filles données aux Benjamites.
+summary: "\nRuine de Jab\xE8s-Galaad.\nFilles donn\xE9es aux Benjamites.\n"
+title: Chapitre 21
 ---
+
+
 
 
 1 Les enfants d'Israël jurèrent aussi à Maspha, et dirent : Nul de nous ne donnera aux enfants de Benjamin de ses filles pour femmes.

@@ -1,11 +1,11 @@
 ---
-title: "Chapitre 11"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Autre songe de Mardochée.
+summary: "\nAutre songe de Mardoch\xE9e.\n"
+title: Chapitre 11
 ---
+
+
 
 
 1 En la quatrième année du règne de Ptolémée et de Cléopâtre, Dosithée, qui se disait prêtre, et de la race lévitique, et Ptolémée son fils, apportèrent cette épître des phurim, qu'ils dirent avoir été interprétée par Lysimaque, fils de Ptolémée, à Jérusalem.

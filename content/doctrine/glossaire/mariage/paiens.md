@@ -1,8 +1,10 @@
 ---
-title: "Mariages chez les païens"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "Mariages chez les pa\xEFens"
 ---
+
+
 
 
 > *Lettre *Gaudeamus in Domino* à l'évêque de Tibériade, 1201* : "Si des païens qui épousent des femmes apparentées à eux au deuxième, troisième, ou à un autre degré, en étant apparentées ainsi, doivent demeurer ensemble après leur conversion, ou s'ils doivent être séparés : telle est la question au sujet de laquelle tu demandes à être informé par un écrit apostolique. 

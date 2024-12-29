@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 29"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Offrandes de David et des principaux d’Israël pour la construction du temple.
-  David loue le Seigneur et le prie pour son peuple et pour son fils.
-  Seconde onction de Salomon.
-  Mort de David.
+summary: "\nOffrandes de David et des principaux d\u2019Isra\xEBl pour la construction\
+  \ du temple.\nDavid loue le Seigneur et le prie pour son peuple et pour son fils.\n\
+  Seconde onction de Salomon.\nMort de David.\n"
+title: Chapitre 29
 ---
+
+
 
 
 1 Ensuite David, le roi, dit à toute l'assemblée ; Dieu a choisi uniquement Salomon, mon fils, encore jeune et délicat, quoique l'oeuvre soit grande; car ce n'est pas pour un homme que se prépare cette habitation, mais pour Dieu.

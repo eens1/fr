@@ -1,8 +1,10 @@
 ---
-title: "Caput 21"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 21
 ---
+
+
 
 
 1 Duodecim annorum erat Manasses cum regnare coepisset, et quinquaginta quinque annis regnavit in Ierusalem: nomen matris eius Haphsiba.

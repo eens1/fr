@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Reproches contre Jérusalem et Juda.
-  Vengeances du Seigneur sur ce peuple.
-  Promesses du Seigneur en faveur de Sion et des Israélites.
+summary: "\nReproches contre J\xE9rusalem et Juda.\nVengeances du Seigneur sur ce\
+  \ peuple.\nPromesses du Seigneur en faveur de Sion et des Isra\xE9lites.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 Malheur, cité provocatrice et rachetée, colombe !

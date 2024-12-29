@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 41"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Songes de Pharaon expliqués par Joseph.
-  Elévation de Joseph.
-  Naissance de Manassé et d’Ephraïm.
-  Stérilité en Egypte.
+summary: "\nSonges de Pharaon expliqu\xE9s par Joseph.\nEl\xE9vation de Joseph.\n\
+  Naissance de Manass\xE9 et d\u2019Ephra\xEFm.\nSt\xE9rilit\xE9 en Egypte.\n"
+title: Chapitre 41
 ---
+
+
 
 
 1 Après deux ans, Pharaon vit un songe. Il croyait qu'il était debout sur le bord du fleuve,

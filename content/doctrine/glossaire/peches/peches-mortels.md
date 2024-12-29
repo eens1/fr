@@ -1,8 +1,10 @@
 ---
-title: "Péchés mortels"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "P\xE9ch\xE9s mortels"
 ---
+
+
 
 
 > *Saint Alphonse de Liguori, Théologie morale* : "... car, dit S. Thomas, celui qui est sans la grâce, ne peut rester longtemps sans tomber dans quelque nouveau péché mortel." [^1]

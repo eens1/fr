@@ -1,14 +1,14 @@
 ---
-title: "Chapitre 7"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Saint Paul témoigne aux Corinthiens l’affection qu’il a pour eux.
-  Consolation qu’il a reçue de leur part.
-  Double tristesse : heureux effets de celle dont ils ont été touchés.
-  Il les remercie de la bonne réception qu’ils ont faite à Tite.
+summary: "\nSaint Paul t\xE9moigne aux Corinthiens l\u2019affection qu\u2019il a pour\
+  \ eux.\nConsolation qu\u2019il a re\xE7ue de leur part.\nDouble tristesse : heureux\
+  \ effets de celle dont ils ont \xE9t\xE9 touch\xE9s.\nIl les remercie de la bonne\
+  \ r\xE9ception qu\u2019ils ont faite \xE0 Tite.\n"
+title: Chapitre 7
 ---
+
+
 
 
 1 Ayant donc ces promesses, purifions-nous, mes bien-aimés, de toute souillure de la chair et de l'esprit, et achevons notre sanctification dans la crainte de Dieu.

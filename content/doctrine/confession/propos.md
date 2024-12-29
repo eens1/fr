@@ -1,8 +1,10 @@
 ---
-title: "Propos"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Propos
 ---
+
+
 
 
 > *Saint Alphonse de Liguori, Théologie morale* : "Trois conditions sont nécessaires pour le véritable propos : qu'il doit ferme, universel, et efficace...

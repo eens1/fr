@@ -1,8 +1,10 @@
 ---
-title: "Charité"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Charit\xE9"
 ---
+
+
 
 
 > *1 Pierre 4:8* : "Mais avant tout, ayez les uns pour les autres une charité constante; car la charité couvre la multitude des péchés." [^1]

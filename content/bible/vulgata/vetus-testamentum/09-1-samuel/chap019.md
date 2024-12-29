@@ -1,8 +1,10 @@
 ---
-title: "Caput 19"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 19
 ---
+
+
 
 
 1 Locutus est autem Saul ad Ionathan filium suum, et ad omnes servos suos, ut occiderent David. Porro Ionathas filius Saul diligebat David valde.

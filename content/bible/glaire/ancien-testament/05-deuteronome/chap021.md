@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 21"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Expiation d’un meurtre dont on ignore l’auteur.
-  Mariage avec une captive.
-  Droit des premiers-nés.
-  Fils désobéissant.
-  Corps détaché de la potence.
+summary: "\nExpiation d\u2019un meurtre dont on ignore l\u2019auteur.\nMariage avec\
+  \ une captive.\nDroit des premiers-n\xE9s.\nFils d\xE9sob\xE9issant.\nCorps d\xE9\
+  tach\xE9 de la potence.\n"
+title: Chapitre 21
 ---
+
+
 
 
 1 Quand on trouvera dans la terre que le Seigneur ton Dieu va te donner, le cadavre d'un homme tué, et que le coupable du meurtre sera inconnu, 2 Les anciens sortiront, et tes juges aussi, et ils mesureront la distance du lieu du cadavre à chacune des villes d'alentour; 3 Puis, ayant reconnu celle qui est plus proche que toutes les autres, les anciens de cette ville-là prendront une génisse d'un troupeau, qui n'aura point porté le joug, ni labouré la terre, 4 Ils la conduiront dans une vallée âpre et pierreuse, qui n'a jamais été labourée, et n'a jamais reçu de semence, et ils couperont dans cette vallée le cou à la génisse ; 5 Alors s'approcheront les prêtres, enfants de Lévi, que le Seigneur ton Dieu aura choisis, pour qu'ils le servent, qu'ils bénissent en son nom, et que toute affaire, et tout ce qui est pur ou impur soit jugé par leurs avis. 6 Et les anciens de cette ville viendront près de celui qui aura été tué ; ils laveront leurs mains sur la génisse, qui aura été frappée dans la vallée, 7 Et ils diront :

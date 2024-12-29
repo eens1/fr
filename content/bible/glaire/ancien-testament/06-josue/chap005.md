@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Les Israélites reçoivent la circoncision et font la Pâque.
-  La manne cesse.
-  Un ange apparaît à Josué.
+summary: "\nLes Isra\xE9lites re\xE7oivent la circoncision et font la P\xE2que.\n\
+  La manne cesse.\nUn ange appara\xEEt \xE0 Josu\xE9.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Quand donc tous les rois des Amorrhéens qui habitaient au-delà du Jourdain, vers le côté occidental, et tous les rois de Chanaan qui possédaient les lieux voisins de la grande mer, apprirent que le Seigneur avait séché le cours du Jourdain devant les enfants d'Israël, jusqu'à ce qu'ils eussent passé, leur coeur défaillit, et le courage les abandonna, parce qu'ils craignaient l'entrée des enfants d'Israël.

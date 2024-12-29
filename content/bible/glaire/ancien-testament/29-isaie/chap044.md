@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 44"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Rétablissement d’Israël.
-  Le Seigneur est le seul Dieu.
-  Vanité des idoles.
-  Règne de Cyrus.
-  Prise de Babylone.
-  Rétablissement de Jérusalem.
+summary: "\nR\xE9tablissement d\u2019Isra\xEBl.\nLe Seigneur est le seul Dieu.\nVanit\xE9\
+  \ des idoles.\nR\xE8gne de Cyrus.\nPrise de Babylone.\nR\xE9tablissement de J\xE9\
+  rusalem.\n"
+title: Chapitre 44
 ---
+
+
 
 
 1 Et maintenant écoute, Jacob mon serviteur; et toi, Israël, que j'ai choisi,

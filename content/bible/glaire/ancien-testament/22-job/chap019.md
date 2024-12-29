@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 19"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Job se plaint de la dureté de ses amis.
-  Il expose ses peines, et se console par l’espérance de la résurrection.
+summary: "\nJob se plaint de la duret\xE9 de ses amis.\nIl expose ses peines, et se\
+  \ console par l\u2019esp\xE9rance de la r\xE9surrection.\n"
+title: Chapitre 19
 ---
+
+
 
 
 1 Or, répondant, Job dit :

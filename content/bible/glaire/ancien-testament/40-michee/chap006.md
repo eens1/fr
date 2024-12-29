@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 6"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Ingratitude des Israélites.
-  Moyens de plaire au Seigneur.
-  Infidélités des Israélites.
-  Vengeance du Seigneur sur eux.
+summary: "\nIngratitude des Isra\xE9lites.\nMoyens de plaire au Seigneur.\nInfid\xE9\
+  lit\xE9s des Isra\xE9lites.\nVengeance du Seigneur sur eux.\n"
+title: Chapitre 6
 ---
+
+
 
 
 1 Ecoutez ce que dit le Seigneur : Lève-toi, plaide contre les montagnes, et que les collines entendent ta voix.

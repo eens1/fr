@@ -1,8 +1,10 @@
 ---
-title: "Caput 16"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 16
 ---
+
+
 
 
 1 Dixitque Dominus ad Samuelem: Usquequo tu luges Saul, cum ego proiecerim eum ne regnet super Israel? imple cornu tuum oleo, et veni, ut mittam te ad Isai Bethlehemitem: providi enim in filiis eius mihi regem.

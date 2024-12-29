@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 8"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Ne point s’éloigner des commandements de Dieu.
-  Patience de Dieu.
-  Affliction des justes.
-  Prospérité des méchants.
+summary: "\nNe point s\u2019\xE9loigner des commandements de Dieu.\nPatience de Dieu.\n\
+  Affliction des justes.\nProsp\xE9rit\xE9 des m\xE9chants.\n"
+title: Chapitre 8
 ---
+
+
 
 
 1 La sagesse de l'homme luit sur son visage, et le tout-puissant changera sa face.

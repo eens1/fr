@@ -1,18 +1,14 @@
 ---
-title: "Chapitre 20"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Autorité de Jésus.
-  Baptême de Jean.
-  Paraboles des vignerons homicides et de la pierre angulaire.
-  Rendre à César ce qui est à César.
-  Résurrection des morts.
-  Vie angélique.
-  Le Messie, fils et Seigneur de David.
-  Scribes superbes.
+summary: "\nAutorit\xE9 de J\xE9sus.\nBapt\xEAme de Jean.\nParaboles des vignerons\
+  \ homicides et de la pierre angulaire.\nRendre \xE0 C\xE9sar ce qui est \xE0 C\xE9\
+  sar.\nR\xE9surrection des morts.\nVie ang\xE9lique.\nLe Messie, fils et Seigneur\
+  \ de David.\nScribes superbes.\n"
+title: Chapitre 20
 ---
+
+
 
 
 1 Or il arriva qu'un de ces jours-là, comme il enseignait le peuple dans le temple, et qu'il annonçait l'Evangile, les princes des prêtres et les scribes y vinrent avec les anciens,

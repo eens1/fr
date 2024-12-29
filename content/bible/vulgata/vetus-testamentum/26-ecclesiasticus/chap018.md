@@ -1,8 +1,10 @@
 ---
-title: "Caput 18"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 18
 ---
+
+
 
 
 1 Qui vivet in aeternum, creavit omnia simul. Deus solus iustificabitur, et manet invictus rex in aeternum.

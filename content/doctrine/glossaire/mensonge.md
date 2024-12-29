@@ -1,8 +1,10 @@
 ---
-title: "Mensonge"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Mensonge
 ---
+
+
 
 
 > *Dictionnaire de théologie catholique* : " On donne communément du mensonge la définition suivante : mentir, c'est parler contre sa pensée avec intention de tromper." [^1]

@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Triomphe des justes.
-  Regrets inutiles des méchants.
-  Félicité éternelle des justes.
-  Vengeance du Seigneur contre les méchants.
+summary: "\nTriomphe des justes.\nRegrets inutiles des m\xE9chants.\nF\xE9licit\xE9\
+  \ \xE9ternelle des justes.\nVengeance du Seigneur contre les m\xE9chants.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Alors les justes s'élèveront avec une grande fermeté contre ceux qui les ont tourmentés, et qui leur ont ravi le fruit de leurs travaux.

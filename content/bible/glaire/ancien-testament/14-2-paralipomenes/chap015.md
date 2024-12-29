@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 15"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Prédiction du prophète Azarias.
-  Zèle d’Asa contre l’idolâtrie.
-  Renouvellement de l’alliance avec le Seigneur.
-  Asa ôte l’autorité à sa mère, qui avait élevé une idole.
+summary: "\nPr\xE9diction du proph\xE8te Azarias.\nZ\xE8le d\u2019Asa contre l\u2019\
+  idol\xE2trie.\nRenouvellement de l\u2019alliance avec le Seigneur.\nAsa \xF4te l\u2019\
+  autorit\xE9 \xE0 sa m\xE8re, qui avait \xE9lev\xE9 une idole.\n"
+title: Chapitre 15
 ---
+
+
 
 
 1 Or Azarias, fils d'Oded, l'esprit de Dieu étant venu en lui, 2 Sortit à la rencontre d'Asa, et lui dit : Ecoutez-moi, Asa, et vous, Juda et Benjamin. Le Seigneur a été avec vous, parce que vous avez été avec lui. Si vous le cherchez, vous le trouverez, mais si vous l'abandonnez, il vous abandonnera. 3 Il se passera un grand nombre de jours en Israël, sans vrai Dieu, sans prêtre enseignant et sans loi.

@@ -1,10 +1,13 @@
 ---
-title: "Notre Seigneur Jésus-Christ naît de la Vierge Marie en Bethléem de Judée"
 date: 2024-12-24T04:07:11+0000
 draft: false
+summary: "Marie d'Agr\xE9da, La Cit\xE9 de Dieu."
 tags: []
-summary: "Marie d'Agréda, La Cité de Dieu."
+title: "Notre Seigneur J\xE9sus-Christ na\xEEt de la Vierge Marie en Bethl\xE9em de\
+  \ Jud\xE9e"
 ---
+
+
 
 Source: Croset 1857, t. 3, chap. 10.
 

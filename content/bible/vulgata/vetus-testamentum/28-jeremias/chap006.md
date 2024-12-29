@@ -1,8 +1,10 @@
 ---
-title: "Caput 6"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 6
 ---
+
+
 
 
 1 Confortamini filii Beniamin in medio Ierusalem, et in Thecua clangite buccina, et super Bethacarem levate vexillum: quia malum visum est ab Aquilone, et contritio magna.

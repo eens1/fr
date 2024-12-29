@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 43"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Grandeur de Dieu marquée dans ses ouvrages.
-  Le ciel, le soleil, la lune, les étoiles, l’arc-en-ciel, les éclairs, le tonnerre, la neige, la grêle, la glace, la mer et les poissons qu’elle renferme, montrent la puissance du Seigneur.
-  Le Seigneur est au-dessus de toute louange.
+summary: "\nGrandeur de Dieu marqu\xE9e dans ses ouvrages.\nLe ciel, le soleil, la\
+  \ lune, les \xE9toiles, l\u2019arc-en-ciel, les \xE9clairs, le tonnerre, la neige,\
+  \ la gr\xEAle, la glace, la mer et les poissons qu\u2019elle renferme, montrent\
+  \ la puissance du Seigneur.\nLe Seigneur est au-dessus de toute louange.\n"
+title: Chapitre 43
 ---
+
+
 
 
 1 Le firmament élevé est sa beauté; l'aspect du ciel fait voir sa gloire.

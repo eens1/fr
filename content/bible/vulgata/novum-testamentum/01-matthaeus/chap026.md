@@ -1,8 +1,10 @@
 ---
-title: "Caput 26"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
+title: Caput 26
 ---
+
+
 
 
 1 Et factum est: cum consummasset Iesus sermones hos omnes, dixit discipulis suis:

@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 20"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Le Seigneur annonce au peuple ses préceptes.
-  Le peuple est effrayé.
-  Moïse le rassure.
-  Ordre de Dieu touchant la construction d’un autel.
+summary: "\nLe Seigneur annonce au peuple ses pr\xE9ceptes.\nLe peuple est effray\xE9\
+  .\nMo\xEFse le rassure.\nOrdre de Dieu touchant la construction d\u2019un autel.\n"
+title: Chapitre 20
 ---
+
+
 
 
 1 Le Seigneur dit ensuite toutes ces paroles :

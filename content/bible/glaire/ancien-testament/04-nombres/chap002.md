@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Ordre que les Israélites doivent garder dans leurs marches et dans leurs campements.
+summary: "\nOrdre que les Isra\xE9lites doivent garder dans leurs marches et dans\
+  \ leurs campements.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Le Seigneur parla encore à Moïse et à Aaron, disant :2 Les enfants d'Israël, chacun selon ses bandes, ses étendards, ses drapeaux et les maisons de sa parenté, camperont autour du tabernacle d'alliance.

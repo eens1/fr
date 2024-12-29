@@ -1,8 +1,10 @@
 ---
-title: "Caput 32"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 32
 ---
+
+
 
 
 1 Et factum est, duodecimo anno, in mense duodecimo, in una mensis, factum est verbum Domini ad me, dicens:

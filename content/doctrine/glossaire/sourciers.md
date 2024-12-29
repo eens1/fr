@@ -1,8 +1,10 @@
 ---
-title: "Sourciers"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Sourciers
 ---
+
+
 
 
 > *Saint Alphonse, théologie morale* :  "... que le sortilège, ou le sort divinatoire, pour chercher à découvrir des choses cachées, ou futures, par le moyen de signes pris au hasard, la baguette divinatoire avec laquelle on cherche des métaux ou des sources d'eau cachées, sont autant de superstitions défendues." [^1]

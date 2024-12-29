@@ -1,8 +1,10 @@
 ---
-title: "Caput 9"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 9
 ---
+
+
 
 
 1 Universus ergo Israel dinumeratus est: et summa eorum scripta est in Libro regum Israel, et Iuda: translatique sunt in Babylonem propter delictum suum.

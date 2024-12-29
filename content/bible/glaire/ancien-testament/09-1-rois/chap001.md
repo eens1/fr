@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Elcana et ses deux femmes.
-  Anne obtient du Seigneur un fils qui est nommé Samuel.
-  Elle le consacre au Seigneur.
+summary: "\nElcana et ses deux femmes.\nAnne obtient du Seigneur un fils qui est nomm\xE9\
+  \ Samuel.\nElle le consacre au Seigneur.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Il y eut un homme de Ramathaïmsophim, de la montagne d'Ephraïm, et son nom était Elcana, fils de Jéroam, fils d'Eliu, fils de Thohu, fils de Suph : il était Ephrathéen ;

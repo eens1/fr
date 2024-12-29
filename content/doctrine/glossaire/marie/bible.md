@@ -1,8 +1,10 @@
 ---
-title: "Dans la Bible"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Dans la Bible
 ---
+
+
 
 
 > *Isaïe 7:14* : "A cause de cela le Seigneur lui-même vous donnera un signe. Voilà que la vierge concevra et enfantera un fils, et son nom sera appelé Emmanuel" [^1]

@@ -1,8 +1,10 @@
 ---
-title: "Coulpe"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: Coulpe
 ---
+
+
 
 
 "De même, nous ordonnons qu'indépendamment du chapitre conventuel que vous devez tenir chaque dimanche, comme il est prescrit par la Règle, tous les soirs après le souper on fasse la correction des fautes légères que les Frères auraient commises.

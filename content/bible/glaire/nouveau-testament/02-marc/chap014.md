@@ -1,19 +1,15 @@
 ---
-title: "Chapitre 14"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Conspiration des Juifs.
-  Parfums répandus sur la tête de Jésus-Christ.
-  Trahison de Judas.
-  Dernière cène.
-  Institution de l’Eucharistie.
-  Renoncement de saint Pierre prédit.
-  Prière de Jésus dans le jardin.
-  Il est pris, conduit chez Caïphe, accusé, condamné, outragé.
-  Renoncement et pénitence de saint Pierre.
+summary: "\nConspiration des Juifs.\nParfums r\xE9pandus sur la t\xEAte de J\xE9sus-Christ.\n\
+  Trahison de Judas.\nDerni\xE8re c\xE8ne.\nInstitution de l\u2019Eucharistie.\nRenoncement\
+  \ de saint Pierre pr\xE9dit.\nPri\xE8re de J\xE9sus dans le jardin.\nIl est pris,\
+  \ conduit chez Ca\xEFphe, accus\xE9, condamn\xE9, outrag\xE9.\nRenoncement et p\xE9\
+  nitence de saint Pierre.\n"
+title: Chapitre 14
 ---
+
+
 
 
 1 Or c'était la Pâque et les azymes deux jours après ; et les princes des prêtres et les scribes cherchaient comment ils se saisiraient de lui par ruse, et le feraient mourir.

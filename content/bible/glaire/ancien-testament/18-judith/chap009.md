@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 9"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Judith adresse à Dieu sa prière, et implore son secours pour l’exécution du dessein qu’elle médite.
+summary: "\nJudith adresse \xE0 Dieu sa pri\xE8re, et implore son secours pour l\u2019\
+  ex\xE9cution du dessein qu\u2019elle m\xE9dite.\n"
+title: Chapitre 9
 ---
+
+
 
 
 1 Ceux-ci s'étant retirés, Judith entra dans son oratoire ; et, se revêtant d'un cilice, elle mit de la cendre sur sa tête, et, se prosternant devant le Seigneur, elle criait vers le Seigneur, disant :

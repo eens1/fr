@@ -1,12 +1,11 @@
 ---
-title: "Chapitre 31"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Défaite des Madianites.
-  Partage du butin.
+summary: "\nD\xE9faite des Madianites.\nPartage du butin.\n"
+title: Chapitre 31
 ---
+
+
 
 
 1 Le Seigneur parla encore à Moïse, disant :2 Venge d'abord les enfants d'Israël des Madianites, et après cela tu seras réuni à ton peuple.

@@ -1,8 +1,10 @@
 ---
-title: "Après le repas"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: "Apr\xE8s le repas"
 ---
+
+
 
 
 > *Diurnal français-latin* : "Agimus tibi gratias, omnipotens Deus, pro universis beneficiis tuis; qui vivis et regnas in saecula saeculorum. Amen...

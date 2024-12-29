@@ -1,8 +1,10 @@
 ---
-title: "Office"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: Office
 ---
+
+
 
 
 "De même, nous ordonnons, en ce qui regarde l'office divin, qu'on observe très exactement tout ce qui est prescrit par les rubriques du bréviaire et du missel; qu'on ait bien soin d'apprendre les cérémonies de l'Ordre aux novices; que dans ce but on les réunisse une heure après Prime et qu'on leur fasse une instruction ne roulant que sur ce point.

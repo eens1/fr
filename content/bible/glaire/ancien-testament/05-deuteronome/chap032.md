@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 32"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Dernier cantique de Moïse.
-  Il monte sur la montagne d’Abarim et considère la terre de Chanaan.
+summary: "\nDernier cantique de Mo\xEFse.\nIl monte sur la montagne d\u2019Abarim\
+  \ et consid\xE8re la terre de Chanaan.\n"
+title: Chapitre 32
 ---
+
+
 
 
 1 Entendez, ô cieux, ce que je dis ; que la terre entende les paroles de ma bouche.

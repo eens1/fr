@@ -1,8 +1,10 @@
 ---
-title: "Office"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: Office
 ---
+
+
 
 
 > *François de Sainte Marie* : "Il chantaient tout l'office divin composé de neuf leçons, après lequel ils récitaient le petit office de Notre-Dame, les sept Psaumes Pénitentiaux, le Cantique Graduel, et l'office des morts selon les rubriques du bréviaire des Carmes, qui était lors en usage parmi eux.

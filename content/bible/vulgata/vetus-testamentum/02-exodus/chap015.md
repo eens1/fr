@@ -1,8 +1,10 @@
 ---
-title: "Caput 15"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 15
 ---
+
+
 
 
 1 Tunc cecinit Moyses et filii Israel carmen hoc Domino, et dixerunt: Cantemus Domino: gloriose enim magnificatus est, equum et ascensorem deiecit in mare.

@@ -1,8 +1,10 @@
 ---
-title: "Habit"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: Habit
 ---
+
+
 
 
 > *François de Sainte Marie* : "... notre bienheureux Père [saint Jean de la Croix] se revêtit de l'habit de carme déchaussé que la sainte [sainte Térèse d'Avila] lui avait donné. Ce vêtement était d'une serge fort vile et grossière, de la couleur naturelle de la laine, il était assez court, et il ne lui descendait que jusqu'à la cheville du pied. Il avait par dessus cet habit une chappe blanche sans plis, un peu serré par l'échancrure d'en haut, et pour la longueur elle ne lui passait pas les genoux. Il avait une capuche proportionné à l'habit, et un autre qui correspondait à la chappe. Il portait par dessus l'habit un scapulaire, qui était moins long... un palme que cet habit. 

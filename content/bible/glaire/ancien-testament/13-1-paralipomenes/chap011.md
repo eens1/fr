@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 11"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  David sacré roi d’Israël.
-  Siège de Jérusalem.
-  Joab général des armées de David.
-  Noms des plus vaillants hommes qui étaient avec David.
+summary: "\nDavid sacr\xE9 roi d\u2019Isra\xEBl.\nSi\xE8ge de J\xE9rusalem.\nJoab\
+  \ g\xE9n\xE9ral des arm\xE9es de David.\nNoms des plus vaillants hommes qui \xE9\
+  taient avec David.\n"
+title: Chapitre 11
 ---
+
+
 
 
 1 Tout Israël s'assembla donc près de David à Hébron, disant : Nous sommes votre os et votre chair.

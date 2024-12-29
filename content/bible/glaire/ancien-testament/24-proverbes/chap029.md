@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 29"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  De celui qui méprise les réprimandes.
-  De la ruine des méchants.
-  De la correction des enfants.
-  Des instructions des prophètes.
-  De l’homme superbe.
-  De la crainte des hommes.
+summary: "\nDe celui qui m\xE9prise les r\xE9primandes.\nDe la ruine des m\xE9chants.\n\
+  De la correction des enfants.\nDes instructions des proph\xE8tes.\nDe l\u2019homme\
+  \ superbe.\nDe la crainte des hommes.\n"
+title: Chapitre 29
 ---
+
+
 
 
 1 A l'homme qui avec un cou roide méprise celui qui le reprend, surviendra une mort soudaine; et la guérison ne le suivra pas.

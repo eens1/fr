@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 15"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Prophétie contre les habitants de Jérusalem comparés au bois de la vigne qui n’est bon qu’à brûler.
+summary: "\nProph\xE9tie contre les habitants de J\xE9rusalem compar\xE9s au bois\
+  \ de la vigne qui n\u2019est bon qu\u2019\xE0 br\xFBler.\n"
+title: Chapitre 15
 ---
+
+
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

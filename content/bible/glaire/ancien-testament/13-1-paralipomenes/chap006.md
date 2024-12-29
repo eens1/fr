@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 6"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Postérité de Lévi.
-  Descendants d’Aaron.
-  Fonctions des prêtres et des Lévites.
-  Villes qui leur furent assignées pour demeures.
+summary: "\nPost\xE9rit\xE9 de L\xE9vi.\nDescendants d\u2019Aaron.\nFonctions des\
+  \ pr\xEAtres et des L\xE9vites.\nVilles qui leur furent assign\xE9es pour demeures.\n"
+title: Chapitre 6
 ---
+
+
 
 
 1 Les fils de Lévi furent Gerson, Caath et Mérari;

@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 60"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  David invoque le secours du Seigneur avec cette ferme confiance que lui inspire la puissante protection dont il l’a toujours honoré.
-  Pour la fin.
+summary: "\nDavid invoque le secours du Seigneur avec cette ferme confiance que lui\
+  \ inspire la puissante protection dont il l\u2019a toujours honor\xE9.\nPour la\
+  \ fin.\n"
+title: Chapitre 60
 ---
+
+
 
 
 1 Dans les hymnes de David.

@@ -1,8 +1,10 @@
 ---
-title: "Saint François à propos de la sainte pauvreté"
-date: 2024-09-06T20:00:58+02:00
+date: 2024-09-06 20:00:58+02:00
 draft: false
+title: "Saint Fran\xE7ois \xE0 propos de la sainte pauvret\xE9"
 ---
+
+
 
 
 Source : Berthaumier 1863, pp. 115-117.

@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Guérison d’un paralytique.
-  Vocation de saint Matthieu.
-  Etoffe neuve.
-  Outres vieilles.
-  Murmures des pharisiens contre les disciples de Jésus-Christ qui arrachaient des épis un jour de sabbat.
+summary: "\nGu\xE9rison d\u2019un paralytique.\nVocation de saint Matthieu.\nEtoffe\
+  \ neuve.\nOutres vieilles.\nMurmures des pharisiens contre les disciples de J\xE9\
+  sus-Christ qui arrachaient des \xE9pis un jour de sabbat.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Or il entra de nouveau dans Capharnaüm, quelques jours après.

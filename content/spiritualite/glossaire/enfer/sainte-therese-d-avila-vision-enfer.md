@@ -1,8 +1,10 @@
 ---
-title: "Vision de l’Enfer de Ste Térèse d’Avila"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: "Vision de l\u2019Enfer de Ste T\xE9r\xE8se d\u2019Avila"
 ---
+
+
 
 
 <p>Oeuvres de sainte Térèse, traduites d'après les manuscrits originaux par R. P. Marcel Bouix, Tome I, <i>Vie de sainte Térèse, écrite par elle-même</i>, pp. 443-449, 1852.</p>

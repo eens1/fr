@@ -1,8 +1,10 @@
 ---
-title: "Caput 5"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 5
 ---
+
+
 
 
 1 Nunciatumque est Holoferni principi militiae Assyriorum, quod filii Israel praepararent se ad resistendum, ac montium itinera conclusissent,

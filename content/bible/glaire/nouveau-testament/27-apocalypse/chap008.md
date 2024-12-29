@@ -1,17 +1,15 @@
 ---
-title: "Chapitre 8"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
-summary: |
-  
-  Ouverture du septième sceau.
-  Sept anges paraissent avec sept trompettes.
-  Première trompette, grêle accompagnée de feu et de sang.
-  Deuxième trompette, montagne tout en feu jetée dans la mer.
-  Troisième trompette, étoile d’absinthe qui corrompt les eaux.
-  Quatrième trompette, la troisième partie de la lumière est obscurcie.
-  Annonce des trois malheurs qui vont suivre.
+summary: "\nOuverture du septi\xE8me sceau.\nSept anges paraissent avec sept trompettes.\n\
+  Premi\xE8re trompette, gr\xEAle accompagn\xE9e de feu et de sang.\nDeuxi\xE8me trompette,\
+  \ montagne tout en feu jet\xE9e dans la mer.\nTroisi\xE8me trompette, \xE9toile\
+  \ d\u2019absinthe qui corrompt les eaux.\nQuatri\xE8me trompette, la troisi\xE8\
+  me partie de la lumi\xE8re est obscurcie.\nAnnonce des trois malheurs qui vont suivre.\n"
+title: Chapitre 8
 ---
+
+
 
 
 1 Lorsque l'Agneau eut ouvert le septième sceau, il se fit un silence dans le ciel d'environ une demi-heure.

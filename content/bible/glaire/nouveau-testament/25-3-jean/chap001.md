@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Affection de saint Jean pour Gaïus, dont il loue la piété.
-  Diotrèphe ne reconnaît pas saint Jean.
-  Témoignage de la vertu de Démétrius.
-  Saint Jean espère aller voir Gaïus.
+summary: "\nAffection de saint Jean pour Ga\xEFus, dont il loue la pi\xE9t\xE9.\n\
+  Diotr\xE8phe ne reconna\xEEt pas saint Jean.\nT\xE9moignage de la vertu de D\xE9\
+  m\xE9trius.\nSaint Jean esp\xE8re aller voir Ga\xEFus.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Le vieillard, au très cher Gaïus que j'aime dans la vérité.

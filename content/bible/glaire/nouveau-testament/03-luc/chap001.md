@@ -1,17 +1,13 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Prologue de saint Luc.
-  Naissance de saint Jean-Baptiste.
-  L’incarnation du Verbe annoncée.
-  Visite de la sainte Vierge à sainte Elisabeth.
-  Son cantique.
-  Naissance de saint Jean-Baptiste.
-  Cantique de Zacharie.
+summary: "\nPrologue de saint Luc.\nNaissance de saint Jean-Baptiste.\nL\u2019incarnation\
+  \ du Verbe annonc\xE9e.\nVisite de la sainte Vierge \xE0 sainte Elisabeth.\nSon\
+  \ cantique.\nNaissance de saint Jean-Baptiste.\nCantique de Zacharie.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Comme beaucoup ont entrepris de mettre par ordre le récit des choses qui se sont accomplies parmi nous,

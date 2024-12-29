@@ -1,8 +1,10 @@
 ---
-title: "Dans la Bible"
-date: 2024-09-06T20:03:00+02:00
+date: 2024-09-06 20:03:00+02:00
 draft: false
+title: Dans la Bible
 ---
+
+
 
 
 > *Nombres 30:3-17* : "Si un homme a voué un voeu au Seigneur, ou s'est lié par serment, il ne rendra point vaine sa parole, mais il effectuera tout ce qu'il a promis. 

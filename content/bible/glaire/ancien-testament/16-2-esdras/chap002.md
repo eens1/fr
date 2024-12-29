@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Néhémias obtient d’Artaxerxès la permission d’aller à Jérusalem et de la rebâtir.
-  Il va à Jérusalem et exhorte les Juifs à en relever les murs.
+summary: "\nN\xE9h\xE9mias obtient d\u2019Artaxerx\xE8s la permission d\u2019aller\
+  \ \xE0 J\xE9rusalem et de la reb\xE2tir.\nIl va \xE0 J\xE9rusalem et exhorte les\
+  \ Juifs \xE0 en relever les murs.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Or il arriva au mois de Nisan, en la vingtième année du roi Artaxerxès, que le vin était devant lui ; et je pris le vin, et je le donnai au roi, et jetais comme languissant devant sa face.

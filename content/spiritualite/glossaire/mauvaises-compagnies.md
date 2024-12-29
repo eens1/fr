@@ -1,8 +1,10 @@
 ---
-title: "Mauvaises compagnies"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: Mauvaises compagnies
 ---
+
+
 
 
 > *Psaumes 1:1* : "Heureux l'homme qui n'est pas allé au conseil des impies, qui ne s'est pas arrêté dans la voie des pécheurs, qui ne s'est pas assis dans la chaire de pestilence." [^1]

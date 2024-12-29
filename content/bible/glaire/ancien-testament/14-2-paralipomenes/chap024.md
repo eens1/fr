@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 24"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Piété de Joas ; il répare la maison du Seigneur, puis il abandonne le culte du Seigneur, fait lapider Zacharie, et est assassiné.
-  Amasias lui succède.
+summary: "\nPi\xE9t\xE9 de Joas ; il r\xE9pare la maison du Seigneur, puis il abandonne\
+  \ le culte du Seigneur, fait lapider Zacharie, et est assassin\xE9.\nAmasias lui\
+  \ succ\xE8de.\n"
+title: Chapitre 24
 ---
+
+
 
 
 1 Joas avait sept ans quand il commença à régner, et il régna quarante ans à Jérusalem ; le nom de sa mère était Sébia de Bersabée.

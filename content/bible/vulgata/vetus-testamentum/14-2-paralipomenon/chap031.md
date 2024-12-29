@@ -1,8 +1,10 @@
 ---
-title: "Caput 31"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 31
 ---
+
+
 
 
 1 Cumque haec fuissent rite celebrata, egressus est omnis Israel, qui inventus fuerat in urbibus Iuda, et fregerunt simulacra, succideruntque lucos, demoliti sunt excelsa, et altaria destruxerunt, non solum de universo Iuda et Beniamin, sed et de Ephraim quoque et Manasse, donec penitus everterent: reversique sunt omnes filii Israel in possessiones et civitates suas.

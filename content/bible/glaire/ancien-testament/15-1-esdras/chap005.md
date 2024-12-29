@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Aggée et Zacharie exhortent les Juifs à continuer la construction du temple.
-  Les officiers de Darius en informent ce prince.
+summary: "\nAgg\xE9e et Zacharie exhortent les Juifs \xE0 continuer la construction\
+  \ du temple.\nLes officiers de Darius en informent ce prince.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Or Aggée, le prophète, et Zacharie, fils d'Addo, prophétisèrent, prophétisant aux Juifs qui étaient en Judée et à Jérusalem, au nom du Dieu d'Israël.

@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 14"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Le don de prophétie préférable au don des langues, et le don des langues inutile aux fidèles sans le don d’interprétation.
-  Règles pour l’usage de ces dons.
-  Les femmes doivent garder le silence dans les Eglises.
+summary: "\nLe don de proph\xE9tie pr\xE9f\xE9rable au don des langues, et le don\
+  \ des langues inutile aux fid\xE8les sans le don d\u2019interpr\xE9tation.\nR\xE8\
+  gles pour l\u2019usage de ces dons.\nLes femmes doivent garder le silence dans les\
+  \ Eglises.\n"
+title: Chapitre 14
 ---
+
+
 
 
 1 Recherchez avec ardeur la charité; désirez les dons spirituels, et surtout de prophétiser.

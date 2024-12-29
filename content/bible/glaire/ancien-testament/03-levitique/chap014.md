@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 14"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Lois pour la purification des lépreux.
-  Lois touchant la lèpre des maisons.
+summary: "\nLois pour la purification des l\xE9preux.\nLois touchant la l\xE8pre des\
+  \ maisons.\n"
+title: Chapitre 14
 ---
+
+
 
 
 1 Le Seigneur parla encore à Moïse, disant :

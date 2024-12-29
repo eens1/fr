@@ -1,8 +1,10 @@
 ---
-title: "Caput 51"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 51
 ---
+
+
 
 
 1 Oratio Iesu filii Sirach: Confitebor tibi Domine rex, et collaudabo te Deum salvatorem meum.

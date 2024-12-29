@@ -1,12 +1,11 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Mission de Jérémie.
-  Maux qui doivent fondre sur la terre de Juda.
+summary: "\nMission de J\xE9r\xE9mie.\nMaux qui doivent fondre sur la terre de Juda.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Paroles de Jérémie, fils d'Helcias, un des prêtres qui demeuraient à Anathoth, dans la terre de Benjamin.

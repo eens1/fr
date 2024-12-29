@@ -1,8 +1,10 @@
 ---
-title: "Caput 2"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 2
 ---
+
+
 
 
 1 Haec visio similitudinis gloriae Domini. et vidi, et cecidi in faciem meam, et audivi vocem loquentis. Et dixit ad me: Fili hominis sta super pedes tuos, et loquar tecum.

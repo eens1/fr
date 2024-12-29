@@ -1,8 +1,10 @@
 ---
-title: "Caput 7"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 7
 ---
+
+
 
 
 1 Factum est autem cum sedisset rex in domo sua, et Dominus dedisset ei requiem undique ab universis inimicis suis,

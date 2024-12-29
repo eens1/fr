@@ -1,8 +1,10 @@
 ---
-title: "Caput 29"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 29
 ---
+
+
 
 
 1 Congregata sunt ergo Philisthiim universa agmina in Aphec: sed et Israel castrametatus est super fontem, qui erat in Iezrahel.

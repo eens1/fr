@@ -1,8 +1,10 @@
 ---
-title: "Chap. 5 - Obligations et privilèges des religieux (592-631)"
-date: 2024-09-06T20:00:57+02:00
+date: 2024-09-06 20:00:57+02:00
 draft: false
+title: "Chap. 5 - Obligations et privil\xE8ges des religieux (592-631)"
 ---
+
+
   
   
   **592**

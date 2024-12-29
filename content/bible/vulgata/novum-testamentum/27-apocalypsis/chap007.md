@@ -1,8 +1,10 @@
 ---
-title: "Caput 7"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 7
 ---
+
+
 
 
 1 Post haec vidi quattuor Angelos stantes super quattuor angulos terrae, tenentes quattuor ventos terrae ne flarent super terram, neque super mare, neque in ullam arborem.

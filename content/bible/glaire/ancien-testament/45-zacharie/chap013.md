@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Fontaine ouverte à la maison de David et aux habitants de Jérusalem.
-  Idoles abolies.
-  Faux prophètes punis.
-  Pasteur frappé, brebis dispersées.
-  Deux parties du peuple sont dispersées, la troisième conservée, éprouvée comme par le feu.
+summary: "\nFontaine ouverte \xE0 la maison de David et aux habitants de J\xE9rusalem.\n\
+  Idoles abolies.\nFaux proph\xE8tes punis.\nPasteur frapp\xE9, brebis dispers\xE9\
+  es.\nDeux parties du peuple sont dispers\xE9es, la troisi\xE8me conserv\xE9e, \xE9\
+  prouv\xE9e comme par le feu.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 En ce jour-là, il y aura une fontaine ouverte à la maison de David et aux habitants de Jérusalem, pour laver le pécheur et la femme qui est dans ses mois.

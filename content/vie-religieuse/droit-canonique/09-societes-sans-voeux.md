@@ -1,8 +1,11 @@
 ---
-title: "Chap. 9 - Les sociétés d'hommes ou de femmes, vivant en commun sans voeux (673 - 681)"
-date: 2024-09-06T20:00:57+02:00
+date: 2024-09-06 20:00:57+02:00
 draft: false
+title: "Chap. 9 - Les soci\xE9t\xE9s d'hommes ou de femmes, vivant en commun sans\
+  \ voeux (673 - 681)"
 ---
+
+
 
 
 **673**

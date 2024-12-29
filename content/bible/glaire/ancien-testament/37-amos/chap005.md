@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Le prophète déplore la ruine d’Israël.
-  Il l’exhorte à prévenir la colère du Seigneur.
-  Jour terrible des vengeances du Seigneur.
-  Culte illégitime rejeté.
+summary: "\nLe proph\xE8te d\xE9plore la ruine d\u2019Isra\xEBl.\nIl l\u2019exhorte\
+  \ \xE0 pr\xE9venir la col\xE8re du Seigneur.\nJour terrible des vengeances du Seigneur.\n\
+  Culte ill\xE9gitime rejet\xE9.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Ecoutez cette parole, chant lugubre que j'entonne sur vous : La maison d'Israël est tombée, elle ne se relèvera plus.

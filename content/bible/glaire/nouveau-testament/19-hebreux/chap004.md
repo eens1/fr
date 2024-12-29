@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Saint Paul continue d’exhorter les Hébreux à s’affermir dans la foi.
-  Il leur montre les conséquences qu’ils doivent tirer du texte qu’il vient de citer.
-  Il excite leur vigilance et ranime leur confiance.
+summary: "\nSaint Paul continue d\u2019exhorter les H\xE9breux \xE0 s\u2019affermir\
+  \ dans la foi.\nIl leur montre les cons\xE9quences qu\u2019ils doivent tirer du\
+  \ texte qu\u2019il vient de citer.\nIl excite leur vigilance et ranime leur confiance.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Craignons donc que, négligeant la promesse d'entrer dans son repos, quelqu'un de vous ne s'en trouve exclu.

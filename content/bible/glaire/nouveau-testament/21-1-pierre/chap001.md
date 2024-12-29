@@ -1,17 +1,14 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Saint Pierre rend grâces à Dieu de la vocation des fidèles.
-  Afflictions, épreuves de la foi.
-  Salut annoncé par les prophètes.
-  Sainteté de conduite.
-  Estime du prix de nos âmes.
-  Charité pure et sincère.
-  Régénération par la parole de l’Evangile.
+summary: "\nSaint Pierre rend gr\xE2ces \xE0 Dieu de la vocation des fid\xE8les.\n\
+  Afflictions, \xE9preuves de la foi.\nSalut annonc\xE9 par les proph\xE8tes.\nSaintet\xE9\
+  \ de conduite.\nEstime du prix de nos \xE2mes.\nCharit\xE9 pure et sinc\xE8re.\n\
+  R\xE9g\xE9n\xE9ration par la parole de l\u2019Evangile.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Pierre, apôtre de Jésus-Christ, aux étrangers de la dispersion dans le Pont, la Galatie, la Cappadoce, l'Asie et la Bithynie, élus,

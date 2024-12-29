@@ -1,8 +1,10 @@
 ---
-title: "Caput 24"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 24
 ---
+
+
 
 
 1 Sapientia laudabit animam suam, et in Deo honorabitur, et in medio populi sui gloriabitur,

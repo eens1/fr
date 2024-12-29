@@ -1,8 +1,10 @@
 ---
-title: "Caput 11"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 11
 ---
+
+
 
 
 1 Habitaverunt autem principes populi in Ierusalem: reliqua vero plebs misit sortem, ut tollerent unam partem de decem qui habitaturi essent in Ierusalem civitate sancta, novem vero partes in civitatibus.

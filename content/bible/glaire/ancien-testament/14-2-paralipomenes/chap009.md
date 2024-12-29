@@ -1,15 +1,12 @@
 ---
-title: "Chapitre 9"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  La reine de Saba vient voir Salomon.
-  Richesses de ce prince.
-  Description de son trône.
-  Mort de Salomon.
-  Roboam lui succède.
+summary: "\nLa reine de Saba vient voir Salomon.\nRichesses de ce prince.\nDescription\
+  \ de son tr\xF4ne.\nMort de Salomon.\nRoboam lui succ\xE8de.\n"
+title: Chapitre 9
 ---
+
+
 
 
 1 La reine de Saba aussi, ayant appris la renommée de Salomon, vint à Jérusalem pour l'éprouver par des énigmes, avec de grandes richesses, et des chameaux qui portaient des aromates, et une grande quantité d'or, et des pierres précieuses. Et lorsqu'elle lut venue vers Salomon, elle lui dit tout ce qui était en son coeur.

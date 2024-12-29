@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Job continue de se défendre contre les reproches de ses amis.
-  Il témoigne sa confiance en Dieu, et il lui adresse ses plaintes.
+summary: "\nJob continue de se d\xE9fendre contre les reproches de ses amis.\nIl t\xE9\
+  moigne sa confiance en Dieu, et il lui adresse ses plaintes.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 Voilà que mon oeil a vu toutes ces choses, et que mon oreille les a ouïes, et que je les ai comprises une à une. 2 Et je sais, moi aussi, selon votre science, et je ne suis point inférieur à vous.

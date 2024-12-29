@@ -1,11 +1,13 @@
 ---
-title: "Chapitre 8"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Eloge de la sagesse, par l’éminence et la justice de ses maximes, par ses oeuvres admirables et par les récompenses qu’elle accorde à ceux qui la cherchent.
+summary: "\nEloge de la sagesse, par l\u2019\xE9minence et la justice de ses maximes,\
+  \ par ses oeuvres admirables et par les r\xE9compenses qu\u2019elle accorde \xE0\
+  \ ceux qui la cherchent.\n"
+title: Chapitre 8
 ---
+
+
 
 
 1 Est-ce que la sagesse ne crie pas, et que la prudence ne fait pas entendre sa voix?

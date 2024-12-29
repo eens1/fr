@@ -1,8 +1,10 @@
 ---
-title: "Après la Confession"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: "Apr\xE8s la Confession"
 ---
+
+
 
 
 > *Saint Léonard de Port-Maurice* : "O bien-aimé Jésus ! soyez éternellement béni ! en me pardonnant mes péchés, vous m'avez arraché à l'enfer, et restitué dans mes droits à l'héritage céleste. Bonté infinie, je vous en remercie. Mon Dieu, je suis encore capable de vous trahir plus que je ne l'ai fait par le passé, plus que Judas lui-même; je ne puis me fier en moi-même; assistez-moi de votre grâce, ayez toujours la main sur moi, aidez-moi dans les tentations, et ôtez-moi la vie plutôt que de permettre que je vous offense encore." [^1]

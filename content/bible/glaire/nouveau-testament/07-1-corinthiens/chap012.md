@@ -1,12 +1,14 @@
 ---
-title: "Chapitre 12"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Il y a divers dons du Saint-Esprit qui les distribue comme il le juge à propos pour l’utilité de l’Eglise.
-  Toute l’Eglise est un seul corps ; chaque membre a sa fonction ; tous ont besoin les uns des autres et doivent travailler à l’utilité commune.
+summary: "\nIl y a divers dons du Saint-Esprit qui les distribue comme il le juge\
+  \ \xE0 propos pour l\u2019utilit\xE9 de l\u2019Eglise.\nToute l\u2019Eglise est\
+  \ un seul corps ; chaque membre a sa fonction ; tous ont besoin les uns des autres\
+  \ et doivent travailler \xE0 l\u2019utilit\xE9 commune.\n"
+title: Chapitre 12
 ---
+
+
 
 
 1 Quant aux dons spirituels, je ne veux pas, mes frères, que vous soyez dans l'ignorance. 2 Or vous savez que quand vous étiez gentils, vous couriez aux idoles muettes, selon qu'on vous y conduisait. 3 Je vous déclare donc que personne parlant dans l'esprit de Dieu, ne dit anathème à Jésus. Et personne ne peut dire Seigneur Jésus, que par l'Esprit-Saint.

@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 83"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste soupire après le tabernacle du Seigneur dont il se trouve éloigné par la persécution de ses ennemis, et il peint le bonheur de ceux qui passent leur vie dans ses parvis.
-  Il apprend ainsi aux chrétiens à désirer avec ardeur les tabernacles du ciel.
-  Pour la fin.
+summary: "\nLe Psalmiste soupire apr\xE8s le tabernacle du Seigneur dont il se trouve\
+  \ \xE9loign\xE9 par la pers\xE9cution de ses ennemis, et il peint le bonheur de\
+  \ ceux qui passent leur vie dans ses parvis.\nIl apprend ainsi aux chr\xE9tiens\
+  \ \xE0 d\xE9sirer avec ardeur les tabernacles du ciel.\nPour la fin.\n"
+title: Chapitre 83
 ---
+
+
 
 
 1 Pour les pressoirs, aux fils de Coré, psaume.

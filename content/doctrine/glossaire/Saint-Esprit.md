@@ -1,8 +1,10 @@
 ---
-title: "Saint-Esprit"
-date: 2024-09-06T20:02:54+02:00
+date: 2024-09-06 20:02:54+02:00
 draft: false
+title: Saint-Esprit
 ---
+
+
 
 
 > *Jean 15:26* : "Mais lorsque sera venu le Paraclet que je vous enverrai du Père, l'Esprit de vérité qui procède du Père, il rendra témoignage de moi." [^1]

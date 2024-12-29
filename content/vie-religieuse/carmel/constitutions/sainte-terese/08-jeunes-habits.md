@@ -1,8 +1,10 @@
 ---
-title: "Jeûnes et habits"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: "Je\xFBnes et habits"
 ---
+
+
 
 
 "1. Il faut jeûner depuis le jour de l'Exaltation de la sainte Croix en septembre jusques à Pâques, excepté les dimanches. On ne doit jamais manger de chair, si ce n'est pour nécessité, quand la règle le commande." [^1]

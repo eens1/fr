@@ -1,8 +1,10 @@
 ---
-title: "Caput 21"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 21
 ---
+
+
 
 
 1 Quod cum audisset Chananaeus rex Arad, qui habitabat ad meridiem, venisse scilicet Israel per exploratorum viam, pugnavit contra illum, et victor existens, duxit ex eo praedam.

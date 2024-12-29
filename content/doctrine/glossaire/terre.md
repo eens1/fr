@@ -1,8 +1,10 @@
 ---
-title: "Terre"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Terre
 ---
+
+
 
 
 > *Psaumes 9:9* : "Et lui-même jugera le globe de la terre avec équité, il jugera les peuples avec justice." [^1]

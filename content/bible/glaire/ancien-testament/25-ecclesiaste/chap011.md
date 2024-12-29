@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 11"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Faire l’aumône.
-  OEuvres de Dieu inconnues.
-  Avoir sans cesse devant les yeux le jugement de Dieu.
-  Vanité de la jeunesse.
+summary: "\nFaire l\u2019aum\xF4ne.\nOEuvres de Dieu inconnues.\nAvoir sans cesse\
+  \ devant les yeux le jugement de Dieu.\nVanit\xE9 de la jeunesse.\n"
+title: Chapitre 11
 ---
+
+
 
 
 1 Répands ton pain sur les eaux qui passent; parce qu'après beaucoup de temps tu le trouveras.

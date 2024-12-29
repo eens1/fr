@@ -1,8 +1,10 @@
 ---
-title: "Caput 96"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 96
 ---
+
+
 
 
 1 Huic David, Quando terra eius restituta est. Dominus regnavit, exultet terra: laetentur insulae multae.

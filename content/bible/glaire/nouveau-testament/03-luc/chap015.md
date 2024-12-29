@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 15"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Murmures des pharisiens contre Jésus-Christ qui reçoit les pécheurs.
-  Paraboles de la brebis égarée, de la drachme perdue et de l’enfant prodigue.
+summary: "\nMurmures des pharisiens contre J\xE9sus-Christ qui re\xE7oit les p\xE9\
+  cheurs.\nParaboles de la brebis \xE9gar\xE9e, de la drachme perdue et de l\u2019\
+  enfant prodigue.\n"
+title: Chapitre 15
 ---
+
+
 
 
 1 Or les publicains et les pécheurs s'approchaient de Jésus pour l'entendre. 2 Et les pharisiens et les scribes murmuraient, disant : Celui-ci accueille les pécheurs et mange avec eux. 3 Et il leur proposa cette parabole, disant :

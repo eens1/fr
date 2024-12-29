@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Voyage des Israélites depuis Cadèsbarné jusqu’au pays de Séhon.
-  Dieu leur défend de combattre les Iduméens, les Moabites et les Amorrhéens.
-  Défaite de Séhon, roi des Amorrhéens.
+summary: "\nVoyage des Isra\xE9lites depuis Cad\xE8sbarn\xE9 jusqu\u2019au pays de\
+  \ S\xE9hon.\nDieu leur d\xE9fend de combattre les Idum\xE9ens, les Moabites et les\
+  \ Amorrh\xE9ens.\nD\xE9faite de S\xE9hon, roi des Amorrh\xE9ens.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Or, partis de là, nous vînmes au désert qui conduit à la mer Rouge, comme m'avait dit le Seigneur, et nous tournâmes autour de la montagne de Séir, durant un long temps. 2 Et le Seigneur me dit :3 Vous avez suffisamment tourné autour de cette montagne, allez contre l'aquilon :4 Et ordonne au peuple, disant : Vous passerez par les frontières de vos frères, les enfants d'Esaü, qui habitent à Séir, et ils vous craindront.

@@ -1,8 +1,10 @@
 ---
-title: "Caput 9"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 9
 ---
+
+
 
 
 1 In die autem vigesimoquarto mensis huius convenerunt filii Israel in ieiunio et in saccis, et humus super eos.

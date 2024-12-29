@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 6"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Jésus méprisé dans sa patrie.
-  Mission des Apôtres.
-  Mort de saint Jean-Baptiste.
-  Multiplication des cinq pains.
-  Jésus marche sur les eaux.
-  Vertu des vêtements de Jésus-Christ.
+summary: "\nJ\xE9sus m\xE9pris\xE9 dans sa patrie.\nMission des Ap\xF4tres.\nMort\
+  \ de saint Jean-Baptiste.\nMultiplication des cinq pains.\nJ\xE9sus marche sur les\
+  \ eaux.\nVertu des v\xEAtements de J\xE9sus-Christ.\n"
+title: Chapitre 6
 ---
+
+
 
 
 1 Etant parti de là. il s'en alla dans son pays, et ses disciples le suivirent.

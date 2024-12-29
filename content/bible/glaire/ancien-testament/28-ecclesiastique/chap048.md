@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 48"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Eloge d’Elie, d’Elisée, d’Ezéchias et d’Isaïe.
+summary: "\nEloge d\u2019Elie, d\u2019Elis\xE9e, d\u2019Ez\xE9chias et d\u2019Isa\xEF\
+  e.\n"
+title: Chapitre 48
 ---
+
+
 
 
 1 Et Elie, prophète, se leva comme un feu, et sa parole brûlait comme une torche ardente.

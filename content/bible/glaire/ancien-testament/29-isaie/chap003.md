@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Désolation de Juda et de Jérusalem.
-  Reproches du Seigneur contre les princes de son peuple.
-  Il condamne l’orgueil et le luxe des filles de Sion.
+summary: "\nD\xE9solation de Juda et de J\xE9rusalem.\nReproches du Seigneur contre\
+  \ les princes de son peuple.\nIl condamne l\u2019orgueil et le luxe des filles de\
+  \ Sion.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 Car voici que le dominateur, Seigneur des armées, enlèvera de Jérusalem le robuste et le fort, tout soutien de pain, et tout soutien d'eau ; 2 Le fort et l'homme de guerre, le juge et le prophète, le devin et le vieillard;

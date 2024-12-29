@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 36"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Loi touchant les mariages des filles qui ont hérité, à défaut d’enfants mâles.
+summary: "\nLoi touchant les mariages des filles qui ont h\xE9rit\xE9, \xE0 d\xE9\
+  faut d\u2019enfants m\xE2les.\n"
+title: Chapitre 36
 ---
+
+
 
 
 1 Or, les princes des familles de Galaad, fils de Machir, fils de Manassé, de la race des fils de Joseph, s'approchèrent, parlèrent à Moïse devant les princes d'Israël et dirent :

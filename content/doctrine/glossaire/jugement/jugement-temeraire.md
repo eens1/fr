@@ -1,8 +1,10 @@
 ---
-title: "Jugement téméraire"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "Jugement t\xE9m\xE9raire"
 ---
+
+
 
 
 > *Saint Alphone de Liguori* : "Le jugement téméraire est péché mortel, quand, sans un fondement suffisant, on juge que le prochain a commis une faute grave; de sorte que ces jugements sont rarement mortels, parce qu'ordinairement on croit que le fondement est suffisant, ou qu'on ne forme pas des jugements absolus, mais seulement des soupçons qui, (quoique téméraires), ne sont ordinairement pas mortels, à moins qu'il ne s'agit d'énormités, comme d'hérésies, de parricides, etc." [^1]

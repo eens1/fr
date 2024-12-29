@@ -1,11 +1,11 @@
 ---
-title: "Un \"vrai croyant\" peut-il perdre la foi ?"
-date: 2024-09-06T20:02:29+02:00
+date: 2024-09-06 20:02:29+02:00
 draft: false
-summary: |
-
-   Certains protestants pensent qu'un \"vrai croyant\" ne pourra jamais perdre la foi. Cette assertion est hérétique et antibiblique.
+summary: "\nCertains protestants pensent qu'un \\\"vrai croyant\\\" ne pourra jamais\
+  \ perdre la foi. Cette assertion est h\xE9r\xE9tique et antibiblique.\n"
+title: Un "vrai croyant" peut-il perdre la foi ?
 ---
+
 
 > *1 Timothée 1:19:20* : " Conservant la foi et la bonne conscience que quelques-uns ont repoussée, et ils ont fait naufrage dans la foi; de ce nombre sont Hyménée et Alexandre, que j'ai livrés à Satan pour qu'ils apprennent à ne point blasphémer." [^1]
 

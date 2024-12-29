@@ -1,8 +1,10 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Dans la Tradition
 ---
+
+
 
 
 > *Pape Pie IX, Concile Vatican I, sess. 3, canon 3, de la Foi, 24 avril 1870* : "1° Si quelqu'un dit que la raison humaine est tellement indépendante que Dieu ne peut exiger d'elle la loi; qu'il soit anathème.

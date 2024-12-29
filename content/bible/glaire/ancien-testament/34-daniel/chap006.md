@@ -1,16 +1,15 @@
 ---
-title: "Chapitre 6"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Daniel élevé en honneur par Darius le Mède.
-  Jalousie des satrapes contre lui.
-  Ordonnance qu’ils obtiennent contre lui du roi.
-  Accusation qu’ils forment contre Daniel.
-  Daniel est jeté dans la fosse aux lions, et il en sort sans être blessé.
-  Edit de Darius en faveur de la religion des Juifs.
+summary: "\nDaniel \xE9lev\xE9 en honneur par Darius le M\xE8de.\nJalousie des satrapes\
+  \ contre lui.\nOrdonnance qu\u2019ils obtiennent contre lui du roi.\nAccusation\
+  \ qu\u2019ils forment contre Daniel.\nDaniel est jet\xE9 dans la fosse aux lions,\
+  \ et il en sort sans \xEAtre bless\xE9.\nEdit de Darius en faveur de la religion\
+  \ des Juifs.\n"
+title: Chapitre 6
 ---
+
+
 
 
 1 Il plut à Darius d'établir sur le royaume cent vingt satrapes; afin qu'il y en eût dans tout son royaume;

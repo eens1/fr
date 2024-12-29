@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Des faux prophètes et de la séduction pour entraîner à l’idolâtrie.
+summary: "\nDes faux proph\xE8tes et de la s\xE9duction pour entra\xEEner \xE0 l\u2019\
+  idol\xE2trie.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 S'il s'élève au milieu de toi un prophète, ou quelqu'un qui dise qu'il a vu un songe, qui prédise un signe ou un prodige,

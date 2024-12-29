@@ -1,8 +1,10 @@
 ---
-title: "Caput 12"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
+title: Caput 12
 ---
+
+
 
 
 1 In illo tempore abiit Iesus per sata sabbato: discipuli autem eius esurientes coeperunt vellere spicas, et manducare.

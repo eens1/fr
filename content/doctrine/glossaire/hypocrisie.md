@@ -1,8 +1,10 @@
 ---
-title: "Hypocrisie"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Hypocrisie
 ---
+
+
 
 
 > *Matthieu 7:21* : "Ce ne sont pas tous ceux qui me disent : Seigneur, Seigneur, qui entreront dans le royaume des cieux; mais celui qui fait la volonté de mon Père qui est aux cieux, celui-là entrera dans le royaume des cieux." [^1]

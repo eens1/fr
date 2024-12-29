@@ -1,8 +1,10 @@
 ---
-title: "Correction"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: Correction
 ---
+
+
 
 
 > *François de Sainte Marie* : "Nous avons encore reçu de ces premiers religieux l'usage de la correction des fautes journalières, qui se pratique pour l'ordinaire tous les jours après la réfection du soir : ils ne se contentèrent pas du chapitre que la règle ordonne, que le prieur tienne une fois en chaque semaine; mais ils établirent un d'entre eux qui fût zélateur, et qui les reprît tous les soirs des fautes qu'il aurait remarquées, durant le jour en tous leurs déportements.

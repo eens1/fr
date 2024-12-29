@@ -1,8 +1,10 @@
 ---
-title: "Caput 10"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 10
 ---
+
+
 
 
 1 Profectus est autem Roboam in Sichem: illuc enim cunctus Israel convenerat ut constituerent eum regem.

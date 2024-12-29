@@ -1,8 +1,10 @@
 ---
-title: "Caput 6"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
+title: Caput 6
 ---
+
+
 
 
 1 Factum est autem in sabbato secundo, primo, cum transiret per sata, vellebant discipuli eius spicas, et manducabant confricantes manibus.

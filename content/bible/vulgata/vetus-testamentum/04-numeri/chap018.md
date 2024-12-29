@@ -1,8 +1,10 @@
 ---
-title: "Caput 18"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 18
 ---
+
+
 
 
 1 Dixitque Dominus ad Aaron: Tu, et filii tui, et domus patris tui tecum portabitis iniquitatem Sanctuarii: et tu et filii tui simul sustinebitis peccata sacerdotii vestri.

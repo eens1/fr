@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 37"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Du vrai et du faux ami.
-  Choisir son conseil avec soin.
-  Consulter le Seigneur.
-  Science vraie et fausse, utile et dangereuse.
-  Suites funestes de l’intempérance.
+summary: "\nDu vrai et du faux ami.\nChoisir son conseil avec soin.\nConsulter le\
+  \ Seigneur.\nScience vraie et fausse, utile et dangereuse.\nSuites funestes de l\u2019\
+  intemp\xE9rance.\n"
+title: Chapitre 37
 ---
+
+
 
 
 1 Ton ami dira : Moi aussi j'ai lié amitié; mais il est un ami, de nom seulement ami. N'y a-t-il pas là un sujet de tristesse jusqu'à la mort? 2 En outre un compagnon et un ami tourneront à l'inimitié. 3 Ô présomption criminelle, d'où as-tu été créée, pour couvrir la terre de sa malice et de sa perfidie?

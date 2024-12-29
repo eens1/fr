@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 16"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Job se plaint de la dureté de ses amis.
-  Il expose ses maux et met sa confiance en Dieu, qui est témoin de son innocence.
+summary: "\nJob se plaint de la duret\xE9 de ses amis.\nIl expose ses maux et met\
+  \ sa confiance en Dieu, qui est t\xE9moin de son innocence.\n"
+title: Chapitre 16
 ---
+
+
 
 
 1 Mais, répondant, Job dit :

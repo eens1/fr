@@ -1,11 +1,13 @@
 ---
-title: "Chapitre 86"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste, en relevant la gloire de Jérusalem sous le nom de Cité de Dieu, décrit celle de l’Eglise de Jésus-Christ, où tous les peuples du monde se sont rassemblés dans une même foi.
+summary: "\nLe Psalmiste, en relevant la gloire de J\xE9rusalem sous le nom de Cit\xE9\
+  \ de Dieu, d\xE9crit celle de l\u2019Eglise de J\xE9sus-Christ, o\xF9 tous les peuples\
+  \ du monde se sont rassembl\xE9s dans une m\xEAme foi.\n"
+title: Chapitre 86
 ---
+
+
 
 
 1 Aux fils de Coré psaume de cantique. Ses fondements sont sur les montagnes saintes;

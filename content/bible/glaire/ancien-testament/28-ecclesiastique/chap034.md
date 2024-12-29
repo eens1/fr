@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 34"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Vanité des songes.
-  Avantage de l’expérience.
-  Bonheur de celui qui craint le Seigneur.
-  Dieu a en horreur les oblations des méchants.
-  Fausse pénitence.
+summary: "\nVanit\xE9 des songes.\nAvantage de l\u2019exp\xE9rience.\nBonheur de celui\
+  \ qui craint le Seigneur.\nDieu a en horreur les oblations des m\xE9chants.\nFausse\
+  \ p\xE9nitence.\n"
+title: Chapitre 34
 ---
+
+
 
 
 1 La vaine espérance et le mensonge à l'homme insensé ; et les songes élèvent les imprudents.

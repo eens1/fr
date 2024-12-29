@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 27"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Punition du prince oppresseur des Israélites.
-  Délivrance de ce peuple.
+summary: "\nPunition du prince oppresseur des Isra\xE9lites.\nD\xE9livrance de ce\
+  \ peuple.\n"
+title: Chapitre 27
 ---
+
+
 
 
 1 En ce jour-là Dieu visitera avec son glaive dur et grand et fort, Léviathan, serpent levier, Léviathan, serpent tortueux, et il tuera le grand poisson qui est dans la mer.

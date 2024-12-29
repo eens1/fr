@@ -1,8 +1,10 @@
 ---
-title: "Caput 12"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 12
 ---
+
+
 
 
 1 Dixit autem Samuel ad universum Israel: Ecce audivi vocem vestram iuxta omnia quae locuti estis ad me, et constitui super vos regem.

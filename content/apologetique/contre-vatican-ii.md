@@ -1,11 +1,13 @@
 ---
-title: "Contre la secte Vatican II"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
+description: "Vatican II ne repr\xE9sente pas l'\xC9glise catholique mais une secte\
+  \ qui enseigne un faux-\xE9vangile."
 draft: false
-image: "https://i.ibb.co/C9ZL6q8/jean-paul-ii-embrasse-coran.jpg"
-description: "Vatican II ne représente pas l'Église catholique mais une secte qui enseigne un faux-évangile."
 featured: true
+image: https://i.ibb.co/C9ZL6q8/jean-paul-ii-embrasse-coran.jpg
+title: Contre la secte Vatican II
 ---
+
 
 
 Vatican II est un faux concile proclamé en 1965, qui a non seulement été appelé et confirmé par des antipapes élus non canoniquement, mais qui de plus contient des enseignements très notoirement hérétiques. L'émergence de ce faux concile fait entrer le monde dans la période que l'on nomme *La Grande Apostasie*, bien que cette apostasie était déjà rampante bien avant la promulgation de ce faux concile. 

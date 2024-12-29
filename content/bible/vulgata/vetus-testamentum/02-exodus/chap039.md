@@ -1,8 +1,10 @@
 ---
-title: "Caput 39"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 39
 ---
+
+
 
 
 1 De hyacintho vero et purpura, vermiculo ac bysso fecit vestes, quibus indueretur Aaron quando ministrabat in sanctis, sicut praecepit Dominus Moysi.

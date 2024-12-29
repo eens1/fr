@@ -1,11 +1,11 @@
 ---
-title: "Chapitre 30"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Job décrit l’état où il est tombé.
+summary: "\nJob d\xE9crit l\u2019\xE9tat o\xF9 il est tomb\xE9.\n"
+title: Chapitre 30
 ---
+
+
 
 
 1 Mais maintenant je suis tourné en ridicule par des hommes plus jeunes que moi, dont autrefois je n'aurais pas daigné mettre les pères avec les chiens de mon troupeau ;

@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 18"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Paul vient à Corinthe ; il travaille des mains avec Aquila et Priscille.
-  Il quitte les Juifs et instruit les gentils.
-  Il est accusé devant le proconsul.
-  Il vient à Ephèse, va à Jérusalem, revient à Antioche, parcourt la Galatie et la Phrygie.
-  Apollon vient à Ephèse et passe en Achaïe.
+summary: "\nPaul vient \xE0 Corinthe ; il travaille des mains avec Aquila et Priscille.\n\
+  Il quitte les Juifs et instruit les gentils.\nIl est accus\xE9 devant le proconsul.\n\
+  Il vient \xE0 Eph\xE8se, va \xE0 J\xE9rusalem, revient \xE0 Antioche, parcourt la\
+  \ Galatie et la Phrygie.\nApollon vient \xE0 Eph\xE8se et passe en Acha\xEFe.\n"
+title: Chapitre 18
 ---
+
+
 
 
 1 Après cela, Paul étant parti d'Athènes, vint à Corinthe ;

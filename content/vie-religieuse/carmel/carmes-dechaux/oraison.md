@@ -1,8 +1,10 @@
 ---
-title: "Oraison"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: Oraison
 ---
+
+
 
 
 > *François de Sainte Marie* : "Il ordonnèrent deux heures d'oraison qu'ils faisaient à genoux dans le choeur en communauté..." [^1]

@@ -1,8 +1,10 @@
 ---
-title: "Caput 15"
-date: 2024-09-06T20:00:56+02:00
+date: 2024-09-06 20:00:56+02:00
 draft: false
+title: Caput 15
 ---
+
+
 
 
 1 Nicanor autem, ut comperit Iudam esse in locis Samariae, cogitavit cum omni impetu die sabbati committere bellum.

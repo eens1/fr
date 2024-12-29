@@ -1,8 +1,10 @@
 ---
-title: "Chap. 4 - Du magistère infaillible du Souverain Pontife"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Chap. 4 - Du magist\xE8re infaillible du Souverain Pontife"
 ---
+
+
 
 
 Ce Saint-Siége a toujours tenu, l'usage permanent de l'Eglise le prouve, et les Conciles oecuméniques eux-mêmes, ceux-là surtout où l'Orient se réunissait à l'Occident dans l'union de la foi et de la charité, ont déclaré que le pouvoir suprême du magistère est compris dans la primauté apostolique que le Pontife romain possède sur l'Eglise universelle en sa qualité de successeur de Pierre, prince des Apôtres. C'est ainsi que les Pères du quatrième Concile de Constantinople, marchant sur les traces de leurs prédécesseurs, ont émis cette solennelle profession de foi : « Le salut est avant tout de garder la règle de la vraie foi. Et comme la parole de Notre-Seigneur Jésus-Christ, disant : Tu es Pierre, et sur cette pierre je bêtirai mon Eglise, ne peut être vaine, elle a été vérifiée par les faits; car, dans le Siége apostolique, la religion a toujours été conservée immaculée et la saine doctrine toujours enseignée. Désirant donc de nous séparer en rien de sa foi et de sa doctrine, nous espérons mériter d'être dans l'unique communion que prêche le Siége apostolique, en qui se trouve l'entière et vraie solidité de la religion chrétienne ». Avec l'approbation du deuxième Concile de Lyon, les Grecs ont professé que et la sainte Eglise romaine a la souveraine et pleine primauté et principauté sur l'Eglise catholique universelle, principauté qu'elle reconnaît en toute vérité et humilité avoir reçue, avec la plénitude de la puissance, du Seigneur lui—même dans la personne du bienheureux Pierre, prince ou chef des Apôtres, dont le Pontife romain est le successeur, et, de même qu'elle est tenue plus que toutes les autres de défendre la vérité de la foi, de même, lorsque s'élèvent des questions relativement à la foi, ces questions doivent être définies par son jugement ». Enfin, le Concile de Florence a défini que « le Pontife romain est le vrai vicaire du Christ, la tête de toute l'Eglise, et le père et docteur de tous les chrétiens; et qu'à lui, dans la personne du bienheureux Pierre, a été remis, par Notre-Seigneur Jésus-Christ, le plein pouvoir de paître, de conduire et de gouverner l‘Eglise universelle ».

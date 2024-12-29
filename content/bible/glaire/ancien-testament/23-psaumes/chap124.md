@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 124"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste représente le bonheur de ceux qui se confient en Dieu.
-  Il ne laissera pas longtemps les justes sous la verge des pécheurs.
+summary: "\nLe Psalmiste repr\xE9sente le bonheur de ceux qui se confient en Dieu.\n\
+  Il ne laissera pas longtemps les justes sous la verge des p\xE9cheurs.\n"
+title: Chapitre 124
 ---
+
+
 
 
 1 Cantique des degrés. Ceux qui se confient dans le Seigneur sont comme la montagne de Sion : il ne sera jamais ébranlé, celui qui habite

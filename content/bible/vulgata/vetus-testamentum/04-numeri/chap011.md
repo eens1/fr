@@ -1,8 +1,10 @@
 ---
-title: "Caput 11"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 11
 ---
+
+
 
 
 1 Interea ortum est murmur populi, quasi dolentium pro labore, contra Dominum. Quod cum audisset Dominus, iratus est. Et accensus in eos ignis Domini devoravit extremam castrorum partem.

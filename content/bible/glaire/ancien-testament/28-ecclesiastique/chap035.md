@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 35"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Observation des commandements, sacrifice agréable à Dieu.
-  Offrir ses dons au Seigneur avec joie.
-  Dieu ne fait acception de personne.
-  Il exauce les prières des pauvres, et il perdra ceux qui les oppriment.
+summary: "\nObservation des commandements, sacrifice agr\xE9able \xE0 Dieu.\nOffrir\
+  \ ses dons au Seigneur avec joie.\nDieu ne fait acception de personne.\nIl exauce\
+  \ les pri\xE8res des pauvres, et il perdra ceux qui les oppriment.\n"
+title: Chapitre 35
 ---
+
+
 
 
 1 Celui qui observe la loi multiplie l'oblation.

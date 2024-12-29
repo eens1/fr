@@ -1,8 +1,10 @@
 ---
-title: "Caput 40"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 40
 ---
+
+
 
 
 1 His ita gestis, accidit ut peccarent duo eunuchi, pincerna regis AEgypti, et pistor, domino suo.

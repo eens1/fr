@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Parabole de la semence et son explication.
-  Plusieurs autres paraboles.
-  Jésus méprisé dans sa patrie.
+summary: "\nParabole de la semence et son explication.\nPlusieurs autres paraboles.\n\
+  J\xE9sus m\xE9pris\xE9 dans sa patrie.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 Ce jour-là, Jésus étant sorti de la maison, s'assit sur le bord de la mer.

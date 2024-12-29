@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 18"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  On ne dira plus dans Israël que le fils porte l’iniquité du père, mais chacun portera seul la peine de son péché.
-  Si l’impie fait pénitence, il ne mourra pas ; si le juste abandonne la justice, il périra.
-  Exhortation à la pénitence.
+summary: "\nOn ne dira plus dans Isra\xEBl que le fils porte l\u2019iniquit\xE9 du\
+  \ p\xE8re, mais chacun portera seul la peine de son p\xE9ch\xE9.\nSi l\u2019impie\
+  \ fait p\xE9nitence, il ne mourra pas ; si le juste abandonne la justice, il p\xE9\
+  rira.\nExhortation \xE0 la p\xE9nitence.\n"
+title: Chapitre 18
 ---
+
+
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

@@ -1,8 +1,10 @@
 ---
-title: "Caput 113"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 113
 ---
+
+
 
 
 1 Alleluia. In exitu Israel de AEgypto, domus Iacob de populo barbaro:

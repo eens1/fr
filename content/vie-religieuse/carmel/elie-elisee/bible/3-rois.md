@@ -1,8 +1,10 @@
 ---
-title: "3 Rois"
-date: 2024-09-06T20:02:59+02:00
+date: 2024-09-06 20:02:59+02:00
 draft: false
+title: 3 Rois
 ---
+
+
 
 
 > *3 Rois 17* : "Et Elie, le Thesbite, un des habitants de Galaad, dit à Achab : Il vit, le Seigneur Dieu d'Israël, en la présence duquel je suis ! il n'y aura pendant ces années-ci ni rosée ni pluie que selon les paroles de ma bouche. Et la parole du Seigneur fut adressée à Elie, disant : Retire-toi d'ici; va contre l'orient, et cache-toi près du torrent de Carith, qui est contre le Jourdain; Et là tu boiras au torrent; et j'ai ordonné aux corbeaux qu'ils te nourrissent là. Elie s'en alla donc, et fit selon la parole du Seigneur, et lorsqu'il s'en fut allé, il s'assit près du torrent de Carith, qui est contre le Jourdain. Et les corbeaux lui apportaient du pain et de la chair le matin, également du pain et de la chair le soir, et il buvait au torrent. 

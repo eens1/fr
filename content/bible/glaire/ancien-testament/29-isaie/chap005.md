@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Ingratitude des enfants d’Israël.
-  Le Seigneur prend la maison de Juda pour juge entre lui et la maison d’Israël.
-  Maux dont les Israélites seront accablés ; ennemis que Dieu suscitera contre eux.
+summary: "\nIngratitude des enfants d\u2019Isra\xEBl.\nLe Seigneur prend la maison\
+  \ de Juda pour juge entre lui et la maison d\u2019Isra\xEBl.\nMaux dont les Isra\xE9\
+  lites seront accabl\xE9s ; ennemis que Dieu suscitera contre eux.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Je chanterai à mon bien-aimé le cantique de mon proche parent à sa vigne. Une vigne a été acquise à mon bien-aimé, sur un sommet de montagne abondant en huile.

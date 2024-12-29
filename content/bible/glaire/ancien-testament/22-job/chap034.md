@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 34"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Eliu accuse Job de blasphème.
-  Il relève la justice infinie de Dieu, sa puissance et ses lumières.
+summary: "\nEliu accuse Job de blasph\xE8me.\nIl rel\xE8ve la justice infinie de Dieu,\
+  \ sa puissance et ses lumi\xE8res.\n"
+title: Chapitre 34
 ---
+
+
 
 
 1 C'est pourquoi continuant son discours, Eliu dit encore ceci:

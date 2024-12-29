@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 20"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Séba excite un nouveau soulèvement contre David.
-  Joab prend ombrage de la confiance que David témoigne à Amasa, et le tue.
-  Il va assiéger Abéla, où Séba s’était retiré.
-  Séba est mis à mort.
+summary: "\nS\xE9ba excite un nouveau soul\xE8vement contre David.\nJoab prend ombrage\
+  \ de la confiance que David t\xE9moigne \xE0 Amasa, et le tue.\nIl va assi\xE9ger\
+  \ Ab\xE9la, o\xF9 S\xE9ba s\u2019\xE9tait retir\xE9.\nS\xE9ba est mis \xE0 mort.\n"
+title: Chapitre 20
 ---
+
+
 
 
 1 Il arriva aussi que là était un homme de Bélial, du nom de Séba, fils de Bochri, homme de Jémini, et il sonna de la trompette, et dit : Nous n'avons point de part avec David, ni d'héritage avec le fils d'Isaï ; retourne en tes tabernacles, ô Israël.

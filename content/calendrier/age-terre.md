@@ -1,8 +1,9 @@
 ---
-title: "Age du monde"
-date: 2024-09-06T20:02:53+02:00
+date: 2024-09-06 20:02:53+02:00
 draft: false
+title: Age du monde
 ---
+
 
 
 Selon Louis de saint Térese, la terre a 4053 ans au commencement de notre ère [^1]. Ce qui fait 6075 en l'an 2022.

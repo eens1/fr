@@ -1,8 +1,10 @@
 ---
-title: "Caput 1"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 1
 ---
+
+
 
 
 1 In anno primo Cyri regis Persarum ut compleretur verbum Domini ex ore Ieremiae, suscitavit Dominus spiritum Cyri regis Persarum: et traduxit vocem in omni regno suo, etiam per scripturam, dicens:

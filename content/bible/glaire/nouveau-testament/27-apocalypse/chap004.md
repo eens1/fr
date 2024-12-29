@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Le Seigneur paraît assis sur son trône ; il a quatre vieillards autour de lui, et sept lampes devant lui.
-  Mer transparente devant le trône.
-  Quatre animaux autour du trône ; leur cantique.
-  Cantique des vingt-quatre vieillards.
+summary: "\nLe Seigneur para\xEEt assis sur son tr\xF4ne ; il a quatre vieillards\
+  \ autour de lui, et sept lampes devant lui.\nMer transparente devant le tr\xF4ne.\n\
+  Quatre animaux autour du tr\xF4ne ; leur cantique.\nCantique des vingt-quatre vieillards.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Après cela je regardai, et voilà une porte ouverte dans le ciel, et la première voix que j'avais entendue comme une voix de trompette qui me parlait, dit : Monte ici, et je te montrerai ce qui doit arriver après ces choses.

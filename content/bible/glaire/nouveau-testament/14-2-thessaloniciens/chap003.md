@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Saint Paul demande aux Thessaloniciens le secours de leurs prières.
-  Il les avertit de se retirer de ceux qui vivent d’une manière déréglée.
-  Il leur recommande le travail.
-  Il leur souhaite la paix.
-  Salutations.
+summary: "\nSaint Paul demande aux Thessaloniciens le secours de leurs pri\xE8res.\n\
+  Il les avertit de se retirer de ceux qui vivent d\u2019une mani\xE8re d\xE9r\xE9\
+  gl\xE9e.\nIl leur recommande le travail.\nIl leur souhaite la paix.\nSalutations.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 Au reste, mes frères, priez pour nous, afin que la parole de Dieu se répande et soit glorifiée, comme aussi parmi vous ;

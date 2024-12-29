@@ -1,8 +1,10 @@
 ---
-title: "Caput 4"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 4
 ---
+
+
 
 
 1 Post haec vidi: et ecce ostium apertum in caelo, et vox prima, quam audivi tamquam tubae loquentis mecum, dicens: Ascende huc, et ostendam tibi quae oportet fieri post haec.

@@ -1,13 +1,11 @@
 ---
-title: "Chapitre 35"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Demeure des Lévites.
-  Villes de refuge.
-  Lois touchant les homicides.
+summary: "\nDemeure des L\xE9vites.\nVilles de refuge.\nLois touchant les homicides.\n"
+title: Chapitre 35
 ---
+
+
 
 
 1 Le Seigneur dit encore ceci à Moïse dans les plaines de Moab, sur le Jourdain, contre Jéricho :2 Ordonne aux enfants d'Israël qu'ils donnent de leurs possessions aux Lévites,

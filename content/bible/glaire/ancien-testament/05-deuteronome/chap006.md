@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 6"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Moïse exhorte les Israélites à aimer le Seigneur, et à ne jamais oublier ses préceptes et ses bienfaits.
+summary: "\nMo\xEFse exhorte les Isra\xE9lites \xE0 aimer le Seigneur, et \xE0 ne\
+  \ jamais oublier ses pr\xE9ceptes et ses bienfaits.\n"
+title: Chapitre 6
 ---
+
+
 
 
 1 Voici les préceptes, les cérémonies et les ordonnances que le Seigneur votre Dieu a prescrites, afin que je vous les enseigne, et que vous les pratiquiez dans la terre dans laquelle vous allez passer pour la posséder, 2 Afin que tu craignes le Seigneur ton Dieu, et que tu gardes, tous les jours de ta vie, tous ses commandements et ses préceptes que moi, je te prescris, à toi, à tes fils et à tes petits-fils, pour que les jours soient prolongés. 3 Ecoute, Israël, et aie grand soin de faire ce que t'a ordonné le Seigneur, afin que bien t'arrive, et que tu sois encore multiplié, puisque le Seigneur Dieu de tes pères t'a promis une terre, où coulent du lait et du miel.

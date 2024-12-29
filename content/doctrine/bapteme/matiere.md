@@ -1,8 +1,10 @@
 ---
-title: "Matière"
-date: 2024-09-06T20:02:54+02:00
+date: 2024-09-06 20:02:54+02:00
 draft: false
+title: "Mati\xE8re"
 ---
+
+
 
 
 > *Concile de Trente, sess. 7, Décret des Sacrements, can 2, 1547* : "Si quelqu'un dit, que l'eau vrai et naturelle n'est pas de nécessité pour le sacrement de baptême; et pour ce sujet, détourne, à quelque explication métaphorique, ces paroles de Notre Seigneur Jésus-Christ, *Si un homme ne renaît de l'eau, et du Saint Esprit*; qu'il soit anathème." [^1]

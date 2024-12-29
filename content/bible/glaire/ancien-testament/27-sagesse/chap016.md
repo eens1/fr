@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 16"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  La manière dont Dieu traite ses amis et ses ennemis.
-  Plaies dont il frappe les Egyptiens ; bienfaits qu’il répand sur les Hébreux.
+summary: "\nLa mani\xE8re dont Dieu traite ses amis et ses ennemis.\nPlaies dont il\
+  \ frappe les Egyptiens ; bienfaits qu\u2019il r\xE9pand sur les H\xE9breux.\n"
+title: Chapitre 16
 ---
+
+
 
 
 1 A cause de ces animaux et d'autres semblables, ils ont souffert des tourments mérités et ont été exterminés par une multitude de bêtes.

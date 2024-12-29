@@ -1,8 +1,10 @@
 ---
-title: "Caput 2"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 2
 ---
+
+
 
 
 1 Factum est autem in mense Nisan, anno vigesimo Artaxerxis regis: et vinum erat ante eum, et levavi vinum, et dedi regi: et eram quasi languidus ante faciem eius.

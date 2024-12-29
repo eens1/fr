@@ -1,9 +1,10 @@
 ---
-title: "Dieu n'aime pas les hérétiques"
 date: 2024-11-25T13:43:39+0000
 draft: false
 tags: []
+title: "Dieu n'aime pas les h\xE9r\xE9tiques"
 ---
+
 
 Psaumes 5:7 : "Vous haïssez tous ceux qui opèrent l'iniquité ; vous perdrez tous ceux qui profèrent le mensonge. Le Seigneur aura en abomination un homme de sang et un fourbe." [^1]
 

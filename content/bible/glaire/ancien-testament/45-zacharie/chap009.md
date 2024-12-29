@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 9"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Prophétie contre les Syriens, les Phéniciens et les Philistins.
-  Le roi de Sion vient à elle.
-  Le Seigneur armera de force Juda et Ephraïm contre la Grèce.
-  Il comblera son peuple de ses biens les plus excellents.
+summary: "\nProph\xE9tie contre les Syriens, les Ph\xE9niciens et les Philistins.\n\
+  Le roi de Sion vient \xE0 elle.\nLe Seigneur armera de force Juda et Ephra\xEFm\
+  \ contre la Gr\xE8ce.\nIl comblera son peuple de ses biens les plus excellents.\n"
+title: Chapitre 9
 ---
+
+
 
 
 1 Malheur accablant de la parole du Seigneur contre la terre d'Hadrach et de Damas, lieu de son repos ; parce que l'oeil du Seigneur est sur un homme et sur toutes les tribus d'Israël.

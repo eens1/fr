@@ -1,14 +1,14 @@
 ---
-title: "Chapitre 15"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Condescendance et charité mutuelles.
-  Jésus promis aux Juifs, et annoncé par grâce aux gentils.
-  Saint Paul apôtre des gentils.
-  Il promet aux Romains d’aller les voir, leur demande le secours de leurs prières et leur souhaite la paix.
+summary: "\nCondescendance et charit\xE9 mutuelles.\nJ\xE9sus promis aux Juifs, et\
+  \ annonc\xE9 par gr\xE2ce aux gentils.\nSaint Paul ap\xF4tre des gentils.\nIl promet\
+  \ aux Romains d\u2019aller les voir, leur demande le secours de leurs pri\xE8res\
+  \ et leur souhaite la paix.\n"
+title: Chapitre 15
 ---
+
+
 
 
 1 Nous devons donc, nous qui sommes plus forts, supporter les faiblesses des infirmes, et ne pas nous complaire en nous-mêmes. 2 Que chacun de vous ait de la complaisance pour son prochain en ce qui est bien, pour l'édification. 3 Car le Christ ne s'est point complu en lui-même; mais, comme il est écrit : Les outrages de ceux qui vous outrageaient sont tombés sur moi.

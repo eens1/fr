@@ -1,11 +1,15 @@
 ---
-title: "Chapitre 16"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
-summary: |
-  
-  Effusion des sept coupes ; les quatre premières sont versées sur la terre, sur les eaux et sur le soleil ; la cinquième sur le trône de la bête ; la sixième sur l’Euphrate ; la septième est répandue dans l’air ; mais elle est précédée de l’annonce de l’avènement du Seigneur.
+summary: "\nEffusion des sept coupes ; les quatre premi\xE8res sont vers\xE9es sur\
+  \ la terre, sur les eaux et sur le soleil ; la cinqui\xE8me sur le tr\xF4ne de la\
+  \ b\xEAte ; la sixi\xE8me sur l\u2019Euphrate ; la septi\xE8me est r\xE9pandue dans\
+  \ l\u2019air ; mais elle est pr\xE9c\xE9d\xE9e de l\u2019annonce de l\u2019av\xE8\
+  nement du Seigneur.\n"
+title: Chapitre 16
 ---
+
+
 
 
 1 Et j'entendis une voix forte du temple, disant aux sept anges: Allez et répandez les sept coupes de la colère de Dieu sur la terre.

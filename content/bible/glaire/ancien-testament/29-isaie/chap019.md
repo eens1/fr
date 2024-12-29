@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 19"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Maux dont le Seigneur accablera l’Egypte.
-  Autel dédié au Seigneur dans ce pays.
-  L’Egypte menacée et délivrée.
-  Les Egyptiens et les Assyriens unis dans le culte du Seigneur.
-  Les Israélites se joignent à eux.
+summary: "\nMaux dont le Seigneur accablera l\u2019Egypte.\nAutel d\xE9di\xE9 au Seigneur\
+  \ dans ce pays.\nL\u2019Egypte menac\xE9e et d\xE9livr\xE9e.\nLes Egyptiens et les\
+  \ Assyriens unis dans le culte du Seigneur.\nLes Isra\xE9lites se joignent \xE0\
+  \ eux.\n"
+title: Chapitre 19
 ---
+
+
 
 
 1 Malheur accablant de l'Egypte. Voici que le Seigneur montera sur un nuage léger, et qu'il entrera dans l'Egypte, et que seront ébranlés les simulacres de l'Egypte devant sa face, et le coeur de l'Egypte se fondra au milieu d'elle.

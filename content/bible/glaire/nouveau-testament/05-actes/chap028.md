@@ -1,14 +1,15 @@
 ---
-title: "Chapitre 28"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Paul et ceux qui étaient avec lui sont reçus à Malte.
-  Il est mordu par une vipère.
-  Il guérit les malades de cette île.
-  Il continue son voyage, arrive à Rome, prêche Jésus-Christ aux Juifs, leur reproche leur endurcissement, et leur annonce que les gentils leurs seront préférés.
+summary: "\nPaul et ceux qui \xE9taient avec lui sont re\xE7us \xE0 Malte.\nIl est\
+  \ mordu par une vip\xE8re.\nIl gu\xE9rit les malades de cette \xEEle.\nIl continue\
+  \ son voyage, arrive \xE0 Rome, pr\xEAche J\xE9sus-Christ aux Juifs, leur reproche\
+  \ leur endurcissement, et leur annonce que les gentils leurs seront pr\xE9f\xE9\
+  r\xE9s.\n"
+title: Chapitre 28
 ---
+
+
 
 
 1 Après nous être ainsi sauvés, nous apprîmes que l'île s'appelait Malte. Et les barbares nous montrèrent beaucoup d'humanité.

@@ -1,8 +1,10 @@
 ---
-title: "Réponses de Saint François à propos des livres"
-date: 2024-09-06T20:00:58+02:00
+date: 2024-09-06 20:00:58+02:00
 draft: false
+title: "R\xE9ponses de Saint Fran\xE7ois \xE0 propos des livres"
 ---
+
+
 
 
 Source : Castet 1680, t. 1, pp. 168-169.

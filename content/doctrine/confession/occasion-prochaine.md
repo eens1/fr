@@ -1,8 +1,10 @@
 ---
-title: "Occasion prochaine"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Occasion prochaine
 ---
+
+
 
 
 > *M. Cocatrix, Conférences ecclésiastiques* : "L'occasion du péché est tout ce qui contribue à faire tomber dans le péché...

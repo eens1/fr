@@ -1,8 +1,10 @@
 ---
-title: "Martyr"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Martyr
 ---
+
+
 
 
 > *Pape Eugène IV, Concile de Florence, Cantate Domino, 1441* : "Elle [l'Eglise] croit fermement, professe et prêche qu'aucun de ceux qui se trouvent en dehors de l'Eglise catholique, non seulement païens mais encore juifs ou hérétiques et schismatiques ne peuvent devenir participants à la vie éternelle, mais iront dans le feu éternel qui est préparé par le diable et ses anges (Mt 25,41) à moins qu'avant la fin de leur vie ils ne lui aient été agrégés; 

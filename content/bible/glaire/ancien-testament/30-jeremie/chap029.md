@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 29"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Lettre de Jérémie aux captifs de Babylone.
-  Promesse de leur retour.
-  Menaces contre Achab et Sédécias, faux prophètes.
-  Lettre de Séméias à Sophonias contre Jérémie.
-  Menaces contre Séméias.
+summary: "\nLettre de J\xE9r\xE9mie aux captifs de Babylone.\nPromesse de leur retour.\n\
+  Menaces contre Achab et S\xE9d\xE9cias, faux proph\xE8tes.\nLettre de S\xE9m\xE9\
+  ias \xE0 Sophonias contre J\xE9r\xE9mie.\nMenaces contre S\xE9m\xE9ias.\n"
+title: Chapitre 29
 ---
+
+
 
 
 1 Et voici les paroles de la lettre que Jérémie le prophète envoya de Jérusalem aux restes des anciens de la transmigration, et aux prêtres, et aux prophètes, et à tout le peuple que Nabuchodonosor avait fait passer de Jérusalem à Babylone.

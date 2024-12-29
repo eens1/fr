@@ -1,12 +1,14 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Ordre au prophète d’écrire sa vision.
-  Malheur à celui dont l’ambition est insatiable, à celui qui établit sa maison par la violence, à celui qui bâtit sa ville dans le sang, à celui qui mêle le fiel dans le vin pour enivrer son allié, à celui qui adore le bois et la pierre.
+summary: "\nOrdre au proph\xE8te d\u2019\xE9crire sa vision.\nMalheur \xE0 celui dont\
+  \ l\u2019ambition est insatiable, \xE0 celui qui \xE9tablit sa maison par la violence,\
+  \ \xE0 celui qui b\xE2tit sa ville dans le sang, \xE0 celui qui m\xEAle le fiel\
+  \ dans le vin pour enivrer son alli\xE9, \xE0 celui qui adore le bois et la pierre.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Je me tiendrai à mon poste et j'arrêterai mes pas sur la fortification, et je regarderai attentivement, afin que je voie ce qui me sera dit, et ce que je répondrai à celui qui m'interpellera.

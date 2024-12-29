@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 28"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Lois touchant les sacrifices pour chaque jour, et pour les jours de fête.
+summary: "\nLois touchant les sacrifices pour chaque jour, et pour les jours de f\xEA\
+  te.\n"
+title: Chapitre 28
 ---
+
+
 
 
 1 Le Seigneur dit aussi à Moïse :2 Ordonne aux enfants d'Israël, et tu leur diras : Offrez en leurs temps mon oblation, les pains et le sacrifice consumé par le feu d'une odeur très suave.

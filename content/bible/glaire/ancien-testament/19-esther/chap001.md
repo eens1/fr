@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Festin donné par Assuérus.
-  La reine Vasthi refuse d’y venir.
-  Assuérus la répudie.
+summary: "\nFestin donn\xE9 par Assu\xE9rus.\nLa reine Vasthi refuse d\u2019y venir.\n\
+  Assu\xE9rus la r\xE9pudie.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Dans les jours d'Assuérus, qui régna depuis l'Inde jusqu'à l'Ethiopie sur cent vingt-sept provinces,

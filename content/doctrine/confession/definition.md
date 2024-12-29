@@ -1,8 +1,10 @@
 ---
-title: "Définition"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "D\xE9finition"
 ---
+
+
 
 
 > *Concile de Trente, sess. 14, chap. 1, 1551* : "Mais parce que Dieu, qui est riche en miséricorde, a connu la fragilité de notre fonds d'argile et de terre, il a bien voulu aussi accorder un remède pour recouvrer la vie, à ceux même qui depuis le Baptême se seraient livrer à la servitude du péché, et à la puissance du Démon; et ce remède est le Sacrement de Pénitence, par lequel le bienfait de la Mort de Jésus-Christ est appliqué à ceux qui sont tombés depuis le Baptême...

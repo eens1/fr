@@ -1,11 +1,15 @@
 ---
-title: "Chapitre 19"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
+summary: '
+
   Partage des six autres tribus.
+
+  '
+title: Chapitre 19
 ---
+
+
 
 
 1 Le deuxième sort sortit pour les enfants de Siméon, selon leur parenté, et l'héritage fut

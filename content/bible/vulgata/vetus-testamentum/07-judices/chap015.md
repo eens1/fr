@@ -1,8 +1,10 @@
 ---
-title: "Caput 15"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 15
 ---
+
+
 
 
 1 Post aliquantulum autem temporis, cum dies triticeae messis instarent, venit Samson, invisere volens uxorem suam, et attulit ei hoedum de capris. Cumque cubiculum eius solito vellet intrare, prohibuit eum pater illius, dicens:

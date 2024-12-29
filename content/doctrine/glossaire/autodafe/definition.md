@@ -1,8 +1,10 @@
 ---
-title: "Définition"
-date: 2024-09-06T20:02:54+02:00
+date: 2024-09-06 20:02:54+02:00
 draft: false
+title: "D\xE9finition"
 ---
+
+
 
 
 > *Larousse* : "Destruction par le feu d'un objet (en particulier des livres) que l'on désavoue, que l'on condamne." [^1]

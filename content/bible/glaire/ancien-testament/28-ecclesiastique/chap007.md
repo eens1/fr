@@ -1,19 +1,15 @@
 ---
-title: "Chapitre 7"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  S’abstenir du mal.
-  Ne pas rechercher les dignités.
-  Fuir tout mensonge.
-  S’appliquer au travail.
-  Etre fidèle à ses amis, attaché à sa femme, doux envers ses serviteurs.
-  Instruire ses enfants.
-  Honorer ses parents.
-  Rendre aux prêtres ce qui leur est dû.
-  Se souvenir de ses fins dernières.
+summary: "\nS\u2019abstenir du mal.\nNe pas rechercher les dignit\xE9s.\nFuir tout\
+  \ mensonge.\nS\u2019appliquer au travail.\nEtre fid\xE8le \xE0 ses amis, attach\xE9\
+  \ \xE0 sa femme, doux envers ses serviteurs.\nInstruire ses enfants.\nHonorer ses\
+  \ parents.\nRendre aux pr\xEAtres ce qui leur est d\xFB.\nSe souvenir de ses fins\
+  \ derni\xE8res.\n"
+title: Chapitre 7
 ---
+
+
 
 
 1 Ne fais pas de mauvaises choses, et elles ne s'empareront pas de toi.

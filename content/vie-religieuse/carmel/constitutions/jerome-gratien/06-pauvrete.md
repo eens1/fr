@@ -1,8 +1,10 @@
 ---
-title: "Pauvreté"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: "Pauvret\xE9"
 ---
+
+
 
 
 "De même, nous ordonnons, afin que la sainte pauvreté soit parfaitement pratiquée, qu'aucun religieux n'ait rien en propre de quelque nature que ce puisse être, soit meubles, soit immeubles, et que chaque supérieur fournisse à tous les religieux sans exception tout ce dont ils auront besoin, tant pour la nourriture que pour les vêtements, livres, remèdes et soulagements, autant que le permettra la pauvreté de la maison, sans qu'il leur puisse dire : Cherchez-vous une tunique ou un habit, etc.

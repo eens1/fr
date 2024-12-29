@@ -1,8 +1,10 @@
 ---
-title: "Musique"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Musique
 ---
+
+
 
 
 > *Pape Benoît XV, Principi Apostolorum, 5 oct. 1920* : "Mais s'il faut louer le saint diacre d'Edesse d'avoir tenu à donner pour base à la prédication de la parole divine et à la formation de ses disciples les Saints Livres compris suivant l'esprit de l'Eglise, il n'acquit pas une moindre gloire dans la musique et la poésie sacrées; il excellait à ce point dans l'une et l'autre qu'on put l'appeler "la cithare de l'Esprit-Saint". 

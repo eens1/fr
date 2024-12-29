@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 24"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Joakim est assujetti au roi de Babylone.
-  Il meurt ; Joachin lui succède.
-  Nabuchodonosor assiège Jérusalem, dont les principaux habitants sont transportés à Babylone.
-  Sédécias est mis à la place de Joachin.
+summary: "\nJoakim est assujetti au roi de Babylone.\nIl meurt ; Joachin lui succ\xE8\
+  de.\nNabuchodonosor assi\xE8ge J\xE9rusalem, dont les principaux habitants sont\
+  \ transport\xE9s \xE0 Babylone.\nS\xE9d\xE9cias est mis \xE0 la place de Joachin.\n"
+title: Chapitre 24
 ---
+
+
 
 
 1 Dans les jours de Joakim, Nabuchodonosor, roi de Babylone, monta contre Juda, et Joakim lui fut assujetti durant trois ans; et ensuite il se révolta contre lui.

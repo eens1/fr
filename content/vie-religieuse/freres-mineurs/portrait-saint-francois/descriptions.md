@@ -1,8 +1,10 @@
 ---
-title: "Descriptions"
-date: 2024-09-06T20:02:59+02:00
+date: 2024-09-06 20:02:59+02:00
 draft: false
+title: Descriptions
 ---
+
+
 
 
 > *Floretti, Chronique du Moyen Age* : "Nous pensons que ce ne sera pas sans plaisir que le lecteur trouvera ici le portrait qui nous a été laissé du glorieux petit pauvre du Christ. Nous extrayons de M. Chavin de Malan celui que nous présentons ici : 

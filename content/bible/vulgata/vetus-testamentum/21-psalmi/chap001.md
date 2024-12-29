@@ -1,8 +1,10 @@
 ---
-title: "Caput 1"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 1
 ---
+
+
 
 
 1 Beatus vir, qui non abiit in consilio impiorum, et in via peccatorum non stetit, et in cathedra pestilentiae non sedit:

@@ -1,8 +1,10 @@
 ---
-title: "Fausses religions"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Fausses religions
 ---
+
+
 
 
 > *Psaumes 95:5* : "Parce que tous les dieux des nations sont des démons : mais le Seigneur a fait les cieux." [^1]

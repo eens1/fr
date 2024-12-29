@@ -1,8 +1,10 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:03:00+02:00
+date: 2024-09-06 20:03:00+02:00
 draft: false
+title: Dans la Tradition
 ---
+
+
 
 
 > *Saint Thomas d'Aquin, Opuscules, 17, chap. 16* : "Le travail des mains n'est pas néanmoins le seul qui détruise l'oisiveté; l'étude de l'Ecriture sainte est bien plus propre à atteindre ce but...

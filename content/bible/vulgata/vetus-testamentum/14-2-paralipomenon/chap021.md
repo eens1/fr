@@ -1,8 +1,10 @@
 ---
-title: "Caput 21"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 21
 ---
+
+
 
 
 1 Dormivit autem Iosaphat cum patribus suis, et sepultus est cum eis in Civitate David: regnavitque Ioram filius eius pro eo.

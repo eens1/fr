@@ -1,9 +1,11 @@
 ---
-title: "Augustin de Foligny"
 date: 2024-12-07T12:23:58+0000
 draft: false
 tags: []
+title: Augustin de Foligny
 ---
+
+
 
 Source: [Chroniques des Capucins](https://www.google.fr/books/edition/Les_annales_des_fr%C3%A8res_mineurs_capucins/uywyN7uqW0gC?hl=fr&gbpv=1&pg=PA41&printsec=frontcover)
 

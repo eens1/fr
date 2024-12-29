@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 9"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Aveugle-né guéri par Jésus-Christ.
-  Enquête des pharisiens sur ce miracle.
-  Ils chassent de la synagogue celui qui avait été guéri.
-  Instruit par Jésus-Christ, il se prosterne et l’adore.
-  Double jugement exercé par Jésus-Christ.
+summary: "\nAveugle-n\xE9 gu\xE9ri par J\xE9sus-Christ.\nEnqu\xEAte des pharisiens\
+  \ sur ce miracle.\nIls chassent de la synagogue celui qui avait \xE9t\xE9 gu\xE9\
+  ri.\nInstruit par J\xE9sus-Christ, il se prosterne et l\u2019adore.\nDouble jugement\
+  \ exerc\xE9 par J\xE9sus-Christ.\n"
+title: Chapitre 9
 ---
+
+
 
 
 1 Et comme il passait, Jésus vit un homme aveugle de naissance; 2 Et ses disciples l'interrogèrent : Maître, qui a péché, celui-ci ou ses parents, pour qu'il soit né aveugle?

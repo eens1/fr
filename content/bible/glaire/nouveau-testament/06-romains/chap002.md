@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Juifs faisant eux-mêmes ce qu’ils condamnent.
-  Patience de Dieu redoutable aux impénitents.
-  Ce sont ceux qui gardent la loi qui sont justifiés.
-  Juifs, maîtres des autres, ne s’instruisent pas eux-mêmes.
-  Quel est le Juif et la circoncision véritable.
+summary: "\nJuifs faisant eux-m\xEAmes ce qu\u2019ils condamnent.\nPatience de Dieu\
+  \ redoutable aux imp\xE9nitents.\nCe sont ceux qui gardent la loi qui sont justifi\xE9\
+  s.\nJuifs, ma\xEEtres des autres, ne s\u2019instruisent pas eux-m\xEAmes.\nQuel\
+  \ est le Juif et la circoncision v\xE9ritable.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 C'est pourquoi, ô homme, qui que tu sois, tu es inexcusable de juger. Car, en jugeant autrui, tu te condamnes toi-même, puisque tu fais ce que tu condamnes.

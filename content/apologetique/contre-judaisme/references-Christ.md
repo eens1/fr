@@ -1,10 +1,12 @@
 ---
-title: "Références au Christ dans l'Ancien Testament"
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
-summary: |
-  Contrairement à ce qu'affirment ceux qui aujourd'hui se présentent comme juifs, Jésus-Christ est bel et bien le Messie que les véritables Juifs attendaient sous l'ancienne loi. 
+summary: "Contrairement \xE0 ce qu'affirment ceux qui aujourd'hui se pr\xE9sentent\
+  \ comme juifs, J\xE9sus-Christ est bel et bien le Messie que les v\xE9ritables Juifs\
+  \ attendaient sous l'ancienne loi. \n"
+title: "R\xE9f\xE9rences au Christ dans l'Ancien Testament"
 ---
+
 
 > *Daniel 9:26* : "Et, après soixante-deux semaines, le Christ sera mis à mort, et le peuple qui doit le renier ne sera plus à lui. Un peuple, avec un chef qui doit venir, détruira la ville et le sanctuaire; et sa fin sera la ruine, et, après la fin de la guerre, viendra la désolation décrétée." [^1]
 

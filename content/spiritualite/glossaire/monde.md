@@ -1,8 +1,10 @@
 ---
-title: "Monde"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: Monde
 ---
+
+
 
 
 > *Romains 12:2* : "Et ne vous conformez point à ce siècle, mais réformez-vous par le renouvellement de votre esprit, afin que vous reconnaissiez combien la volonté de Dieu est bonne, agréable et parfaite." [^1]

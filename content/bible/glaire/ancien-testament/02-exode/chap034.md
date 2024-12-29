@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 34"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Moïse remonte sur la montagne.
-  Dieu lui manifeste sa gloire et lui renouvelle les principales conditions de l’alliance faite avec son peuple.
-  Moïse descend, la tête environnée de rayons.
+summary: "\nMo\xEFse remonte sur la montagne.\nDieu lui manifeste sa gloire et lui\
+  \ renouvelle les principales conditions de l\u2019alliance faite avec son peuple.\n\
+  Mo\xEFse descend, la t\xEAte environn\xE9e de rayons.\n"
+title: Chapitre 34
 ---
+
+
 
 
 1 Et ensuite : Taille-toi, dit-il, deux tables de pierre à l'instar des premières, et j'écrirai dessus les paroles que contenaient les tables que tu as rompues.

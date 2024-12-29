@@ -1,8 +1,10 @@
 ---
-title: "Caput 1"
-date: 2024-09-06T20:00:56+02:00
+date: 2024-09-06 20:00:56+02:00
 draft: false
+title: Caput 1
 ---
+
+
 
 
 1 Verba Amos, qui fuit in pastoribus de Thecue: quae vidit super Israel in diebus Oziae regis Iuda, et in diebus Ieroboam filii Ioas regis Israel, ante duos annos terraemotus.

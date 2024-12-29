@@ -1,8 +1,10 @@
 ---
-title: "Troisième Commandement "
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Troisi\xE8me Commandement "
 ---
+
+
 
 
 > *Catéchisme de persévérance* : "Quatre-Temps, Vigiles jeûneras, et le Carême entièrement." [^1]

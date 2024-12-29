@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Vanité des plaisirs, des richesses, des bâtiments.
-  Avantages de la sagesse.
-  Vanité d’amasser des richesses pour un héritier inconnu.
+summary: "\nVanit\xE9 des plaisirs, des richesses, des b\xE2timents.\nAvantages de\
+  \ la sagesse.\nVanit\xE9 d\u2019amasser des richesses pour un h\xE9ritier inconnu.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 J'ai dit, moi en mon coeur : J'irai et je nagerai dans les défiées, et je jouirai des biens. Et j'ai vu que cela aussi était vanité. 2 Le rire, je l'ai regardé comme une erreur; et à la joie, j'ai dit : Pourquoi te séduis-tu inutilement?

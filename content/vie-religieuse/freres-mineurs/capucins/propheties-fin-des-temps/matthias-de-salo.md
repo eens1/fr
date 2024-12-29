@@ -1,10 +1,12 @@
 ---
-title: "Matthias de Salo"
 date: 2024-12-23T17:46:49+0000
 draft: false
+summary: "La r\xE9forme de l'\xC9glise et le renouveau franciscain."
 tags: []
-summary: "La réforme de l'Église et le renouveau franciscain."
+title: Matthias de Salo
 ---
+
+
 
 Source: [capdox.capuchin.org](https://www.capdox.capuchin.org.au/studies/reform-of-the-church-prophesy-and-apocalypse-in-mattia-da-salo/?hilite=clareno#post-5969-_Toc59381920)
 

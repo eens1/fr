@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 17"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  David conçoit le dessein de bâtir un temple au Seigneur.
-  Nathan lui déclare que cet honneur est réservé à son fils.
-  Prière de David à cette occasion.
+summary: "\nDavid con\xE7oit le dessein de b\xE2tir un temple au Seigneur.\nNathan\
+  \ lui d\xE9clare que cet honneur est r\xE9serv\xE9 \xE0 son fils.\nPri\xE8re de\
+  \ David \xE0 cette occasion.\n"
+title: Chapitre 17
 ---
+
+
 
 
 1 Or, lorsque David habitait en sa maison, il dit au prophète Nathan : Voilà que, moi, j'habite dans une maison de cèdre, et l'arche de l'alliance du Seigneur est sous des peaux.

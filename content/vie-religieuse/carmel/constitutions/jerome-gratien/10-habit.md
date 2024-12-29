@@ -1,8 +1,10 @@
 ---
-title: "Habit"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: Habit
 ---
+
+
 
 
 "De même, pour le vêtement des religieux, nous ordonnons qu'on s'en tienne fidèlement aux constitutions de l'Ordre. Nous réprouvons tous les abus quels qu'ils soient, et nous prescrivons que l'habit soit de couleur tannée et descende, ainsi que la tunique intérieure, jusqu'au cou-de-pied ou à la cheville, et non plus bas.

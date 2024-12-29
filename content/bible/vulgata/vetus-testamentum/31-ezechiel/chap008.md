@@ -1,8 +1,10 @@
 ---
-title: "Caput 8"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 8
 ---
+
+
 
 
 1 Et factum est in anno sexto, in sexto mense, in quinta mensis: ego sedebam in domo mea, et senes Iuda sedebant coram me, et cecidit ibi super me manus Domini Dei.

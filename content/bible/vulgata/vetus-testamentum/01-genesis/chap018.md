@@ -1,8 +1,10 @@
 ---
-title: "Caput 18"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 18
 ---
+
+
 
 
 1 Apparuit autem ei Dominus in convalle Mambre sedenti in ostio tabernaculi sui in ipso fervore diei.

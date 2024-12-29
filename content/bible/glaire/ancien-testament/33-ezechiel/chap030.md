@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 30"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Désolation prochaine de l’Egypte ; l’Ethiopie en sera saisie d’effroi.
-  Le Seigneur achèvera de briser le bras de Pharaon et fortifiera le bras du roi de Babylone.
+summary: "\nD\xE9solation prochaine de l\u2019Egypte ; l\u2019Ethiopie en sera saisie\
+  \ d\u2019effroi.\nLe Seigneur ach\xE8vera de briser le bras de Pharaon et fortifiera\
+  \ le bras du roi de Babylone.\n"
+title: Chapitre 30
 ---
+
+
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

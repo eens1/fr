@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 7"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Exhortation à la sagesse.
-  Description d’une femme déréglée et de ses artifices.
-  Malheur à ceux qui s’y laissent prendre.
+summary: "\nExhortation \xE0 la sagesse.\nDescription d\u2019une femme d\xE9r\xE9\
+  gl\xE9e et de ses artifices.\nMalheur \xE0 ceux qui s\u2019y laissent prendre.\n"
+title: Chapitre 7
 ---
+
+
 
 
 1 Mon fils, garde mes paroles; et mes préceptes, mets-les en réserve pour toi. Mon fils,

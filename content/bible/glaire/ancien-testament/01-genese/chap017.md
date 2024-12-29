@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 17"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Dieu apparaît à Abraham ; il change son nom et celui de Saraï.
-  Institution de la Circoncision.
-  Promesse de la naissance d’Isaac.
+summary: "\nDieu appara\xEEt \xE0 Abraham ; il change son nom et celui de Sara\xEF\
+  .\nInstitution de la Circoncision.\nPromesse de la naissance d\u2019Isaac.\n"
+title: Chapitre 17
 ---
+
+
 
 
 1 Or, après qu'Abram eut commencé sa quatre-vingt-dix-neuvième année, le Seigneur lui apparut, et lui dit : Je suis le Dieu tout-puissant : marche devant moi, et sois parfait. 2 J'établirai mon alliance entre moi et toi, et je te multiplierai prodigieusement. 3 Abram tomba incliné sur sa face. 4 Et Dieu lui dit : C'est moi, et mon alliance sera avec toi, et tu seras père de beaucoup de nations.

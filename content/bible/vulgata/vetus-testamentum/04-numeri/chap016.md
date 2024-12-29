@@ -1,8 +1,10 @@
 ---
-title: "Caput 16"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 16
 ---
+
+
 
 
 1 Ecce autem Core filius Isaar, filii Caath, filii Levi, et Dathan atque Abiron filii Eliab, Hon quoque filius Pheleth de filiis Ruben,

@@ -1,11 +1,11 @@
 ---
-title: "Chapitre 26"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Job relève la grandeur et la puissance de Dieu.
+summary: "\nJob rel\xE8ve la grandeur et la puissance de Dieu.\n"
+title: Chapitre 26
 ---
+
+
 
 
 1 Alors, répondant, Job dit :

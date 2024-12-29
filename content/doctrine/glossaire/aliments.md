@@ -1,8 +1,10 @@
 ---
-title: "Aliments"
-date: 2024-09-06T20:02:54+02:00
+date: 2024-09-06 20:02:54+02:00
 draft: false
+title: Aliments
 ---
+
+
 
 
 > *Romains 14:21* : "Il est bon de ne point manger de chair, de ne point boire de vin, et ne rien faire de ce qui choque, scandalise, ou affaiblit ton frère." [^1]

@@ -1,8 +1,10 @@
 ---
-title: "Caput 64"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 64
 ---
+
+
 
 
 1 In finem, Psalmus David, Canticum Hieremiae, et Ezechielis populo transmigrationis, cum inciperent exire.

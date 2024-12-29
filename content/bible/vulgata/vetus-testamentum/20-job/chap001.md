@@ -1,8 +1,10 @@
 ---
-title: "Caput 1"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 1
 ---
+
+
 
 
 1 Vir erat in Terra Hus, nomine Iob, et erat vir ille simplex, et rectus, ac timens Deum, et recedens a malo:

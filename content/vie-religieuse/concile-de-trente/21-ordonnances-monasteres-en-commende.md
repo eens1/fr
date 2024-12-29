@@ -1,8 +1,10 @@
 ---
-title: "Chap. 21 - Ordonnances monastères en commende"
-date: 2024-09-06T20:00:57+02:00
+date: 2024-09-06 20:00:57+02:00
 draft: false
+title: "Chap. 21 - Ordonnances monast\xE8res en commende"
 ---
+
+
 
 
 Comme la plupart des monastères, même des abbayes, prieurés et prévôtés, ont souffert plusieurs dommages considérables, tant dans le spirituel que dans le temporel, par la mauvaise administration de ceux qui en étaient chargés, le saint Concile désire beaucoup les ramener à une discipline convenable à l'état monastique. 

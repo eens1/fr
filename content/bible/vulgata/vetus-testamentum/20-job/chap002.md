@@ -1,8 +1,10 @@
 ---
-title: "Caput 2"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 2
 ---
+
+
 
 
 1 Factum est autem cum quadam die venissent filii Dei, et starent coram Domino, venisset quoque Satan inter eos, et staret in conspectu eius,

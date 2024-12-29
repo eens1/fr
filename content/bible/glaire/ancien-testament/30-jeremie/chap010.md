@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 10"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Le Seigneur exhorte Israël à ne pas prendre part à l’idolâtrie des nations dans sa captivité.
-  Il avertit Jérusalem de se préparer à la désolation dont elle est menacée.
-  Jérusalem conjure le Seigneur de détourner d’elle sa colère.
+summary: "\nLe Seigneur exhorte Isra\xEBl \xE0 ne pas prendre part \xE0 l\u2019idol\xE2\
+  trie des nations dans sa captivit\xE9.\nIl avertit J\xE9rusalem de se pr\xE9parer\
+  \ \xE0 la d\xE9solation dont elle est menac\xE9e.\nJ\xE9rusalem conjure le Seigneur\
+  \ de d\xE9tourner d\u2019elle sa col\xE8re.\n"
+title: Chapitre 10
 ---
+
+
 
 
 1 Ecoutez la parole que le Seigneur a dite sur vous, maison d'Israël.

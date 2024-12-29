@@ -1,8 +1,10 @@
 ---
-title: "Salut des âmes"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: "Salut des \xE2mes"
 ---
+
+
 
 
 > *François de Sainte Marie* : "Mais ce qui est encore très considérable, c'est que ces fervents religieux de Pastrane reconnaissaient pour la fin de leur institut et de leur vocation, l'avancement du salut des âmes : Ils apprenaient de la bouche de notre glorieuse fondatrice ce que nous lisons dans ses écrits, qu'elle n'a entrepris cette réforme, et qu'elle n'a assemblé ses fils et ses filles pour autre dessein, que pour employer au salut de leur prochain leurs oraisons, les austérités de leur règle, et leurs pénitences de surérogation, avec les autres moyens ordinaires de la prédication et de la confession, qui doivent être réglés pas l'obéissance.

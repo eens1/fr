@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 36"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Jérémie dicte ses prophéties à Baruch qui les lit devant le peuple, puis devant les princes.
-  Le roi Joakim fait brûler le livre.
-  Jérémie les dicte une seconde fois, en ajoute de nouvelles, et annonce les vengeances du Seigneur contre Joakim.
+summary: "\nJ\xE9r\xE9mie dicte ses proph\xE9ties \xE0 Baruch qui les lit devant le\
+  \ peuple, puis devant les princes.\nLe roi Joakim fait br\xFBler le livre.\nJ\xE9\
+  r\xE9mie les dicte une seconde fois, en ajoute de nouvelles, et annonce les vengeances\
+  \ du Seigneur contre Joakim.\n"
+title: Chapitre 36
 ---
+
+
 
 
 1 Et il arriva dans la quatrième année de Joakim, fils de Josias, roi de Juda, que cette parole fut adressée à Jérémie par le Seigneur, disant :

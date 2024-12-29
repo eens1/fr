@@ -1,8 +1,10 @@
 ---
-title: "Caput 19"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 19
 ---
+
+
 
 
 1 Operarius ebriosus non locupletabitur: et qui spernit modica, paulatim decidet.

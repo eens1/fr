@@ -1,8 +1,10 @@
 ---
-title: "Caput 9"
-date: 2024-09-06T20:00:56+02:00
+date: 2024-09-06 20:00:56+02:00
 draft: false
+title: Caput 9
 ---
+
+
 
 
 1 Vidi Dominum stantem super altare. et dixit: Percute cardinem, et commoveantur superliminaria: avaritia enim in capite omnium, et novissimum eorum in gladio interficiam: non erit fuga eis. Fugient, et non salvabitur ex eis qui fugerit.

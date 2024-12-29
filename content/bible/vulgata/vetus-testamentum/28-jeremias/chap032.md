@@ -1,8 +1,10 @@
 ---
-title: "Caput 32"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 32
 ---
+
+
 
 
 1 Verbum, quod factum est ad Ieremiam a Domino in anno decimo Sedeciae regis Iuda: ipse est annus decimus octavus Nabuchodonosor.

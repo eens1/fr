@@ -1,8 +1,10 @@
 ---
-title: "Caput 2"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 2
 ---
+
+
 
 
 1 Misit igitur Iosue filius Nun de Setim duos viros exploratores in abscondito: et dixit eis: Ite, et considerate Terram, urbemque Iericho. Qui pergentes ingressi sunt domum mulieris meretricis, nomine Rahab, et quieverunt apud eam.

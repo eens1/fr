@@ -1,8 +1,10 @@
 ---
-title: "Caput 16"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 16
 ---
+
+
 
 
 1 Profectique sunt de Elim, et venit omnis multitudo filiorum Israel in desertum Sin, quod est inter Elim et Sinai: quintodecimo die mensis secundi, postquam egressi sunt de terra AEgypti.

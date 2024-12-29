@@ -1,8 +1,10 @@
 ---
-title: "Caput 49"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 49
 ---
+
+
 
 
 1 Vocavit autem Iacob filios suos, et ait eis: Congregamini, ut annunciem quae ventura sunt vobis in diebus novissimis.

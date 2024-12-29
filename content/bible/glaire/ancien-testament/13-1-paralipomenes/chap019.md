@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 19"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Le roi des Ammonites outrage les messagers de David.
-  Défaite des Ammonites et des Syriens.
-  Seconde défaite des Syriens.
+summary: "\nLe roi des Ammonites outrage les messagers de David.\nD\xE9faite des Ammonites\
+  \ et des Syriens.\nSeconde d\xE9faite des Syriens.\n"
+title: Chapitre 19
 ---
+
+
 
 
 1 Or il arriva que Naas, roi des enfants d'Ammon, mourut, et que son fils régna à sa place.

@@ -1,11 +1,15 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
+summary: '
+
   Cantique de Tobie.
+
+  '
+title: Chapitre 13
 ---
+
+
 
 
 1 Alors, ouvrant la bouche, Tobie, le vieux, bénit le Seigneur, et dit : Vous êtes grand, Seigneur, dans l'éternité, et dans tous les siècles est votre règne ;

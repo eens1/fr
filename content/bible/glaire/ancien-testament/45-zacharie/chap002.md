@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Gloire de Jérusalem ; multitude de ses habitants ; Dieu lui servira de rempart.
-  Vengeances du Seigneur sur ceux qui ont opprimé son peuple.
-  Les nations s’attacheront au Seigneur ; il habitera au milieu de son peuple.
+summary: "\nGloire de J\xE9rusalem ; multitude de ses habitants ; Dieu lui servira\
+  \ de rempart.\nVengeances du Seigneur sur ceux qui ont opprim\xE9 son peuple.\n\
+  Les nations s\u2019attacheront au Seigneur ; il habitera au milieu de son peuple.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Et je levai les yeux, et je vis; et voilà un homme, et dans sa main un cordeau d'arpenteur.

@@ -1,12 +1,14 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Jésus-Christ est vraiment notre pontife ; comment cette qualité lui convient et lui appartient.
-  L’Apôtre reproche aux Hébreux auxquels il écrit leur peu de disposition à entrer dans les grandes vérités de la religion.
+summary: "\nJ\xE9sus-Christ est vraiment notre pontife ; comment cette qualit\xE9\
+  \ lui convient et lui appartient.\nL\u2019Ap\xF4tre reproche aux H\xE9breux auxquels\
+  \ il \xE9crit leur peu de disposition \xE0 entrer dans les grandes v\xE9rit\xE9\
+  s de la religion.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Car tout pontife pris d'entre les hommes est établi pour les hommes en ce qui regarde Dieu, afin qu'il offre des dons et des sacrifices pour les péchés, 2 Et qu'il puisse compatir à ceux qui sont dans l'ignorance et dans l'erreur, étant lui-même environné de faiblesse. 3 Et c'est pourquoi il doit offrir pour lui-même aussi bien que pour le peuple, des sacrifices en expiation des péchés. 4 Or nul ne s'attribue à lui-même cet honneur, sinon celui qui est appelé de Dieu, comme Aaron.

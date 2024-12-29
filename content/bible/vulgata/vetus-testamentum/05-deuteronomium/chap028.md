@@ -1,8 +1,10 @@
 ---
-title: "Caput 28"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 28
 ---
+
+
 
 
 1 Si autem audieris vocem Domini Dei tui, ut facias atque custodias omnia mandata eius, quae ego praecipio tibi hodie, faciet te Dominus Deus tuus excelsiorem cunctis gentibus, quae versantur in terra.

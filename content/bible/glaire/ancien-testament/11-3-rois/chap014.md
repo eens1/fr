@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 14"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Jéroboam envoie sa femme consulter le prophète Ahias sur la maladie de son fils.
-  Mort de Jéroboam.
-  Nadab lui succède.
-  Sésac, roi d’Egypte, pille le temple de Jérusalem.
-  Roboam meurt.
-  Abiam règne à sa place.
+summary: "\nJ\xE9roboam envoie sa femme consulter le proph\xE8te Ahias sur la maladie\
+  \ de son fils.\nMort de J\xE9roboam.\nNadab lui succ\xE8de.\nS\xE9sac, roi d\u2019\
+  Egypte, pille le temple de J\xE9rusalem.\nRoboam meurt.\nAbiam r\xE8gne \xE0 sa\
+  \ place.\n"
+title: Chapitre 14
 ---
+
+
 
 
 1 En ce temps-là, Abia, fils de Jéroboam, fut malade,

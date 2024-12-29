@@ -1,8 +1,10 @@
 ---
-title: "Frère Bernardin d'Asti sur l'usage du manteau"
-date: 2024-09-06T20:00:58+02:00
+date: 2024-09-06 20:00:58+02:00
 draft: false
+title: "Fr\xE8re Bernardin d'Asti sur l'usage du manteau"
 ---
+
+
 
 
 Source : Caluze 1675, t. 1, p. 474-475.

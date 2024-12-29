@@ -1,8 +1,11 @@
 ---
-title: "Luc 16:19-31 - Mauvais riche, pauvre Lazare : supplice de l’un, récompense de l’autre."
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: "Luc 16:19-31 - Mauvais riche, pauvre Lazare : supplice de l\u2019un, r\xE9\
+  compense de l\u2019autre."
 ---
+
+
 
 
 Il y avait un homme riche qui était vêtu de pourpre et de fin lin; et il faisait chaque jour une splendide chère. Il y avait aussi un mendiant, nommé Lazare, lequel était couché à sa porte, couvert d'ulcères,

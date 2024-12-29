@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 7"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Transport de l’arche à Cariathiarim.
-  Samuel exhorte le peuple à retourner au Seigneur.
-  Il délivre Israël des mains des Philistins.
+summary: "\nTransport de l\u2019arche \xE0 Cariathiarim.\nSamuel exhorte le peuple\
+  \ \xE0 retourner au Seigneur.\nIl d\xE9livre Isra\xEBl des mains des Philistins.\n"
+title: Chapitre 7
 ---
+
+
 
 
 1 Les hommes de Cariathiarim vinrent donc, ramenèrent l'arche du Seigneur, et la transportèrent dans la maison d'Abinadad à Gabaa : mais ils sanctifièrent Eléazar, son fils, afin qu'il gardât l'arche du Seigneur.

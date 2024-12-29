@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Qui s’appuie sur la loi est déchu de la grâce.
-  C’est la foi qui nous sauve.
-  Galates séduits.
-  La loi consiste dans l’amour.
-  OEuvres de la chair.
-  Fruits de l’esprit.
+summary: "\nQui s\u2019appuie sur la loi est d\xE9chu de la gr\xE2ce.\nC\u2019est\
+  \ la foi qui nous sauve.\nGalates s\xE9duits.\nLa loi consiste dans l\u2019amour.\n\
+  OEuvres de la chair.\nFruits de l\u2019esprit.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Demeurez donc fermes, et ne vous courbez point de nouveau sous le joug de la servitude. *2 Voici que moi, Paul, je vous dis que si vous vous faites circoncire, le Christ ne vous servira de rien. j

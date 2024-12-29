@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 32"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Moïse donne aux tribus de Gad et de Ruben les terres d’au-delà du Jourdain.
+summary: "\nMo\xEFse donne aux tribus de Gad et de Ruben les terres d\u2019au-del\xE0\
+  \ du Jourdain.\n"
+title: Chapitre 32
 ---
+
+
 
 
 1 Or les enfants de Ruben et de Gad avaient beaucoup de troupeaux, et ils possédaient en bestiaux d'immenses richesses. Lors donc qu'ils eurent vu que les terres de Jazer et de Galaad étaient propres à nourrir des animaux,

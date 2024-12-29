@@ -1,8 +1,10 @@
 ---
-title: "Caput 11"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 11
 ---
+
+
 
 
 1 Athalia vero mater Ochoziae, videns mortuum filium suum, surrexit, et interfecit omne semen regium.

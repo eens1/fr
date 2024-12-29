@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 43"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste expose d’abord les grandes merveilles que Dieu fit autrefois en faveur de son peuple ; il se plaint ensuite des maux où il est réduit.
-  Il espère une meilleure condition et demande instamment sa délivrance.
+summary: "\nLe Psalmiste expose d\u2019abord les grandes merveilles que Dieu fit autrefois\
+  \ en faveur de son peuple ; il se plaint ensuite des maux o\xF9 il est r\xE9duit.\n\
+  Il esp\xE8re une meilleure condition et demande instamment sa d\xE9livrance.\n"
+title: Chapitre 43
 ---
+
+
 
 
 1 Pour la fin, aux fils de Coré pour l'intelligence.

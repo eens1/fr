@@ -1,8 +1,10 @@
 ---
-title: "Changement de nom"
-date: 2024-09-06T20:03:00+02:00
+date: 2024-09-06 20:03:00+02:00
 draft: false
+title: Changement de nom
 ---
+
+
 
 
 > *Matthieu 16:17-18* : "Et Jésus répondant, lui dit : Tu es heureux, Simon, fils de Jean, car ni la chair ni le sang ne t'ont révélé ceci, mais mon Père qui est dans les cieux. Aussi moi je te dis que tu es Pierre, et sur cette pierre je bâtirai mon Eglise, et les portes de l'enfer ne prévaudront point contre elle." [^1]

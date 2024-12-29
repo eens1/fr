@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 26"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Ordre des portiers du temple et des gardes des trésors, et des vases sacrés.
-  Ordre des Lévites destinés à remplir les fonctions de chefs et de juges en Israël.
+summary: "\nOrdre des portiers du temple et des gardes des tr\xE9sors, et des vases\
+  \ sacr\xE9s.\nOrdre des L\xE9vites destin\xE9s \xE0 remplir les fonctions de chefs\
+  \ et de juges en Isra\xEBl.\n"
+title: Chapitre 26
 ---
+
+
 
 
 1 Voici la distribution des portiers : d'entre les Corites, Mésélémia, fils de Coré, d'entre les fils d'Asaph.

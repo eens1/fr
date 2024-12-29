@@ -1,8 +1,10 @@
 ---
-title: "Chap. 1 - Introduction"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Chap. 1 - Introduction
 ---
+
+
 
 
 Pour complément de la doctrine salutaire de la justification qui a été promulguée dans la précédente session, du consentement unanime de tous les Pères, il a été jugé à propos de traiter des sacrements très-saints de l'Eglise, par lesquels toute justice véritable ou prend son commencement, ou s'augmente lorsqu'elle est commencée, ou se répare quand elle est perdue. 

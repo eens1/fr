@@ -1,8 +1,10 @@
 ---
-title: "Saint Augustin au sujet de la vérité"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: "Saint Augustin au sujet de la v\xE9rit\xE9"
 ---
+
+
 
 
 *Source : D'Andilly 1773, pp. 321-323 (Confessions)*.

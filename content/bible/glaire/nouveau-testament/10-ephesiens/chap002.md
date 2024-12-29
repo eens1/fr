@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  L’homme mort par le péché est ressuscité en Jésus-Christ.
-  Nous sommes sauvés par sa grâce.
-  Les gentils, étrangers aux promesses, en sont devenus héritiers.
-  Jésus-Christ réconciliateur des deux peuples.
-  Edifice de l’Eglise.
+summary: "\nL\u2019homme mort par le p\xE9ch\xE9 est ressuscit\xE9 en J\xE9sus-Christ.\n\
+  Nous sommes sauv\xE9s par sa gr\xE2ce.\nLes gentils, \xE9trangers aux promesses,\
+  \ en sont devenus h\xE9ritiers.\nJ\xE9sus-Christ r\xE9conciliateur des deux peuples.\n\
+  Edifice de l\u2019Eglise.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Et vous, il vous a vivifiés, lorsque vous étiez morts par vos offenses et par vos péchés,

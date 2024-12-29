@@ -1,8 +1,10 @@
 ---
-title: "Saint François au sujet des possessions"
-date: 2024-09-06T20:00:58+02:00
+date: 2024-09-06 20:00:58+02:00
 draft: false
+title: "Saint Fran\xE7ois au sujet des possessions"
 ---
+
+
 
 
 Source : Callaey 1911, p. 105.

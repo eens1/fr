@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 15"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Partage de la tribu de Juda.
-  Prise de Cariath-Sépher.
-  Villes de la tribu de Juda.
+summary: "\nPartage de la tribu de Juda.\nPrise de Cariath-S\xE9pher.\nVilles de la\
+  \ tribu de Juda.\n"
+title: Chapitre 15
 ---
+
+
 
 
 1 Ainsi le lot des enfants de Juda, selon leur parenté, fut celui-ci : Depuis la frontière d'Edom, le désert de Sin contre le midi, jusqu'à l'extrémité de la contrée australe.

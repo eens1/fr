@@ -1,8 +1,10 @@
 ---
-title: "Licéité"
-date: 2024-09-06T20:02:54+02:00
+date: 2024-09-06 20:02:54+02:00
 draft: false
+title: "Lic\xE9it\xE9"
 ---
+
+
 
 
 > *E. Jombart, Manuel de droit canon, Baptêmes d'adultes, 1958* : "Un adulte ne peut être licitement baptisé que conscient et consentant, suffisamment instruit, ayant la foi et au moins l'attrition de ses péchés (C. 752, al. 1).

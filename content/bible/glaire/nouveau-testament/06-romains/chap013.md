@@ -1,14 +1,14 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Obéir aux puissances comme étant établies de Dieu.
-  Payer le tribut des princes ; rendre à chacun ce qui lui est dû.
-  Amour du prochain, abrégé de la foi.
-  Sortir de l’assoupissement : quitter les oeuvres des ténèbres ; se revêtir de Jésus-Christ.
+summary: "\nOb\xE9ir aux puissances comme \xE9tant \xE9tablies de Dieu.\nPayer le\
+  \ tribut des princes ; rendre \xE0 chacun ce qui lui est d\xFB.\nAmour du prochain,\
+  \ abr\xE9g\xE9 de la foi.\nSortir de l\u2019assoupissement : quitter les oeuvres\
+  \ des t\xE9n\xE8bres ; se rev\xEAtir de J\xE9sus-Christ.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 Que toute âme soit soumise aux puissances supérieures, car il n'y a point de puissance qui ne vienne de Dieu ; et celles qui sont ont été établies de Dieu.

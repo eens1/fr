@@ -1,17 +1,13 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Jésus dans la barque de Pierre.
-  Pêche miraculeuse.
-  Guérison d’un lépreux et d’un paralytique.
-  Vocation de saint Matthieu.
-  Pièce d’étoffe neuve.
-  Outres neuves.
-  Vin nouveau.
+summary: "\nJ\xE9sus dans la barque de Pierre.\nP\xEAche miraculeuse.\nGu\xE9rison\
+  \ d\u2019un l\xE9preux et d\u2019un paralytique.\nVocation de saint Matthieu.\n\
+  Pi\xE8ce d\u2019\xE9toffe neuve.\nOutres neuves.\nVin nouveau.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Or il arriva que lorsque la foule se précipitait sur lui pour entendre la parole de Dieu, il se tenait lui-même auprès du lac de Génésareth.

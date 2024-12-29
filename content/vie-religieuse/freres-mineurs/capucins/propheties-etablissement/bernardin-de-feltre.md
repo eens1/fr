@@ -1,9 +1,11 @@
 ---
-title: "Bernardin de Feltre"
 date: 2024-12-07T12:20:58+0000
 draft: false
 tags: []
+title: Bernardin de Feltre
 ---
+
+
 
 Source: [Chroniques des Capucins](https://www.google.fr/books/edition/Les_annales_des_fr%C3%A8res_mineurs_capucins/uywyN7uqW0gC?hl=fr&gbpv=1&pg=PA40&printsec=frontcover)
 

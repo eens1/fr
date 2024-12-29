@@ -1,8 +1,10 @@
 ---
-title: "La Salette"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: La Salette
 ---
+
+
 
 
 > *Message de la Sainte Vierge* : "Si mon peuple ne veut pas se soumettre, je suis forcée de laisser aller la main de mon Fils. Elle est si lourde et si pesante, que je ne puis plus la retenir.

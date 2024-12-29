@@ -1,11 +1,13 @@
 ---
-title: "Chapitre 41"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  David, éloigné de la maison de Dieu par les persécutions de ses ennemis, se console dans son exil, et par le souvenir des miséricordes du Seigneur, et par l’espérance de revoir un jour le lieu de sa demeure.
+summary: "\nDavid, \xE9loign\xE9 de la maison de Dieu par les pers\xE9cutions de ses\
+  \ ennemis, se console dans son exil, et par le souvenir des mis\xE9ricordes du Seigneur,\
+  \ et par l\u2019esp\xE9rance de revoir un jour le lieu de sa demeure.\n"
+title: Chapitre 41
 ---
+
+
 
 
 1 Pour la fin, intelligence aux fils de Coré.

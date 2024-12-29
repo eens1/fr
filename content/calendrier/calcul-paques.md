@@ -1,8 +1,9 @@
 ---
-title: "Calcul des fêtes mobiles"
-date: 2024-09-06T20:02:53+02:00
+date: 2024-09-06 20:02:53+02:00
 draft: false
----  
+title: "Calcul des f\xEAtes mobiles"
+---
+  
   
 Les fêtes qui n'ont pas de date fixe se calculent en référence à la fête de Pâques. Celle-ci, comme l'a arrêté le concile de Nicée, se célèbre le dimanche après la pleine lune qui suit le 21 mars. [^1]
 

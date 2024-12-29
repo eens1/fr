@@ -1,14 +1,16 @@
 ---
-title: "Chapitre 15"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  David implore le secours de Dieu parmi les nations étrangères où il se trouvait.
-  Il déclarer qu’il ne veut prendre aucune part à leurs sacrifices et à leur idolâtrie, et qu’il met tout son bonheur dans le culte du Seigneur.
-  Il rend grâces à Dieu pour la protection qu’il lui a accordée, il espère tout de sa bonté.
-  Enfin il prédit la résurrection du Sauveur.
+summary: "\nDavid implore le secours de Dieu parmi les nations \xE9trang\xE8res o\xF9\
+  \ il se trouvait.\nIl d\xE9clarer qu\u2019il ne veut prendre aucune part \xE0 leurs\
+  \ sacrifices et \xE0 leur idol\xE2trie, et qu\u2019il met tout son bonheur dans\
+  \ le culte du Seigneur.\nIl rend gr\xE2ces \xE0 Dieu pour la protection qu\u2019\
+  il lui a accord\xE9e, il esp\xE8re tout de sa bont\xE9.\nEnfin il pr\xE9dit la r\xE9\
+  surrection du Sauveur.\n"
+title: Chapitre 15
 ---
+
+
 
 
 1 Inscription de titre par David lui-même. Conservez-moi, Seigneur, parce que j'ai espéré en vous.

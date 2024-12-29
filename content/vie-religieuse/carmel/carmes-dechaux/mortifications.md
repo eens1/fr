@@ -1,8 +1,10 @@
 ---
-title: "Mortifications"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: Mortifications
 ---
+
+
 
 
 > *François de Sainte Marie* : "Que s'il arrivait à quelqu'un d'entre eux d'avoir un habit bien juste, et bien propre, il le défaisait incontinent pour lui faire perdre sa forme : afin de condamner le luxe du siècle, qui se plaît à choisir non seulement les étoffes les plus précieuses; mais encore à rechercher les modes les plus mondaines.

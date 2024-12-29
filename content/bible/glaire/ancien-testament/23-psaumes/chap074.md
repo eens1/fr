@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 74"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste exhorte les méchants à se corriger et à s’humilier devant Dieu.
-  Il prédit l’élévation et la gloire des justes.
+summary: "\nLe Psalmiste exhorte les m\xE9chants \xE0 se corriger et \xE0 s\u2019\
+  humilier devant Dieu.\nIl pr\xE9dit l\u2019\xE9l\xE9vation et la gloire des justes.\n"
+title: Chapitre 74
 ---
+
+
 
 
 1 Pour la fin. Ne corrompez pas. Psaume d'un cantique d'Asaph.

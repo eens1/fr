@@ -1,8 +1,10 @@
 ---
-title: "Caput 4"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 4
 ---
+
+
 
 
 1 Verti me ad alia, et vidi calumnias, quae sub sole geruntur, et lacrymas innocentium, et neminem consolatorem: nec posse resistere eorum violentiae, cunctorum auxilio destitutos.

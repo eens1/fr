@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 12"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Ezéchiel prédit par différents signes la captivité des habitants de Jérusalem et celle de leur roi.
-  Il annonce l’extrémité où ils seront réduits pendant le siège.
-  Reproches du Seigneur contre ceux qui se flattaient que les menaces des prophètes ne seraient pas sitôt accomplies.
+summary: "\nEz\xE9chiel pr\xE9dit par diff\xE9rents signes la captivit\xE9 des habitants\
+  \ de J\xE9rusalem et celle de leur roi.\nIl annonce l\u2019extr\xE9mit\xE9 o\xF9\
+  \ ils seront r\xE9duits pendant le si\xE8ge.\nReproches du Seigneur contre ceux\
+  \ qui se flattaient que les menaces des proph\xE8tes ne seraient pas sit\xF4t accomplies.\n"
+title: Chapitre 12
 ---
+
+
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

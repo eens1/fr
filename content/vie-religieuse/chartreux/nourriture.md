@@ -1,8 +1,10 @@
 ---
-title: "Nourriture"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: Nourriture
 ---
+
+
 
 
 > *Abbé Guibert, abbé de Nogent* : "Ils reçoivent le Dimanche, du dépensier, pour nourriture, du pain et des légumes, qui sont leurs seuls mets, et qu'ils cuisent chez eux.

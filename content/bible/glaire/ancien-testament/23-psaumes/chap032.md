@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 32"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste exhorte les justes à louer Dieu, à le craindre et à mettre en lui toute leur confiance.
+summary: "\nLe Psalmiste exhorte les justes \xE0 louer Dieu, \xE0 le craindre et \xE0\
+  \ mettre en lui toute leur confiance.\n"
+title: Chapitre 32
 ---
+
+
 
 
 1 Justes, exultez dans le Seigneur, aux coeurs droits convient sa louange. 2 Louez le Seigneur sur la harpe : jouez pour lui du psaltérion à dix cordes.

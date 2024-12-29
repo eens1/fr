@@ -1,12 +1,11 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Ruth va glaner dans les champs de Booz.
-  Booz la comble de bonté.
+summary: "\nRuth va glaner dans les champs de Booz.\nBooz la comble de bont\xE9.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Or Elimélech, mari de Noémi, avait un parent, homme puissant et de grandes richesses, du nom de Booz.

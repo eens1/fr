@@ -1,8 +1,10 @@
 ---
-title: "Modernisme"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Modernisme
 ---
+
+
 
 
 > *Abbé Bertrand* : "Le premier qui ait organisé l'impiété en France et conçu le projet d'anéantir l'Eglise, est François Arouet, né à Paris le 20 février 1694. Son père était notaire au Chatalet. Le jeune Arouet fit ses études au collège de Louis-le-Grand, alors dirigé par les Jésuites. Il était encore élève de rhétorique lorsqu'il commença à manifester ses tendances anti-religieuses. Effrayé de la tournure de son esprit, le Père Le Jay ne put s'empêcher de lui dire un jour : 

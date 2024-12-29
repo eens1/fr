@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Salomon épouse la fille de Pharaon.
-  Il demande à Dieu la sagesse.
-  Dieu lui donne par surcroît les richesses et la gloire.
-  Jugement qu’il porte entre deux femmes.
+summary: "\nSalomon \xE9pouse la fille de Pharaon.\nIl demande \xE0 Dieu la sagesse.\n\
+  Dieu lui donne par surcro\xEEt les richesses et la gloire.\nJugement qu\u2019il\
+  \ porte entre deux femmes.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 La royauté fut donc affermie dans la main de Salomon ; il s'unit par alliance à Pharaon, roi d'Egypte ; car il prit sa fille, et il l'amena dans la cité de David, jusqu'à ce qu'il eût achevé de bâtir sa maison, et la maison du Seigneur, et le mur de Jérusalem tout autour.

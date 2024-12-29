@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 10"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  La reine de Saba vient trouver Salomon.
-  Sagesse et richesses de ce prince.
-  Description du trône qu’il fit faire.
+summary: "\nLa reine de Saba vient trouver Salomon.\nSagesse et richesses de ce prince.\n\
+  Description du tr\xF4ne qu\u2019il fit faire.\n"
+title: Chapitre 10
 ---
+
+
 
 
 1 Mais la reine de Saba aussi, ayant appris la renommée de Salomon au nom du Seigneur, vint l'éprouver par des énigmes.

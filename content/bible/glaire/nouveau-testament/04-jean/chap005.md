@@ -1,18 +1,16 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Guérison d’un homme malade depuis trente-huit ans.
-  Murmures des Juifs sur le prétendu violement du sabbat, et sur ce que Jésus-Christ se déclarait le Fils de Dieu.
-  Réponse de Jésus-Christ aux Juifs.
-  Le Fils agit avec le Père : il a reçu du Père tout pouvoir de juger.
-  Il a la vie en lui de même que le Père.
-  Témoignage de Jean-Baptiste et du Père céleste.
-  Incrédulité des Juifs.
-  Moïse sera leur accusateur.
+summary: "\nGu\xE9rison d\u2019un homme malade depuis trente-huit ans.\nMurmures des\
+  \ Juifs sur le pr\xE9tendu violement du sabbat, et sur ce que J\xE9sus-Christ se\
+  \ d\xE9clarait le Fils de Dieu.\nR\xE9ponse de J\xE9sus-Christ aux Juifs.\nLe Fils\
+  \ agit avec le P\xE8re : il a re\xE7u du P\xE8re tout pouvoir de juger.\nIl a la\
+  \ vie en lui de m\xEAme que le P\xE8re.\nT\xE9moignage de Jean-Baptiste et du P\xE8\
+  re c\xE9leste.\nIncr\xE9dulit\xE9 des Juifs.\nMo\xEFse sera leur accusateur.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Après cela se trouvait la fête des Juifs, et Jésus monta à Jérusalem.

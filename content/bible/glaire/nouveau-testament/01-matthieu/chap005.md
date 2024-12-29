@@ -1,25 +1,15 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Sermon sur la montagne.
-  Béatitudes.
-  Apôtres, sel et lumière de la terre.
-  Loi non détruite.
-  Faire et enseigner.
-  Justice abondante.
-  Parole injurieuse.
-  Réconciliation.
-  Adultère dans le coeur.
-  S’arracher l’oeil.
-  Mariage indissoluble.
-  Jurement.
-  Etre prêt à tout souffrir.
-  Amour des ennemis.
-  Perfection.
+summary: "\nSermon sur la montagne.\nB\xE9atitudes.\nAp\xF4tres, sel et lumi\xE8re\
+  \ de la terre.\nLoi non d\xE9truite.\nFaire et enseigner.\nJustice abondante.\n\
+  Parole injurieuse.\nR\xE9conciliation.\nAdult\xE8re dans le coeur.\nS\u2019arracher\
+  \ l\u2019oeil.\nMariage indissoluble.\nJurement.\nEtre pr\xEAt \xE0 tout souffrir.\n\
+  Amour des ennemis.\nPerfection.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Jésus voyant la foule, monta sur la montagne, et, lorsqu'il se fut assis, ses disciples s'approchèrent de lui,

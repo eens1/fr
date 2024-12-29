@@ -1,8 +1,10 @@
 ---
-title: "Oraison dominicale"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: Oraison dominicale
 ---
+
+
 
 
 > *Breviarium romanum, 1936* : "Pater Noster, qui es in caelis, sanctificétur nomen tuum. Advéniat regnum tuum. Fiat volúntas tua, sicut in caelo et in terra. Panem nostrum quotidiánum da nobis hódie. Et dimítte nobis débita nostra, sicut et nos dimittimus debitóribus nostris. Et ne nos indúcas in tentatiónem : sed libera nos a malo. Amen." [^1]

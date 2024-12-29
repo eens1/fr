@@ -1,8 +1,10 @@
 ---
-title: "Lutte des classes"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Lutte des classes
 ---
+
+
 
 
 > *Dictionnaire de l'académie française, définition du terme "classe"* : "Ensemble des personnes qui, dans un pays, ont des niveaux de vie sensiblement voisins, une certaine communauté d’éducation, de moeurs, d’intérêts." [^1]

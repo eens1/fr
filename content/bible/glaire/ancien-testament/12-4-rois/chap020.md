@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 20"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Maladie d’Ezéchias.
-  Rétrogradation de l’ombre du soleil sur l’horloge d’Achaz.
-  Message du roi de Babylone.
-  Ezéchias est repris d’avoir montré ses trésors à ces étrangers.
-  Mort d’Ezéchias.
-  Manassé lui succède.
+summary: "\nMaladie d\u2019Ez\xE9chias.\nR\xE9trogradation de l\u2019ombre du soleil\
+  \ sur l\u2019horloge d\u2019Achaz.\nMessage du roi de Babylone.\nEz\xE9chias est\
+  \ repris d\u2019avoir montr\xE9 ses tr\xE9sors \xE0 ces \xE9trangers.\nMort d\u2019\
+  Ez\xE9chias.\nManass\xE9 lui succ\xE8de.\n"
+title: Chapitre 20
 ---
+
+
 
 
 1 En ces jours-là, Ezéchias fut malade jusqu'à la mort; alors vint vers lui Isaïe, le prophète, fils d'Amos, et il lui dit : Voici ce que dit le Seigneur Dieu : Donne des ordres à ta maison; car tu mourras, toi, et tu ne vivras pas.

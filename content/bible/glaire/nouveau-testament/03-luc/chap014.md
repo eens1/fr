@@ -1,17 +1,13 @@
 ---
-title: "Chapitre 14"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Hydropique guéri.
-  Prendre la dernière place.
-  Inviter les pauvres.
-  Parabole des conviés qui s’excusent.
-  Renoncer à tout pour suivre Jésus-Christ.
-  Porter sa croix.
-  Sel qui a perdu sa vertu.
+summary: "\nHydropique gu\xE9ri.\nPrendre la derni\xE8re place.\nInviter les pauvres.\n\
+  Parabole des convi\xE9s qui s\u2019excusent.\nRenoncer \xE0 tout pour suivre J\xE9\
+  sus-Christ.\nPorter sa croix.\nSel qui a perdu sa vertu.\n"
+title: Chapitre 14
 ---
+
+
 
 
 1 Il arriva que comme Jésus était entré un jour de sabbat dans la maison d'un chef des pharisiens pour y manger du pain, ceux-ci l'observaient.

@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Saint Paul confère avec les Apôtres.
-  On ne l’oblige pas à observer la loi.
-  Il est l’apôtre des gentils.
-  Il résiste à Céphas.
-  Nul n’est justifié que par la foi en Jésus-Christ.
+summary: "\nSaint Paul conf\xE8re avec les Ap\xF4tres.\nOn ne l\u2019oblige pas \xE0\
+  \ observer la loi.\nIl est l\u2019ap\xF4tre des gentils.\nIl r\xE9siste \xE0 C\xE9\
+  phas.\nNul n\u2019est justifi\xE9 que par la foi en J\xE9sus-Christ.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Quatorze ans après, je montai de nouveau à Jérusalem avec Barnabé, ayant pris Tite aussi avec moi. 2 Or, j'y montai d'après une révélation; et j'exposai aux fidèles l'Evangile que je prêche parmi les gentils, et en particulier à ceux qui paraissent être quelque chose, de peur que je ne courusse, ou n'eusse couru en vain.

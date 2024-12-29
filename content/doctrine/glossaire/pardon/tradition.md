@@ -1,8 +1,10 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Dans la Tradition
 ---
+
+
 
 
 > *Saint Augustin, Enchirid. ad Laurentium, c. 73* : "Ainsi ces paroles de l'oraison dominicales : *Pardonnez-nous comme nous pardonnons à ceux qui nous ont offensés*, signifient proprement : Pardonnez-nous les péchés dont nous vous demandons le pardon, comme nous pardonnons nous-mêmes à ceux qui nous ont offensés, et qui nous demandent pardon." [^1]

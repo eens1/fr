@@ -1,8 +1,11 @@
 ---
-title: "Chap. 7 - Age du supérieur, ne pas commander deux maison, election à la grille"
-date: 2024-09-06T20:00:57+02:00
+date: 2024-09-06 20:00:57+02:00
 draft: false
+title: "Chap. 7 - Age du sup\xE9rieur, ne pas commander deux maison, election \xE0\
+  \ la grille"
 ---
+
+
 
 
 On n'élira point pour abbesse, prieure, ou de quel que nom qu'on appelle celle qui est supérieure ou préposée au gouvernement, celle qui n'a point quarante ans, et si elle n'a mené une vie régulière huit ans depuis sa profession. 

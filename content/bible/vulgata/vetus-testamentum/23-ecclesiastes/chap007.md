@@ -1,8 +1,10 @@
 ---
-title: "Caput 7"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 7
 ---
+
+
 
 
 1 Quid necesse est homini maiora se quaerere, cum ignoret quid conducat sibi in vita sua numero dierum peregrinationis suae, et tempore, quod velut umbra praeterit? Aut quis ei poterit indicare quod post eum futurum sub sole sit?

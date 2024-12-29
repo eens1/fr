@@ -1,14 +1,14 @@
 ---
-title: "Chapitre 6"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Antiochus force les Juifs d’abandonner les lois de Dieu pour embrasser le culte des idoles.
-  Cruautés exercées contre les Juifs fidèles à la loi du Seigneur.
-  Dessein de Dieu en permettant ces maux.
-  Martyre du saint vieillard Eléazar.
+summary: "\nAntiochus force les Juifs d\u2019abandonner les lois de Dieu pour embrasser\
+  \ le culte des idoles.\nCruaut\xE9s exerc\xE9es contre les Juifs fid\xE8les \xE0\
+  \ la loi du Seigneur.\nDessein de Dieu en permettant ces maux.\nMartyre du saint\
+  \ vieillard El\xE9azar.\n"
+title: Chapitre 6
 ---
+
+
 
 
 1 Mais, peu de temps après, le roi envoya un certain vieillard d'Antioche pour forcer les Juifs à abandonner les lois de leur patrie et de Dieu;

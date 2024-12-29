@@ -1,8 +1,10 @@
 ---
-title: "Caput 10"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 10
 ---
+
+
 
 
 1 Taedet animam meam vitae meae, dimittam adversum me eloquium meum, loquar in amaritudine animae meae.

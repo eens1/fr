@@ -1,8 +1,10 @@
 ---
-title: "Caput 3"
-date: 2024-09-06T20:00:56+02:00
+date: 2024-09-06 20:00:56+02:00
 draft: false
+title: Caput 3
 ---
+
+
 
 
 1 Et dixit Dominus ad me: Adhuc vade, et dilige mulierem dilectam amico et adulteram: sicut diligit Dominus filios Israel, et ipsi respiciunt ad deos alienos, et diligunt vinacia uvarum.

@@ -1,14 +1,14 @@
 ---
-title: "Chapitre 14"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Guerre de Démétrius contre les Parthes ; il est fait prisonnier.
-  Bonheur du gouvernement de Simon.
-  Les Romains et les Spartiates renouvellent l’alliance avec lui.
-  Les Juifs lui confirment par un acte solennel la souveraine autorité.
+summary: "\nGuerre de D\xE9m\xE9trius contre les Parthes ; il est fait prisonnier.\n\
+  Bonheur du gouvernement de Simon.\nLes Romains et les Spartiates renouvellent l\u2019\
+  alliance avec lui.\nLes Juifs lui confirment par un acte solennel la souveraine\
+  \ autorit\xE9.\n"
+title: Chapitre 14
 ---
+
+
 
 
 1 En l'année cent soixante et douzième, le roi Démétrius assembla son armée, et s'en alla en Médie pour se procurer des secours, afin de combattre Tryphon.

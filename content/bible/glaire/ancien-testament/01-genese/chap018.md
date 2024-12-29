@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 18"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Apparition de trois anges à Abraham.
-  Promesse de la naissance d’Isaac.
-  Prédiction de la destruction de Sodome et de Gomorrhe.
+summary: "\nApparition de trois anges \xE0 Abraham.\nPromesse de la naissance d\u2019\
+  Isaac.\nPr\xE9diction de la destruction de Sodome et de Gomorrhe.\n"
+title: Chapitre 18
 ---
+
+
 
 
 1 Or le Seigneur apparut dans la vallée de Mambré, à Abraham, assis à l'entrée de sa tente dans la grande chaleur du jour.

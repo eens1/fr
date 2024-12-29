@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 15"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Guerre contre les Amalécites.
-  Saül épargne leur roi.
-  Samuel lui reproche sa désobéissance, et lui déclare que Dieu l’a rejeté.
-  Il fait venir Agag et le coupe en morceaux.
-  Il se sépare de Saül.
+summary: "\nGuerre contre les Amal\xE9cites.\nSa\xFCl \xE9pargne leur roi.\nSamuel\
+  \ lui reproche sa d\xE9sob\xE9issance, et lui d\xE9clare que Dieu l\u2019a rejet\xE9\
+  .\nIl fait venir Agag et le coupe en morceaux.\nIl se s\xE9pare de Sa\xFCl.\n"
+title: Chapitre 15
 ---
+
+
 
 
 1 Et Samuel dit à Saül : Le Seigneur m'a envoyé pour vous oindre comme roi sur son peuple, Israël : maintenant donc écoutez la voix du Seigneur. 2 Voici ce que dit le Seigneur des armées : J'ai passé en revue tout ce qu'a fait Amalec à Israël, comment il lui résista dans le chemin, lorsqu'il montait de l'Egypte.

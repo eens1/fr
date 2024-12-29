@@ -1,8 +1,10 @@
 ---
-title: "Un prêtre convertit un protestant en lui déclarant que sont salut est impossible hors de l'Eglise"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "Un pr\xEAtre convertit un protestant en lui d\xE9clarant que sont salut est\
+  \ impossible hors de l'Eglise"
 ---
+
 
 
 > *Père Cyprien de Gamaches, Mission des Capucins, 1881* : "Le comte do Derby, beau-frère de M. de la Trimouille, fut pris , jeté dans une prison, et condamné à avoir la tête tranchée...

@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 11"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Habitants de Juda et de Jérusalem exhortés à observer l’alliance du Seigneur.
-  Leur infidélité.
-  Vengeances du Seigneur.
-  Dieu défend à Jérémie de prier pour eux.
-  Mauvais dessein qu’ils forment contre Jérémie.
-  Prophétie contre Anathoth.
+summary: "\nHabitants de Juda et de J\xE9rusalem exhort\xE9s \xE0 observer l\u2019\
+  alliance du Seigneur.\nLeur infid\xE9lit\xE9.\nVengeances du Seigneur.\nDieu d\xE9\
+  fend \xE0 J\xE9r\xE9mie de prier pour eux.\nMauvais dessein qu\u2019ils forment\
+  \ contre J\xE9r\xE9mie.\nProph\xE9tie contre Anathoth.\n"
+title: Chapitre 11
 ---
+
+
 
 
 1 Parole qui fut adressée par le Seigneur à Jérémie, disant :

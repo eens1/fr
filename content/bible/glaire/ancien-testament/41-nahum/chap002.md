@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Le Seigneur prend la défense de la maison de Jacob, et exerce ses vengeances sur les Ninivites.
-  Prise, désolation, ruine de Ninive.
+summary: "\nLe Seigneur prend la d\xE9fense de la maison de Jacob, et exerce ses vengeances\
+  \ sur les Ninivites.\nPrise, d\xE9solation, ruine de Ninive.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Il monte, celui qui ravagera devant toi, qui maintiendra le siège; considère la voie, affermis tes reins, augmente extrêmement ta force.

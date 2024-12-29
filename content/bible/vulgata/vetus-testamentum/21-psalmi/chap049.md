@@ -1,8 +1,10 @@
 ---
-title: "Caput 49"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 49
 ---
+
+
 
 
 1 Psalmus Asaph. Deus deorum Dominus locutus est: et vocavit terram, A solis ortu usque ad occasum:

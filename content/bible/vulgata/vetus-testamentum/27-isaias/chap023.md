@@ -1,8 +1,10 @@
 ---
-title: "Caput 23"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 23
 ---
+
+
 
 
 1 Onus Tyri. Ululate naves maris: quia vastata est domus, unde venire consueverant: de Terra Cethim revelatum est eis.

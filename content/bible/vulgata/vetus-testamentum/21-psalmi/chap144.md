@@ -1,8 +1,10 @@
 ---
-title: "Caput 144"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 144
 ---
+
+
 
 
 1 Laudatio ipsi David. Exaltabo te Deus meus rex: et benedicam nomini tuo in saeculum, et in saeculum saeculi.

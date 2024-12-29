@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 18"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Partage des prêtres et des Lévites.
-  Défense de consulter les devins.
-  Prophète que Dieu doit susciter.
-  Marques pour distinguer les faux prophètes.
+summary: "\nPartage des pr\xEAtres et des L\xE9vites.\nD\xE9fense de consulter les\
+  \ devins.\nProph\xE8te que Dieu doit susciter.\nMarques pour distinguer les faux\
+  \ proph\xE8tes.\n"
+title: Chapitre 18
 ---
+
+
 
 
 1 Les prêtres, les Lévites, et tous ceux qui sont de la même tribu n'auront point de part et d'héritage avec le reste d'Israël, parce qu'ils mangeront des sacrifices du Seigneur et de ses oblations;

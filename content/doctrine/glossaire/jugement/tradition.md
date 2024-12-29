@@ -1,8 +1,10 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Dans la Tradition
 ---
+
+
 
 
 > *Saint Thomas d'Aquin, Somme théologique, p. II-II, q. 60, a. 1* : "... le jugement désigne proprement l'acte du juge considéré comme tel. Le mot juge (judex) signifie en quelque sorte celui qui proclame le droit (jus dicens)." [^1]

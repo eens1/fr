@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 6"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Etre simple, humble, doux et affable.
-  Choisir pour conseil un ami longtemps éprouvé.
-  Avantages et caractères de l’amitié.
-  Travailler à acquérir la sagesse.
-  Avantages qui l’accompagnent.
+summary: "\nEtre simple, humble, doux et affable.\nChoisir pour conseil un ami longtemps\
+  \ \xE9prouv\xE9.\nAvantages et caract\xE8res de l\u2019amiti\xE9.\nTravailler \xE0\
+  \ acqu\xE9rir la sagesse.\nAvantages qui l\u2019accompagnent.\n"
+title: Chapitre 6
 ---
+
+
 
 
 1 Ne deviens pas au lieu d'ami, l'ennemi de ton prochain ; car le méchant héritera de l'opprobre et de l'ignominie, ainsi que tout pécheur envieux et qui a deux langues.

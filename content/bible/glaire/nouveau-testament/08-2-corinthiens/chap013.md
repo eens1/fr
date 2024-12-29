@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Saint Paul menace de punir avec sévérité ceux qui n’auront point fait pénitence de leurs péchés.
-  Il souhaite de n’être pas obligé d’user de sa puissance.
-  Salutations.
+summary: "\nSaint Paul menace de punir avec s\xE9v\xE9rit\xE9 ceux qui n\u2019auront\
+  \ point fait p\xE9nitence de leurs p\xE9ch\xE9s.\nIl souhaite de n\u2019\xEAtre\
+  \ pas oblig\xE9 d\u2019user de sa puissance.\nSalutations.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 Voilà que pour la troisième fois je viens vers vous; sur le témoignage de deux ou trois témoins tout sera jugé.

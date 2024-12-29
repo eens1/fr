@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 9"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Job reconnaît que Dieu est infiniment juste dans ses jugements.
-  Il relève la sagesse et la puissance du Seigneur.
-  Il s’abaisse et se confond devant lui.
-  Il le supplie de lui donner quelque relâche.
+summary: "\nJob reconna\xEEt que Dieu est infiniment juste dans ses jugements.\nIl\
+  \ rel\xE8ve la sagesse et la puissance du Seigneur.\nIl s\u2019abaisse et se confond\
+  \ devant lui.\nIl le supplie de lui donner quelque rel\xE2che.\n"
+title: Chapitre 9
 ---
+
+
 
 
 1 Et, répondant, Job dit :

@@ -1,8 +1,10 @@
 ---
-title: "Caput 16"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 16
 ---
+
+
 
 
 1 Emitte agnum Domine dominatorem terrae, de Petra deserti ad montem filiae Sion.

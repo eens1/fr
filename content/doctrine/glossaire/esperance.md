@@ -1,8 +1,10 @@
 ---
-title: "Espérance"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Esp\xE9rance"
 ---
+
+
 
 
 > *Saint Basile* : "... si la foi est le fondement des choses qu'on espère, la conviction assurée des choses qu'on ne voit pas, vous ne devez pas chercher avec anxiété à voir ce qui maintenant est encore si éloigné de vous, ni révoquer en doute ce que vous espérez obtenir un jour, sous prétexte que votre raison a été jusqu'ici inhabile à l'atteindre." [^1]

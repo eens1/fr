@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 14"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Menaces contre ceux qui consultent les faux prophètes et qui demeurent dans leurs dérèglements.
-  Sévérité de la justice du Seigneur sur tout autre pays.
-  Restes épargnés d’entre les habitants de Jérusalem.
+summary: "\nMenaces contre ceux qui consultent les faux proph\xE8tes et qui demeurent\
+  \ dans leurs d\xE9r\xE8glements.\nS\xE9v\xE9rit\xE9 de la justice du Seigneur sur\
+  \ tout autre pays.\nRestes \xE9pargn\xE9s d\u2019entre les habitants de J\xE9rusalem.\n"
+title: Chapitre 14
 ---
+
+
 
 
 1 Et vinrent vers moi des hommes des anciens d'Israël, et ils s'assirent devant moi.

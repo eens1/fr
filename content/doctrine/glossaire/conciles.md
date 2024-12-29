@@ -1,8 +1,10 @@
 ---
-title: "Conciles"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Conciles
 ---
+
+
 
 
 > *Abbé Guérin, définitions, 1868* : "Les Conciles sont les assemblées légitimes des évêques et autres ministres de l'Eglise, convoquées par celui qui a droit d'y présider, ou de son consentement, pour délibérer sur les affaires ecclésiastiques qui concernent la foi, les moeurs ou la discipline.

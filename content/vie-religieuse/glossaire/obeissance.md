@@ -1,8 +1,10 @@
 ---
-title: "Obéissance"
-date: 2024-09-06T20:03:00+02:00
+date: 2024-09-06 20:03:00+02:00
 draft: false
+title: "Ob\xE9issance"
 ---
+
+
 
 
 > *Matthieu 16:24* : "Alors Jésus dit à ses disciples : Si quelqu'un veut venir après moi, qu'il renonce à lui-même, qu'il porte sa croix et me suive." [^1]

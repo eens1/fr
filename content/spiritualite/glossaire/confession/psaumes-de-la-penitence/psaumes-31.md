@@ -1,12 +1,14 @@
 ---
-title: "Psaumes 31"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
-summary: |
-  
-  David relève le bonheur de ceux dont les péchés sont effacés.
-  Il décrit sa résistance et son retour à Dieu, et il apprend aux pécheurs à éviter par une prompte conversion les châtiments dont ils sont menacés.
+summary: "\nDavid rel\xE8ve le bonheur de ceux dont les p\xE9ch\xE9s sont effac\xE9\
+  s.\nIl d\xE9crit sa r\xE9sistance et son retour \xE0 Dieu, et il apprend aux p\xE9\
+  cheurs \xE0 \xE9viter par une prompte conversion les ch\xE2timents dont ils sont\
+  \ menac\xE9s.\n"
+title: Psaumes 31
 ---
+
+
 
 
 1 Bienheureux ceux dont les iniquités ont été remises et dont les péchés ont été couverts.

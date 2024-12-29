@@ -1,8 +1,10 @@
 ---
-title: "Caput 19"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 19
 ---
+
+
 
 
 1 Nunciatum est autem Ioab quod rex fleret et lugeret filium suum:

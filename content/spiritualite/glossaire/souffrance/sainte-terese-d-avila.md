@@ -1,8 +1,10 @@
 ---
-title: "Notre Seigneur à sainte Térèse d'Avila"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: "Notre Seigneur \xE0 sainte T\xE9r\xE8se d'Avila"
 ---
+
+
 
 
 "Notre Seigneur me dit un jour :

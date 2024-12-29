@@ -1,8 +1,10 @@
 ---
-title: "Caput 1"
-date: 2024-09-06T20:00:47+02:00
+date: 2024-09-06 20:00:47+02:00
 draft: false
+title: Caput 1
 ---
+
+
 
 
 1 Paulus Apostolus Iesu Christi per voluntatem Dei, et Timotheus frater, Ecclesiae Dei, quae est Corinthi cum omnibus sanctis, qui sunt in universa Achaia.

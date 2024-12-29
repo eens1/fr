@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 23"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Josias ayant assemblé tout le peuple, renouvelle l’alliance avec le Seigneur.
-  Il détruit le reste de l’idolâtrie, et ordonne la célébration de la Pâque.
-  Il est tué dans un combat.
-  Joachaz lui succède.
-  Joachim est mis à la place de Joachaz.
+summary: "\nJosias ayant assembl\xE9 tout le peuple, renouvelle l\u2019alliance avec\
+  \ le Seigneur.\nIl d\xE9truit le reste de l\u2019idol\xE2trie, et ordonne la c\xE9\
+  l\xE9bration de la P\xE2que.\nIl est tu\xE9 dans un combat.\nJoachaz lui succ\xE8\
+  de.\nJoachim est mis \xE0 la place de Joachaz.\n"
+title: Chapitre 23
 ---
+
+
 
 
 1 Et ils rapportèrent au roi ce qu'elle avait dit. Et le roi envoya, et tous les anciens de Juda et de Jérusalem s'assemblèrent près de lui.

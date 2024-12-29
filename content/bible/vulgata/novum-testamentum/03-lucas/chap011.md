@@ -1,8 +1,10 @@
 ---
-title: "Caput 11"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
+title: Caput 11
 ---
+
+
 
 
 1 Et factum est: cum esset in quodam loco orans, ut cessavit, dixit unus ex discipulis eius ad eum: Domine, doce nos orare, sicut docuit et Ioannes discipulos suos.

@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 9"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Maison de la sagesse ; son festin auquel elle invite les simples.
-  La femme insensée invite à son banquet.
-  Malheur de ceux qui s’y rendent.
+summary: "\nMaison de la sagesse ; son festin auquel elle invite les simples.\nLa\
+  \ femme insens\xE9e invite \xE0 son banquet.\nMalheur de ceux qui s\u2019y rendent.\n"
+title: Chapitre 9
 ---
+
+
 
 
 1 La sagesse s'est bâtie une maison, elle a taillé sept colonnes.

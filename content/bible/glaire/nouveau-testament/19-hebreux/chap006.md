@@ -1,12 +1,15 @@
 ---
-title: "Chapitre 6"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  L’Apôtre exhorte les Hébreux à s’élever avec lui aux grandes vérités dont il doit les instruire, et il leur fait sentir le danger de l’apostasie à laquelle les conduisait leur affaiblissement dans la foi.
-  Il ranime leur confiance, et il excite leur zèle et leur courage par le motif de l’espérance dont il montre les fondements inébranlables.
+summary: "\nL\u2019Ap\xF4tre exhorte les H\xE9breux \xE0 s\u2019\xE9lever avec lui\
+  \ aux grandes v\xE9rit\xE9s dont il doit les instruire, et il leur fait sentir le\
+  \ danger de l\u2019apostasie \xE0 laquelle les conduisait leur affaiblissement dans\
+  \ la foi.\nIl ranime leur confiance, et il excite leur z\xE8le et leur courage par\
+  \ le motif de l\u2019esp\xE9rance dont il montre les fondements in\xE9branlables.\n"
+title: Chapitre 6
 ---
+
+
 
 
 1 C'est pourquoi, laissant l'enseignement élémentaire sur le Christ, passons à ce qui est plus parfait, sans poser de nouveau le fondement de la pénitence des oeuvres mortes, et de la foi en Dieu, 2 De la doctrine des baptêmes, comme aussi de l'imposition des mains, de la résurrection des morts et du jugement éternel. 3 C'est ce que nous ferons, si toutefois Dieu le permet.

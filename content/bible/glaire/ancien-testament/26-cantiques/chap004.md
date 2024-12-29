@@ -1,11 +1,11 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Description de tout ce qui constitue la beauté de l’Epouse.
+summary: "\nDescription de tout ce qui constitue la beaut\xE9 de l\u2019Epouse.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 L'ÉPOUX. Que tu es belle, mon amie, que tu es belle ! Tes yeux sont les yeux de la colombe, sans ce qui, au dedans, est caché. Tes cheveux sont comme des troupeaux de chèvres qui sont montées de la montagne de Galaad.

@@ -1,8 +1,10 @@
 ---
-title: "Chap. 1 - Du Créateur de toutes choses"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Chap. 1 - Du Cr\xE9ateur de toutes choses"
 ---
+
+
 
 
 La sainte Eglise catholique, apostolique et romaine, croit et professe qu'il y a un seul Dieu vrai et vivant, créateur et maître du ciel et de la terre, tout—puissant, éternel, immense, incompréhensible, infini en intelligence, en volonté, et en toute perfection. Ce Dieu étant une puissance spirituelle, une, singulière, entièrement simple et incommutable, doit être proclamé en lui-même et dans son essence distinct du monde, infiniment heureux en lui-même et par lui-même, et élevé d'une manière ineffable au-dessus de tout ce qui n'est pas lui, et qui existe et peut se concevoir.

@@ -1,8 +1,10 @@
 ---
-title: "Publier"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Publier
 ---
+
+
 
 
 > *Droit canonique de 1917, can. 1384* : "§ 1. Ecclesiae est ius exigendi ne libros, quos ipsa iudicio suo antea non recognoverit, fideles edant, et a quibusvis editos ex iusta causa prohibendi.

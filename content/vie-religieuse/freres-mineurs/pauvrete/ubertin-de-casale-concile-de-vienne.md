@@ -1,8 +1,11 @@
 ---
-title: "Frère Ubertin de Casale défend l'observance régulière au Concile de Vienne (1309-1312)"
-date: 2024-09-06T20:03:00+02:00
+date: 2024-09-06 20:03:00+02:00
 draft: false
+title: "Fr\xE8re Ubertin de Casale d\xE9fend l'observance r\xE9guli\xE8re au Concile\
+  \ de Vienne (1309-1312)"
 ---
+
+
 
 
 Fr. Callaey, 1911 : "C'est par la pauvreté qu'il commence. On remarquera avec quelle subtilité il distingue ses différentes notes caractéristiques. 

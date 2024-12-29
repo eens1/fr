@@ -1,8 +1,10 @@
 ---
-title: "Contrition"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: Contrition
 ---
+
+
 
 
 > *Saint Léonard de Port-Maurice* : "Remarquez que la douleur des péchés consiste dans la détestation des fautes passées et une ferme volonté de n'en plus commettre à l'avenir. Par conséquent, les larmes, les soupirs, les émotions sensibles ne sont pas nécessaires. Saint François de Sales dit fort bien que l'acte de contrition peut se faire en peu de temps, par un double coup d'oeil, l'un sur nous-mêmes, pour détester nos péchés; l'autre sur Dieu, pour lui promettre de s'en corriger avec l'aide de sa grâce.

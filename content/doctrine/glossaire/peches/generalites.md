@@ -1,8 +1,10 @@
 ---
-title: "Généralités"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "G\xE9n\xE9ralit\xE9s"
 ---
+
+
 
 
 > *Ecclésiastique 10:15* : "Parce que son coeur s'est retiré de celui qui l'a fait; parce que le commencement de tout péché est l'orgueil; celui qui s'y tiendra attaché sera chargé de malédictions, et l'orgueil le renversera à jamais." [^1]

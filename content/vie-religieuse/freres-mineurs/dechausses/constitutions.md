@@ -1,8 +1,10 @@
 ---
-title: "Constitutions"
-date: 2024-09-06T20:02:59+02:00
+date: 2024-09-06 20:02:59+02:00
 draft: false
+title: Constitutions
 ---
+
+
 
 
 > *Constitutions de saint Pierre d'Alcantara ajoutées aux précédentes* : "Lorsqu'on eut fait les autres supérieurs de la province, le saint commissaire proposa aux pères quelques constitutions, qu'il estimait devoir être acceptées de tous, afin qu'étant jointes à celles, qui avaient été faites dès le premier établissement de la custodie, elles pussent toutes ensemble être observées dans les couvents de la province. Ces règles furent universellement approuvées de tous...

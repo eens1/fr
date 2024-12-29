@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 35"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Eliu continue de calomnier Job.
-  Il soutient que c’est pour l’avantage même des hommes que Dieu est attentif à récompenser le bien et à punir le mal.
-  Il exhorte Job à prévenir la sévérité de la justice de Dieu.
+summary: "\nEliu continue de calomnier Job.\nIl soutient que c\u2019est pour l\u2019\
+  avantage m\xEAme des hommes que Dieu est attentif \xE0 r\xE9compenser le bien et\
+  \ \xE0 punir le mal.\nIl exhorte Job \xE0 pr\xE9venir la s\xE9v\xE9rit\xE9 de la\
+  \ justice de Dieu.\n"
+title: Chapitre 35
 ---
+
+
 
 
 1 Ainsi Eliu dit encore ceci :

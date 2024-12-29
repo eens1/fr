@@ -1,8 +1,10 @@
 ---
-title: "Définition"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "D\xE9finition"
 ---
+
+
 
 
 > *Droit canonique de 1917, can. 1012* : "§ 1. Christus Dominus ad sacramenti dignitatem evexit ipsum contractum matrimonialem inter baptizatos.

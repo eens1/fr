@@ -1,8 +1,10 @@
 ---
-title: "Caput 14"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 14
 ---
+
+
 
 
 1 Dormivit autem Abia cum patribus suis, et sepelierunt eum in Civitate David: regnavitque Asa filius eius pro eo, in cuius diebus quievit terra annis decem.

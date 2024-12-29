@@ -1,7 +1,9 @@
 ---
-title: "La Très-Sainte Vierge apparaît à Simon de Stock et lui remet le Scapulaire"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
+title: "La Tr\xE8s-Sainte Vierge appara\xEEt \xE0 Simon de Stock et lui remet le Scapulaire"
 ---
+
+
 
 Voir la [Bulle Sabbatine](/doctrine/pape-jean-xxii/bulle-sabbatine.html) du pape Jean XXII.
 

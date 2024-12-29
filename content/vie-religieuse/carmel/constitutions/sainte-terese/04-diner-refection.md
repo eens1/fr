@@ -1,8 +1,10 @@
 ---
-title: "Dîner et réfection"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: "D\xEEner et r\xE9fection"
 ---
+
+
 
 
 "1. Il n'y peut avoir rien de réglé pour l'heure du diner, parce que cela est quand il y en aura. On sonnera pour le diner à onze heures et demie quand il sera jeûne de l'Eglise, et à onze heures quand il sera jeûne de l'ordre. Et en été l'on dinera à dix heures." [^1]

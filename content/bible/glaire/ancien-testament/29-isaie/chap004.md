@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Suite de la désolation de Juda.
-  Germe du Seigneur en gloire.
-  Restes d’Israël sauvés.
+summary: "\nSuite de la d\xE9solation de Juda.\nGerme du Seigneur en gloire.\nRestes\
+  \ d\u2019Isra\xEBl sauv\xE9s.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Et sept femmes prendront un seul homme en ce jour-là, disant : Nous mangerons notre pain, et nous serons couvertes de nos vêtements ; seulement que votre nom soit invoqué sur nous, enlevez notre opprobre.

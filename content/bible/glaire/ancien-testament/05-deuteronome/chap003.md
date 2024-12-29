@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Défaite d’Og, roi de Basan.
-  Partage des tribus de Ruben et de Gad et de la demi-tribu de Manassé.
-  Moïse ne peut obtenir d’entrer dans la terre promise.
+summary: "\nD\xE9faite d\u2019Og, roi de Basan.\nPartage des tribus de Ruben et de\
+  \ Gad et de la demi-tribu de Manass\xE9.\nMo\xEFse ne peut obtenir d\u2019entrer\
+  \ dans la terre promise.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 C'est pourquoi, étant retournés, nous montâmes par le chemin de Basan ; et Og, roi de Bazan, sortit à notre rencontre avec tout son peuple pour combattre à Edraï.

@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 62"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Zèle du prophète pour Jérusalem.
-  Gloire de Jérusalem.
-  Gardes établis sur ses murs.
-  Paix d’Israël, sa délivrance.
-  Peuple saint.
-  Ville chérie.
+summary: "\nZ\xE8le du proph\xE8te pour J\xE9rusalem.\nGloire de J\xE9rusalem.\nGardes\
+  \ \xE9tablis sur ses murs.\nPaix d\u2019Isra\xEBl, sa d\xE9livrance.\nPeuple saint.\n\
+  Ville ch\xE9rie.\n"
+title: Chapitre 62
 ---
+
+
 
 
 1 A cause de Sion, je ne me tairai pas, et à cause de Jérusalem, je ne me reposerai pas, jusqu'à ce que paraisse son juste comme une éclatante lumière, et que son sauveur, comme un flambeau, répande sa clarté.

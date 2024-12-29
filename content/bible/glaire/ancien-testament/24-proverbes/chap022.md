@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 22"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Prix de la bonne réputation.
-  Avantage de la pureté de coeur.
-  Exhortation à la sagesse.
-  Ne pas opprimer le pauvre.
-  Ne pas toucher aux bornes anciennes.
+summary: "\nPrix de la bonne r\xE9putation.\nAvantage de la puret\xE9 de coeur.\n\
+  Exhortation \xE0 la sagesse.\nNe pas opprimer le pauvre.\nNe pas toucher aux bornes\
+  \ anciennes.\n"
+title: Chapitre 22
 ---
+
+
 
 
 1 Mieux vaux une bonne renommée que beaucoup de richesses : au-dessus de l'argent et de l'or est la bonne amitié.

@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 99"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste exhorte tous les peuples à venir louer Dieu dans son temple et à publier sa douceur, sa miséricorde et sa vérité.
+summary: "\nLe Psalmiste exhorte tous les peuples \xE0 venir louer Dieu dans son temple\
+  \ et \xE0 publier sa douceur, sa mis\xE9ricorde et sa v\xE9rit\xE9.\n"
+title: Chapitre 99
 ---
+
+
 
 
 1 Psaume de louange (ou d'action de grâces).

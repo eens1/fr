@@ -1,8 +1,10 @@
 ---
-title: "Caput 47"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 47
 ---
+
+
 
 
 1 Ingressus ergo Ioseph nunciavit Pharaoni, dicens: Pater meus et fratres, oves eorum et armenta, et cuncta quae possident, venerunt de Terra Chanaan: et ecce consistunt in Terra Gessen.

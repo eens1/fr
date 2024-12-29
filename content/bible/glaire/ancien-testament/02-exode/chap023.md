@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 23"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Lois pour les juges.
-  Repos de la septième année et du septième jour.
-  La célébration des trois principales fêtes de l’année.
-  Dieu promet d’envoyer son ange devant les Israélites.
+summary: "\nLois pour les juges.\nRepos de la septi\xE8me ann\xE9e et du septi\xE8\
+  me jour.\nLa c\xE9l\xE9bration des trois principales f\xEAtes de l\u2019ann\xE9\
+  e.\nDieu promet d\u2019envoyer son ange devant les Isra\xE9lites.\n"
+title: Chapitre 23
 ---
+
+
 
 
 1 Tu n'accueilleras point une parole de mensonge, et tu ne prêteras pas ta main de manière à dire en faveur de l'impie un faux témoignage.

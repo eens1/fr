@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 143"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  David remercie Dieu des avantages qu’il lui a fait remporter sur ses ennemis.
-  Il le conjure de le délivrer de leurs mains.
+summary: "\nDavid remercie Dieu des avantages qu\u2019il lui a fait remporter sur\
+  \ ses ennemis.\nIl le conjure de le d\xE9livrer de leurs mains.\n"
+title: Chapitre 143
 ---
+
+
 
 
 1 Contre Goliath. Béni le Seigneur mon Dieu, qui instruit mes mains au combat, et mes doigts à la guerre?

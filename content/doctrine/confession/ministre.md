@@ -1,8 +1,10 @@
 ---
-title: "Ministre"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Ministre
 ---
+
+
 
 
 > *Jean 20:22-23* : "Lorsqu'il eut dit ces mots, il souffla sur eux et leur dit : Recevez l'Esprit-Saint; Ceux à qui vous remettrez les péchés, ils leur seront remis; et ceux à qui vous les retiendrez, ils leur seront retenus." [^1]

@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 6"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Servitude des Israélites sous les Madianites ; Gédéon est choisis de Dieu pour les délivrer.
+summary: "\nServitude des Isra\xE9lites sous les Madianites ; G\xE9d\xE9on est choisis\
+  \ de Dieu pour les d\xE9livrer.\n"
+title: Chapitre 6
 ---
+
+
 
 
 1 Mais les enfants d'Israël firent le mal en la présence du Seigneur, qui les livra à la main de Madian pendant sept ans, 2 Et ils furent très opprimés par eux. Ils se firent des antres et des cavernes dans les montagnes, et des lieux très fortifiés pour se défendre. 3 Lorsqu'Israël avait semé, montaient Madian et Amalec et tous les autres peuples des nations orientales ;

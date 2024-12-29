@@ -1,8 +1,10 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:03:00+02:00
+date: 2024-09-06 20:03:00+02:00
 draft: false
+title: Dans la Tradition
 ---
+
+
 
 
 > *Instruction sur les observances regulières et sur les voeux solemnels, 1725* : "Qu'est-ce que le voeu de pauvreté ? C'est un renoncement volontaire et irrévocable solemnellement fait, par lequel on se dépouille à jamais pour l'amour de Dieu, de la propriété de tous les biens temporels, droits, et prétentions qu'on pourrait y avoir, et de la faculté d'en disposer, ou de s'en servir sans la permission du Supérieur.

@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 7"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Le roi de Syrie et le roi d’Israël se liguent contre Jérusalem.
-  Ils ne prévaudront pas.
-  La vierge enfantera un fils nommé Emmanuel.
-  Maux qui doivent fondre sur Juda.
+summary: "\nLe roi de Syrie et le roi d\u2019Isra\xEBl se liguent contre J\xE9rusalem.\n\
+  Ils ne pr\xE9vaudront pas.\nLa vierge enfantera un fils nomm\xE9 Emmanuel.\nMaux\
+  \ qui doivent fondre sur Juda.\n"
+title: Chapitre 7
 ---
+
+
 
 
 1 Et il arriva dans les jours d'Achaz, fils de Joathan, fils d'Ozias, roi de Juda, que Rasin, roi de Syrie, et Phacée, fils de Romélie, roi d'Israël, montèrent à Jérusalem pour lui livrer bataille ; et ils ne purent la réduire.

@@ -1,8 +1,10 @@
 ---
-title: "Solitude"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: Solitude
 ---
+
+
 
 
 > *François de Sainte Marie* : "Leur solitude et leur retraite était très exacte, et pour mieux suivre en ce point l'esprit de la règle qui le commande si expressément, ils ordonnèrent qu'il n'y aurait que le prieur et le procureur avec leurs compagnons qui pourraient sortir du couvent pour des causes très urgentes. Il est vrai que cette grande rigueur se modéra un peu depuis : mais cette modération ne fut que pendant quelque temps, et par après on rétablit la première coutume qui a passé en loi maintenant..." [^1]

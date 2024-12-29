@@ -1,8 +1,10 @@
 ---
-title: "Caput 10"
-date: 2024-09-06T20:00:56+02:00
+date: 2024-09-06 20:00:56+02:00
 draft: false
+title: Caput 10
 ---
+
+
 
 
 1 Et anno centesimo sexagesimo ascendit Alexander Antiochi filius, qui cognominatus est Nobilis: et occupavit Ptolemaidam: et receperunt eum, et regnavit illic.

@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Saint Paul salue les fidèles de Corinthe.
-  Il est affligé et consolé pour leur consolation et leur salut.
-  Maux excessifs qu’il a éprouvés : sa confiance en Dieu.
-  Il s’excuse de ce qu’il n’a pas été les voir.
-  Vérité invariable de l’Evangile.
+summary: "\nSaint Paul salue les fid\xE8les de Corinthe.\nIl est afflig\xE9 et consol\xE9\
+  \ pour leur consolation et leur salut.\nMaux excessifs qu\u2019il a \xE9prouv\xE9\
+  s : sa confiance en Dieu.\nIl s\u2019excuse de ce qu\u2019il n\u2019a pas \xE9t\xE9\
+  \ les voir.\nV\xE9rit\xE9 invariable de l\u2019Evangile.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Paul, apôtre de Jésus-Christ, par la volonté de Dieu, et Timothée, son frère, à l'Eglise de Dieu qui est à Corinthe, et à tous les saints qui sont dans toute l'Achaïe.

@@ -1,9 +1,11 @@
 ---
-title: "Prédication"
 date: 2024-11-29T04:24:32+0000
 draft: false
 tags: []
+title: "Pr\xE9dication"
 ---
+
+
 
 > *Saint Bonaventure, Légendes de saint François* : 
 

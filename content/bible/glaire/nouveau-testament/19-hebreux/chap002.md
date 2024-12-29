@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Obligation importante et indispensable d’obéir à l’Evangile qui a été annoncée par Jésus-Christ même.
-  Autres preuves de la supériorité de Jésus-Christ sur les anges.
-  Principes qui servent à lever le scandale de sa mort.
+summary: "\nObligation importante et indispensable d\u2019ob\xE9ir \xE0 l\u2019Evangile\
+  \ qui a \xE9t\xE9 annonc\xE9e par J\xE9sus-Christ m\xEAme.\nAutres preuves de la\
+  \ sup\xE9riorit\xE9 de J\xE9sus-Christ sur les anges.\nPrincipes qui servent \xE0\
+  \ lever le scandale de sa mort.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 C'est pourquoi nous devons garder avec d'autant plus de soin les choses que nous avons entendues, de peur de les laisser écouler.

@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 7"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Esther découvre au roi l’entreprise d’Aman.
-  Aman est pendu à la potence qu’il avait fait dresser pour Mardochée.
+summary: "\nEsther d\xE9couvre au roi l\u2019entreprise d\u2019Aman.\nAman est pendu\
+  \ \xE0 la potence qu\u2019il avait fait dresser pour Mardoch\xE9e.\n"
+title: Chapitre 7
 ---
+
+
 
 
 1 Le roi entra donc, et Aman, pour boire avec la reine.

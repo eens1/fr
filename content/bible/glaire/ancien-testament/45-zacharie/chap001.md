@@ -1,15 +1,15 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Zacharie exhorte les Juifs à ne pas imiter l’endurcissement de leurs pères.
-  Un ange implore la miséricorde du Seigneur sur Jérusalem et sur Juda.
-  Promesses du Seigneur en faveur de Jérusalem.
-  Quatre cornes qui ont dispersé Juda et Jérusalem.
-  Quatre ouvriers envoyés pour abattre ces cornes.
+summary: "\nZacharie exhorte les Juifs \xE0 ne pas imiter l\u2019endurcissement de\
+  \ leurs p\xE8res.\nUn ange implore la mis\xE9ricorde du Seigneur sur J\xE9rusalem\
+  \ et sur Juda.\nPromesses du Seigneur en faveur de J\xE9rusalem.\nQuatre cornes\
+  \ qui ont dispers\xE9 Juda et J\xE9rusalem.\nQuatre ouvriers envoy\xE9s pour abattre\
+  \ ces cornes.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Au huitième mois, en la seconde année du roi Darius, la parole du Seigneur fut adressée à Zacharie, le prophète, fils de Barachie, fils d'Addo, disant :

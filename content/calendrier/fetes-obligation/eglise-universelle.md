@@ -1,8 +1,9 @@
 ---
-title: "Pour l'Eglise universelle"
-date: 2024-09-06T20:02:53+02:00
+date: 2024-09-06 20:02:53+02:00
 draft: false
+title: Pour l'Eglise universelle
 ---
+
 
 
 > *E. Jombart, Manuel de droit canon, 1958* : "Un jour de fête, comme un jour de jeûne ou d'abstinence, dure de minuit à minuit... Il faut toujours vingt-quatre heures, mais plusieurs façons sont admises de calculer le point de départ (C. 33, § I)."[^1]

@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 14"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Différents caractères des sages et des insensés.
-  Sort différent des justes et des méchants.
-  Du travail.
-  De la crainte du Seigneur.
-  De la patience.
-  De la compassion envers les pauvres.
+summary: "\nDiff\xE9rents caract\xE8res des sages et des insens\xE9s.\nSort diff\xE9\
+  rent des justes et des m\xE9chants.\nDu travail.\nDe la crainte du Seigneur.\nDe\
+  \ la patience.\nDe la compassion envers les pauvres.\n"
+title: Chapitre 14
 ---
+
+
 
 
 1 Une femme sage édifie sa maison; l'insensée détruira de ses propres mains celle même qui était construite.

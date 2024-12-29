@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Repos du septième jour.
-  Description du Paradis.
-  Création d’Eve.
-  Institution du mariage.
+summary: "\nRepos du septi\xE8me jour.\nDescription du Paradis.\nCr\xE9ation d\u2019\
+  Eve.\nInstitution du mariage.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Ainsi furent achevés les cieux et la terre, et tout leur ornement. 2 Et Dieu eut accompli son oeuvre le septième jour : et il se reposa le septième jour de tous les ouvrages qu'il avait faits.

@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 138"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  David implore le secours de Dieu contre ses ennemis, et il prédit que le mal qu’ils lui veulent faire retombera sur eux.
+summary: "\nDavid implore le secours de Dieu contre ses ennemis, et il pr\xE9dit que\
+  \ le mal qu\u2019ils lui veulent faire retombera sur eux.\n"
+title: Chapitre 138
 ---
+
+
 
 
 1 Pour la fin, psaume de David. Seigneur, vous m'avez éprouvé, et vous m'avez connu ;

@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 22"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Crimes qui se commettent dans Jérusalem et qui hâtent sa ruine.
-  La maison d’Israël est devenue comme un mauvais métal que le Seigneur purifiera par le feu.
-  Ses princes, ses prêtres, ses prophètes, son peuple, sont tous corrompus ; il n’y a personne qui arrête la colère du Seigneur.
+summary: "\nCrimes qui se commettent dans J\xE9rusalem et qui h\xE2tent sa ruine.\n\
+  La maison d\u2019Isra\xEBl est devenue comme un mauvais m\xE9tal que le Seigneur\
+  \ purifiera par le feu.\nSes princes, ses pr\xEAtres, ses proph\xE8tes, son peuple,\
+  \ sont tous corrompus ; il n\u2019y a personne qui arr\xEAte la col\xE8re du Seigneur.\n"
+title: Chapitre 22
 ---
+
+
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

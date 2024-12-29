@@ -1,8 +1,10 @@
 ---
-title: "Caput 45"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 45
 ---
+
+
 
 
 1 Non se poterat ultra cohibere Ioseph multis coram astantibus: unde praecepit ut egrederentur cuncti foras, et nullus interesset alienus agnitioni mutuae.

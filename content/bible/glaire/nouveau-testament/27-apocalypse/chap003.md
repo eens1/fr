@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  L’ange de Sardes mort devant Dieu, quoiqu’on le croie vivant.
-  L’ange de Philadelphie aimé de Dieu pour sa fidélité et sa patience ; celui de Laodicée menacé d’être rejeté comme tiède.
+summary: "\nL\u2019ange de Sardes mort devant Dieu, quoiqu\u2019on le croie vivant.\n\
+  L\u2019ange de Philadelphie aim\xE9 de Dieu pour sa fid\xE9lit\xE9 et sa patience\
+  \ ; celui de Laodic\xE9e menac\xE9 d\u2019\xEAtre rejet\xE9 comme ti\xE8de.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 Et à l'ange de l'église de Sardes, écris : Voici ce que dit celui qui aies sept Esprits de Dieu et les sept étoiles : Je sais tes oeuvres; tu as la réputation d'être vivant, mais tu es mort.

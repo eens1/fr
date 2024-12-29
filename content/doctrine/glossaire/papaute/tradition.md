@@ -1,8 +1,10 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Dans la Tradition
 ---
+
+
 
 
 > *Concile Vatican I, sess. 4, chap. 1, 1870* : "C'est aussi au seul Simon Pierre que Jésus, après sa résurrection, a conféré la juridiction de pasteur suprême et de guide sur tout son troupeau, en lui disant: "Pais mes agneaux, pais mes brebis"." [^1]

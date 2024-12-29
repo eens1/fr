@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Salomon donne aux autres les instructions qu’il a reçues lui-même pendant sa jeunesse.
-  Exhortation à étudier la sagesse.
-  Inquiétudes des méchants.
-  Garder son coeur avec soin.
-  Veiller sur sa langue et sur ses démarches.
+summary: "\nSalomon donne aux autres les instructions qu\u2019il a re\xE7ues lui-m\xEA\
+  me pendant sa jeunesse.\nExhortation \xE0 \xE9tudier la sagesse.\nInqui\xE9tudes\
+  \ des m\xE9chants.\nGarder son coeur avec soin.\nVeiller sur sa langue et sur ses\
+  \ d\xE9marches.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Écoutez, mes fils, la discipline d'un père, et soyez attentifs, afin que vous connaissiez la prudence.

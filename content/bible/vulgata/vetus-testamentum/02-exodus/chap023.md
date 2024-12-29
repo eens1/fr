@@ -1,8 +1,10 @@
 ---
-title: "Caput 23"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 23
 ---
+
+
 
 
 1 Non suscipies vocem mendacii: nec iunges manum tuam ut pro impio dicas falsum testimonium.

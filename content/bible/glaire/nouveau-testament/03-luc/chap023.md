@@ -1,20 +1,15 @@
 ---
-title: "Chapitre 23"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Jésus accusé devant Pilate, envoyé à Hérode et ramené devant Pilate.
-  Barabbas préféré à Jésus-Christ.
-  Cris des Juifs contre Jésus-Christ.
-  Jésus livré aux Juifs et conduit au Calvaire.
-  Pleurs des femmes de Jérusalem.
-  Crucifiement.
-  Blasphèmes.
-  Bon larron.
-  Ténèbres.
-  Mort de Jésus-Christ ; sa sépulture.
+summary: "\nJ\xE9sus accus\xE9 devant Pilate, envoy\xE9 \xE0 H\xE9rode et ramen\xE9\
+  \ devant Pilate.\nBarabbas pr\xE9f\xE9r\xE9 \xE0 J\xE9sus-Christ.\nCris des Juifs\
+  \ contre J\xE9sus-Christ.\nJ\xE9sus livr\xE9 aux Juifs et conduit au Calvaire.\n\
+  Pleurs des femmes de J\xE9rusalem.\nCrucifiement.\nBlasph\xE8mes.\nBon larron.\n\
+  T\xE9n\xE8bres.\nMort de J\xE9sus-Christ ; sa s\xE9pulture.\n"
+title: Chapitre 23
 ---
+
+
 
 
 1 Et toute l'assemblée se levant, ils le menèrent à Pilate.

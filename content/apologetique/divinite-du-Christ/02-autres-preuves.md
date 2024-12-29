@@ -1,8 +1,9 @@
 ---
-title: "Autres preuves bibliques "
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
+title: 'Autres preuves bibliques '
 ---
+
 
 
 > *Jean 1:1-5* : "Au commencement était le Verbe, et le Verbe était en Dieu, et **le Verbe était Dieu**. C'est lui qui au commencement était en Dieu. **Toutes choses ont été faites par lui; et sans lui rien n'a été fait de ce qui a été fait**. En lui était la vie, et la vie était la lumière des hommes; Et la lumière luit dans les ténèbres, et les ténèbres ne l'ont pas comprise." [^1]

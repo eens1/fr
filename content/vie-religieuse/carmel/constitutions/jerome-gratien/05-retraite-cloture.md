@@ -1,8 +1,10 @@
 ---
-title: "Retraite et clôture"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: "Retraite et cl\xF4ture"
 ---
+
+
 
 
 "De même, nous ordonnons, en ce qui concerne la clôture et la retraite que la Règle prescrit aux religieux, que, sauf le procureur et le prédicateur, lorsque celui-ci devra aller prêcher, nul ne puisse sortir, si ce n'est dans quelque circonstance grave et extraordinaire, et non autrement, non pas même pour assister aux enterrements, visiter des parents ou des malades, fût-ce, pour ces derniers, sous le prétexte de les confesser.

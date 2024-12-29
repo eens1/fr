@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Descente du Saint-Esprit au jour de la Pentecôte.
-  Don des langues.
-  Première prédication de saint Pierre.
-  Trois mille hommes convertis.
-  Vie des premiers fidèles.
+summary: "\nDescente du Saint-Esprit au jour de la Pentec\xF4te.\nDon des langues.\n\
+  Premi\xE8re pr\xE9dication de saint Pierre.\nTrois mille hommes convertis.\nVie\
+  \ des premiers fid\xE8les.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Quand les jours de la Pentecôte furent accomplis, ils étaient tous ensemble dans le même lieu ;

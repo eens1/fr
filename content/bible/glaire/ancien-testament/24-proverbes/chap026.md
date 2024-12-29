@@ -1,16 +1,12 @@
 ---
-title: "Chapitre 26"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  De l’insensé.
-  De celui qui se croit sage.
-  Du paresseux.
-  Du faux ami.
-  De la mauvaise langue.
-  De celui qui cache sa haine.
+summary: "\nDe l\u2019insens\xE9.\nDe celui qui se croit sage.\nDu paresseux.\nDu\
+  \ faux ami.\nDe la mauvaise langue.\nDe celui qui cache sa haine.\n"
+title: Chapitre 26
 ---
+
+
 
 
 1 De même que la neige vient mal en été, et les pluies pendant la moisson, de même la gloire ne convient pas à un insensé.

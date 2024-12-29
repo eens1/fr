@@ -1,12 +1,14 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Première vision d’Ezéchiel.
-  Au milieu d’un nuage enflammé paraissent quatre animaux ; près d’eux quatre roues ; au-dessus d’eux, un firmament sur lequel est un trône, et, sur ce trône, un homme assis et tout environné d’éclat.
+summary: "\nPremi\xE8re vision d\u2019Ez\xE9chiel.\nAu milieu d\u2019un nuage enflamm\xE9\
+  \ paraissent quatre animaux ; pr\xE8s d\u2019eux quatre roues ; au-dessus d\u2019\
+  eux, un firmament sur lequel est un tr\xF4ne, et, sur ce tr\xF4ne, un homme assis\
+  \ et tout environn\xE9 d\u2019\xE9clat.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Or il arriva en la trentième année, au quatrième mois, au cinquième jour du mois, que lorsque j'étais au milieu des captifs, près du fleuve de Chobar, les deux furent ouverts, et je vis les visions de Dieu.

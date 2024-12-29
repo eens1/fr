@@ -1,8 +1,10 @@
 ---
-title: "Caput 2"
-date: 2024-09-06T20:00:47+02:00
+date: 2024-09-06 20:00:47+02:00
 draft: false
+title: Caput 2
 ---
+
+
 
 
 1 Propter quod inexcusabilis es o homo omnis, qui iudicas. In quo enim iudicas alterum, teipsum condemnas: eadem enim agis quae iudicas.

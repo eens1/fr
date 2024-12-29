@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 6"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Multiplication et corruption générale des hommes.
-  Prédiction du déluge.
-  Construction de l’arche.
+summary: "\nMultiplication et corruption g\xE9n\xE9rale des hommes.\nPr\xE9diction\
+  \ du d\xE9luge.\nConstruction de l\u2019arche.\n"
+title: Chapitre 6
 ---
+
+
 
 
 1 Lorsque les hommes eurent commencé à se multiplier sur la terre, et qu'ils eurent procréé des filles, 2 Les fils de Dieu voyant que les filles des hommes étaient belles, prirent leurs femmes entre toutes celles qu'ils avaient choisies.

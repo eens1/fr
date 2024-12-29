@@ -1,8 +1,10 @@
 ---
-title: "Caput 3"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 3
 ---
+
+
 
 
 1 Moyses autem pascebat oves Iethro soceri sui sacerdotis Madian: cumque minasset gregem ad interiora deserti, venit ad montem Dei Horeb.

@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 7"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Néhémias établit des gardes dans Jérusalem.
-  Recensement des Juifs qui étaient venus avec Zorobabel.
-  Offrande faite au temple.
+summary: "\nN\xE9h\xE9mias \xE9tablit des gardes dans J\xE9rusalem.\nRecensement des\
+  \ Juifs qui \xE9taient venus avec Zorobabel.\nOffrande faite au temple.\n"
+title: Chapitre 7
 ---
+
+
 
 
 1 Or, après que le mur fut construit , et que j'eus posé les battants, et que j'eus recensé les portiers, les chantres et les Lévites,

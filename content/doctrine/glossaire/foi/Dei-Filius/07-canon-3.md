@@ -1,8 +1,10 @@
 ---
-title: "Canon 3 - De la foi"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Canon 3 - De la foi
 ---
+
+
 
 
 1° Si quelqu'un dit que la raison humaine est tellement indépendante que Dieu ne peut exiger d'elle la loi; qu'il soit anathème.

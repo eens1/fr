@@ -1,8 +1,10 @@
 ---
-title: "Caput 14"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 14
 ---
+
+
 
 
 1 Prope est ut veniat tempus eius, et dies eius non elongabuntur. Miserebitur enim Dominus Iacob, et eliget adhuc de Israel, et requiescere eos faciet super humum suam: adiungetur advena ad eos, et adhaerebit domui Iacob.

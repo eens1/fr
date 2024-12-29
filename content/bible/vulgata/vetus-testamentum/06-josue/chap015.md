@@ -1,8 +1,10 @@
 ---
-title: "Caput 15"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 15
 ---
+
+
 
 
 1 Igitur sors filiorum Iudae per cognationes suas ista fuit: A termino Edom, desertum Sin contra Meridiem, et usque ad extremam partem australis plagae.

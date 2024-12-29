@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Festin du roi Baltassar.
-  Apparition d’une main qui écrit sur la muraille.
-  Les sages de Babylone ne peuvent lire ni expliquer cette écriture.
-  Daniel la lit et l’explique.
-  Mort de Baltassar.
-  Darius le Mède lui succède.
+summary: "\nFestin du roi Baltassar.\nApparition d\u2019une main qui \xE9crit sur\
+  \ la muraille.\nLes sages de Babylone ne peuvent lire ni expliquer cette \xE9criture.\n\
+  Daniel la lit et l\u2019explique.\nMort de Baltassar.\nDarius le M\xE8de lui succ\xE8\
+  de.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Le roi Baltassar fit un grand destin à mille de ses grands, et chacun buvait selon son âge.

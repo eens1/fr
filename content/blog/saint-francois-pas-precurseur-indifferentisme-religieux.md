@@ -1,10 +1,12 @@
 ---
-title: Non, Saint Francois n'est pas le précurseur de l'indifférentisme
-  religieux de la secte Vatican II
-date: 2024-09-08T05:46:09+02:00
+date: 2024-09-08 05:46:09+02:00
 draft: false
-image: "https://i.ibb.co/NWSgM3g/saint-francis-renonciation.jpg"
+image: https://i.ibb.co/NWSgM3g/saint-francis-renonciation.jpg
+title: "Non, Saint Francois n'est pas le pr\xE9curseur de l'indiff\xE9rentisme religieux\
+  \ de la secte Vatican II"
 ---
+
+
 
 {{< figure src="https://i.ibb.co/NWSgM3g/saint-francis-renonciation.jpg" >}}
 

@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Révélation faite à saint Jean.
-  Saint Jean salue les sept Eglises auxquelles il écrit.
-  Jésus-Christ lui apparaît ; description de cette vision.
-  Paroles de Jésus-Christ à saint Jean.
+summary: "\nR\xE9v\xE9lation faite \xE0 saint Jean.\nSaint Jean salue les sept Eglises\
+  \ auxquelles il \xE9crit.\nJ\xE9sus-Christ lui appara\xEEt ; description de cette\
+  \ vision.\nParoles de J\xE9sus-Christ \xE0 saint Jean.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Révélation de Jésus-Christ que Dieu lui a donnée pour découvrir à ses serviteurs ce qui doit arriver bientôt, et il l'a fait connaître, en l'envoyant par son ange à Jean, son serviteur,

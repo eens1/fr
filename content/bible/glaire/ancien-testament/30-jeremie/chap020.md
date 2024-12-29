@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 20"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Phassur fait mettre Jérémie en prison.
-  Le Prophète délivré prophétise contre Phassur.
-  Il se plaint au Seigneur de l’opprobre où il se trouve exposé.
-  Il met sa confiance en Dieu.
-  Il maudit le jour de sa naissance.
+summary: "\nPhassur fait mettre J\xE9r\xE9mie en prison.\nLe Proph\xE8te d\xE9livr\xE9\
+  \ proph\xE9tise contre Phassur.\nIl se plaint au Seigneur de l\u2019opprobre o\xF9\
+  \ il se trouve expos\xE9.\nIl met sa confiance en Dieu.\nIl maudit le jour de sa\
+  \ naissance.\n"
+title: Chapitre 20
 ---
+
+
 
 
 1 Et Phassur, le prêtre, fils d'Emmer, qui avait été établi prince dans la maison du Seigneur, entendit Jérémie prophétisant ces choses.

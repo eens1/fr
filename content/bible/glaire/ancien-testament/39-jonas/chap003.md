@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Le Seigneur ordonne une seconde fois à Jonas d’aller à Ninive.
-  Il prédit la ruine prochaine de cette ville.
-  Les Ninivites se convertissent et font pénitence.
-  Dieu leur pardonne.
+summary: "\nLe Seigneur ordonne une seconde fois \xE0 Jonas d\u2019aller \xE0 Ninive.\n\
+  Il pr\xE9dit la ruine prochaine de cette ville.\nLes Ninivites se convertissent\
+  \ et font p\xE9nitence.\nDieu leur pardonne.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 Et la parole du Seigneur fut adressée une seconde fois à Jonas, disant :

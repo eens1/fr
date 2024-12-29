@@ -1,8 +1,10 @@
 ---
-title: "Apostasie"
-date: 2024-09-06T20:02:54+02:00
+date: 2024-09-06 20:02:54+02:00
 draft: false
+title: Apostasie
 ---
+
+
 
 
 > *Droit canonique de 1917, can. 1325.2* : "... si a fide Christiana totaliter recedit, apostata..." [^1]

@@ -1,11 +1,11 @@
 ---
-title: "Chapitre 36"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Dénombrement des descendants d’Esaü.
+summary: "\nD\xE9nombrement des descendants d\u2019Esa\xFC.\n"
+title: Chapitre 36
 ---
+
+
 
 
 1 Voici les générations d'Esaü ; c'est le même qu'Edom.

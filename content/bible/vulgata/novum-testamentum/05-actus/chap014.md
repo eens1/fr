@@ -1,8 +1,10 @@
 ---
-title: "Caput 14"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
+title: Caput 14
 ---
+
+
 
 
 1 Factum est autem Iconii, ut simul introirent in synagogam Iudaeorum, et loquerentur, ita ut crederet Iudaeorum, et Graecorum copiosa multitudo.

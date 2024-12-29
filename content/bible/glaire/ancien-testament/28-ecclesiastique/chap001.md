@@ -1,18 +1,14 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Origine de la sagesse.
-  Son excellence.
-  Dieu la donne à ceux qui l’aiment.
-  Eloge de la crainte du Seigneur.
-  Bonheur de ceux qui la possèdent.
-  Elle est le commencement de la sagesse.
-  Garder les préceptes du Seigneur.
-  Fuir l’hypocrisie.
+summary: "\nOrigine de la sagesse.\nSon excellence.\nDieu la donne \xE0 ceux qui l\u2019\
+  aiment.\nEloge de la crainte du Seigneur.\nBonheur de ceux qui la poss\xE8dent.\n\
+  Elle est le commencement de la sagesse.\nGarder les pr\xE9ceptes du Seigneur.\n\
+  Fuir l\u2019hypocrisie.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Toute sagesse vient du Seigneur Dieu ; et avec lui elle a toujours été ; et elle est avant les siècles.

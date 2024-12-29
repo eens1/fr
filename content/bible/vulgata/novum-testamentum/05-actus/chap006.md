@@ -1,8 +1,10 @@
 ---
-title: "Caput 6"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
+title: Caput 6
 ---
+
+
 
 
 1 In diebus illis, crescente numero discipulorum, factum est murmur Graecorum adversus Hebraeos, eo quod despicerentur in ministerio quotidiano viduae eorum.

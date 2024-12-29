@@ -1,17 +1,13 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Du fils sage et de l’insensé.
-  Retenue dans les paroles.
-  Courte durée de l’éclat des impies.
-  Biens acquis trop promptement.
-  Du délai de ce qu’on espère.
-  Châtier ses enfants.
-  Insatiabilité des impies.
+summary: "\nDu fils sage et de l\u2019insens\xE9.\nRetenue dans les paroles.\nCourte\
+  \ dur\xE9e de l\u2019\xE9clat des impies.\nBiens acquis trop promptement.\nDu d\xE9\
+  lai de ce qu\u2019on esp\xE8re.\nCh\xE2tier ses enfants.\nInsatiabilit\xE9 des impies.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 Un fils sage garde la doctrine de son père: mais un moqueur n'écoute pas quand on le reprend.

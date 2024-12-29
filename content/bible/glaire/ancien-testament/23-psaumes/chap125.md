@@ -1,11 +1,13 @@
 ---
-title: "Chapitre 125"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Les Juifs revenus de la captivité de Babylone louent le Seigneur, et le prient de faire revenir leurs frères qui sont encore dans le lieu d’exil.
+summary: "\nLes Juifs revenus de la captivit\xE9 de Babylone louent le Seigneur, et\
+  \ le prient de faire revenir leurs fr\xE8res qui sont encore dans le lieu d\u2019\
+  exil.\n"
+title: Chapitre 125
 ---
+
+
 
 
 1 Cantique des degrés: Quand le Seigneur a fait revenir la captivité de Sion, nous fûmes comme des consolés.

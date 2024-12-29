@@ -1,11 +1,13 @@
 ---
-title: "Livres"
-date: 2024-09-06T20:00:57+02:00
+date: 2024-09-06 20:00:57+02:00
 draft: false
-toc: true
 featured: true
-image: "https://i.ibb.co/16QFKRg/books-on-edge.webp"
+image: https://i.ibb.co/16QFKRg/books-on-edge.webp
+title: Livres
+toc: true
 ---
+
+
 
 Voici mes recommandations de lectures.
 

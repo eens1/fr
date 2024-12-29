@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 8"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Judas Machabée, ayant connu les Romains par la renommée, envoie des messagers à Rome pour faire alliance avec eux.
-  Formule et conditions de cette alliance.
+summary: "\nJudas Machab\xE9e, ayant connu les Romains par la renomm\xE9e, envoie\
+  \ des messagers \xE0 Rome pour faire alliance avec eux.\nFormule et conditions de\
+  \ cette alliance.\n"
+title: Chapitre 8
 ---
+
+
 
 
 1 Et Judas apprit par la renommée que les Romains étaient très puissants, et qu'ils acquiesçaient à tout ce qui leur était demandé, et qu'ils avaient lié amitié avec tous ceux qui étaient allés à eux, et qu'ils étaient très puissants.

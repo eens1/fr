@@ -1,11 +1,14 @@
 ---
-title: "Psaumes 6"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
-summary: |
-  
-  David, pénétré de douleur de ses péchés et accablé des maux qui en étaient la peine, implore la miséricorde de Dieu. Il est si sûr d’être exaucé, qu’il reproche à ses ennemis d’avoir en vain espéré sa perte.
+summary: "\nDavid, p\xE9n\xE9tr\xE9 de douleur de ses p\xE9ch\xE9s et accabl\xE9 des\
+  \ maux qui en \xE9taient la peine, implore la mis\xE9ricorde de Dieu. Il est si\
+  \ s\xFBr d\u2019\xEAtre exauc\xE9, qu\u2019il reproche \xE0 ses ennemis d\u2019\
+  avoir en vain esp\xE9r\xE9 sa perte.\n"
+title: Psaumes 6
 ---
+
+
 
 
 1 Pour la fin, dans les cantiques, psaume de David, pour l'octave.

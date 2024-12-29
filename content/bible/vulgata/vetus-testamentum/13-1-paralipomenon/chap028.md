@@ -1,8 +1,10 @@
 ---
-title: "Caput 28"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 28
 ---
+
+
 
 
 1 Convocavit igitur David omnes principes Israel, duces tribuum, et praepositos turmarum, qui ministrabant regi: tribunos quoque et centuriones, et qui praeerant substantiae et possessionibus regis, filiosque suos cum eunuchis, et potentes, et robustissimos quosque in exercitu Ierusalem.

@@ -1,8 +1,10 @@
 ---
-title: "Caput 3"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 3
 ---
+
+
 
 
 1 Psalmus David, Cum fugeret a facie Absalom filii sui.

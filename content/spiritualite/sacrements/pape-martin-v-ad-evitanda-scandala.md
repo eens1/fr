@@ -1,8 +1,10 @@
 ---
-title: "Pape Martin V, Ad Evitanda Scandala"
-date: 2024-09-06T20:00:57+02:00
+date: 2024-09-06 20:00:57+02:00
 draft: false
+title: Pape Martin V, Ad Evitanda Scandala
 ---
+
+
   
   
 Abbé Craisson, *De la sépulture ecclésiastique*, 1868 : "On sait que, d'après la bulle de Martin V *Ad evitanda*, il y a deux sortes d'excommuniés : ceux que l'on doit éviter et ceux qu'on peut tolérer. Par excommuniés qu'on doit éviter, on entend ceux qui sont dénoncés nommément comme tels, ou qui sont notoirement connus comme ayant frappé des clercs. Les excommuniés non compris dans ces deux catégories sont appelés tolérés." [^2]

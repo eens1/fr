@@ -1,19 +1,14 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Jour du Seigneur incertain.
-  Surprise des méchants.
-  Enfants du jour et de la nuit.
-  Armes spirituelles.
-  Honneur des pasteurs.
-  Support des faibles.
-  Joie et prières continuelles.
-  Règles de conduite à l’égard des opérations surnaturelles.
-  Salutations.
+summary: "\nJour du Seigneur incertain.\nSurprise des m\xE9chants.\nEnfants du jour\
+  \ et de la nuit.\nArmes spirituelles.\nHonneur des pasteurs.\nSupport des faibles.\n\
+  Joie et pri\xE8res continuelles.\nR\xE8gles de conduite \xE0 l\u2019\xE9gard des\
+  \ op\xE9rations surnaturelles.\nSalutations.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Mais pour ce qui est des temps et des moments, vous n'avez pas besoin, mes frères, que nous vous en écrivions ; 2 Parce que vous-mêmes savez très bien que le jour du Seigneur viendra comme un voleur dans la nuit.

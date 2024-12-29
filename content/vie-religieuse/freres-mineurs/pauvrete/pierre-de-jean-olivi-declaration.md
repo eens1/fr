@@ -1,8 +1,10 @@
 ---
-title: "Déclaration du Frère Pierre de Jean Olivi avant sa mort"
-date: 2024-09-06T20:02:59+02:00
+date: 2024-09-06 20:02:59+02:00
 draft: false
+title: "D\xE9claration du Fr\xE8re Pierre de Jean Olivi avant sa mort"
 ---
+
+
 
 
 Source : Castet 1680, t. 2, pp. 328.

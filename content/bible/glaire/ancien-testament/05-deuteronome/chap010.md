@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 10"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Secondes tables de la loi.
-  Vocation des Lévites.
-  Exhortation à observer la loi du Seigneur.
+summary: "\nSecondes tables de la loi.\nVocation des L\xE9vites.\nExhortation \xE0\
+  \ observer la loi du Seigneur.\n"
+title: Chapitre 10
 ---
+
+
 
 
 1 En ce temps-là le Seigneur me dit : Taille-toi deux tables de pierre, comme les premières étaient, et monte vers moi sur la montagne, et tu feras une arche de bois,

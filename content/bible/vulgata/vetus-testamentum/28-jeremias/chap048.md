@@ -1,8 +1,10 @@
 ---
-title: "Caput 48"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 48
 ---
+
+
 
 
 1 Ad Moab haec dicit Dominus exercituum Deus Israel: Vae super Nabo, quoniam vastata est, et confusa: capta est Cariathaim: confusa est fortis, et tremuit.

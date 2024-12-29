@@ -1,8 +1,9 @@
 ---
-title: "Lettre de Luther à Mélanchton"
-date: 2024-09-06T20:02:29+02:00
+date: 2024-09-06 20:02:29+02:00
 draft: false
+title: "Lettre de Luther \xE0 M\xE9lanchton"
 ---
+
 
 
 > *Martin Luther* : "Sois pécheur, pèche fortement; mais crois plus fortement encore et réjouis-toi dans le Christ, le vainqueur du péché, de la mort et du monde. Pécher est une nécessité pour nous, tant que nous sommes sur la terre. Nous aurions beau cependant commettre chaque jour mille fornications et mille homicides; rien jamais ne nous séparera du Christ." [^1]

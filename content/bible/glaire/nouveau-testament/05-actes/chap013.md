@@ -1,17 +1,14 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Paul et Barnabé sont envoyés aux gentils.
-  Ils passent dans l’île de Chypre.
-  Le magicien Barjésu frappé d’aveuglement.
-  Conversion du proconsul Sergius Paulus.
-  Paul vient à Antioche de Pisidie, où il prêche dans la synagogue.
-  Les Juifs lui résistent.
-  Il se tourne vers les gentils.
+summary: "\nPaul et Barnab\xE9 sont envoy\xE9s aux gentils.\nIls passent dans l\u2019\
+  \xEEle de Chypre.\nLe magicien Barj\xE9su frapp\xE9 d\u2019aveuglement.\nConversion\
+  \ du proconsul Sergius Paulus.\nPaul vient \xE0 Antioche de Pisidie, o\xF9 il pr\xEA\
+  che dans la synagogue.\nLes Juifs lui r\xE9sistent.\nIl se tourne vers les gentils.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 Il y avait dans l'église d'Antioche des prophètes et des docteurs, parmi lesquels Barnabé et Simon, qui s'appelait le Noir, Lucius de Cyrène, et Manahen, frère de lait d'Hérode le tétrarque, et Saul.

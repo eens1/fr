@@ -1,8 +1,10 @@
 ---
-title: "Caput 30"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 30
 ---
+
+
 
 
 1 Nunc autem derident me iuniores tempore, quorum non dignabar patres ponere cum canibus gregis mei:

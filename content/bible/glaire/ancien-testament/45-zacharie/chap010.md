@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 10"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  C’est le Seigneur qu’il faut invoquer, et non les idoles.
-  Colère du Seigneur contre les pasteurs de son peuple.
-  Il visitera dans sa miséricorde la maison de Juda.
-  Il rassemblera la maison d’Israël.
+summary: "\nC\u2019est le Seigneur qu\u2019il faut invoquer, et non les idoles.\n\
+  Col\xE8re du Seigneur contre les pasteurs de son peuple.\nIl visitera dans sa mis\xE9\
+  ricorde la maison de Juda.\nIl rassemblera la maison d\u2019Isra\xEBl.\n"
+title: Chapitre 10
 ---
+
+
 
 
 1 Demandez au Seigneur la pluie dans l'arrière-saison, et le Seigneur fera tomber la neige ; il leur donnera une pluie abondante, à chacun l'herbe dans son champ.

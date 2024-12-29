@@ -1,8 +1,10 @@
 ---
-title: "Caput 4"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 4
 ---
+
+
 
 
 1 Igitur cum Tobias putaret orationem suam exaudiri ut mori potuisset, vocavit ad se Tobiam filium suum,

@@ -1,11 +1,11 @@
 ---
-title: "Chapitre 15"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Loi touchant les impuretés involontaires des hommes et des femmes.
+summary: "\nLoi touchant les impuret\xE9s involontaires des hommes et des femmes.\n"
+title: Chapitre 15
 ---
+
+
 
 
 1 Le Seigneur parla encore à Moïse et à Aaron, disant :2 Parlez aux enfants d'Israël et dites-leur : Un homme qui a la gonorrhée sera impur.

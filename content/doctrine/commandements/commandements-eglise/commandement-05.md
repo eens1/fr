@@ -1,8 +1,10 @@
 ---
-title: "Cinquième Commandements"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Cinqui\xE8me Commandements"
 ---
+
+
 
 
 > *Catéchisme de persévérance* : "Ton Créateur tu recevras, au moins à Pâques humblement." [^1]

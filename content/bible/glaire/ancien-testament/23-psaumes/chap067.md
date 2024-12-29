@@ -1,17 +1,24 @@
 ---
-title: "Chapitre 67"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste demande au Seigneur qu’il paraisse devant son peuple, et qu’il dissipe ses ennemis par sa présence.
-  Il décrit la pompe de sa marche et les merveilles qu’il opéra dans le désert.
-  Il excite tout le peuple à louer ce souverain Seigneur.
-  Ce psaume, comme en conviennent tous les commentateurs, est le plus difficile à entendre : de là le grand nombre des interprétations diverses.
-  Pour nous, il nous semble que c’est un cantique de triomphe, composé par David dans la cérémonie du transport de l’Arche Sainte de Cariathiarim à Jérusalem ou de la maison d’Obédédom dans le tabernacle dressé à Sion.
-  La plupart des Pères grecs et latins l’appliquent, dans le sens spirituel, à la venue, à la Résurrection, à l’Ascension de Jésus-Christ, à la prédication des Apôtres et à la conversion des Gentils ; saint Paul lui-même en a rapporté un passage à l’Ascension du Sauveur, comme on le verra dans les notes.
-  Pour la fin.
+summary: "\nLe Psalmiste demande au Seigneur qu\u2019il paraisse devant son peuple,\
+  \ et qu\u2019il dissipe ses ennemis par sa pr\xE9sence.\nIl d\xE9crit la pompe de\
+  \ sa marche et les merveilles qu\u2019il op\xE9ra dans le d\xE9sert.\nIl excite\
+  \ tout le peuple \xE0 louer ce souverain Seigneur.\nCe psaume, comme en conviennent\
+  \ tous les commentateurs, est le plus difficile \xE0 entendre : de l\xE0 le grand\
+  \ nombre des interpr\xE9tations diverses.\nPour nous, il nous semble que c\u2019\
+  est un cantique de triomphe, compos\xE9 par David dans la c\xE9r\xE9monie du transport\
+  \ de l\u2019Arche Sainte de Cariathiarim \xE0 J\xE9rusalem ou de la maison d\u2019\
+  Ob\xE9d\xE9dom dans le tabernacle dress\xE9 \xE0 Sion.\nLa plupart des P\xE8res\
+  \ grecs et latins l\u2019appliquent, dans le sens spirituel, \xE0 la venue, \xE0\
+  \ la R\xE9surrection, \xE0 l\u2019Ascension de J\xE9sus-Christ, \xE0 la pr\xE9dication\
+  \ des Ap\xF4tres et \xE0 la conversion des Gentils ; saint Paul lui-m\xEAme en a\
+  \ rapport\xE9 un passage \xE0 l\u2019Ascension du Sauveur, comme on le verra dans\
+  \ les notes.\nPour la fin.\n"
+title: Chapitre 67
 ---
+
+
 
 
 1 Psaume d'un cantique de David lui-même.

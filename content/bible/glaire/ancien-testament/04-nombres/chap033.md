@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 33"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Demeures ou stations des Israélites dans le désert, depuis leur sortie jusqu’à leur arrivée dans les plaines de Moab.
+summary: "\nDemeures ou stations des Isra\xE9lites dans le d\xE9sert, depuis leur\
+  \ sortie jusqu\u2019\xE0 leur arriv\xE9e dans les plaines de Moab.\n"
+title: Chapitre 33
 ---
+
+
 
 
 1 Voici les demeures des enfants d'Israël, qui sont sortis de l'Egypte, selon leurs bandes, par l'entremise de Moïse et d'Aaron ; 2 Lesquels Moïse décrivit, selon les lieux de leurs campements qu'ils changeaient par le commandement du Seigneur.

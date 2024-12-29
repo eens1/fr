@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Avis aux ministres de l’Evangile.
-  Avis à tous les fidèles.
-  S’humilier devant Dieu ; se reposer en lui.
-  Veiller sur soi ; résister au démon.
-  Salutations.
+summary: "\nAvis aux ministres de l\u2019Evangile.\nAvis \xE0 tous les fid\xE8les.\n\
+  S\u2019humilier devant Dieu ; se reposer en lui.\nVeiller sur soi ; r\xE9sister\
+  \ au d\xE9mon.\nSalutations.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Je conjure donc les prêtres qui sont parmi vous, prêtre comme eux et témoin des souffrances du Christ; moi qui suis participant à la gloire qui doit être révélée un jour ; 2 Paissez le troupeau de Dieu qui vous est confié, veillant sur lui, non par nécessité, mais spontanément selon Dieu; non point en vue d'un gain honteux, mais de plein gré, 3 Et non comme dominant sur l'héritage du Seigneur, mais vous faisant de coeur le modèle du troupeau. 4 Et lorsque paraîtra le prince des pasteurs, vous obtiendrez la couronne de gloire qui ne se flétrit jamais.

@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 9"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Les Gabaonites surprennent Josué.
-  On fait alliance avec eux.
-  Leur artifice est reconnu.
-  On les condamne à porter le bois, et à porter l’eau dans la maison du Seigneur.
+summary: "\nLes Gabaonites surprennent Josu\xE9.\nOn fait alliance avec eux.\nLeur\
+  \ artifice est reconnu.\nOn les condamne \xE0 porter le bois, et \xE0 porter l\u2019\
+  eau dans la maison du Seigneur.\n"
+title: Chapitre 9
 ---
+
+
 
 
 1 Ces événements appris, tous les rois d'au-delà du Jourdain, qui demeuraient dans les montagnes, dans les plaines, dans les lieux maritimes et sur le rivage de la grande mer ; ceux aussi qui habitaient près du Liban, l'Héthéen, et l'Amorrhéen, le Chananéen, le Phérézéen, l'Hévéen et le Jébuséen,

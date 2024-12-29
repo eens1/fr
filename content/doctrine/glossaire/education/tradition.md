@@ -1,8 +1,10 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Dans la Tradition
 ---
+
+
 
 
 > *Pape Léon XIII, Caritatis, 19 mars 1894* : " ... que les parents veillent à la préservation et au bien-être de leurs enfants, surtout à leur éducation; qu'ils leur donnent par leur propre conduite un exemple meilleur et plus efficace que tout autre. Ils ne doivent pas croire, en effet, qu'ils pourront pourvoir à une bonne et honnête éducation de leurs enfants, ainsi qu'il est nécessaire, sans une très grande vigilance. Non seulement ils doivent fuir les écoles et les collèges où à la science on mêle de parti pris l'erreur au sujet de la religion, où domine l'impiété, mais aussi ceux dans lesquels on ne donne aucune règle ni aucun enseignement relatif aux règles et à la morale chrétiennes comme si c'étaient des objets inutiles." [^1]

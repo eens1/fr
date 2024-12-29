@@ -1,8 +1,10 @@
 ---
-title: "Caput 1"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 1
 ---
+
+
 
 
 1 Senior Electae dominae, et natis eius, quos ego diligo in veritate, et non ego solus, sed et omnes, qui cognoverunt veritatem,

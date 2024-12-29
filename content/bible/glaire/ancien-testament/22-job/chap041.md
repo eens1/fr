@@ -1,11 +1,11 @@
 ---
-title: "Chapitre 41"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Suite de la description de Léviathan.
+summary: "\nSuite de la description de L\xE9viathan.\n"
+title: Chapitre 41
 ---
+
+
 
 
 1 Je ne suis pas assez cruel pour le susciter : car qui peut résister à mon visage ;

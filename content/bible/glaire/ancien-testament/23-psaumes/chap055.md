@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 55"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  David expose à Dieu les maux qu’il souffre de la part de ses ennemis.
-  Il espère dans le secours du Seigneur, et lui rend grâces de l’avoir exaucé et délivré.
-  Pour la fin.
+summary: "\nDavid expose \xE0 Dieu les maux qu\u2019il souffre de la part de ses ennemis.\n\
+  Il esp\xE8re dans le secours du Seigneur, et lui rend gr\xE2ces de l\u2019avoir\
+  \ exauc\xE9 et d\xE9livr\xE9.\nPour la fin.\n"
+title: Chapitre 55
 ---
+
+
 
 
 1 Pour le peuple qui a été éloigné des saints {ou des choses saintes); par David, pour une inscription de titre, lorsque les Allophylles [étrangers) le retinrent dans Geth.

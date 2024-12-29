@@ -1,8 +1,10 @@
 ---
-title: "Deuxième Commandement "
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Deuxi\xE8me Commandement "
 ---
+
+
 
 
 > *Catéchisme de persévérance* : "Les dimanches Messe ouïras, et les fêtes pareillement." [^1]

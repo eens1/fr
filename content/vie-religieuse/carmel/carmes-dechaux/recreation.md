@@ -1,8 +1,10 @@
 ---
-title: "Récréation"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: "R\xE9cr\xE9ation"
 ---
+
+
 
 
 > *François de Sainte Marie* : "Comme les austérités de la religion sont grandes, nos premiers Pères ordonnèrent que durant les cinq mois que la règle n'oblige point à jeûner, on prendrait chaque jour deux heures de récréation, l'une après le dîner, et l'autre après le repas du soir : et que durant le temps des jeûnes on ne prendrait seulement que l'heure de récréation après le dîner.

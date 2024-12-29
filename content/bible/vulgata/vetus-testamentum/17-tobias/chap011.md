@@ -1,8 +1,10 @@
 ---
-title: "Caput 11"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 11
 ---
+
+
 
 
 1 Cumque reverterentur, pervenerunt ad Charan, quae est in medio itinere contra Niniven, undecimo die.

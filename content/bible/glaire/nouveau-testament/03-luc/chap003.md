@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Prédication de saint Jean.
-  Avis qu’il donne au peuple, aux publicains, aux soldats.
-  Il rend témoignage à Jésus-Christ.
-  Hérode le fait mettre en prison.
-  Jésus-Christ reçoit le baptême de Jean.
-  Généalogie de Jésus-Christ.
+summary: "\nPr\xE9dication de saint Jean.\nAvis qu\u2019il donne au peuple, aux publicains,\
+  \ aux soldats.\nIl rend t\xE9moignage \xE0 J\xE9sus-Christ.\nH\xE9rode le fait mettre\
+  \ en prison.\nJ\xE9sus-Christ re\xE7oit le bapt\xEAme de Jean.\nG\xE9n\xE9alogie\
+  \ de J\xE9sus-Christ.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 L'an quinzième du règne de César Tibère, Ponce Pilate étant gouverneur de la Judée, Hérode, tétrarque de Galilée, Philippe, son frère, tétrarque d'Iturée et du pays de Trachonite, et Lysanias tétrarque d'Abylène ;

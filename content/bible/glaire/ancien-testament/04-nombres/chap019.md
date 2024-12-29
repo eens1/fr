@@ -1,12 +1,11 @@
 ---
-title: "Chapitre 19"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Sacrifice de la vache rousse.
-  Eau d’expiation ; son usage.
+summary: "\nSacrifice de la vache rousse.\nEau d\u2019expiation ; son usage.\n"
+title: Chapitre 19
 ---
+
+
 
 
 1 Le Seigneur parla encore à Moïse et à Aaron, disant :

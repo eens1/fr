@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Longue guerre entre la maison de David et celle de Saül.
-  Abner quitte le parti d’Isboseth pour prendre celui de David.
-  Il est tué en trahison par Joab ; David pleure sa mort.
+summary: "\nLongue guerre entre la maison de David et celle de Sa\xFCl.\nAbner quitte\
+  \ le parti d\u2019Isboseth pour prendre celui de David.\nIl est tu\xE9 en trahison\
+  \ par Joab ; David pleure sa mort.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 Il se fit donc une longue guerre entre la maison de Saül et la maison de David. David s'avançant, et toujours plus fort que lui-même, mais la maison de Saül décroissant de jour en jour.

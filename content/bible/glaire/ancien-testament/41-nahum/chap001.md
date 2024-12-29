@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Prophétie contre Ninive.
-  Le Seigneur est juste, puissant et terrible dans ses vengeances.
-  Il protège ceux qui espèrent en lui.
-  Ruine de Ninive.
-  Défaite des Assyriens.
-  Délivrance de Juda.
+summary: "\nProph\xE9tie contre Ninive.\nLe Seigneur est juste, puissant et terrible\
+  \ dans ses vengeances.\nIl prot\xE8ge ceux qui esp\xE8rent en lui.\nRuine de Ninive.\n\
+  D\xE9faite des Assyriens.\nD\xE9livrance de Juda.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Malheur accablant de Ninive : Livre de la vision de Nahum l'Elcéséen.

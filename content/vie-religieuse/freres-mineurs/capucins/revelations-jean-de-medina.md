@@ -1,8 +1,10 @@
 ---
-title: "Révélations de Jésus-Christ au Frère Jean de Médina"
-date: 2024-09-06T20:02:59+02:00
+date: 2024-09-06 20:02:59+02:00
 draft: false
+title: "R\xE9v\xE9lations de J\xE9sus-Christ au Fr\xE8re Jean de M\xE9dina"
 ---
+
+
 
 Source : Annales des Frères Mineurs Capucins, Caluze 1675, t. 1, pp. 392-393, 395-396.
 

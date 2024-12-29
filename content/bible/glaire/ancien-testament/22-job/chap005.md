@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Eliphaz soutient que la prospérité des impies est toujours promptement dissipée.
-  Il exhorte Job à recourir à Dieu par la pénitence.
+summary: "\nEliphaz soutient que la prosp\xE9rit\xE9 des impies est toujours promptement\
+  \ dissip\xE9e.\nIl exhorte Job \xE0 recourir \xE0 Dieu par la p\xE9nitence.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Appelle donc, s'il y a quelqu'un qui te réponde, et tourne-toi vers quelqu'un des saints.

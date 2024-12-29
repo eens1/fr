@@ -1,8 +1,10 @@
 ---
-title: "La Tradition de l'Eglise"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: La Tradition de l'Eglise
 ---
+
+
 
 
 > *2 Thessaloniciens 2:14* : "C'est pourquoi, mes frères, demeurez fermes, et gardez les traditions que vous avez apprises soit par nos discours, soit par notre lettre." [^1]

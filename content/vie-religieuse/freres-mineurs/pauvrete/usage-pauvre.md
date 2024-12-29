@@ -1,8 +1,10 @@
 ---
-title: "Usage pauvre"
-date: 2024-09-06T20:03:00+02:00
+date: 2024-09-06 20:03:00+02:00
 draft: false
+title: Usage pauvre
 ---
+
+
 
 
 Etudes franciscaines, déc. 1905 : "Il était difficile, sans doute, de définir exactement en quoi consistait cet "usus pauper", et cette difficulté donna même occasion aux mitigés d'attaquer et de condamner sur ce point la doctrine d'Olivi. 

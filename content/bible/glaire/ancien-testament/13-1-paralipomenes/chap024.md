@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 24"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  David règle l’ordre et les fonctions des prêtres et des Lévites.
+summary: "\nDavid r\xE8gle l\u2019ordre et les fonctions des pr\xEAtres et des L\xE9\
+  vites.\n"
+title: Chapitre 24
 ---
+
+
 
 
 1 Or voici quelle fut la classification des fils d'Aaron. Les fils d'Aaron étaient Nadab, Abiu, Eléazar et Ithamar.

@@ -1,8 +1,10 @@
 ---
-title: "Péchés capitaux"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "P\xE9ch\xE9s capitaux"
 ---
+
+
 
 
 > *Saint Thomas d'Aquin, Somme Théologique, p. 3, q. 34, a. 5* : "... un vice capital est celui duquel les autres vices découlent le plus souvent." [^1]

@@ -1,8 +1,10 @@
 ---
-title: "Caput 62"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 62
 ---
+
+
 
 
 1 Propter Sion non tacebo, et propter Ierusalem non quiescam, donec egrediatur ut splendor iustus eius, et salvator eius ut lampas accendatur.

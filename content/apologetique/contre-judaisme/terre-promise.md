@@ -1,8 +1,9 @@
 ---
-title: "Terre promise à Abraham"
-date: 2024-09-06T20:02:29+02:00
+date: 2024-09-06 20:02:29+02:00
 draft: false
+title: "Terre promise \xE0 Abraham"
 ---
+
 
 
 > Saint Irénée de Lyon, *Contre les hérésies*, livre V, AD 180 : "De cette manière, également, la promesse faite jadis par Dieu à Abraham demeure stable. Il lui avait dit, en effet : 

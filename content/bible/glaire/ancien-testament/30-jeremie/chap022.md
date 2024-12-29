@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 22"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Le Seigneur exhorte Joakim, roi de Juda, et son peuple à être docile à la voix du Seigneur.
-  Ne pas pleurer Josias, mais Sellum.
-  Reproches contre Joakim.
-  Sa fin malheureuse.
-  Jérusalem abandonnée de ses alliés.
-  Jugement du Seigneur contre Jéchonias.
+summary: "\nLe Seigneur exhorte Joakim, roi de Juda, et son peuple \xE0 \xEAtre docile\
+  \ \xE0 la voix du Seigneur.\nNe pas pleurer Josias, mais Sellum.\nReproches contre\
+  \ Joakim.\nSa fin malheureuse.\nJ\xE9rusalem abandonn\xE9e de ses alli\xE9s.\nJugement\
+  \ du Seigneur contre J\xE9chonias.\n"
+title: Chapitre 22
 ---
+
+
 
 
 1 Voici ce que dit le Seigneur : Descends dans la maison du roi de Juda, et tu prononceras là cette parole,

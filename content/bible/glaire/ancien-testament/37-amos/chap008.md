@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 8"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Autre vision d’Amos sur la ruine d’Israël.
-  Iniquité de ce peuple.
-  Vengeances du Seigneur sur lui.
-  Description de ces vengeances.
+summary: "\nAutre vision d\u2019Amos sur la ruine d\u2019Isra\xEBl.\nIniquit\xE9 de\
+  \ ce peuple.\nVengeances du Seigneur sur lui.\nDescription de ces vengeances.\n"
+title: Chapitre 8
 ---
+
+
 
 
 1 Voici ce que m'a montré le Seigneur Dieu; or voici un crochet pour abattre des fruits.

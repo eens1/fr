@@ -1,8 +1,10 @@
 ---
-title: "Caput 9"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 9
 ---
+
+
 
 
 1 Primo tempore alleviata est Terra Zabulon, et Terra Nephthali: et novissimo aggravata est via maris trans Iordanem Galilaeae Gentium.

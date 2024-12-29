@@ -1,8 +1,10 @@
 ---
-title: "Homosexualité"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "Homosexualit\xE9"
 ---
+
+
 
 
 > *Lévitique 18:22* : "Tu ne t'approcheras point d'un homme comme d'une femme, parce que c'est une abomination." [^1]

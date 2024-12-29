@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Aimer la justice.
-  Chercher le Seigneur avec droiture.
-  Le Seigneur connaît tout, et rien n’échappe à sa vengeance.
-  La mort ne vient pas de Dieu ; mais elle est la suite du péché.
+summary: "\nAimer la justice.\nChercher le Seigneur avec droiture.\nLe Seigneur conna\xEE\
+  t tout, et rien n\u2019\xE9chappe \xE0 sa vengeance.\nLa mort ne vient pas de Dieu\
+  \ ; mais elle est la suite du p\xE9ch\xE9.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Aimez la justice, vous qui jugez la terre. Ayez du Seigneur de bons sentiments, et cherchez-le dans la simplicité de coeur ;

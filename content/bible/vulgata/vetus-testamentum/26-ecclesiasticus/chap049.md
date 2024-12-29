@@ -1,8 +1,10 @@
 ---
-title: "Caput 49"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 49
 ---
+
+
 
 
 1 Memoria Iosiae in compositionem odoris facta opus pigmentarii.

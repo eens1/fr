@@ -1,8 +1,10 @@
 ---
-title: "Caput 11"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 11
 ---
+
+
 
 
 1 Fuit illo tempore Iephte Galaadites vir fortissimus atque pugnator, filius mulieris meretricis, qui natus est de Galaad.

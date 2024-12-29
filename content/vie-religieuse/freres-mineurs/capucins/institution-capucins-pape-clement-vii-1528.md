@@ -1,8 +1,10 @@
 ---
-title: "Bulle d'institution des Frères Mineurs Capucins, 1528"
-date: 2024-09-06T20:02:59+02:00
+date: 2024-09-06 20:02:59+02:00
 draft: false
+title: "Bulle d'institution des Fr\xE8res Mineurs Capucins, 1528"
 ---
+
+
 
 
 *Source : Caluze 1675, pp. 116-118*.

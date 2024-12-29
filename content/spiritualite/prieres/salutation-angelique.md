@@ -1,8 +1,10 @@
 ---
-title: "Salutation Angélique"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: "Salutation Ang\xE9lique"
 ---
+
+
 
 
 > *Manuel de prières* : "Ave Maria, gratiâ plena; Dominus tecum; benedicta tu in mulieribus, et benedictus fructus ventris tui, Jesus. Sancta Maria, Mater Dei, ora pro nobis, peccatoribus, nunc et in hora mortis nostrae. Amen.

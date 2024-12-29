@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 19"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Indissolubilité du mariage.
-  Eunuques volontaires.
-  Enfants présentés à Jésus-Christ.
-  Conseils de perfection.
-  Salut des riches difficile.
-  Récompense promise à ceux qui quittent tout pour Jésus-Christ.
+summary: "\nIndissolubilit\xE9 du mariage.\nEunuques volontaires.\nEnfants pr\xE9\
+  sent\xE9s \xE0 J\xE9sus-Christ.\nConseils de perfection.\nSalut des riches difficile.\n\
+  R\xE9compense promise \xE0 ceux qui quittent tout pour J\xE9sus-Christ.\n"
+title: Chapitre 19
 ---
+
+
 
 
 1 Or, il arriva que lorsque Jésus eut achevé ses discours, il partit de Galilée et vint aux confins de la Judée, au-delà du Jourdain ;

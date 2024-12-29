@@ -1,8 +1,10 @@
 ---
-title: "4 Rois"
-date: 2024-09-06T20:02:59+02:00
+date: 2024-09-06 20:02:59+02:00
 draft: false
+title: 4 Rois
 ---
+
+
 
 
 > *4 Rois 1* : "Or, après la mort d'Achab, Moab se révolta contre Israël. Et Ochozias tomba par la fenêtre de sa chambre haute qu'il avait à Samarie, et il fut malade, et il envoya des messagers, leur disant : Allez, consultez Béelzébub, le dieu d'Accaron , pour savoir si je pourrai réchapper de cette maladie. Mais un ange du Seigneur parla à Elie, le Thesbite, disant : Lève-toi, et monte à la rencontre des messagers du roi de Samarie, et tu leurs diras : Est-ce qu'il n'y a pas un Dieu dans Israël, pour que vous alliez consulter Béelzébub, le dieu d'Accaron ? C'est pourquoi voici ce que dit le Seigneur : Tu ne descendras point du lit sur lequel tu es monté; mais tu mourras de mort. Et Elie s'en alla. 

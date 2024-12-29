@@ -1,8 +1,10 @@
 ---
-title: "Caput 3"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 3
 ---
+
+
 
 
 1 Confirmatum est igitur regnum in manu Salomonis, et affinitate coniunctus est Pharaoni regi AEgypti: accepit namque filiam eius, et adduxit in civitatem David, donec compleret aedificans domum suam, et domum Domini, et murum Ierusalem per circuitum.

@@ -1,8 +1,10 @@
 ---
-title: "Caput 25"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 25
 ---
+
+
 
 
 1 Si fuerit causa inter aliquos, et interpellaverint iudices: quem iustum esse perspexerint, illi iustitiae palmam dabunt: quem impium, condemnabunt impietatis.

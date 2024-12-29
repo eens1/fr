@@ -1,8 +1,10 @@
 ---
-title: "Caput 27"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 27
 ---
+
+
 
 
 1 Filii autem Israel secundum numerum suum, principes familiarum, tribuni, et centuriones, et praefecti, qui ministrabant regi iuxta turmas suas, ingredientes et egredientes per singulos menses in anno, viginti quattuor millibus singuli praeerant.

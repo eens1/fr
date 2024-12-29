@@ -1,8 +1,10 @@
 ---
-title: "Caput 27"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 27
 ---
+
+
 
 
 1 Vigintiquinque annorum erat Ioatham cum regnare coepisset, et sedecim annis regnavit in Ierusalem: nomen matris eius Ierusa filia Sadoc.

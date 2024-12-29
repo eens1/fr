@@ -1,8 +1,10 @@
 ---
-title: "Caput 3"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 3
 ---
+
+
 
 
 1 Itaque conversi ascendimus per iter Basan: egressusque est Og rex Basan in occursum nobis cum populo suo ad bellandum in Edrai.

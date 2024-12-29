@@ -1,8 +1,10 @@
 ---
-title: "Caput 44"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 44
 ---
+
+
 
 
 1 Verbum, quod factum est per Ieremiam ad omnes Iudaeos, qui habitabant in Terra AEgypti, habitantes in Magdalo, et in Taphnis, et in Memphis, et in Terra Phatures, dicens:

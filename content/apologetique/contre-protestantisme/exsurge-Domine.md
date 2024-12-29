@@ -1,8 +1,9 @@
 ---
-title: "Bulle Exsurge Domine du pape Léon X"
-date: 2024-09-06T20:02:29+02:00
+date: 2024-09-06 20:02:29+02:00
 draft: false
+title: "Bulle Exsurge Domine du pape L\xE9on X"
 ---
+
 
 
 Bulle pontificale

@@ -1,8 +1,11 @@
 ---
-title: "Chap. 1 - De l'érection et de la suppression d'un institut religieux, d'une province, d'une maison (492 - 498)"
-date: 2024-09-06T20:00:57+02:00
+date: 2024-09-06 20:00:57+02:00
 draft: false
+title: "Chap. 1 - De l'\xE9rection et de la suppression d'un institut religieux, d'une\
+  \ province, d'une maison (492 - 498)"
 ---
+
+
 
 
 **492**

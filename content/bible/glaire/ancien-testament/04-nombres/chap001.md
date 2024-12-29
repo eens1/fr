@@ -1,11 +1,11 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Dénombrement des Israélites capables de porter les armes.
+summary: "\nD\xE9nombrement des Isra\xE9lites capables de porter les armes.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Et le Seigneur parla à Moïse dans le désert de Sinaï, dans le tabernacle d'alliance, au premier jour du second mois, à la seconde année de leur sortie d'Egypte, disant :2 Faites le dénombrement de toute l'assemblée des enfants d'Israël, selon leur parenté, leurs maisons, et les noms de chacun, de tout ce qui est du sexe masculin,

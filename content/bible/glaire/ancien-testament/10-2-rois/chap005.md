@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  David est sacré roi sur tout Israël.
-  Il prend Jérusalem.
-  Hiram, roi de Tyr, lui envoie des messagers.
-  Victoires de David sur les Philistins.
+summary: "\nDavid est sacr\xE9 roi sur tout Isra\xEBl.\nIl prend J\xE9rusalem.\nHiram,\
+  \ roi de Tyr, lui envoie des messagers.\nVictoires de David sur les Philistins.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Et toutes les tribus d'Israël vinrent vers David à Hébron, disant : Nous voici, nous sommes votre os et votre chair.

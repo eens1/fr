@@ -1,8 +1,10 @@
 ---
-title: "Caput 103"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 103
 ---
+
+
 
 
 1 Ipsi David. Benedic anima mea Domino: Domine Deus meus magnificatus es vehementer. Confessionem, et decorem induisti:

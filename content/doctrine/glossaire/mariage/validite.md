@@ -1,8 +1,10 @@
 ---
-title: "Validité"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "Validit\xE9"
 ---
+
+
 
 
 > *Droit canonique de 1917, can. 1014* : "Matrimonium gaudet favore iuris; quare in dubio standum est pro valore matrimonii, donec contrarium probetur, salvo praescripto can. 1127." [^1]

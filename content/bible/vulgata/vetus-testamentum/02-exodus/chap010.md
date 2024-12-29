@@ -1,8 +1,10 @@
 ---
-title: "Caput 10"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 10
 ---
+
+
 
 
 1 Et dixit Dominus ad Moysen: Ingredere ad Pharaonem: ego enim induravi cor eius, et servorum illius: ut faciam signa mea haec in eo,

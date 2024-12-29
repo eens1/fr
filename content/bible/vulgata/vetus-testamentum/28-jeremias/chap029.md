@@ -1,8 +1,10 @@
 ---
-title: "Caput 29"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 29
 ---
+
+
 
 
 1 Et haec sunt verba libri, quem misit Ieremias propheta de Ierusalem ad reliquias seniorum transmigrationis, et ad sacerdotes, et ad prophetas, et ad omnem populum, quem traduxerat Nabuchodonosor de Ierusalem in Babylonem:

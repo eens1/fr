@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Généalogie de Jésus-Christ.
-  Sa conception dans le sein de la Vierge.
-  Soupçons de Joseph, époux de Marie.
-  Il est rassuré par un ange.
-  Naissance de Jésus-Christ.
+summary: "\nG\xE9n\xE9alogie de J\xE9sus-Christ.\nSa conception dans le sein de la\
+  \ Vierge.\nSoup\xE7ons de Joseph, \xE9poux de Marie.\nIl est rassur\xE9 par un ange.\n\
+  Naissance de J\xE9sus-Christ.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Livre de la généalogie de Jésus-Christ, fils de David, fils d'Abraham.

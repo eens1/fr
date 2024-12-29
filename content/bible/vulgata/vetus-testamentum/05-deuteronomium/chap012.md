@@ -1,8 +1,10 @@
 ---
-title: "Caput 12"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 12
 ---
+
+
 
 
 1 Haec sunt praecepta atque iudicia, quae facere debetis in Terra, quam Dominus Deus patrum tuorum daturus est tibi, ut possideas eam cunctis diebus, quibus super humum gradieris.

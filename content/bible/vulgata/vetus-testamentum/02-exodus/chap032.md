@@ -1,8 +1,10 @@
 ---
-title: "Caput 32"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 32
 ---
+
+
 
 
 1 Videns autem populus quod moram faceret descendendi de monte Moyses, congregatus adversus Aaron, dixit: Surge, fac nobis deos, qui nos praecedant: Moysi enim huic viro, qui nos eduxit de Terra AEgypti, ignoramus quid acciderit.

@@ -1,9 +1,11 @@
 ---
-title: "Dans la Bible"
 date: 2024-12-08T09:16:52+0000
 draft: false
 tags: []
+title: Dans la Bible
 ---
+
+
 
 Source: [Bible traduite par l'abbé Fillon, Ézéchiel chap. 9](https://www.recatho.com/sainte-bible/fillion/livre-du-prophete-ezechiel)
 

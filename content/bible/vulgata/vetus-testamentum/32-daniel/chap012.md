@@ -1,8 +1,10 @@
 ---
-title: "Caput 12"
-date: 2024-09-06T20:00:56+02:00
+date: 2024-09-06 20:00:56+02:00
 draft: false
+title: Caput 12
 ---
+
+
 
 
 1 In tempore autem illo consurget Michael princeps magnus, qui stat pro filiis populi tui: et veniet tempus quale non fuit ab eo ex quo gentes esse coeperunt usque ad tempus illud. Et in tempore illo salvabitur populus tuus, omnis qui inventus fuerit scriptus in libro.

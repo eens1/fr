@@ -1,8 +1,10 @@
 ---
-title: "Socialisme"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Socialisme
 ---
+
+
 
 
 > *Dictionnaire de l'académie française, définition* : "Doctrine qui préconise un plan d’organisation sociale et économique subordonnant les intérêts de l’individu à ceux de l’État." [^1]

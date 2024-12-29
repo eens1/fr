@@ -1,8 +1,10 @@
 ---
-title: "Caput 12"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 12
 ---
+
+
 
 
 1 Memento Creatoris tui in diebus iuventutis tuae, antequam veniat tempus afflictionis, et appropinquent anni, de quibus dicas: Non mihi placent,

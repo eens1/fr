@@ -1,8 +1,10 @@
 ---
-title: "Accusation"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: Accusation
 ---
+
+
 
 
 > *Saint Léonard de Port-Maurice* : "1 - Il est bon de commencer par déclarer les péchés qui pèsent le plus sur la conscience.

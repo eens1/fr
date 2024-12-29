@@ -1,16 +1,15 @@
 ---
-title: "Chapitre 39"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Prise de Jérusalem.
-  Fuite de Sédécias.
-  Ce prince est arrêté et conduit devant Nabuchodonosor, qui fait mourir ses enfants, lui fait arracher les yeux à lui-même en le chargeant de fers.
-  Pauvres laissés dans la Judée.
-  Jérémie est mis en liberté.
-  Prophétie en faveur d’Abdémélech.
+summary: "\nPrise de J\xE9rusalem.\nFuite de S\xE9d\xE9cias.\nCe prince est arr\xEA\
+  t\xE9 et conduit devant Nabuchodonosor, qui fait mourir ses enfants, lui fait arracher\
+  \ les yeux \xE0 lui-m\xEAme en le chargeant de fers.\nPauvres laiss\xE9s dans la\
+  \ Jud\xE9e.\nJ\xE9r\xE9mie est mis en libert\xE9.\nProph\xE9tie en faveur d\u2019\
+  Abd\xE9m\xE9lech.\n"
+title: Chapitre 39
 ---
+
+
 
 
 1 La neuvième année de Sédécias, roi de Juda, au dixième mois, Nabuchodonosor, roi de Babylone, vint et toute son armée devant Jérusalem, et ils en faisaient le siège.

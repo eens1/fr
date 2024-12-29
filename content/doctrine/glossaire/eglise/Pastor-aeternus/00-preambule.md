@@ -1,8 +1,10 @@
 ---
-title: "Préambule"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Pr\xE9ambule"
 ---
+
+
 
 
 Pie, évêque, serviteur des serviteurs de Dieu, avec l'approbation du saint Concile, pour perpétuelle mémoire de la chose.

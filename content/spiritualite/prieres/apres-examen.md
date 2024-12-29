@@ -1,8 +1,10 @@
 ---
-title: "Après l'examen de conscience"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: "Apr\xE8s l'examen de conscience"
 ---
+
+
 
 
 > *Saint Léonard de Port-Maurice* :  "Je reconnais et je confesse, ô mon Dieu ! que j'ai mérité par mes péchés d'être maintenant au fond de l'enfer : néanmoins votre miséricorde m'a donné le temps de m'en délivrer au moyen de la confession que je vais faire. Je vous demande la grâce, ô mon Jésus ! de pouvoir me confesser avec une ferme douleur et un ferme propos de ne jamais plus commettre ces péchés à l'avenir.

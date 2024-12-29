@@ -1,12 +1,13 @@
 ---
-title: "Jésus-Christ sera avec Son Église jusqu'à la fin du monde"
-date: 2024-09-25
-draft: false
-description: ""
-summary: ""
-tags: []
 categories: []
+date: 2024-09-25
+description: ''
+draft: false
+summary: ''
+tags: []
+title: "J\xE9sus-Christ sera avec Son \xC9glise jusqu'\xE0 la fin du monde"
 ---
+
 
 Matthieu 28:20 : "Leur apprenant à garder tout ce que je vous ai commandé : et voici que je suis avec vous tous les jours, jusqu'à la consommation du siècle." [^1]
 

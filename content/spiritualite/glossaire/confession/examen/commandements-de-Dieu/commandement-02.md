@@ -1,8 +1,10 @@
 ---
-title: "Deuxième Commandement"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: "Deuxi\xE8me Commandement"
 ---
+
+
 
 
 > *Saint Léonard de Port-Maurice* : "[Examinez] si vous n'avez pas proféré des blasphèmes, et de quelle sorte; si vous n'avez pas murmuré contre la divine Providence.

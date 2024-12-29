@@ -1,8 +1,10 @@
 ---
-title: "Caput 28"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 28
 ---
+
+
 
 
 1 Et factum est in anno illo, in principio regni Sedeciae regis Iuda, in anno quarto, in mense quinto, dixit ad me Hananias filius Azur propheta de Gabaon, in domo Domini coram sacerdotibus et omni populo, dicens:

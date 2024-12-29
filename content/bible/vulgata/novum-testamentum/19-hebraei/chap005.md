@@ -1,8 +1,10 @@
 ---
-title: "Caput 5"
-date: 2024-09-06T20:00:47+02:00
+date: 2024-09-06 20:00:47+02:00
 draft: false
+title: Caput 5
 ---
+
+
 
 
 1 Omnis namque Pontifex ex hominibus assumptus, pro hominibus constituitur in iis, quae sunt ad Deum, ut offerat dona, et sacrificia pro peccatis:

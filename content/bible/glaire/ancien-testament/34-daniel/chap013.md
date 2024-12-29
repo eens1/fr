@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Jusqu’ici nous avons lu Daniel dans le volume hébreu. Ce qui suit jusqu’à la fin du livre a été traduit de l’édition de Théodotion.
-  Histoire de Susanne injustement accusée et condamnée.
-  Daniel la délivre.
+summary: "\nJusqu\u2019ici nous avons lu Daniel dans le volume h\xE9breu. Ce qui suit\
+  \ jusqu\u2019\xE0 la fin du livre a \xE9t\xE9 traduit de l\u2019\xE9dition de Th\xE9\
+  odotion.\nHistoire de Susanne injustement accus\xE9e et condamn\xE9e.\nDaniel la\
+  \ d\xE9livre.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 Or il y avait un homme habitant à Babylone, et son nom était Joakim.

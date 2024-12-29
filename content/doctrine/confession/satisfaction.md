@@ -1,8 +1,10 @@
 ---
-title: "Satisfaction sacramentelle"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Satisfaction sacramentelle
 ---
+
+
 
 
 > *Concile de Trente, sess. 14, chap. 9, 1551* : "Le saint concile déclare de plus, que l'étendue de la bonté et libéralité de Dieu est si grande, que par le moyen de Jésus-Christ, nous pouvons satisfaire à Dieu le Père, non-seulement par les peines que nous embrassons de nous-mêmes, pour châtier en nous le péché, ou qui nous sont imposés par le jugement du prêtre, selon la mesure de nos fautes; mais encore, pour dernière marque de son amour, par les afflictions temporelles qu'il nous envoie dans le monde, en les souffrant patiemment." [^1]

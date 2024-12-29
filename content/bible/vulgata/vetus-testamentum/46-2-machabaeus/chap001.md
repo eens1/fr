@@ -1,8 +1,10 @@
 ---
-title: "Caput 1"
-date: 2024-09-06T20:00:56+02:00
+date: 2024-09-06 20:00:56+02:00
 draft: false
+title: Caput 1
 ---
+
+
 
 
 1 Fratribus, qui sunt per AEgyptum, Iudaeis, salutem dicunt fratres, qui sunt in Ierosolymis, Iudaei, et qui in regione Iudaeae, et pacem bonam.

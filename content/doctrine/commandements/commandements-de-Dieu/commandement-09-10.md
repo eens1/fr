@@ -1,8 +1,10 @@
 ---
-title: "Neuvième et dixième Commandement"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Neuvi\xE8me et dixi\xE8me Commandement"
 ---
+
+
 
 
 > *Exode 20:17* : "Tu ne convoiteras point la maison de ton prochain, et tu ne désireras point sa femme, ni son serviteur, ni sa servante, ni son boeuf, ni son âne, ni aucune des choses qui sont à lui." [^1]

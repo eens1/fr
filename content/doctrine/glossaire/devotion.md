@@ -1,8 +1,10 @@
 ---
-title: "Dévotion"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "D\xE9votion"
 ---
+
+
 
 
 > *Saint Thomas d'Aquin, Somme théologique, p. 3, q. 82, a. 1* : "Il faut répondre que le mot dévotion vient du mot dévouer. Ainsi on appelle dévots ceux qui se dévouent en quelque sorte à Dieu pour lui être totalement soumis...

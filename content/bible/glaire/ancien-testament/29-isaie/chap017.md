@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 17"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Ruine de Damas.
-  Désolation de Samarie.
-  Restes d’Israël convertis au Seigneur.
-  Défaite de Sennachérib.
+summary: "\nRuine de Damas.\nD\xE9solation de Samarie.\nRestes d\u2019Isra\xEBl convertis\
+  \ au Seigneur.\nD\xE9faite de Sennach\xE9rib.\n"
+title: Chapitre 17
 ---
+
+
 
 
 1 Malheur accablant de Damas. Voilà que Damas cessera d'être une cité, et elle sera un monceau de pierres en ruines.

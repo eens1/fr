@@ -1,18 +1,13 @@
 ---
-title: "Chapitre 28"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Timidité de l’impie.
-  Confiance du juste.
-  Simplicité du pauvre.
-  De la crainte du Seigneur.
-  De l’oisiveté.
-  De celui qui juge injustement.
-  De celui qui s’enfle d’orgueil.
-  Du règne des impies.
+summary: "\nTimidit\xE9 de l\u2019impie.\nConfiance du juste.\nSimplicit\xE9 du pauvre.\n\
+  De la crainte du Seigneur.\nDe l\u2019oisivet\xE9.\nDe celui qui juge injustement.\n\
+  De celui qui s\u2019enfle d\u2019orgueil.\nDu r\xE8gne des impies.\n"
+title: Chapitre 28
 ---
+
+
 
 
 1 L'impie fuit, personne ne le poursuivant; mais le juste comme un lion plein de confiance, sera sans crainte.

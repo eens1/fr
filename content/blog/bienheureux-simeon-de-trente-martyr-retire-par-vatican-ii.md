@@ -1,9 +1,12 @@
 ---
-title: 'Bienheureux Siméon de Trente, retiré du nouveau "martyrologue" de la secte Vatican II'
 date: 2024-11-19
 draft: false
-image: "https://i.ibb.co/fF9Bvht/Pietro-Stefanoni-Simon-von-Trient.jpg"
+image: https://i.ibb.co/fF9Bvht/Pietro-Stefanoni-Simon-von-Trient.jpg
+title: "Bienheureux Sim\xE9on de Trente, retir\xE9 du nouveau \"martyrologue\" de\
+  \ la secte Vatican II"
 ---
+
+
 
 Le Bienheureux Simon de Trente est un enfant martyrisé par les Juifs que la secte Vatican II a retiré de son "martyrologue romain" : 
 

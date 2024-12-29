@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 24"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Paul accusé devant Félix ; il se défend ; il demeure prisonnier.
-  Félix, étant avec Drusille, fait venir Paul : il est effrayé par son discours.
-  Festus succède à Félix, qui laisse Paul en prison.
+summary: "\nPaul accus\xE9 devant F\xE9lix ; il se d\xE9fend ; il demeure prisonnier.\n\
+  F\xE9lix, \xE9tant avec Drusille, fait venir Paul : il est effray\xE9 par son discours.\n\
+  Festus succ\xE8de \xE0 F\xE9lix, qui laisse Paul en prison.\n"
+title: Chapitre 24
 ---
+
+
 
 
 1 Cinq jours après, le prince des prêtres, Ananie, descendit avec quelques anciens, et un certain Tertullus, orateur: lesquels comparurent contre Paul devant le gouverneur.

@@ -1,8 +1,10 @@
 ---
-title: "Révélations"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: "R\xE9v\xE9lations"
 ---
+
+
 
 
 > *Sainte Térèse d'Avila* : "... j'entendis de la bouche de Notre-Seigneur ce que je vais rapporter :

@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 25"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Parabole des dix vierges.
-  Parabole des talents.
-  Dernier jugement.
-  OEuvres de miséricorde faites ou refusées à Jésus-Christ dans la personne de ses membres.
+summary: "\nParabole des dix vierges.\nParabole des talents.\nDernier jugement.\n\
+  OEuvres de mis\xE9ricorde faites ou refus\xE9es \xE0 J\xE9sus-Christ dans la personne\
+  \ de ses membres.\n"
+title: Chapitre 25
 ---
+
+
 
 
 1 Alors le royaume des cieux sera semblable à dix vierges qui, ayant pris leurs lampes, allèrent au-devant de l'époux et de l'épouse.

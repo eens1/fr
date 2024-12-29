@@ -1,8 +1,10 @@
 ---
-title: "Matière"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Mati\xE8re"
 ---
+
+
 
 
 > *Concile de Trente, sess. 14, chap. 3, 1551* : "Les actes du pénitent même, qui sont la Contrition, la Confession, et la Satisfaction, sont comme la matière de ce Sacrement; et ces mêmes actes, en tant que d'institution divine ils sont requis dans le pénitent pour l'intégrité du Sacrement, et pour la rémission pleine et parfaite des péchés, sont dits aussi en ce sens les parties de la Pénitence." [^1]

@@ -1,8 +1,10 @@
 ---
-title: "Caput 52"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 52
 ---
+
+
 
 
 1 Consurge, consurge, induere fortitudine tua Sion, induere vestimentis gloriae tuae Ierusalem civitas sancti: quia non adiiciet ultra ut pertranseat per te incircumcisus et immundus.

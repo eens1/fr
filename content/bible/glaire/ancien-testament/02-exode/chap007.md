@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 7"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  La verge d’Aaron changée en serpent.
-  Endurcissement de Pharaon.
-  Première plaie, changement des eaux en sang.
+summary: "\nLa verge d\u2019Aaron chang\xE9e en serpent.\nEndurcissement de Pharaon.\n\
+  Premi\xE8re plaie, changement des eaux en sang.\n"
+title: Chapitre 7
 ---
+
+
 
 
 1 Et le Seigneur dit à Moïse : Voilà que je t'ai établi le Dieu de Pharaon, et Aaron ton frère sera ton prophète. 2 Toi, tu lui diras tout ce que je t'ordonne, et lui parlera à Pharaon, afin qu'il laisse les enfants d'Israël s'en aller de son pays.

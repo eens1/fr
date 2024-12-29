@@ -1,8 +1,10 @@
 ---
-title: "Caput 10"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 10
 ---
+
+
 
 
 1 Tulit autem Samuel lenticulam olei, et effudit super caput eius, et deosculatus est eum, et ait: Ecce, unxit te Dominus super hereditatem suam in principem, et liberabis populum suum de manibus inimicorum eius, qui in circuitu eius sunt. Et hoc tibi signum, quia unxit te Deus in principem.

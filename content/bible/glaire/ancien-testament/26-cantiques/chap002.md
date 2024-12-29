@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  L’Epoux et l’Epouse continuent à faire mutuellement leur éloge.
-  Leur ravissement et leur fidélité.
+summary: "\nL\u2019Epoux et l\u2019Epouse continuent \xE0 faire mutuellement leur\
+  \ \xE9loge.\nLeur ravissement et leur fid\xE9lit\xE9.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 L'ÉPOUX. Je suis la fleur des champs et le lis des vallées.

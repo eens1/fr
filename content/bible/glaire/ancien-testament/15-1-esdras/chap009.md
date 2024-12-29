@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 9"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Esdras apprend que plusieurs Israélites ont pris des femmes étrangères.
-  Prière qu’il adresse au Seigneur en cette occasion.
+summary: "\nEsdras apprend que plusieurs Isra\xE9lites ont pris des femmes \xE9trang\xE8\
+  res.\nPri\xE8re qu\u2019il adresse au Seigneur en cette occasion.\n"
+title: Chapitre 9
 ---
+
+
 
 
 1 Et, après que ces choses furent accomplies, les princes s'approchèrent de moi, disant: Le roi d'Israël, les prêtres et les Lévites, ne sont pas séparés des peuples de la terre et de leurs abominations, c'est-à-dire du Chananéen, de l'Héthéen, du Phérézéen, du Jébuséen, de l'Ammonite, du Moabite, de l'Egyptien et de l'Amorrhéen ;

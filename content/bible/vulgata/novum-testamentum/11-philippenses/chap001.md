@@ -1,8 +1,10 @@
 ---
-title: "Caput 1"
-date: 2024-09-06T20:00:47+02:00
+date: 2024-09-06 20:00:47+02:00
 draft: false
+title: Caput 1
 ---
+
+
 
 
 1 Paulus, et Timotheus servi Iesu Christi, omnibus sanctis in Christo Iesu, qui sunt Philippis, cum episcopis, et diaconibus.

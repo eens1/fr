@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Dons de Dieu accordés aux fidèles.
-  Enchaînement des vertus qui commencent par la foi et qui se terminent par la charité.
-  Affermir son élection par les bonnes oeuvres.
-  Transfiguration de Jésus-Christ.
-  Usage des prophéties.
+summary: "\nDons de Dieu accord\xE9s aux fid\xE8les.\nEncha\xEEnement des vertus qui\
+  \ commencent par la foi et qui se terminent par la charit\xE9.\nAffermir son \xE9\
+  lection par les bonnes oeuvres.\nTransfiguration de J\xE9sus-Christ.\nUsage des\
+  \ proph\xE9ties.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Simon Pierre, serviteur et apôtre de Jésus-Christ, à ceux qui ont reçu en partage la même foi que nous, par la justice de notre Dieu et Sauveur Jésus-Christ. 2 Que la grâce et la paix abondent en vous par la connaissance de Dieu et du Christ Jésus Notre Seigneur.

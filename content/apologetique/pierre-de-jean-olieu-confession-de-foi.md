@@ -1,8 +1,9 @@
 ---
-title: "Confession de foi du Frère Pierre de Jean Olieu"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: "Confession de foi du Fr\xE8re Pierre de Jean Olieu"
 ---
+
 
 
 Source : Castet 1680, t. 2, p. 329.

@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 34"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  David rend grâces à Dieu du salut qu’il lui a procuré.
-  Il exhorte tous les hommes à vivre dans la justice et à mettre leur confiance dans le Seigneur.
+summary: "\nDavid rend gr\xE2ces \xE0 Dieu du salut qu\u2019il lui a procur\xE9.\n\
+  Il exhorte tous les hommes \xE0 vivre dans la justice et \xE0 mettre leur confiance\
+  \ dans le Seigneur.\n"
+title: Chapitre 34
 ---
+
+
 
 
 1 Par David lui-même. Jugez, Seigneur, ceux qui me font des iniquités : combattez ceux qui m'attaquent.

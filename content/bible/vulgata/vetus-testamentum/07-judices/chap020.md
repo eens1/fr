@@ -1,8 +1,10 @@
 ---
-title: "Caput 20"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 20
 ---
+
+
 
 
 1 Egressi itaque sunt omnes filii Israel, et pariter congregati, quasi vir unus, de Dan, usque Bersabee, et Terra Galaad ad Dominum in Maspha:

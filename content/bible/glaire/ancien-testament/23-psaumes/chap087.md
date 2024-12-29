@@ -1,14 +1,18 @@
 ---
-title: "Chapitre 87"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste représente à Dieu qu’il est dans l’affliction, abandonné de ses amis et de ses proches, mais, en exposant ses souffrances, il peint Jésus-Christ dans sa Passion et dans l’abandonnement où ses Apôtres devaient le laisser.
-  Ce psaume a beaucoup de rapport(s) avec le 21e .
-  Quelques anciens, suivis de plusieurs modernes, l’ont entendu de la captivité de Babylone ; d’autres, de David persécuté par Absalom ; d’autres, enfin, de Jérémie jeté dans un cachot et abandonné des siens.
-  Cantique de Psaume.
+summary: "\nLe Psalmiste repr\xE9sente \xE0 Dieu qu\u2019il est dans l\u2019affliction,\
+  \ abandonn\xE9 de ses amis et de ses proches, mais, en exposant ses souffrances,\
+  \ il peint J\xE9sus-Christ dans sa Passion et dans l\u2019abandonnement o\xF9 ses\
+  \ Ap\xF4tres devaient le laisser.\nCe psaume a beaucoup de rapport(s) avec le 21e\
+  \ .\nQuelques anciens, suivis de plusieurs modernes, l\u2019ont entendu de la captivit\xE9\
+  \ de Babylone ; d\u2019autres, de David pers\xE9cut\xE9 par Absalom ; d\u2019autres,\
+  \ enfin, de J\xE9r\xE9mie jet\xE9 dans un cachot et abandonn\xE9 des siens.\nCantique\
+  \ de Psaume.\n"
+title: Chapitre 87
 ---
+
+
 
 
 1 Des fils de Coré, pour la fin, pour Maheleth, pour répondre, intelligence d'Eman l'Ezrahite.

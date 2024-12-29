@@ -1,8 +1,10 @@
 ---
-title: "Caput 15"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 15
 ---
+
+
 
 
 1 Et dixit Dominus ad me: Si steterit Moyses, et Samuel coram me, non est anima mea ad populum istum: eiice illos a facie mea, et egrediantur.

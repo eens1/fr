@@ -1,8 +1,10 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:03:00+02:00
+date: 2024-09-06 20:03:00+02:00
 draft: false
+title: Dans la Tradition
 ---
+
+
 
 
 Droit canonique de 1917, can. 488, n^o 7 :

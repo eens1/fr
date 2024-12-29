@@ -1,8 +1,10 @@
 ---
-title: "Caput 2"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 2
 ---
+
+
 
 
 1 Filioli mei, haec scribo vobis, ut non peccetis. Sed et si quis peccaverit, advocatum habemus apud Patrem, Iesum Christum iustum:

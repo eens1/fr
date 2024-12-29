@@ -1,8 +1,10 @@
 ---
-title: "Caput 21"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 21
 ---
+
+
 
 
 1 Accesseruntque principes familiarum Levi ad Eleazarum sacerdotem, et Iosue filium Nun, et ad duces cognationum per singulas tribus filiorum Israel:

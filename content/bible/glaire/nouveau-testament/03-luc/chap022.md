@@ -1,20 +1,15 @@
 ---
-title: "Chapitre 22"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Trahison de Judas, dernière cène.
-  Institution de l’Eucharistie.
-  Domination interdite.
-  Gloire promise.
-  Prière pour la foi de saint Pierre.
-  Son renoncement prédit.
-  Agonie de Jésus.
-  Il est pris et conduit chez Caïphe.
-  Renoncement et pénitence de saint Pierre.
-  Jésus outragé et condamné.
+summary: "\nTrahison de Judas, derni\xE8re c\xE8ne.\nInstitution de l\u2019Eucharistie.\n\
+  Domination interdite.\nGloire promise.\nPri\xE8re pour la foi de saint Pierre.\n\
+  Son renoncement pr\xE9dit.\nAgonie de J\xE9sus.\nIl est pris et conduit chez Ca\xEF\
+  phe.\nRenoncement et p\xE9nitence de saint Pierre.\nJ\xE9sus outrag\xE9 et condamn\xE9\
+  .\n"
+title: Chapitre 22
 ---
+
+
 
 
 1 Cependant approchait la fête des azymes, qu'on appelle Pâque.

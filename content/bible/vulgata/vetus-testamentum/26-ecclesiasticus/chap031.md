@@ -1,8 +1,10 @@
 ---
-title: "Caput 31"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 31
 ---
+
+
 
 
 1 Vigilia honestatis tabefaciet carnes, et cogitatus illius auferet somnum.

@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 45"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Eloge de Moïse, d’Aaron, de Phinées.
-  Sacerdoce d’Aaron.
-  Punition de Coré, de Dathan et d’Abiron.
+summary: "\nEloge de Mo\xEFse, d\u2019Aaron, de Phin\xE9es.\nSacerdoce d\u2019Aaron.\n\
+  Punition de Cor\xE9, de Dathan et d\u2019Abiron.\n"
+title: Chapitre 45
 ---
+
+
 
 
 1 Chéri de Dieu et des hommes fut Moïse, dont la mémoire est en bénédiction.

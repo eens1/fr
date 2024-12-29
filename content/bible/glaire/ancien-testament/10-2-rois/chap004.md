@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Baana et Réchab, serviteurs d’Isboseth, apportent à David la tête de ce prince, et David les fait mourir.
+summary: "\nBaana et R\xE9chab, serviteurs d\u2019Isboseth, apportent \xE0 David la\
+  \ t\xEAte de ce prince, et David les fait mourir.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Or, Isboseth, fils de Saül, apprit qu'Abner avait succombé à Hébron, et ses mains perdirent leur force, et tout Israël fut troublé.

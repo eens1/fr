@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 6"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Malheur aux grands de Samarie.
-  Reproches contre eux.
-  Vengeances du Seigneur sur eux, sur toute la maison d’Israël, et sur tout le pays occupé par les douze tribus.
+summary: "\nMalheur aux grands de Samarie.\nReproches contre eux.\nVengeances du Seigneur\
+  \ sur eux, sur toute la maison d\u2019Isra\xEBl, et sur tout le pays occup\xE9 par\
+  \ les douze tribus.\n"
+title: Chapitre 6
 ---
+
+
 
 
 1 Malheur à vous qui êtes opulents dans Sion, et qui vous confiez en la montagne de Samarie ; grands, chefs des peuples, qui entrez avec pompe dans la maison d'Israël.

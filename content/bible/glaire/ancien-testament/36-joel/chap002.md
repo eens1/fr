@@ -1,18 +1,15 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Jour terrible après le premier fléau.
-  Une armée nombreuse et formidable désole la Judée.
-  Exhortation à la pénitence.
-  Réconciliation du Seigneur avec son peuple.
-  Docteur de justice.
-  Effusion de l’esprit de Dieu.
-  Signes qui annonceront les vengeances du Seigneur.
-  Salut qui viendra de Sion.
+summary: "\nJour terrible apr\xE8s le premier fl\xE9au.\nUne arm\xE9e nombreuse et\
+  \ formidable d\xE9sole la Jud\xE9e.\nExhortation \xE0 la p\xE9nitence.\nR\xE9conciliation\
+  \ du Seigneur avec son peuple.\nDocteur de justice.\nEffusion de l\u2019esprit de\
+  \ Dieu.\nSignes qui annonceront les vengeances du Seigneur.\nSalut qui viendra de\
+  \ Sion.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Sonnez de la trompette dans Sion, hurlez sur ma montagne sainte, que tous les habitants de la terre soient dans le trouble, parce que vient le jour du Seigneur, parce qu'il est proche.

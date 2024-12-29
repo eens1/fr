@@ -1,8 +1,10 @@
 ---
-title: "Caput 21"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 21
 ---
+
+
 
 
 1 Facta est quoque fames in diebus David tribus annis iugiter: et consuluit David oraculum Domini. Dixitque Dominus: Proper Saul, et domum eius sanguinum, quia occidit Gabaonitas.

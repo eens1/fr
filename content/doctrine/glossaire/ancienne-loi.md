@@ -1,8 +1,10 @@
 ---
-title: "Ancienne Loi"
-date: 2024-09-06T20:02:54+02:00
+date: 2024-09-06 20:02:54+02:00
 draft: false
+title: Ancienne Loi
 ---
+
+
 
 
 > *Pape Eugène IV, Concile de Florence, Cantate Domino, 1441* : "Elle [l'Eglise] croit fermement, professe et enseigne que les prescriptions légales de l'Ancien Testament qui se divisent en cérémonies, saints sacrifices, sacrements, parce qu'ils avaient été institués pour signifier quelque chose de futur, bien qu'en ce temps-là ils aient été adaptés au culte divin, une fois venu notre Seigneur Jésus Christ qui était signifié par eux, ont pris fin et qu'ont commencé les sacrements du Nouveau Testament. 

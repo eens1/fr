@@ -1,9 +1,11 @@
 ---
-title: "Jean de Galatre"
 date: 2024-12-07T12:29:51+0000
 draft: false
 tags: []
+title: Jean de Galatre
 ---
+
+
 
 Source: [Chroniques des Capucins](https://www.google.fr/books/edition/Les_annales_des_fr%C3%A8res_mineurs_capucins/uywyN7uqW0gC?hl=fr&gbpv=1&pg=PA41&printsec=frontcover)
 

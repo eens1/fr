@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 30"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Châtier ses enfants ; utilité de la bonne éducation qu’on leur donne.
-  Avantages de la santé.
-  Maux qui sont les suites de la tristesse.
+summary: "\nCh\xE2tier ses enfants ; utilit\xE9 de la bonne \xE9ducation qu\u2019\
+  on leur donne.\nAvantages de la sant\xE9.\nMaux qui sont les suites de la tristesse.\n"
+title: Chapitre 30
 ---
+
+
 
 
 1 Celui qui aime son fils le châtie fréquemment, afin qu'il s'en réjouisse dans son dernier temps, et qu'il ne frappe pas à la porte de ses voisins.

@@ -1,10 +1,11 @@
 ---
-title: "Défense du dogme Hors de l'Église point de salut"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
-summary: "Par l'abbé Borne, 1824"
-tweet: "Hors de l'Église pas de salut défendu par l'abbé Borne."
+summary: "Par l'abb\xE9 Borne, 1824"
+title: "D\xE9fense du dogme Hors de l'\xC9glise point de salut"
+tweet: "Hors de l'\xC9glise pas de salut d\xE9fendu par l'abb\xE9 Borne."
 ---
+
 
 *Source : Borne 1824*.
 

@@ -1,14 +1,14 @@
 ---
-title: "Chapitre 21"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
-summary: |
-  
-  Ciel nouveau, terre nouvelle.
-  Jérusalem céleste.
-  Récompense des saints ; supplice des réprouvés.
-  Description de la Jérusalem céleste ; les Apôtres en sont les fondements, Dieu est son temple ; l’Agneau est sa lampe ; rien d’impur n’y entre.
+summary: "\nCiel nouveau, terre nouvelle.\nJ\xE9rusalem c\xE9leste.\nR\xE9compense\
+  \ des saints ; supplice des r\xE9prouv\xE9s.\nDescription de la J\xE9rusalem c\xE9\
+  leste ; les Ap\xF4tres en sont les fondements, Dieu est son temple ; l\u2019Agneau\
+  \ est sa lampe ; rien d\u2019impur n\u2019y entre.\n"
+title: Chapitre 21
 ---
+
+
 
 
 1 Et je vis un ciel nouveau et une terre nouvelle; car le premier ciel et la première terre sont passés, et la mer n'est déjà plus.

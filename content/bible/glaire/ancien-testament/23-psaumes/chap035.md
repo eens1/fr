@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 35"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  David représente dans ce psaume la malice du pécheur, la bonté de Dieu qui le souffre avec patience, et le bonheur dont il comblera les justes.
+summary: "\nDavid repr\xE9sente dans ce psaume la malice du p\xE9cheur, la bont\xE9\
+  \ de Dieu qui le souffre avec patience, et le bonheur dont il comblera les justes.\n"
+title: Chapitre 35
 ---
+
+
 
 
 1 Pour la fin, au serviteur du Seigneur, par David lui-même.

@@ -1,8 +1,10 @@
 ---
-title: "Caput 7"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 7
 ---
+
+
 
 
 1 Cum introduxerit te Dominus Deus tuus in terram, quam possessurus ingredieris, et deleverit Gentes multas coram te, Hethaeum, et Gergezaeum, et Amorrhaeum, Chananaeum, et Pherezaeum, et Hevaeum, et Iebusaeum, septem gentes multo maioris numeri quam tu es, et robustiores te:

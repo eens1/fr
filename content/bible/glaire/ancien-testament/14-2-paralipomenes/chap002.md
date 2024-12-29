@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Salomon demande à Hiram, roi de Tyr, un homme habile pour conduire l’entreprise de la construction du temple, et le prie de lui envoyer les bois nécessaires pour cet édifice.
-  Ouvriers destinés à cet ouvrage.
+summary: "\nSalomon demande \xE0 Hiram, roi de Tyr, un homme habile pour conduire\
+  \ l\u2019entreprise de la construction du temple, et le prie de lui envoyer les\
+  \ bois n\xE9cessaires pour cet \xE9difice.\nOuvriers destin\xE9s \xE0 cet ouvrage.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Salomon résolut de bâtir une maison au nom du Seigneur, et un palais pour lui.

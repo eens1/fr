@@ -1,8 +1,10 @@
 ---
-title: "Chap. 3 - De la foi"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Chap. 3 - De la foi
 ---
+
+
 
 
 Puisque l'homme dépend tout entier de Dieu comme son créateur et maître, et puisque la raison créée est entièrement sujette de la vérité incréée, nous sommes tenus de donner, par la foi, à Dieu qui révèle, le plein assentiment de notre intelligence et de notre volonté. Et cette foi, qui est pour les hommes le commencement du salut, l'Eglise catholique professe qu'elle est une vertu surnaturelle par laquelle, au souflle de Dieu et aidés par sa grâce, nous croyons vrai ce qu'il nous révèle, non à cause que la lumière naturelle de notre raison nous découvre la vérité intrinsêque des choses, mais à cause de l'autorité de Dieu même, l'auteur de la révélation et qui ne peut ni se tromper, ni nous tromper; car, au témoignage de l'Apôtre, la foi est la substance (ou le fondement) des choses que nous devons espérer, et l'argument (ou la conviction) de celles que nous ne voyons pas.

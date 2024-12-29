@@ -1,14 +1,17 @@
 ---
-title: "Chapitre 16"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Ezéchiel reçoit du Seigneur l’ordre de représenter à Jérusalem l’état misérable d’où il l’a tirée, la gloire à laquelle il l’a élevée, l’infidélité dont elle s’est rendue coupable, les excès auxquels elle s’est portée, les vengeances qu’il va exercer sur elle.
-  Son infidélité surpasse celle de Samarie et de Sodome.
-  Rétablissement de ces trois soeurs.
-  Renouvellement de l’alliance du Seigneur avec Jérusalem.
+summary: "\nEz\xE9chiel re\xE7oit du Seigneur l\u2019ordre de repr\xE9senter \xE0\
+  \ J\xE9rusalem l\u2019\xE9tat mis\xE9rable d\u2019o\xF9 il l\u2019a tir\xE9e, la\
+  \ gloire \xE0 laquelle il l\u2019a \xE9lev\xE9e, l\u2019infid\xE9lit\xE9 dont elle\
+  \ s\u2019est rendue coupable, les exc\xE8s auxquels elle s\u2019est port\xE9e, les\
+  \ vengeances qu\u2019il va exercer sur elle.\nSon infid\xE9lit\xE9 surpasse celle\
+  \ de Samarie et de Sodome.\nR\xE9tablissement de ces trois soeurs.\nRenouvellement\
+  \ de l\u2019alliance du Seigneur avec J\xE9rusalem.\n"
+title: Chapitre 16
 ---
+
+
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

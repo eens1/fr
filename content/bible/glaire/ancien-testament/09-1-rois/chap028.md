@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 28"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Dernière guerre des Philistins contre Saül.
-  David s’engage à y accompagner le roi de Geth.
-  Saül consulte une pythonisse, qui évoque Samuel.
+summary: "\nDerni\xE8re guerre des Philistins contre Sa\xFCl.\nDavid s\u2019engage\
+  \ \xE0 y accompagner le roi de Geth.\nSa\xFCl consulte une pythonisse, qui \xE9\
+  voque Samuel.\n"
+title: Chapitre 28
 ---
+
+
 
 
 1 Or, il arriva, en ces jours-là, que les Philistins assemblèrent leurs troupes, pour se préparer à la guerre contre Israël ; et Achis dit à David : Sache bien que tu viendras avec moi dans mon camp, toi et tes hommes. 2 Et David répondit à Achis : Maintenant vous saurez ce que votre serviteur doit faire. Achis dit encore à David : Et moi je t'établirai garde de ma personne pour toujours.

@@ -1,8 +1,10 @@
 ---
-title: "Schisme"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Schisme
 ---
+
+
 
 
 > *Droit canonique de 1917, can. 1325.2* : "... si denique subesse renuit Summo Pontifici aut cum membris Ecclesiae ei subiectis communicare recusat, schismaticus est." [^1]

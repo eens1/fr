@@ -1,8 +1,10 @@
 ---
-title: "Robe blanche"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Robe blanche
 ---
+
+
 
 
 Il était d'usage de revêtir les nouveaux baptisés, enfants comme adultes, d'une robe blanche.

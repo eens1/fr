@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Exhortation à l’étude de la sagesse.
-  Malheur de ceux qui la méprisent, et qui cherchent à séduire les simples.
+summary: "\nExhortation \xE0 l\u2019\xE9tude de la sagesse.\nMalheur de ceux qui la\
+  \ m\xE9prisent, et qui cherchent \xE0 s\xE9duire les simples.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Paraboles de Salomon, fils de David et roi d'Israël,

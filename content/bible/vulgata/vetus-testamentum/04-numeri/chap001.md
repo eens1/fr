@@ -1,8 +1,10 @@
 ---
-title: "Caput 1"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 1
 ---
+
+
 
 
 1 Locutusque est Dominus ad Moysen in deserto Sinai in tabernaculo foederis, prima die mensis secundi, anno altero egressionis eorum ex AEgypto, dicens:

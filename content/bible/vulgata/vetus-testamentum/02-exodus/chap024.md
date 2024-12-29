@@ -1,8 +1,10 @@
 ---
-title: "Caput 24"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 24
 ---
+
+
 
 
 1 Moysi quoque dixit: Ascende ad Dominum tu, et Aaron, Nadab, et Abiu, et septuaginta senes ex Israel, et adorabitis procul.

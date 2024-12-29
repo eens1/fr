@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 7"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Le feu descend du ciel pour consumer les victimes ; la majesté de Dieu remplit le temple.
-  La solennité continue pendant sept jours.
-  On célèbre ensuite la fête des tabernacles.
-  Le Seigneur apparaît à Salomon.
+summary: "\nLe feu descend du ciel pour consumer les victimes ; la majest\xE9 de Dieu\
+  \ remplit le temple.\nLa solennit\xE9 continue pendant sept jours.\nOn c\xE9l\xE8\
+  bre ensuite la f\xEAte des tabernacles.\nLe Seigneur appara\xEEt \xE0 Salomon.\n"
+title: Chapitre 7
 ---
+
+
 
 
 1 Lorsque Salomon eut achevé de se répandre en prières, le feu descendit du ciel, et consuma les holocaustes et les victimes ; et la majesté du Seigneur remplit la maison.

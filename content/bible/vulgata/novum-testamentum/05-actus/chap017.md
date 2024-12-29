@@ -1,8 +1,10 @@
 ---
-title: "Caput 17"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
+title: Caput 17
 ---
+
+
 
 
 1 Cum autem perambulassent Amphipolim, et Apolloniam, venerunt Thessalonicam, ubi erat synagoga Iudaeorum.

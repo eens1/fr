@@ -1,8 +1,10 @@
 ---
-title: "Règles"
-date: 2024-09-06T20:03:00+02:00
+date: 2024-09-06 20:03:00+02:00
 draft: false
+title: "R\xE8gles"
 ---
+
+
 
 
 > *R. P. Jean Baptiste Saint Jure* : "... comme les règles sont les moyens que Dieu lui a donnés pour arriver à la fin de son état, et les degrés pour monter à la perfection à laquelle il l'appelle, il est clair comme le jour que son avancement et sa perfection dépend absolument de l'observation de ses règles, et que selon qu'il est plus ou moins exact à les garder, il est aussi plus ou moins religieux." [^1]

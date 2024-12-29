@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Sans la charité tout est inutile pour le salut.
-  Caractère de cette vertu.
-  Elle ne finit jamais.
-  Connaissance de Dieu imparfaite en cette vie.
-  Charité, vertu supérieure à la foi et à l’espérance.
+summary: "\nSans la charit\xE9 tout est inutile pour le salut.\nCaract\xE8re de cette\
+  \ vertu.\nElle ne finit jamais.\nConnaissance de Dieu imparfaite en cette vie.\n\
+  Charit\xE9, vertu sup\xE9rieure \xE0 la foi et \xE0 l\u2019esp\xE9rance.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 Quand je parlerais les langues des hommes et des anges, si je n'ai pas la chanté, je suis comme un airain sonnant ou une cymbale retentissante.

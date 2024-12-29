@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 23"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Personnes qu’on ne devait point admettre dans l’assemblée du Seigneur.
-  Pureté du camp.
-  Usure.
-  Voeux.
+summary: "\nPersonnes qu\u2019on ne devait point admettre dans l\u2019assembl\xE9\
+  e du Seigneur.\nPuret\xE9 du camp.\nUsure.\nVoeux.\n"
+title: Chapitre 23
 ---
+
+
 
 
 1 Un eunuque dont les parties génératrices auront été froissées, ou amputées, ou arrachées, n'entrera point dans l'assemblée du Seigneur.

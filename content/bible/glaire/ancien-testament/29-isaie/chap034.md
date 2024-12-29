@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 34"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Vengeance du Seigneur contre les nations et en particulier contre l’Idumée.
+summary: "\nVengeance du Seigneur contre les nations et en particulier contre l\u2019\
+  Idum\xE9e.\n"
+title: Chapitre 34
 ---
+
+
 
 
 1 Approchez, nations, et écoutez ; peuples, soyez attentifs : que la terre écoute, ainsi que sa plénitude, le globe et tout ce qu'il produit.

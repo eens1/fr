@@ -1,8 +1,10 @@
 ---
-title: "Septième Commandement"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Septi\xE8me Commandement"
 ---
+
+
 
 
 > *Exode 20:15* : "Tu ne feras point de vol." [^1]

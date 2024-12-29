@@ -1,7 +1,8 @@
 ---
-title: "Cinq Martyrs du Maroc"
-summary: "Premiers Martyrs de l'Ordre des Frères Mineurs."
+summary: "Premiers Martyrs de l'Ordre des Fr\xE8res Mineurs."
+title: Cinq Martyrs du Maroc
 ---
+
 
 > *Père Cordelier gardien d'un couvent à Bruxelles, 1652* :  "Les Frères Mineurs extrêmement jaloux [soucieux] de la gloire de Dieu, du salut des âmes, et désireux [de] défendre son Eglise, employèrent leurs bons exemples, et leur prédications apostoliques, et même leurs sang, à ces desseins en Afrique.
 

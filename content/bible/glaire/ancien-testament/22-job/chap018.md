@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 18"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Baldad accuse Job de désespoir, et exagère les malheurs et la mauvaise fin des méchants.
+summary: "\nBaldad accuse Job de d\xE9sespoir, et exag\xE8re les malheurs et la mauvaise\
+  \ fin des m\xE9chants.\n"
+title: Chapitre 18
 ---
+
+
 
 
 1 Alors, répondant, Baldad, le Subite, dit :

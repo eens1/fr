@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 19"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Josaphat est repris d’avoir donné du secours à Achab.
-  Il fait la visite de ses Etats, et y établit des juges.
+summary: "\nJosaphat est repris d\u2019avoir donn\xE9 du secours \xE0 Achab.\nIl fait\
+  \ la visite de ses Etats, et y \xE9tablit des juges.\n"
+title: Chapitre 19
 ---
+
+
 
 
 1 Mais Josaphat, roi de Juda, retourna paisiblement en sa maison à Jérusalem. 2 Jéhu, le Voyant, fils d'Hanani, vint à sa rencontre, et lui dit: Vous donnez du secours à l'impie, et vous vous liez d'amitié avec ceux qui haïssent le Seigneur ; et c'est pour cela certainement que vous méritiez la colère de Dieu. 3 Mais de bonnes oeuvres ont été trouvées en vous, parce que vous avez enlevé les bois sacrés de la terre de Juda, et que vous avez préparé votre coeur pour chercher le Seigneur Dieu de vos pères.

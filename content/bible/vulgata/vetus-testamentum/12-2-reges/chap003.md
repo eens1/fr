@@ -1,8 +1,10 @@
 ---
-title: "Caput 3"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 3
 ---
+
+
 
 
 1 Ioram vero filius Achab regnavit super Israel in Samaria anno decimo octavo Iosaphat regis Iudae. Regnavitque duodecim annis.

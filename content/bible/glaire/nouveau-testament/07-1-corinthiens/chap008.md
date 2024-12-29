@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 8"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Des viandes immolées aux idoles.
-  La science enfle, la charité édifie.
-  L’idole n’est rien, mais celui qui scandalise les faibles, pèche contre Jésus-Christ.
+summary: "\nDes viandes immol\xE9es aux idoles.\nLa science enfle, la charit\xE9 \xE9\
+  difie.\nL\u2019idole n\u2019est rien, mais celui qui scandalise les faibles, p\xE8\
+  che contre J\xE9sus-Christ.\n"
+title: Chapitre 8
 ---
+
+
 
 
 1 Quant à ce qu'on offre en sacrifice aux idoles, nous savons que nous avons tous une science suffisante. La science enfle, mais la charité édifie.

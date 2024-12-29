@@ -1,17 +1,14 @@
 ---
-title: "Chapitre 14"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Amasias fait mourir les meurtriers de son père ; il bat les Iduméens, et il est vaincu par Joas, roi d’Israël.
-  Mort de Joas.
-  Jéroboam lui succède.
-  Amasias est tué par les siens.
-  Azarias règne après lui.
-  Mort de Jéroboam.
-  Zacharias règne en sa place.
+summary: "\nAmasias fait mourir les meurtriers de son p\xE8re ; il bat les Idum\xE9\
+  ens, et il est vaincu par Joas, roi d\u2019Isra\xEBl.\nMort de Joas.\nJ\xE9roboam\
+  \ lui succ\xE8de.\nAmasias est tu\xE9 par les siens.\nAzarias r\xE8gne apr\xE8s\
+  \ lui.\nMort de J\xE9roboam.\nZacharias r\xE8gne en sa place.\n"
+title: Chapitre 14
 ---
+
+
 
 
 1 En la seconde année de Joas, fils de Joachaz, roi d'Israël, régna Amasias, fils de Joas, roi de Juda. 2 Il avait vingt-cinq ans lorsqu'il commença à régner; et il régna vingt-neuf ans dans Jérusalem ; le nom de sa mère était Joadan de Jérusalem.

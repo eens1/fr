@@ -1,8 +1,10 @@
 ---
-title: "Caput 40"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 40
 ---
+
+
 
 
 1 In vigesimo quinto anno transmigrationis nostrae, in exordio anni, decima mensis, quartodecimo anno postquam percussa est civitas: in ipsa hac die facta est super me manus Domini, et adduxit me illuc.

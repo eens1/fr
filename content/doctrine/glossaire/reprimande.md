@@ -1,8 +1,10 @@
 ---
-title: "Réprimande"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "R\xE9primande"
 ---
+
+
 
 
 > *Proverbes 10:17* : "La voie de la vie est à celui qui garde la discipline; mais celui qui néglige les réprimandes s'égare." [^1]

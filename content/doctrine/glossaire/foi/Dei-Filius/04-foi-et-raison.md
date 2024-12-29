@@ -1,8 +1,10 @@
 ---
-title: "Chap. 4 - De la foi et de la raison"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Chap. 4 - De la foi et de la raison
 ---
+
+
 
 
 Le consentement perpétuel de l'Eglise catholique a tenu aussi et tient qu'il y a deux ordres de connaissance, et que ces deux ordres sont distincts, non-seulement par leur principe, mais encore par leur objet : par leur principe d'abord, parce que dans l'un c'est par la lumière naturelle de notre raison, et dans l'autre par la foi divine, que nous connaissons. Par leur objet ensuite, parce que, indépendamment de ce que peut atteindre la raison naturelle, des mystères cachés en Dieu sont proposés à notre croyance; et ces mystères ne peuvent être connus à moins que Dieu ne daigne les révéler. C'est pourquoi l'Apôtre, qui assure que Dieu a été connu des gentils par ses oeuvres, lorsqu'il disserte sur la grâce et la vérité que nous a apportées Jésus-Christ, s'écrie : Nous prêchons la sagesse de Dieu dans son mystère, qui est demeurée cachée, que Dieu a prédestinée, préparée avant tous les siècles pour notre gloire, qu'aucun des princes de ce monde n'a connue, mais que Dieu nous a révélée par son Saint-Esprit : car l'Esprit pénètre tout, même les profondeurs de Dieu. Et le Fils unique de Dieu rend à son Père ce témoignage qu'il a caché ces mystères aux sages et aux prudents. et qu'il les a révélés aux petits.

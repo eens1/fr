@@ -1,11 +1,11 @@
 ---
-title: "Chapitre 9"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  David fait venir auprès de lui Miphiboseth, fils de Jonathas.
+summary: "\nDavid fait venir aupr\xE8s de lui Miphiboseth, fils de Jonathas.\n"
+title: Chapitre 9
 ---
+
+
 
 
 1 Et David dit : Penses-tu qu'il y ait quelqu'un qui soit resté de la maison de Saül, afin que je lui fasse miséricorde à cause de Jonathas?

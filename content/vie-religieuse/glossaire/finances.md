@@ -1,8 +1,10 @@
 ---
-title: "Finances"
-date: 2024-09-06T20:02:59+02:00
+date: 2024-09-06 20:02:59+02:00
 draft: false
+title: Finances
 ---
+
+
 
 
 > *Saint Thomas d'Aquin, Somme théologique, p. 3, q. 186, a. 4* : "... les religieux et les clercs, dont les monastères ou les Eglises ont reçu de la munificence des princes ou des fidèles de quoi se sustenter, peuvent en vivre licitement, sans travailler des mains; et cependant il est certain qu'ils vivent d'aumônes. 

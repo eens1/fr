@@ -1,8 +1,10 @@
 ---
-title: "Prophéties"
-date: 2024-09-06T20:03:00+02:00
+date: 2024-09-06 20:03:00+02:00
 draft: false
+title: "Proph\xE9ties"
 ---
+
+
 
 
 > *Sainte Térèse d'Avila, Vie écrite par elle-même* :  "J'étais profondément recueilie dans l'oraison, y goûtant beaucoup de douceur et un calme très pur, lorsque je me trouvai tout à coup environnée d'anges, et fort proche de Dieu. Je me mis à prier de toute mon âme pour les besoins de l'Eglise : sa divine Majesté me fît voir alors les grands services que devait rendre un certain ordre dans les derniers temps, et le mâle courage avec lequel les religieux de cet ordre devaient défendre la foi.

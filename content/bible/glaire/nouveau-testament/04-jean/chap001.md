@@ -1,18 +1,15 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Divinité du Verbe.
-  Mission de saint Jean-Baptiste.
-  Incarnation du Verbe.
-  Réponse de saint Jean aux députés des Juifs.
-  Autre témoignage de saint Jean.
-  Deux disciples de saint Jean vont trouver Jésus.
-  André lui amène Pierre.
-  Jésus appelle Philippe, qui lui amène Nathanaël.
+summary: "\nDivinit\xE9 du Verbe.\nMission de saint Jean-Baptiste.\nIncarnation du\
+  \ Verbe.\nR\xE9ponse de saint Jean aux d\xE9put\xE9s des Juifs.\nAutre t\xE9moignage\
+  \ de saint Jean.\nDeux disciples de saint Jean vont trouver J\xE9sus.\nAndr\xE9\
+  \ lui am\xE8ne Pierre.\nJ\xE9sus appelle Philippe, qui lui am\xE8ne Nathana\xEB\
+  l.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Au commencement était le Verbe, et le Verbe était en Dieu, et le Verbe était Dieu.

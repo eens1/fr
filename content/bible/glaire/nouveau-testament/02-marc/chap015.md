@@ -1,20 +1,15 @@
 ---
-title: "Chapitre 15"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Conseil des Juifs contre Jésus-Christ.
-  Jésus devant Pilate ; on lui préfère Barabbas.
-  Cris des Juifs contre lui.
-  Couronnement d’épines ; insultes.
-  Jésus-Christ est conduit au Calvaire et crucifié.
-  Blasphèmes.
-  Ténèbres.
-  Mort de Jésus.
-  Miracles après sa mort.
-  Joseph d’Arimathie prend soin de sa sépulture.
+summary: "\nConseil des Juifs contre J\xE9sus-Christ.\nJ\xE9sus devant Pilate ; on\
+  \ lui pr\xE9f\xE8re Barabbas.\nCris des Juifs contre lui.\nCouronnement d\u2019\xE9\
+  pines ; insultes.\nJ\xE9sus-Christ est conduit au Calvaire et crucifi\xE9.\nBlasph\xE8\
+  mes.\nT\xE9n\xE8bres.\nMort de J\xE9sus.\nMiracles apr\xE8s sa mort.\nJoseph d\u2019\
+  Arimathie prend soin de sa s\xE9pulture.\n"
+title: Chapitre 15
 ---
+
+
 
 
 1 Dès le matin, les princes des prêtres s'étant assemblés avec les anciens, et les scribes, et tout le conseil, ils lièrent Jésus, l'emmenèrent et le livrèrent à Pilate.

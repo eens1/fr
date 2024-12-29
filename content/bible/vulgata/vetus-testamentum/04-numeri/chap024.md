@@ -1,8 +1,10 @@
 ---
-title: "Caput 24"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 24
 ---
+
+
 
 
 1 Cumque vidisset Balaam quod placeret Domino ut benediceret Israeli, nequaquam abiit ut ante perrexerat, ut augurium quaereret: sed dirigens contra desertum vultum suum,

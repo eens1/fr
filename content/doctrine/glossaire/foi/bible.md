@@ -1,8 +1,10 @@
 ---
-title: "Dans la Bible"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Dans la Bible
 ---
+
+
 
 
 > *Isaïe 7:9* : "... Si vous ne croyez pas, vous ne persévérerez pas." [^1]

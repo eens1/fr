@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 23"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Lois pour le sabbat et pour les fêtes de la Pâque, de la Pentecôte, des Trompettes, de l’Expiation, des Tabernacles.
+summary: "\nLois pour le sabbat et pour les f\xEAtes de la P\xE2que, de la Pentec\xF4\
+  te, des Trompettes, de l\u2019Expiation, des Tabernacles.\n"
+title: Chapitre 23
 ---
+
+
 
 
 1 Le Seigneur parla encore à Moïse, disant :2 Parle aux enfants d'Israël, et tu leur diras : Voici les fêtes du Seigneur que vous appellerez saintes.

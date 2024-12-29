@@ -1,9 +1,11 @@
 ---
-title: "Proclamation du dogme de l'Immaculée Conception"
 date: 2024-12-08T09:03:58+0000
 draft: false
 tags: []
+title: "Proclamation du dogme de l'Immacul\xE9e Conception"
 ---
+
+
 
 Source: [fides.org](https://www.fides.org/fr/news/2543-Ineffabilis_Deus_de_Pie_IX_Bulle_de_proclamation_du_dogme_de_l_Immaculee_Conception_8_decembre_1854)
 

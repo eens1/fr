@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 11"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Rejeton de la tige de Jessé.
-  Les nations viennent à lui.
-  Restes d’Israël et de Juda rassemblés et réunis.
+summary: "\nRejeton de la tige de Jess\xE9.\nLes nations viennent \xE0 lui.\nRestes\
+  \ d\u2019Isra\xEBl et de Juda rassembl\xE9s et r\xE9unis.\n"
+title: Chapitre 11
 ---
+
+
 
 
 1 Et il sortira un rejeton de la racine de Jessé, et une fleur s'élèvera de sa racine,

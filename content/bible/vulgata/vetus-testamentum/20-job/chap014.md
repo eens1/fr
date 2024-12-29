@@ -1,8 +1,10 @@
 ---
-title: "Caput 14"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 14
 ---
+
+
 
 
 1 Homo natus de muliere, brevi vivens tempore, repletur multis miseriis.

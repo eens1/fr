@@ -1,11 +1,13 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Le Prophète exhorte Jérusalem à quitter son deuil, et à se revêtir de joie, parce qu’il voit ses enfants revenir de leur captivité comblés de gloire.
+summary: "\nLe Proph\xE8te exhorte J\xE9rusalem \xE0 quitter son deuil, et \xE0 se\
+  \ rev\xEAtir de joie, parce qu\u2019il voit ses enfants revenir de leur captivit\xE9\
+  \ combl\xE9s de gloire.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 Dépouille-toi, Jérusalem, de ta robe de deuil et de ton tourment; et revêts-toi de l'éclat et de la majesté de cette gloire éternelle qui te vient de Dieu. 2 Le Seigneur te revêtira de la diploïde de la justice, et il mettra sur ta tête la mitre de l'éternelle gloire.

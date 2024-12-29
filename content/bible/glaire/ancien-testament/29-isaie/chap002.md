@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Gloire de Jérusalem, où les nations viennent adorer le Seigneur.
-  Maison de Jacob rejetée.
-  Superbes humiliés.
-  Dieu seul est exalté.
+summary: "\nGloire de J\xE9rusalem, o\xF9 les nations viennent adorer le Seigneur.\n\
+  Maison de Jacob rejet\xE9e.\nSuperbes humili\xE9s.\nDieu seul est exalt\xE9.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Parole qu'a vue Isaïe, fils d'Amos, touchant Juda et Jérusalem.

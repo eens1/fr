@@ -1,8 +1,10 @@
 ---
-title: "Excommunication de fait"
-date: 2024-09-06T20:00:57+02:00
+date: 2024-09-06 20:00:57+02:00
 draft: false
+title: Excommunication de fait
 ---
+
+
 
 
 Droit canonique de 1917, can. 2314.1 : "p.1 Tous les apostats de la foi chrétienne, tous les hérétiques ou schismatiques et chacun d'eux : 

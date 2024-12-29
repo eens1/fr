@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 14"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Sécheresse et famine dans le pays de Juda.
-  Prière de Jérémie au nom du peuple.
-  Faux prophètes qui séduisent le peuple en lui promettant la paix.
-  Jérémie renouvelle ses instances au nom du peuple.
+summary: "\nS\xE9cheresse et famine dans le pays de Juda.\nPri\xE8re de J\xE9r\xE9\
+  mie au nom du peuple.\nFaux proph\xE8tes qui s\xE9duisent le peuple en lui promettant\
+  \ la paix.\nJ\xE9r\xE9mie renouvelle ses instances au nom du peuple.\n"
+title: Chapitre 14
 ---
+
+
 
 
 1 Parole du Seigneur qui fut adressée à Jérémie au sujet de la sécheresse.

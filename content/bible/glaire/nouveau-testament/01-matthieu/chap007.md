@@ -1,20 +1,14 @@
 ---
-title: "Chapitre 7"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Suite du sermon sur la montagne.
-  Ne point juger témérairement.
-  Ne pas donner les choses saintes aux chiens.
-  Demander, chercher et frapper.
-  Charité.
-  Voie étroite.
-  Faux prophètes.
-  Fruit semblable à l’arbre.
-  Dieu juge sur les oeuvres.
-  Bâtir sur la pierre et non sur le sable.
+summary: "\nSuite du sermon sur la montagne.\nNe point juger t\xE9m\xE9rairement.\n\
+  Ne pas donner les choses saintes aux chiens.\nDemander, chercher et frapper.\nCharit\xE9\
+  .\nVoie \xE9troite.\nFaux proph\xE8tes.\nFruit semblable \xE0 l\u2019arbre.\nDieu\
+  \ juge sur les oeuvres.\nB\xE2tir sur la pierre et non sur le sable.\n"
+title: Chapitre 7
 ---
+
+
 
 
 1 Ne jugez point, afin que vous ne soyez point jugés.

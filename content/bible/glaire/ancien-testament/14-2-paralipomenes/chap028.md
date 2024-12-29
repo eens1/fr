@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 28"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Impiété d’Achaz.
-  Les Syriens et les Israélites ravagent le royaume de Juda.
-  Un prophète oblige les Israélites à renvoyer les captifs de Juda.
-  Les Assyriens marchent contre Achaz.
-  Il meurt et Ezéchias lui succède.
+summary: "\nImpi\xE9t\xE9 d\u2019Achaz.\nLes Syriens et les Isra\xE9lites ravagent\
+  \ le royaume de Juda.\nUn proph\xE8te oblige les Isra\xE9lites \xE0 renvoyer les\
+  \ captifs de Juda.\nLes Assyriens marchent contre Achaz.\nIl meurt et Ez\xE9chias\
+  \ lui succ\xE8de.\n"
+title: Chapitre 28
 ---
+
+
 
 
 1 Achaz avait vingt ans quand il commença à régner, et il régna seize ans à Jérusalem. Il ne fit point ce qui était droit en la présence du Seigneur, comme David son père;

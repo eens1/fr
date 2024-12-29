@@ -1,8 +1,10 @@
 ---
-title: "Dans la Bible"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Dans la Bible
 ---
+
+
 
 
 > *Ecclésiastique 11:21-22* : "Tiens-toi ferme dans ton alliance avec Dieu, et entretiens-toi avec elle, et vieill is dans l'accomplissement des commandements. Ne t'arrête pas dans les oeuvres des pécheurs; confie-toi en Dieu et demeure à ta place." [^1]

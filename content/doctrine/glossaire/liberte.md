@@ -1,8 +1,10 @@
 ---
-title: "Liberté"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "Libert\xE9"
 ---
+
+
 
 
 > *1 Pierre 2:16* : "Etant libres, non pour faire de votre liberté un voile à votre malice; mais comme des serviteurs de Dieu." [^1]

@@ -1,13 +1,17 @@
 ---
-title: "Chapitre 49"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le souverain juge devant son tribunal tout son peuple, ses prêtres et ses juges.
-  Il leur reproche leur vaine confiance dans leurs sacrifices, leur hypocrisie, leur injustice, leur liaison avec les méchants ; il les menace de sa colère et de ses plus terribles châtiments.
-  La plupart des interprètes voient dans ce psaume le jugement dernier ou général, le second avènement du Fils de Dieu, qui est en effet, assez bien marqué aux versets 1 à 4, et au 22e .
+summary: "\nLe souverain juge devant son tribunal tout son peuple, ses pr\xEAtres\
+  \ et ses juges.\nIl leur reproche leur vaine confiance dans leurs sacrifices, leur\
+  \ hypocrisie, leur injustice, leur liaison avec les m\xE9chants ; il les menace\
+  \ de sa col\xE8re et de ses plus terribles ch\xE2timents.\nLa plupart des interpr\xE8\
+  tes voient dans ce psaume le jugement dernier ou g\xE9n\xE9ral, le second av\xE8\
+  nement du Fils de Dieu, qui est en effet, assez bien marqu\xE9 aux versets 1 \xE0\
+  \ 4, et au 22e .\n"
+title: Chapitre 49
 ---
+
+
 
 
 1 Psaume d'Asaph. Le Dieu des dieux, le Seigneur a parlé, et il a appelé la terre, Depuis le lever du soleil jusqu'à son coucher.

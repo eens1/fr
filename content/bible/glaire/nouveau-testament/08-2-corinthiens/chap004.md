@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Sincérité des Apôtres dans l’exercice du ministère évangélique.
-  Incrédulité des réprouvés.
-  Force des Apôtres au milieu des persécutions.
-  Récompense éternelle pour les peines si courtes de cette vie.
-  Les choses visibles passent.
+summary: "\nSinc\xE9rit\xE9 des Ap\xF4tres dans l\u2019exercice du minist\xE8re \xE9\
+  vang\xE9lique.\nIncr\xE9dulit\xE9 des r\xE9prouv\xE9s.\nForce des Ap\xF4tres au\
+  \ milieu des pers\xE9cutions.\nR\xE9compense \xE9ternelle pour les peines si courtes\
+  \ de cette vie.\nLes choses visibles passent.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 C'est pourquoi, chargés de ce ministère en vertu de la miséricorde que nous avons obtenue, nous ne perdons pas courage ; 2 Mais nous repoussons de nous les passions honteuses qui se cachent, ne marchant point dans l'artifice, et n'altérant point la parole de Dieu, mais nous recommandant, par la manifestation de la vérité, à toute conscience d'homme devant Dieu.

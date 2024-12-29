@@ -1,8 +1,10 @@
 ---
-title: "Blasphème contre le Saint-Esprit"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "Blasph\xE8me contre le Saint-Esprit"
 ---
+
+
 
 
 > *Matthieu 12:31-32* : "C'est pourquoi je vous dis : Tout péché et tout blasphème sera remis aux hommes; mais le blasphème contre l'Esprit ne sera point remis. Et quiconque aura parlé contre le Fils de l'homme, il lui sera remis, mais si quelqu'un a parlé contre l'Esprit-Saint, il ne lui sera remis, ni en ce siècle, ni dans le siècle avenir." [^1]

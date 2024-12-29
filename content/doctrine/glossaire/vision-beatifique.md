@@ -1,8 +1,10 @@
 ---
-title: "Vision béatifique"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: "Vision b\xE9atifique"
 ---
+
+
 
 
 > *Pape Benoît XII, Benedictus Deus, 1336* : "Par cette constitution qui restera à jamais en vigueur, et en vertu de l'autorité apostolique nous définissons :

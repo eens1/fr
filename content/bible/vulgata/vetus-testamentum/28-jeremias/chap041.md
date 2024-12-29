@@ -1,8 +1,10 @@
 ---
-title: "Caput 41"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 41
 ---
+
+
 
 
 1 Et factum est in mense septimo, venit Ismahel filius Nathaniae, filii Elisama de semine regali, et optimates regis, et decem viri cum eo, ad Godoliam filium Ahicam in Masphath: et comederunt ibi panes simul in Masphath.

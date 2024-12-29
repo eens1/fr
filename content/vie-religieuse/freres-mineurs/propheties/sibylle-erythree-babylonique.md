@@ -1,9 +1,11 @@
 ---
-title: "Sibylle Érythrée ou Babylonique"
 date: 2024-12-06T12:45:08+0000
 draft: false
 tags: []
+title: "Sibylle \xC9rythr\xE9e ou Babylonique"
 ---
+
+
 
 Source : [Annales des Frères Mineurs, 1680](https://www.google.fr/books/edition/Annales_des_fr%C3%A8res_mineurs/W_JaAAAAQAAJ?hl=en&gbpv=1&dq=annales%20fr%C3%A8res%20Mineur&pg=PA8&printsec=frontcover)
 

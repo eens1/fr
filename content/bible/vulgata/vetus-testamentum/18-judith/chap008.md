@@ -1,8 +1,10 @@
 ---
-title: "Caput 8"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 8
 ---
+
+
 
 
 1 Et factum est, cum audisset haec verba Iudith vidua, quae erat filia Merari, filii Idox, filii Ioseph, filii Oziae, filii Elai, filii Iamnor, filii Gedeon, filii Raphaim, filii Achitob, filii Melchiae, filii Enan, filii Nathaniae, filii Salathiel, filii Simeon, filii Ruben:

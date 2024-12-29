@@ -1,8 +1,10 @@
 ---
-title: "Caput 18"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 18
 ---
+
+
 
 
 1 Post dies multos factum est verbum Domini ad Eliam, in anno tertio dicens: Vade, et ostende te Achab, ut dem pluviam super faciem terrae.

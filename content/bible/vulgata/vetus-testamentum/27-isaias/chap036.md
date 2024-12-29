@@ -1,8 +1,10 @@
 ---
-title: "Caput 36"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 36
 ---
+
+
 
 
 1 Et factum est in quartodecimo anno regis Ezechiae, ascendit Sennacherib rex Assyriorum super omnes civitates Iuda munitas, et cepit eas.

@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 29"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Ezéchias fait rouvrir et purifier le temple, et rétablir le culte du Seigneur.
+summary: "\nEz\xE9chias fait rouvrir et purifier le temple, et r\xE9tablir le culte\
+  \ du Seigneur.\n"
+title: Chapitre 29
 ---
+
+
 
 
 1 Ézéchias commença donc à régner à l'âge de vingt-cinq ans, et il en régna vingt-neuf dans Jérusalem; le nom de sa mère était Abia, fille de Zacharie.

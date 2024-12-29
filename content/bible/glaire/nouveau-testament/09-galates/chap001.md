@@ -1,14 +1,13 @@
 ---
-title: "Chapitre 1"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Saint Paul salue les Galates.
-  Il leur reproche de s’écarter de l’Evangile qu’il leur a annoncé.
-  Il relève sa mission.
-  Il rappelle ce qu’il a fait avant et après sa conversion.
+summary: "\nSaint Paul salue les Galates.\nIl leur reproche de s\u2019\xE9carter de\
+  \ l\u2019Evangile qu\u2019il leur a annonc\xE9.\nIl rel\xE8ve sa mission.\nIl rappelle\
+  \ ce qu\u2019il a fait avant et apr\xE8s sa conversion.\n"
+title: Chapitre 1
 ---
+
+
 
 
 1 Paul, apôtre, non par des hommes, ni par un homme, mais par Jésus-Christ et Dieu le Père, qui l'a ressuscité d'entre les morts, 2 Et tous les frères qui sont avec moi, aux Eglises de Galatie. 3 Grâce à vous et paix par Dieu notre Père, et par Notre Seigneur Jésus-Christ, 4 Qui s'est donné lui-même pour nos péchés, afin de nous arracher à ce siècle mauvais, selon la volonté de notre Dieu et Père, 5 A qui est la gloire dans les siècles des siècles. Amen.

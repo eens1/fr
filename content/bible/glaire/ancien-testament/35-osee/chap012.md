@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 12"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Infidélité d’Ephraïm.
-  Jugement du Seigneur contre Juda.
-  Toute la maison de Jacob châtiée.
-  Bienfaits du Seigneur envers ce patriarche.
-  Ingratitude de ses descendants.
-  Exhortations, promesses, reproches, menaces adressés à Ephraïm.
+summary: "\nInfid\xE9lit\xE9 d\u2019Ephra\xEFm.\nJugement du Seigneur contre Juda.\n\
+  Toute la maison de Jacob ch\xE2ti\xE9e.\nBienfaits du Seigneur envers ce patriarche.\n\
+  Ingratitude de ses descendants.\nExhortations, promesses, reproches, menaces adress\xE9\
+  s \xE0 Ephra\xEFm.\n"
+title: Chapitre 12
 ---
+
+
 
 
 1 Ephraïm se repaît de vent et poursuit un air brûlant; tout le jour il multiplie le mensonge et la dévastation ; il a fait alliance avec les Assyriens et il portait de l'huile en Egypte. 2 Voici donc venir le jugement du Seigneur avec Juda, et sa visite sur Jacob; il lui rendra selon ses voies et ses inventions.

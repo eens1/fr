@@ -1,8 +1,10 @@
 ---
-title: "Caput 15"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
+title: Caput 15
 ---
+
+
 
 
 1 Tunc accesserunt ad eum ab Ierosolymis Scribae, et Pharisaei, dicentes:

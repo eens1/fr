@@ -1,8 +1,10 @@
 ---
-title: "Caput 46"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 46
 ---
+
+
 
 
 1 Fortis in bello Iesus Nave successor Moysi in prophetis, qui fuit magnus secundum nomen suum,

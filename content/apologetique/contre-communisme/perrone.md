@@ -1,8 +1,9 @@
 ---
-title: "Le communisme c'est le renversement de la morale"
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
+title: Le communisme c'est le renversement de la morale
 ---
+
 
 
 > *P. Perrone, Controverses à l'usage du peuple* : "Le communisme, pris dans toute l'étendue de sa signification, est cette théorie ou cette doctrine qui force à mettre en commun tous les biens, possédés à quelque titre que ce soit : souveraineté, femmes, terres, maisons, commerce, industrie, talents, droits de guerre et tout le reste...

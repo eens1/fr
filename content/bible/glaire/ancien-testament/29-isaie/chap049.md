@@ -1,15 +1,12 @@
 ---
-title: "Chapitre 49"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Le messie rejeté par Israël et renvoyé aux nations.
-  Délivrance d’Israël.
-  Plainte de Sion.
-  Son rétablissement.
-  Ruine de ses ennemis.
+summary: "\nLe messie rejet\xE9 par Isra\xEBl et renvoy\xE9 aux nations.\nD\xE9livrance\
+  \ d\u2019Isra\xEBl.\nPlainte de Sion.\nSon r\xE9tablissement.\nRuine de ses ennemis.\n"
+title: Chapitre 49
 ---
+
+
 
 
 1 Ecoutez, îles, et soyez attentifs, peuples éloignés: le Seigneur dès le sein m'a appelé, dès les entrailles de ma mère il s'est souvenu de mon nom.

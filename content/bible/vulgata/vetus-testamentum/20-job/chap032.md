@@ -1,8 +1,10 @@
 ---
-title: "Caput 32"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 32
 ---
+
+
 
 
 1 Omiserunt autem tres viri isti respondere Iob, eo quod iustus sibi videretur.

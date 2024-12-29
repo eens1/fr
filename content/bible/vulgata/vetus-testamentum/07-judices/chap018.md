@@ -1,8 +1,10 @@
 ---
-title: "Caput 18"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 18
 ---
+
+
 
 
 1 In diebus illis non erat rex in Israel, et tribus Dan quaerebat possessionem sibi, ut habitaret in ea: usque ad illum enim diem inter ceteras tribus sortem non acceperat.

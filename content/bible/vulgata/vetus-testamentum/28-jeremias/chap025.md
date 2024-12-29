@@ -1,8 +1,10 @@
 ---
-title: "Caput 25"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 25
 ---
+
+
 
 
 1 Verbum, quod factum est ad Ieremiam de omni populo Iuda in anno quarto Ioakim filii Iosiae regis Iuda, (ipse est annus primus Nabuchodonosor regis Babylonis.)

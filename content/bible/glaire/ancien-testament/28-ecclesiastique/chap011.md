@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 11"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Ne pas juger les hommes par leur extérieur.
-  Vanité des grandeurs humaines.
-  C’est de Dieu que viennent les biens et les maux.
-  Vanité des richesses.
-  Mettre en Dieu sa confiance.
-  Ne pas se fier à tout le monde.
+summary: "\nNe pas juger les hommes par leur ext\xE9rieur.\nVanit\xE9 des grandeurs\
+  \ humaines.\nC\u2019est de Dieu que viennent les biens et les maux.\nVanit\xE9 des\
+  \ richesses.\nMettre en Dieu sa confiance.\nNe pas se fier \xE0 tout le monde.\n"
+title: Chapitre 11
 ---
+
+
 
 
 1 La sagesse de l'homme d'humble condition relèvera sa tête, et au milieu des grands, elle le fera asseoir.

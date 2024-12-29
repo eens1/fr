@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 127"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Le Psalmiste représente le bonheur de ceux qui craignent le Seigneur et qui marchent dans ses voies.
+summary: "\nLe Psalmiste repr\xE9sente le bonheur de ceux qui craignent le Seigneur\
+  \ et qui marchent dans ses voies.\n"
+title: Chapitre 127
 ---
+
+
 
 
 1 Cantique des degrés. Bienheureux tous ceux qui craignent le Seigneur, et qui marchent dans ses voies.

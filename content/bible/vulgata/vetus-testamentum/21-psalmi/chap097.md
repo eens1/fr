@@ -1,8 +1,10 @@
 ---
-title: "Caput 97"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 97
 ---
+
+
 
 
 1 Psalmus ipsi David. Cantate Domino canticum novum: quia mirabilia fecit. Salvavit sibi dextera eius: et brachium sanctum eius.

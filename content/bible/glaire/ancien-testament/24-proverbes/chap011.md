@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 11"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Avantages des justes et des sages, opposés aux malheurs des méchants et des insensés.
-  Vraies et fausses richesses.
+summary: "\nAvantages des justes et des sages, oppos\xE9s aux malheurs des m\xE9chants\
+  \ et des insens\xE9s.\nVraies et fausses richesses.\n"
+title: Chapitre 11
 ---
+
+
 
 
 1 La balance trompeuse est une abomination auprès du Seigneur ; le poids juste est selon sa volonté.

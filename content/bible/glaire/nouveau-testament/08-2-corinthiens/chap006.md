@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 6"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Ne pas recevoir en vain la grâce de Dieu.
-  Caractère des ministres de l’Evangile.
-  Saint Paul aime et veut être aimé.
-  Jésus-Christ et Bélial inalliables.
-  Les enfants de Dieu doivent fuir ses ennemis.
+summary: "\nNe pas recevoir en vain la gr\xE2ce de Dieu.\nCaract\xE8re des ministres\
+  \ de l\u2019Evangile.\nSaint Paul aime et veut \xEAtre aim\xE9.\nJ\xE9sus-Christ\
+  \ et B\xE9lial inalliables.\nLes enfants de Dieu doivent fuir ses ennemis.\n"
+title: Chapitre 6
 ---
+
+
 
 
 1 Or, comme coopérateurs, nous vous exhortons à ne pas recevoir en vain la grâce de Dieu; 2 Car il dit : En un temps favorable je t'ai exaucé, et en un jour de salut je t'ai secouru. Voici maintenant un temps favorable, voici maintenant un jour de salut.

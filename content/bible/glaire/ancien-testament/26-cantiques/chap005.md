@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 5"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  L’Epouse invite l’Epoux à venir dans son jardin.
-  Elle s’endort et cherche son Epoux.
-  Beauté de l’Epoux.
+summary: "\nL\u2019Epouse invite l\u2019Epoux \xE0 venir dans son jardin.\nElle s\u2019\
+  endort et cherche son Epoux.\nBeaut\xE9 de l\u2019Epoux.\n"
+title: Chapitre 5
 ---
+
+
 
 
 1 L'ÉPOUSE. Qu'il vienne, mon bien-aimé, dans son jardin, et qu'il mange le fruit de ses arbres. — L'ÉPOUX. Je suis venu dans mon jardin, ma soeur, épouse, j'ai recueilli ma myrrhe avec mes aromates ; j'ai mangé le rayon avec le miel, j'ai bu mon vin avec mon lait : mangez, mes amis, et buvez; enivrez-vous, mes bien chers.

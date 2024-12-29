@@ -1,13 +1,15 @@
 ---
-title: "Chapitre 142"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Ce psaume est un de ceux de la pénitence.
-  David, chassé de Jérusalem par Absalom, implore le Seigneur ; il le conjure de lui faire connaître ses voies, et prédit la perte de ses ennemis.
-  Les Pères en font l’application à Jésus-Christ persécuté par les Juifs et trahi par Judas dont Absalom est la figure.
+summary: "\nCe psaume est un de ceux de la p\xE9nitence.\nDavid, chass\xE9 de J\xE9\
+  rusalem par Absalom, implore le Seigneur ; il le conjure de lui faire conna\xEE\
+  tre ses voies, et pr\xE9dit la perte de ses ennemis.\nLes P\xE8res en font l\u2019\
+  application \xE0 J\xE9sus-Christ pers\xE9cut\xE9 par les Juifs et trahi par Judas\
+  \ dont Absalom est la figure.\n"
+title: Chapitre 142
 ---
+
+
 
 
 1 Psaume de David, quand Absalom son fils le poursuivait. Seigneur, exaucez ma prière, prêtez l'oreille à mon instante supplication dans votre vérité ; exaucez-moi dans votre justice.

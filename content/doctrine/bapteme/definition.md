@@ -1,8 +1,10 @@
 ---
-title: "Définition"
-date: 2024-09-06T20:02:54+02:00
+date: 2024-09-06 20:02:54+02:00
 draft: false
+title: "D\xE9finition"
 ---
+
+
 
 
 > *Ephésiens 4:4-5* : "Soyez un seul corps et un seul esprit comme vous avez été appelés à une seule espérance dans votre vocation.

@@ -1,16 +1,14 @@
 ---
-title: "Chapitre 10"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Juifs ingrats exterminés dans le désert.
-  Tout ce qui leur est arrivé est figuratif et écrit pour notre instruction.
-  Celui qui croit être ferme doit craindre de tomber.
-  Unité des chrétiens par l’Eucharistie.
-  Ne point chercher son propre avantage, mais celui des autres.
-  Faire tout pour Dieu.
+summary: "\nJuifs ingrats extermin\xE9s dans le d\xE9sert.\nTout ce qui leur est arriv\xE9\
+  \ est figuratif et \xE9crit pour notre instruction.\nCelui qui croit \xEAtre ferme\
+  \ doit craindre de tomber.\nUnit\xE9 des chr\xE9tiens par l\u2019Eucharistie.\n\
+  Ne point chercher son propre avantage, mais celui des autres.\nFaire tout pour Dieu.\n"
+title: Chapitre 10
 ---
+
+
 
 
 1 Car je ne veux pas que vous ignoriez, mes frères, que nos pères ont tous été sous la nuée, et qu'ils ont tous passé la mer;

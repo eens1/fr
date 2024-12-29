@@ -1,8 +1,10 @@
 ---
-title: "Caput 15"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 15
 ---
+
+
 
 
 1 Et dixit Samuel ad Saul: Me misit Dominus, ut ungerem te in regem super populum eius Israel: nunc ergo audi vocem Domini:

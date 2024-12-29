@@ -1,8 +1,10 @@
 ---
-title: "Quatrième Commandement"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Quatri\xE8me Commandement"
 ---
+
+
 
 
 > *Exode 20:12* : "Honore ton père et ta mère afin que tu sois d'une longue vie sur la terre que le Seigneur ton Dieu te donnera." [^1]

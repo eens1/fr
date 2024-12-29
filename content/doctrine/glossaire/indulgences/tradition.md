@@ -1,8 +1,10 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Dans la Tradition
 ---
+
+
 
 
 > *Pape Pie IV, Concile de Trente, Sess. 25, 4 déc. 1563* : "Le pouvoir de conferer les Indulgences ayant été accordé par Jésus-Christ à l'Eglife, qui dès les premiers temps même a usé de cette puiffance , qui lui a été donnée de Dieu; Le Saint Concile ordonne et prononce qu'on doit garder et retenir dans l'Eglife l’usage des Indulgences, comme tres-falutaire au Peuple Chrétien, et approuvé par l'autorité des Saints Conciles; et condamne en même temps d'Anathème tous ceux, ou qui disent qu'elles sont inutiles, ou qui nient que l'Eglise ait la puiffance de les accorder. Il désire néanmoins, que suivant la coutume ancienne, et approuvée dans l’Eglise, on les accorde avec réserve et modération; de peur que par trop de facilité, la discipline écclésiastique ne vint à s’affoiblir.

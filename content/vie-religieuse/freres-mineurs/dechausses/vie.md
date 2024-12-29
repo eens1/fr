@@ -1,8 +1,10 @@
 ---
-title: "Leur vie"
-date: 2024-09-06T20:02:59+02:00
+date: 2024-09-06 20:02:59+02:00
 draft: false
+title: Leur vie
 ---
+
+
 
 
 > *Père Marchese, Vie de saint Pierre d'Alcantara, vie dans le désert de la Rabida* : "La manière de vivre que ces pères s'étaient prescrite sous la direction du B. Pierre était admirable; ils couchaient sur de certains fagot de sarment, où sur des ais toutes nues; ils ne portaient sandales ni socques, pour marquer même en cela une plus grande pauvreté; 

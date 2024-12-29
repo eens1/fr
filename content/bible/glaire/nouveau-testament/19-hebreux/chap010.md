@@ -1,14 +1,16 @@
 ---
-title: "Chapitre 10"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Insuffisance des victimes légales ; leur abolition.
-  Efficacité du sacrifice de Jésus-Christ.
-  L’Apôtre exhorte les Hébreux à s’approcher de Dieu avec confiance, à demeurer fermes dans la foi, s’entraider et à s’entrexhorter.
-  Il les presse par le double motif des maux qu’ils auraient à craindre, s’ils ne persévéraient pas, et des biens qu’ils ont à espérer, s’ils persévèrent.
+summary: "\nInsuffisance des victimes l\xE9gales ; leur abolition.\nEfficacit\xE9\
+  \ du sacrifice de J\xE9sus-Christ.\nL\u2019Ap\xF4tre exhorte les H\xE9breux \xE0\
+  \ s\u2019approcher de Dieu avec confiance, \xE0 demeurer fermes dans la foi, s\u2019\
+  entraider et \xE0 s\u2019entrexhorter.\nIl les presse par le double motif des maux\
+  \ qu\u2019ils auraient \xE0 craindre, s\u2019ils ne pers\xE9v\xE9raient pas, et\
+  \ des biens qu\u2019ils ont \xE0 esp\xE9rer, s\u2019ils pers\xE9v\xE8rent.\n"
+title: Chapitre 10
 ---
+
+
 
 
 1 Car la loi n'ayant que l'ombre des biens futurs, et non l'image même des choses, ne peut jamais, par les mêmes hosties qui s'offrent continuellement chaque année, rendre parfaits ceux qui s'approchent de l'autel, 2 Autrement on aurait cessé de les offrir, puisque, une fois purifiés, ceux qui rendent ce culte n'auraient plus la conscience du péché ; 3 Cependant chaque année on y fait mention des péchés. 4 Parce qu'en effet, il est impossible que les péchés soient effacés par du sang de taureaux et de boucs. 5 C'est pourquoi, en entrant dans le monde, il dit : Vous n'avez pas voulu d'hostie ni d'oblation, mais vous m'avez formé un corps.

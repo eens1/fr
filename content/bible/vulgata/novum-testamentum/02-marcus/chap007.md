@@ -1,8 +1,10 @@
 ---
-title: "Caput 7"
-date: 2024-09-06T20:00:46+02:00
+date: 2024-09-06 20:00:46+02:00
 draft: false
+title: Caput 7
 ---
+
+
 
 
 1 Et conveniunt ad eum Pharisaei, et quidam de Scribis, venientes ab Ierosolymis.

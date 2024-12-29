@@ -1,8 +1,9 @@
 ---
-title: "Droit canonique"
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
+title: Droit canonique
 ---
+
 
 > *Droit canonique de 1917, can. 2335* : "Nomen dantes sectae massonicae aliisve eiusdem generis associationibus quae contra Ecclesiam vel legitimas civiles potestates machinantur, contrahunt ipso facto excommunicationem Sedi Apostolicae simpliciter reservatam" [^1]
 

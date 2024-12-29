@@ -1,8 +1,10 @@
 ---
-title: "Profession"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: Profession
 ---
+
+
 
 
 > *Louis de sainte Térèse* : "A la fin de ces constitutions est la manière de recevoir les religieuses à l'habit et profession...

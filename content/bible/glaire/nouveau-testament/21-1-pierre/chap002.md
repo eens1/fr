@@ -1,16 +1,15 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Croître en Jésus-Christ ; s’approcher de lui comme de la pierre angulaire.
-  Il est une source d’honneur pour ceux qui croient, et une pierre d’achoppement pour les incrédules.
-  Caractères du chrétien.
-  S’abstenir des passions charnelles.
-  Etre soumis aux puissances.
-  Gloire du chrétien, souffrir comme Jésus-Christ.
+summary: "\nCro\xEEtre en J\xE9sus-Christ ; s\u2019approcher de lui comme de la pierre\
+  \ angulaire.\nIl est une source d\u2019honneur pour ceux qui croient, et une pierre\
+  \ d\u2019achoppement pour les incr\xE9dules.\nCaract\xE8res du chr\xE9tien.\nS\u2019\
+  abstenir des passions charnelles.\nEtre soumis aux puissances.\nGloire du chr\xE9\
+  tien, souffrir comme J\xE9sus-Christ.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Ainsi, vous dépouillant de toute malice et de toute fraude, des dissimulations, des envies et des médisances,

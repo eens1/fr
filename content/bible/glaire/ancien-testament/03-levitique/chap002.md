@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 2"
-date: 2024-09-06T20:00:35+02:00
+date: 2024-09-06 20:00:35+02:00
 draft: false
-summary: |
-  
-  Cérémonies que l’on doit observer dans les oblations de farine et de pain, et dans celle des prémices.
+summary: "\nC\xE9r\xE9monies que l\u2019on doit observer dans les oblations de farine\
+  \ et de pain, et dans celle des pr\xE9mices.\n"
+title: Chapitre 2
 ---
+
+
 
 
 1 Lorsqu'un homme offrira une oblation de sacrifice au Seigneur, c'est de fleur de farine que sera son oblation; et il répandra de l'huile sur elle, et il mettra de l'encens ;

@@ -1,8 +1,10 @@
 ---
-title: "Caput 9"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 9
 ---
+
+
 
 
 1 Eliseus autem prophetes vocavit unum de filiis prophetarum, et ait illi: Accinge lumbos tuos, et tolle lenticulam olei hanc in manu tua, et vade in Ramoth Galaad.

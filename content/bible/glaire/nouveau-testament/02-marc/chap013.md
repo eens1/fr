@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 13"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Jésus prédit la ruine du temple.
-  Questions des disciples à l’occasion de cette prédiction.
-  Réponses de Jésus-Christ aux questions de ses disciples.
-  Signes de la ruine de Jérusalem.
-  Signes du dernier avènement de Jésus-Christ.
+summary: "\nJ\xE9sus pr\xE9dit la ruine du temple.\nQuestions des disciples \xE0 l\u2019\
+  occasion de cette pr\xE9diction.\nR\xE9ponses de J\xE9sus-Christ aux questions de\
+  \ ses disciples.\nSignes de la ruine de J\xE9rusalem.\nSignes du dernier av\xE8\
+  nement de J\xE9sus-Christ.\n"
+title: Chapitre 13
 ---
+
+
 
 
 1 Lorsqu'il sortait du temple, un de ses disciples lui dit : Maître, voyez quelles pierres et quels bâtiments.

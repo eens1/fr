@@ -1,16 +1,16 @@
 ---
-title: "Chapitre 15"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Offres avantageuses d’Antiochus Sidètes à Simon.
-  Tryphon, abandonné de ses troupes, est assiégé dans Dora.
-  Les Romains écrivent en faveur des Juifs aux rois et aux peuples leurs voisins.
-  Antiochus se brouille avec Simon.
-  Tryphon se sauve de Dora.
-  Antiochus le poursuit, après avoir donné ordre à Cendébée de marcher contre les Juifs avec une puissante armée.
+summary: "\nOffres avantageuses d\u2019Antiochus Sid\xE8tes \xE0 Simon.\nTryphon,\
+  \ abandonn\xE9 de ses troupes, est assi\xE9g\xE9 dans Dora.\nLes Romains \xE9crivent\
+  \ en faveur des Juifs aux rois et aux peuples leurs voisins.\nAntiochus se brouille\
+  \ avec Simon.\nTryphon se sauve de Dora.\nAntiochus le poursuit, apr\xE8s avoir\
+  \ donn\xE9 ordre \xE0 Cend\xE9b\xE9e de marcher contre les Juifs avec une puissante\
+  \ arm\xE9e.\n"
+title: Chapitre 15
 ---
+
+
 
 
 1 Or le roi Antiochus, fils de Démétrius, envoya des lettres des îles de la mer à Simon, prêtre et prince de la nation des Juifs, et à toute la nation.

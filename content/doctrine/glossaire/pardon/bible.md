@@ -1,8 +1,10 @@
 ---
-title: "Dans la Bible"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Dans la Bible
 ---
+
+
 
 
 > *Matthieu 18:23-35* : "C'est pourquoi le royaume des cieux est comparé à un homme-roi qui voulut compter avec ses serviteurs. Or, lorsqu'il eut commencé à compter, on lui en présenta un qui lui devait dix mille talents. Et comme il n'avait pas de quoi les rendre, son maître ordonna qu'on le vendît, lui, sa femme et ses filles, et tout ce qu'il avait, et qu'on payât.

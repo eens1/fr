@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Infidélité reprochée à Israël.
-  Vengeance dont il est menacé.
-  Juda exhorté à ne pas imiter son infidélité.
+summary: "\nInfid\xE9lit\xE9 reproch\xE9e \xE0 Isra\xEBl.\nVengeance dont il est menac\xE9\
+  .\nJuda exhort\xE9 \xE0 ne pas imiter son infid\xE9lit\xE9.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Ecoutez la parole du Seigneur, fils d'Israël, parce que voici venir le jugement du Seigneur avec les habitants de la terre ; car il n'y a pas de vérité, et il n'y a pas de miséricorde, et il n'y a pas de science de Dieu sur la terre.

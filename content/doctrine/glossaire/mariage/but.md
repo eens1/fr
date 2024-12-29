@@ -1,8 +1,10 @@
 ---
-title: "But"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: But
 ---
+
+
 
 
 > *Tobie 6:17* : "Or ceux qui embrassent le mariage de manière qu'ils bannissent Dieu de leur coeur et de leur esprit, et qu'ils s'abandonnent à leur passion, de même que le cheval et le mulet, qui n'ont pas d'intelligence, le démon a pouvoir sur eux." [^1]

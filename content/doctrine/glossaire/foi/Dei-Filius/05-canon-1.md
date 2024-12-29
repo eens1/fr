@@ -1,8 +1,10 @@
 ---
-title: "Canon 1 - De Dieu Créateur de toutes choses"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Canon 1 - De Dieu Cr\xE9ateur de toutes choses"
 ---
+
+
 
 
 1° Si quelqu'un nie un vrai Dieu créateur et maître des choses visibles et invisibles; qu'il soit anaihème.

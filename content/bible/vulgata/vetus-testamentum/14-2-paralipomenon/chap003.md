@@ -1,8 +1,10 @@
 ---
-title: "Caput 3"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 3
 ---
+
+
 
 
 1 Et coepit Salomon aedificare domum Domini in Ierusalem in monte Moria, qui demonstratus fuerat David patri eius, in loco, quem paraverat David in area Ornan Iebusaei.

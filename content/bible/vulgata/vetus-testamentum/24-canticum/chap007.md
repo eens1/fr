@@ -1,8 +1,10 @@
 ---
-title: "Caput 7"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 7
 ---
+
+
 
 
 1 Quid videbis in Sulamite, nisi choros castrorum? Quam pulchri sunt gressus tui in calceamentis, filia principis! Iuncturae femorum tuorum, sicut monilia, quae fabricata sunt manu artificis.

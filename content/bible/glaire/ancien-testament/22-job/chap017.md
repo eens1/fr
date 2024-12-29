@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 17"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Job se plaint des insultes de ses mais, et les exhorte à rentrer en eux-mêmes.
+summary: "\nJob se plaint des insultes de ses mais, et les exhorte \xE0 rentrer en\
+  \ eux-m\xEAmes.\n"
+title: Chapitre 17
 ---
+
+
 
 
 1 Mon esprit s'affaiblira, mes jours seront abrégés, et il ne me reste qu'un sépulcre.

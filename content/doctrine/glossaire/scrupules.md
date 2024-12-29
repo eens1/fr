@@ -1,8 +1,10 @@
 ---
-title: "Scrupules"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Scrupules
 ---
+
+
 
 
 > *Saint Alphonse de Liguori, Théologie morale* : "... quand les pénitents sont d'une conscience timorée, tant qu'ils ne sont pas sûrs d'avoir consenti au péché mortel, ils doivent regarder comme certain qu'ils ne l'ont pas commis; car, dit le P. Alvarez, le péché mortel est un monstre si horrible, qu'il ne peut entrer dans une âme qui aime Dieu, sans se faire évidemment connaître." [^1]

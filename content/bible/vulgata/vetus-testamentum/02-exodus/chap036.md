@@ -1,8 +1,10 @@
 ---
-title: "Caput 36"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 36
 ---
+
+
 
 
 1 Fecit ergo Beseleel, et Ooliab, et omnis vir sapiens, quibus dedit Dominus sapientiam et intellectum, ut scirent fabre operari quae in usus Sanctuarii necessaria sunt, et quae praecepit Dominus.

@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 33"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Impiété de Manassé, sa captivité, son repentir, son retour à Jérusalem, sa mort.
-  Amon lui succède.
-  Impiété de ce prince ; il est mis à mort, et Josias règne à sa place.
+summary: "\nImpi\xE9t\xE9 de Manass\xE9, sa captivit\xE9, son repentir, son retour\
+  \ \xE0 J\xE9rusalem, sa mort.\nAmon lui succ\xE8de.\nImpi\xE9t\xE9 de ce prince\
+  \ ; il est mis \xE0 mort, et Josias r\xE8gne \xE0 sa place.\n"
+title: Chapitre 33
 ---
+
+
 
 
 1 Manassé avait douze ans quand il commença à régner, et il régna cinquante-cinq ans à Jérusalem.

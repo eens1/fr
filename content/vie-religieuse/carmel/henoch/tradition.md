@@ -1,8 +1,10 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:03:00+02:00
+date: 2024-09-06 20:03:00+02:00
 draft: false
+title: Dans la Tradition
 ---
+
+
 
 
 > *Louis de sainte Térèse, La succession du S. Prophète Elie* : "Remarquez que toutes les fois qu'en l'Ecriture Sainte le mot de paradis est mis absolument, il ne signifie ou que le paradis terrestre, ou que le céleste. Car quand il se prend pour quelque lieu délicieux, il se rencontre toujours avec des ajoints qui limitent sa signification, comme aux Cantiques, le paradis des Grenades.

@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 63"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  David invoque le secours de Dieu contre ses ennemis.
-  Il le remercie de la protection qu’il lui a donnée.
-  Il lui représente la malice de ses persécuteurs, et il prédit que leurs calomnies retomberont sur eux.
+summary: "\nDavid invoque le secours de Dieu contre ses ennemis.\nIl le remercie de\
+  \ la protection qu\u2019il lui a donn\xE9e.\nIl lui repr\xE9sente la malice de ses\
+  \ pers\xE9cuteurs, et il pr\xE9dit que leurs calomnies retomberont sur eux.\n"
+title: Chapitre 63
 ---
+
+
 
 
 1 Pour la fin, psaume de David.

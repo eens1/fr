@@ -1,8 +1,9 @@
 ---
-title: "Histoire"
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
+title: Histoire
 ---
+
 
 > *Annales des Frères Mineurs, 1680* : "Les Juifs le firent prier de ne décrier pas leur commerce, puisqu'il était toléré dans toute l'italie, et appuyé des privilèges du Roi; et voyant qu'ils ne pouvaient rien gagner sur son esprit, ils corrompirent par argent le gouverneur de la province, afin qu'il lui défendit de parler contre eux; cet officier avare le fit, mais il fut payé comme il méritait, car dans un peu de temps, il eut la tête tranchée dans Naples avec deux de ses enfants.
 

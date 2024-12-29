@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 29"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Jacob sert Laban pendant sept ans pour épouser Rachel ; mais Laban lui donne Lia.
-  Il sert encore sept ans pour avoir Rachel.
-  Naissance de Ruben (, de Siméon, de Lévi et de Juda ? ).
+summary: "\nJacob sert Laban pendant sept ans pour \xE9pouser Rachel ; mais Laban\
+  \ lui donne Lia.\nIl sert encore sept ans pour avoir Rachel.\nNaissance de Ruben\
+  \ (, de Sim\xE9on, de L\xE9vi et de Juda ? ).\n"
+title: Chapitre 29
 ---
+
+
 
 
 1 Etant donc parti, Jacob vint dans la terre d'orient.

@@ -1,8 +1,10 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Dans la Tradition
 ---
+
+
 
 
 > *Saint Pierre d’Alcantara, extrait de la lettre à sainte Térèse d’Avila* : "... j’ai été étonné d’apprendre, que votre zèle, et votre piété mette au jugement des hommes savants, ce qui n’est pas de leur faculté ; s’il s’agissait d’un point de droit ou d’un cas de conscience, je crois qu’il serait bon de prendre conseil des jurisconsultes, et des théologiens : mais lorsqu’il est question de résoudre sur ce qui regarde la perfection de la vie, il n’y a que ceux qui y sont avancés, et qui la pratiquent, qui aient la capacité de donner sur ce sujet des conseils salutaires; parce que d’ordinaire il n’y a que ceux qui font parfaitement le bien, qui puissent en faire part à ceux qui veulent comme eux entrer dans la perfection, et dans le chemin de l’Évangile.

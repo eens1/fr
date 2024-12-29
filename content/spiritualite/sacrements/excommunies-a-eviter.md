@@ -1,8 +1,10 @@
 ---
-title: "Excommuniés à éviter"
-date: 2024-09-06T20:00:57+02:00
+date: 2024-09-06 20:00:57+02:00
 draft: false
+title: "Excommuni\xE9s \xE0 \xE9viter"
 ---
+
+
   
 E. Jombart, commentaire du can. 2267, 1958 : "Les rapports de la vie, civile (conversations, cohabitation ou association, etc) sont interdits aux fidèles avec le *vitandus*, sauf au conjoint, aux parents, aux enfants, aux domestiques, aux sujets et généralement à moins d’avoir une excuse raisonnable (C. 2267). Les termes très adoucis de cette règle font admettre que sa violation ne dépasse pas la faute vénielle." [^4]
   

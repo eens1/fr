@@ -1,11 +1,14 @@
 ---
-title: "Chapitre 79"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Ce psaume contient une prière des captifs pour leur liberté, une comparaison du peuple juif à une vigne que Dieu a livrée aux ennemis, et une supplication de la regarder avec compassion, et d’envoyer l’homme de sa droite, c’est-à-dire le Messie.
+summary: "\nCe psaume contient une pri\xE8re des captifs pour leur libert\xE9, une\
+  \ comparaison du peuple juif \xE0 une vigne que Dieu a livr\xE9e aux ennemis, et\
+  \ une supplication de la regarder avec compassion, et d\u2019envoyer l\u2019homme\
+  \ de sa droite, c\u2019est-\xE0-dire le Messie.\n"
+title: Chapitre 79
 ---
+
+
 
 
 1 Pour la fin, pour ceux qui seront changés, témoignage d'Asaph, psaume.

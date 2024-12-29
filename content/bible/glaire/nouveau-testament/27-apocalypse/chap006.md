@@ -1,17 +1,15 @@
 ---
-title: "Chapitre 6"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Ouverture des sept sceaux.
-  Premier sceau, un cavalier monté sur un cheval blanc.
-  Deuxième sceau, un cavalier monté sur un cheval roux.
-  Troisième sceau, un cavalier monté sur un cheval noir.
-  Quatrième sceau, un cavalier monté sur un cheval pâle.
-  Cinquième sceau, plaintes des martyrs.
-  Sixième sceau, la colère de l’Agneau.
+summary: "\nOuverture des sept sceaux.\nPremier sceau, un cavalier mont\xE9 sur un\
+  \ cheval blanc.\nDeuxi\xE8me sceau, un cavalier mont\xE9 sur un cheval roux.\nTroisi\xE8\
+  me sceau, un cavalier mont\xE9 sur un cheval noir.\nQuatri\xE8me sceau, un cavalier\
+  \ mont\xE9 sur un cheval p\xE2le.\nCinqui\xE8me sceau, plaintes des martyrs.\nSixi\xE8\
+  me sceau, la col\xE8re de l\u2019Agneau.\n"
+title: Chapitre 6
 ---
+
+
 
 
 1 Et je vis que l'Agneau avait ouvert un des sept sceaux, et j'entendis l'un des quatre animaux disant comme avec une voix de tonnerre : Viens et vois. 2 Je regardai, et voilà un cheval blanc, et celui qui le montait avait un arc, et une couronne lui fut donnée, et il partit en vainqueur pour vaincre.

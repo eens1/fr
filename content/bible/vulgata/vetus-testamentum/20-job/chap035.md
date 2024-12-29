@@ -1,8 +1,10 @@
 ---
-title: "Caput 35"
-date: 2024-09-06T20:00:52+02:00
+date: 2024-09-06 20:00:52+02:00
 draft: false
+title: Caput 35
 ---
+
+
 
 
 1 Igitur Eliu haec rursum locutus est:

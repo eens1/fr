@@ -1,14 +1,14 @@
 ---
-title: "Chapitre 28"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Fausse prédiction d’Hananias ; Jérémie en appelle à l’événement.
-  Hananias continue de soutenir sa fausse prédiction.
-  Jérémie lui déclara qu’il mourra dans l’année même.
-  Mort d’Hananias.
+summary: "\nFausse pr\xE9diction d\u2019Hananias ; J\xE9r\xE9mie en appelle \xE0 l\u2019\
+  \xE9v\xE9nement.\nHananias continue de soutenir sa fausse pr\xE9diction.\nJ\xE9\
+  r\xE9mie lui d\xE9clara qu\u2019il mourra dans l\u2019ann\xE9e m\xEAme.\nMort d\u2019\
+  Hananias.\n"
+title: Chapitre 28
 ---
+
+
 
 
 1 Et il arriva en cette année-là, au commencement du règne de Sédécias, roi de Juda, en la quatrième année, au cinquième mois, qu'Hananias, fils d'Azur, prophète de Gabaon, me parla dans la maison du Seigneur, devant les prêtres et tout le peuple, disant :

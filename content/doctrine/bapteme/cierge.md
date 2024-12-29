@@ -1,8 +1,10 @@
 ---
-title: "Cierge"
-date: 2024-09-06T20:02:54+02:00
+date: 2024-09-06 20:02:54+02:00
 draft: false
+title: Cierge
 ---
+
+
 
 
 Traditonnelement, le baptisé reçoit du prêtre un cierge blanc allumé.  

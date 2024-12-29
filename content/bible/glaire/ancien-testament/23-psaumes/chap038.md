@@ -1,11 +1,13 @@
 ---
-title: "Chapitre 38"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  David apprend à tous les hommes, par son exemple, à veiller sur leur langue, à ne pas s’attacher aux biens de cette vie qui dure si peu, à recevoir avec patience tous les maux qui leur viennent de la part de Dieu.
+summary: "\nDavid apprend \xE0 tous les hommes, par son exemple, \xE0 veiller sur\
+  \ leur langue, \xE0 ne pas s\u2019attacher aux biens de cette vie qui dure si peu,\
+  \ \xE0 recevoir avec patience tous les maux qui leur viennent de la part de Dieu.\n"
+title: Chapitre 38
 ---
+
+
 
 
 1 Pour la fin, à Idithun lui-même, cantique de David.

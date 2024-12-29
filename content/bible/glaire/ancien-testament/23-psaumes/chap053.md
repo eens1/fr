@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 53"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  David, pressé par ses ennemis, invoque le secours du Seigneur avec un coeur plein de confiance en sa bonté.
+summary: "\nDavid, press\xE9 par ses ennemis, invoque le secours du Seigneur avec\
+  \ un coeur plein de confiance en sa bont\xE9.\n"
+title: Chapitre 53
 ---
+
+
 
 
 1 Pour la fin dans les cantiques, intelligence à David.

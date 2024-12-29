@@ -1,14 +1,14 @@
 ---
-title: "Chapitre 43"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Le Seigneur rentre dans son temple.
-  Il déclare qu’il y demeurera toujours, et que la maison d’Israël ne profanera plus son nom.
-  Description de l’autel des holocaustes.
-  Cérémonies pour la consécration de cet autel.
+summary: "\nLe Seigneur rentre dans son temple.\nIl d\xE9clare qu\u2019il y demeurera\
+  \ toujours, et que la maison d\u2019Isra\xEBl ne profanera plus son nom.\nDescription\
+  \ de l\u2019autel des holocaustes.\nC\xE9r\xE9monies pour la cons\xE9cration de\
+  \ cet autel.\n"
+title: Chapitre 43
 ---
+
+
 
 
 1 Et il me mena à la porte qui regardait vers la voie de l'orient.

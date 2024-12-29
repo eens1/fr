@@ -1,12 +1,14 @@
 ---
-title: "Chapitre 47"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Le sujet principal de ce psaume est l’Eglise figurée par Jérusalem.
-  Le Psalmiste y décrit la vanité des efforts que ses ennemis ont faits contre elle, et le bonheur qu’elle a d’être toujours la demeure de Dieu.
+summary: "\nLe sujet principal de ce psaume est l\u2019Eglise figur\xE9e par J\xE9\
+  rusalem.\nLe Psalmiste y d\xE9crit la vanit\xE9 des efforts que ses ennemis ont\
+  \ faits contre elle, et le bonheur qu\u2019elle a d\u2019\xEAtre toujours la demeure\
+  \ de Dieu.\n"
+title: Chapitre 47
 ---
+
+
 
 
 1 Psaume du cantique aux fils de Coré pour le second jour de la semaine.

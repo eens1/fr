@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 6"
-date: 2024-09-06T20:00:37+02:00
+date: 2024-09-06 20:00:37+02:00
 draft: false
-summary: |
-  
-  Darius confirme l’ordonnance de Cyrus en faveur des Juifs.
-  Le temple est achevé.
-  On en fait le dédicace et on célèbre la Pâque.
+summary: "\nDarius confirme l\u2019ordonnance de Cyrus en faveur des Juifs.\nLe temple\
+  \ est achev\xE9.\nOn en fait le d\xE9dicace et on c\xE9l\xE8bre la P\xE2que.\n"
+title: Chapitre 6
 ---
+
+
 
 
 1 Alors le roi Darius ordonna; et l'on examina dans la bibliothèque des livres qui étaient conservés à Babylone ; 2 Et il se trouva à Ecbatane, qui est un château dans la province de Médie, un volume, et l'édit suivant y était écrit :

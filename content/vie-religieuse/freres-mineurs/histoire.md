@@ -1,8 +1,10 @@
 ---
-title: "Histoire"
-date: 2024-09-06T20:02:59+02:00
+date: 2024-09-06 20:02:59+02:00
 draft: false
+title: Histoire
 ---
+
+
 
 
 > *Mgr Albert Battandier, Annuaire pontifical catholique, franciscains de l'union léonienne* : "Ordre confirmé par Innocent III en 1209; 

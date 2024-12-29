@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 15"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Scandale des pharisiens en voyant les disciples de Jésus manger sans avoir lavé leurs mains.
-  Guérison de plusieurs malades.
-  Multiplication des sept pains.
+summary: "\nScandale des pharisiens en voyant les disciples de J\xE9sus manger sans\
+  \ avoir lav\xE9 leurs mains.\nGu\xE9rison de plusieurs malades.\nMultiplication\
+  \ des sept pains.\n"
+title: Chapitre 15
 ---
+
+
 
 
 1 Alors s'approchèrent de lui les scribes et les pharisiens de Jérusalem, disant :

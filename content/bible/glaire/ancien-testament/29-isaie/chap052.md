@@ -1,15 +1,13 @@
 ---
-title: "Chapitre 52"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Délivrance et rétablissement de Jérusalem.
-  Envoyé qui annonce le règne du Dieu de Sion.
-  Sentinelles qui annoncent le retour des enfants de Sion.
-  Gloire et humiliation du Messie.
-  Le Messie reconnu par les nations.
+summary: "\nD\xE9livrance et r\xE9tablissement de J\xE9rusalem.\nEnvoy\xE9 qui annonce\
+  \ le r\xE8gne du Dieu de Sion.\nSentinelles qui annoncent le retour des enfants\
+  \ de Sion.\nGloire et humiliation du Messie.\nLe Messie reconnu par les nations.\n"
+title: Chapitre 52
 ---
+
+
 
 
 1 Lève-toi, lève-toi, revêts-toi de ta force, Sion; revêts-toi des vêtements de ta gloire, Jérusalem, cité du saint; parce qu'il n'y aura plus à l'avenir d'incirconcis qui passera au travers de toi, ni d'impur.

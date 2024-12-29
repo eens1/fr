@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 35"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Voyage de Jacob à Béthel.
-  Naissance de Benjamin.
-  Dénombrement des fils de Jacob.
-  Mort d’Isaac.
+summary: "\nVoyage de Jacob \xE0 B\xE9thel.\nNaissance de Benjamin.\nD\xE9nombrement\
+  \ des fils de Jacob.\nMort d\u2019Isaac.\n"
+title: Chapitre 35
 ---
+
+
 
 
 1 Cependant Dieu dit à Jacob : Lève-toi, et monte à Béthel; demeure là, et fais un autel au Dieu qui t'apparut, quand tu fuyais Esaü ton frère.

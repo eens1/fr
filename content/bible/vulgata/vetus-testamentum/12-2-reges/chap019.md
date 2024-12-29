@@ -1,8 +1,10 @@
 ---
-title: "Caput 19"
-date: 2024-09-06T20:00:50+02:00
+date: 2024-09-06 20:00:50+02:00
 draft: false
+title: Caput 19
 ---
+
+
 
 
 1 Quae cum audisset Ezechias rex, scidit vestimenta sua, et opertus est sacco, ingressusque est domum Domini.

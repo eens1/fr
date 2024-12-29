@@ -1,8 +1,10 @@
 ---
-title: "Caput 49"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 49
 ---
+
+
 
 
 1 Ad filios Ammon. Haec dicit Dominus: Numquid non filii sunt Israel? aut heres non est ei? Cur igitur hereditate possedit Melchom, Gad: et populus eius in urbibus eius habitavit?

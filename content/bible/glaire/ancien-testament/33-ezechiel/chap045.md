@@ -1,17 +1,13 @@
 ---
-title: "Chapitre 45"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Place pour la ville sainte.
-  Partage du prince.
-  Balances et mesures justes.
-  Tributs dus au prince.
-  Sacrifices du commencement de l’année sainte.
-  Solennité de Pâques.
-  Fête des tabernacles.
+summary: "\nPlace pour la ville sainte.\nPartage du prince.\nBalances et mesures justes.\n\
+  Tributs dus au prince.\nSacrifices du commencement de l\u2019ann\xE9e sainte.\n\
+  Solennit\xE9 de P\xE2ques.\nF\xEAte des tabernacles.\n"
+title: Chapitre 45
 ---
+
+
 
 
 1 Et lorsque vous commencerez à diviser la terre par le sort, séparez les prémices pour le Seigneur; un lieu de la terre sanctifié, d'une longueur de vingt-cinq mille coudées, et d'une largeur de dix mille; il sera sanctifié dans toute sa limite autour.

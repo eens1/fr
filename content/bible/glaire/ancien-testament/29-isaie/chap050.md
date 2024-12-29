@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 50"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Israël est vendu pour ses iniquités ; Dieu est tout-puissant pour le délivrer.
-  Le Messie exposé aux insultes.
-  Ruine de ses ennemis.
+summary: "\nIsra\xEBl est vendu pour ses iniquit\xE9s ; Dieu est tout-puissant pour\
+  \ le d\xE9livrer.\nLe Messie expos\xE9 aux insultes.\nRuine de ses ennemis.\n"
+title: Chapitre 50
 ---
+
+
 
 
 1 Voici ce que dit le Seigneur : Quel est cet acte de répudiation donné à votre mère, par lequel je l'ai renvoyée? ou quel est mon créancier à qui je vous ai vendus? voilà que pour vos iniquités vous avez été vendus, et pour vos crimes, j'ai renvoyé votre mère.

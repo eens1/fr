@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Boiteux guéri à la porte du temple par saint Pierre au nom de Jésus-Christ.
-  Seconde prédication de saint Pierre.
+summary: "\nBoiteux gu\xE9ri \xE0 la porte du temple par saint Pierre au nom de J\xE9\
+  sus-Christ.\nSeconde pr\xE9dication de saint Pierre.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 Or Pierre et Jean montaient au temple pour la prière de la neuvième heure.

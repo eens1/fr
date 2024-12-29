@@ -1,8 +1,10 @@
 ---
-title: "Sixième Commandements"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: "Sixi\xE8me Commandements"
 ---
+
+
 
 
 > *Catéchisme de persévérance* : "Vendredi chair ne mangeras..." [^1]

@@ -1,15 +1,14 @@
 ---
-title: "Chapitre 3"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Ezéchiel mange le livre qui lui est présenté.
-  Le Seigneur lui donne une fermeté inflexible.
-  Il est transporté au milieu des captifs de son peuple.
-  Dieu l’établit sentinelle pour la maison d’Israël.
-  Il voit de nouveau la gloire du Seigneur.
+summary: "\nEz\xE9chiel mange le livre qui lui est pr\xE9sent\xE9.\nLe Seigneur lui\
+  \ donne une fermet\xE9 inflexible.\nIl est transport\xE9 au milieu des captifs de\
+  \ son peuple.\nDieu l\u2019\xE9tablit sentinelle pour la maison d\u2019Isra\xEB\
+  l.\nIl voit de nouveau la gloire du Seigneur.\n"
+title: Chapitre 3
 ---
+
+
 
 
 1 Et il me dit : Fils d'un homme, tout ce que tu trouveras, mange-le, mange ce livre, et va parler aux fils d'Israël.

@@ -1,6 +1,8 @@
 ---
-title: "Obligations du pénitent"
+title: "Obligations du p\xE9nitent"
 ---
+
+
 
 > *Nombres 5:6-7* : "Dis aux enfants d'Israël : Un homme ou une femme, lorsqu'ils auront commis quelqu'un des péchés, qui ont coutume d'arriver aux hommes, et que par négligence, ils auront transgressé le commandement du Seigneur, et auront failli,
 

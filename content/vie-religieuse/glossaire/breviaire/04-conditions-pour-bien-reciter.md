@@ -1,8 +1,10 @@
 ---
-title: "Conditions pour bien réciter le bréviaire"
-date: 2024-09-06T20:02:58+02:00
+date: 2024-09-06 20:02:58+02:00
 draft: false
+title: "Conditions pour bien r\xE9citer le br\xE9viaire"
 ---
+
+
   
   
   > Abbé Veghe, 1912 : \"L’office divin étant une prière vocale, la première condition exprimée par le mot *digne* regarde l’*exactitude*, que l’on doit apporter dans la récitation du Bréviaire. Pour cela il faut prononcer chaque mot, chaque syllabe, et il ne suffit pas de méditer, ni de lire des yeux. 

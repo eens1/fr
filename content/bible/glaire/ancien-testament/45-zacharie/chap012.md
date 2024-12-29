@@ -1,12 +1,14 @@
 ---
-title: "Chapitre 12"
-date: 2024-09-06T20:00:43+02:00
+date: 2024-09-06 20:00:43+02:00
 draft: false
-summary: |
-  
-  Juda et Jérusalem seront affligés par leurs ennemis ; mais le Seigneur prendra leur défense, et renversera leurs ennemis.
-  Il répandra un esprit de grâce et de prières sur son peuple ; ils pleureront celui qu’ils auront percé.
+summary: "\nJuda et J\xE9rusalem seront afflig\xE9s par leurs ennemis ; mais le Seigneur\
+  \ prendra leur d\xE9fense, et renversera leurs ennemis.\nIl r\xE9pandra un esprit\
+  \ de gr\xE2ce et de pri\xE8res sur son peuple ; ils pleureront celui qu\u2019ils\
+  \ auront perc\xE9.\n"
+title: Chapitre 12
 ---
+
+
 
 
 1 Malheur accablant de la parole du Seigneur sur Israël. Le Seigneur qui a étendu le ciel, et fondé la terre, et formé l'esprit de l'homme en lui, dit :

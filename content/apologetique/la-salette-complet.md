@@ -1,8 +1,9 @@
 ---
-title: "Le secret complet de La Salette"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: Le secret complet de La Salette
 ---
+
 
 Source : Mélanie de La Salette 1881.
 

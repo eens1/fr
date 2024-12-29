@@ -1,18 +1,14 @@
 ---
-title: "Chapitre 12"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Aimer la correction.
-  Cultiver la piété.
-  La femme vigilante.
-  Sort différent des bons et des méchants.
-  Pauvre qui se suffit à lui-même.
-  Du fainéant et de l’ivrogne.
-  De l’insensé et du sage.
-  Des biens et des maux causés par la langue.
+summary: "\nAimer la correction.\nCultiver la pi\xE9t\xE9.\nLa femme vigilante.\n\
+  Sort diff\xE9rent des bons et des m\xE9chants.\nPauvre qui se suffit \xE0 lui-m\xEA\
+  me.\nDu fain\xE9ant et de l\u2019ivrogne.\nDe l\u2019insens\xE9 et du sage.\nDes\
+  \ biens et des maux caus\xE9s par la langue.\n"
+title: Chapitre 12
 ---
+
+
 
 
 1 Celui qui aime la discipline aime la science : mais celui qui hait les réprimandes est insensé.

@@ -1,8 +1,10 @@
 ---
-title: "Dans la Bible"
-date: 2024-09-06T20:02:54+02:00
+date: 2024-09-06 20:02:54+02:00
 draft: false
+title: Dans la Bible
 ---
+
+
 
 
 > *Jean 3:5* : Jésus répondit : En vérité, en vérité, je te le dis, si quelqu'un ne renaît de l'eau et de l'Esprit-Saint, il ne peut entrer dans le royaume de Dieu." [^1]

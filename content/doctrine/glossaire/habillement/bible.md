@@ -1,8 +1,10 @@
 ---
-title: "Dans la Bible"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Dans la Bible
 ---
+
+
 
 
 > *Genèse 9:22* : "Cham, père de Chanaan, voyant que ce que la pudeur obligeait de cacher en son père était découvert, sortit dehors et le vint dire à ses frères." [^1]

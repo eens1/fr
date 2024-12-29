@@ -1,11 +1,12 @@
 ---
-title: "Chapitre 14"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Job expose la brièveté de la vie et les misères de l’homme sur la terre, et il se console par l’espérance de la résurrection.
+summary: "\nJob expose la bri\xE8vet\xE9 de la vie et les mis\xE8res de l\u2019homme\
+  \ sur la terre, et il se console par l\u2019esp\xE9rance de la r\xE9surrection.\n"
+title: Chapitre 14
 ---
+
+
 
 
 1 L'homme né d'une femme, vivant peu de temps, est rempli de beaucoup de misères. 2 Comme une fleur, il s'élève, et il est brisé, et il fuit comme l'ombre, et jamais il ne demeure dans un même état.

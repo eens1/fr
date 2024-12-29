@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 8"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  Prise de la ville de Haï.
-  Bénédictions et malédictions prononcées sur les monts Hébal et Garizim.
+summary: "\nPrise de la ville de Ha\xEF.\nB\xE9n\xE9dictions et mal\xE9dictions prononc\xE9\
+  es sur les monts H\xE9bal et Garizim.\n"
+title: Chapitre 8
 ---
+
+
 
 
 1 Or, le Seigneur dit à Josué : Ne crains pas et ne t'effraie pas : prends avec toi toute la multitude des combattants, et te levant, monte à la ville de Haï : Voilà que j'ai livré en ta main son roi et son peuple, sa ville et sa terre.

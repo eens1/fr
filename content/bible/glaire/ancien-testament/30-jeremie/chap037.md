@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 37"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Sédécias se recommande aux prières de Jérémie.
-  Nabuchodonosor marche contre le roi d’Egypte ; Jérémie prédit qu’il reviendra contre Jérusalem.
-  Le Prophète est arrêté, et mis dans un cachot ; Sédécias l’en retire.
+summary: "\nS\xE9d\xE9cias se recommande aux pri\xE8res de J\xE9r\xE9mie.\nNabuchodonosor\
+  \ marche contre le roi d\u2019Egypte ; J\xE9r\xE9mie pr\xE9dit qu\u2019il reviendra\
+  \ contre J\xE9rusalem.\nLe Proph\xE8te est arr\xEAt\xE9, et mis dans un cachot ;\
+  \ S\xE9d\xE9cias l\u2019en retire.\n"
+title: Chapitre 37
 ---
+
+
 
 
 1 Et le roi Sédécias, fils de Josias, régna en la place de Jéchonias, fils de Joakim, Nabuchodonosor, roi de Babylone, l'ayant établi roi dans la terre de Juda.

@@ -1,14 +1,12 @@
 ---
-title: "Chapitre 12"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Ne pas attendre la vieillesse pour servir le Seigneur.
-  Enigme de la vieillesse.
-  Vanité des choses du monde.
-  Craindre Dieu et observer ses commandements.
+summary: "\nNe pas attendre la vieillesse pour servir le Seigneur.\nEnigme de la vieillesse.\n\
+  Vanit\xE9 des choses du monde.\nCraindre Dieu et observer ses commandements.\n"
+title: Chapitre 12
 ---
+
+
 
 
 1 Souviens-toi de ton Créateur dans les jours de ta jeunesse avant que vienne le temps de l'affliction, et qu'approchent les années dont tu diras : Elles ne me plaisent pas ;

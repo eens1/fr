@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 25"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Abraham épouse Cétura.
-  Dénombrement des enfants nés de ce mariage.
-  Mort d’Abraham.
-  Postérité d’Ismaël ; sa mort.
-  Naissance d’Esaü et de Jacob.
-  Esaü vend son droit d’aînesse.
+summary: "\nAbraham \xE9pouse C\xE9tura.\nD\xE9nombrement des enfants n\xE9s de ce\
+  \ mariage.\nMort d\u2019Abraham.\nPost\xE9rit\xE9 d\u2019Isma\xEBl ; sa mort.\n\
+  Naissance d\u2019Esa\xFC et de Jacob.\nEsa\xFC vend son droit d\u2019a\xEEnesse.\n"
+title: Chapitre 25
 ---
+
+
 
 
 1 Or Abraham prit une autre femme du nom de Cétura,

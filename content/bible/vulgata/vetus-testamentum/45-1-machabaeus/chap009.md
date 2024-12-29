@@ -1,8 +1,10 @@
 ---
-title: "Caput 9"
-date: 2024-09-06T20:00:56+02:00
+date: 2024-09-06 20:00:56+02:00
 draft: false
+title: Caput 9
 ---
+
+
 
 
 1 Interea ut audivit Demetrius quia cecidit Nicanor, et exercitus eius in praelio, apposuit Bacchidem, et Alcimum rursum mittere in Iudaeam, et dextrum cornu cum illis.

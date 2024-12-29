@@ -1,8 +1,10 @@
 ---
-title: "Caput 9"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 9
 ---
+
+
 
 
 1 Tunc vocavit Tobias Angelum ad se, quem quidem hominem existimabat, dixitque ei: Azaria frater, peto ut auscultes verba mea:

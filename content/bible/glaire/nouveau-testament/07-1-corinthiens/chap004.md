@@ -1,14 +1,14 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Comment on doit regarder les ministres de l’Evangile ; ne point les juger, ne point se glorifier en eux.
-  Tout discernement vient de Dieu.
-  Souffrances et humiliations des Apôtres.
-  Sévérité paternelle de saint Paul contre ceux qui s’enflaient d’orgueil.
+summary: "\nComment on doit regarder les ministres de l\u2019Evangile ; ne point les\
+  \ juger, ne point se glorifier en eux.\nTout discernement vient de Dieu.\nSouffrances\
+  \ et humiliations des Ap\xF4tres.\nS\xE9v\xE9rit\xE9 paternelle de saint Paul contre\
+  \ ceux qui s\u2019enflaient d\u2019orgueil.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Que les hommes nous regardent comme ministres du Christ, et dispensateurs des mystères de Dieu.

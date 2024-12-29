@@ -1,8 +1,10 @@
 ---
-title: "Caput 2"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 2
 ---
+
+
 
 
 1 Angelo Ephesi Ecclesiae scribe: Haec dicit, qui tenet septem stellas in dextera sua, qui ambulat in medio septem candelabrorum aureorum:

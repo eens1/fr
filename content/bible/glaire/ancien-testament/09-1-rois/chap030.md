@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 30"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  David à son retour, trouve Siceleg pillée par les Amalécites.
-  Il les poursuit, les défait, reprend sur eux le butin et le partage à ses troupes et aux anciens de Juda.
+summary: "\nDavid \xE0 son retour, trouve Siceleg pill\xE9e par les Amal\xE9cites.\n\
+  Il les poursuit, les d\xE9fait, reprend sur eux le butin et le partage \xE0 ses\
+  \ troupes et aux anciens de Juda.\n"
+title: Chapitre 30
 ---
+
+
 
 
 1 Or, lorsque David et ses hommes arrivèrent à Siceleg, au troisième jour, les Amalécites avaient fait une irruption du côté austral, contre Siceleg, avaient battu Siceleg et l'avaient mise à feu.

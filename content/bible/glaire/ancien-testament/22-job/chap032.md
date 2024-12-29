@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 32"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  Les paroles de Job sont finies.
-  Eliu accuse ses amis de manquer de sagesse, et relève sa propre suffisance.
+summary: "\nLes paroles de Job sont finies.\nEliu accuse ses amis de manquer de sagesse,\
+  \ et rel\xE8ve sa propre suffisance.\n"
+title: Chapitre 32
 ---
+
+
 
 
 1 Alors ces trois hommes cessèrent de répondre à Job, parce qu'il se croyait toujours juste. 2 Mais Eliu, fils de Barachel, le Buzite, de la famille de Ram, s'irrita et s'indigna; or il s'irrita contre Job, de ce qu'il disait qu'il était juste devant Dieu.

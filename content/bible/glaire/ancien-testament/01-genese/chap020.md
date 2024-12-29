@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 20"
-date: 2024-09-06T20:00:34+02:00
+date: 2024-09-06 20:00:34+02:00
 draft: false
-summary: |
-  
-  Abraham se retire à Gérara.
-  Abimélech enlève Sara ; il la rend à Abraham.
+summary: "\nAbraham se retire \xE0 G\xE9rara.\nAbim\xE9lech enl\xE8ve Sara ; il la\
+  \ rend \xE0 Abraham.\n"
+title: Chapitre 20
 ---
+
+
 
 
 1 Parti de là pour la terre australe, Abraham habita entre Cadès et Sur, et demeura comme étranger à Gérara.

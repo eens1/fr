@@ -1,12 +1,12 @@
 ---
-title: "Chapitre 12"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Job reproche à ses amis la fausse confiance qu’ils ont dans leurs lumières.
-  Il relève la souveraine puissance de Dieu.
+summary: "\nJob reproche \xE0 ses amis la fausse confiance qu\u2019ils ont dans leurs\
+  \ lumi\xE8res.\nIl rel\xE8ve la souveraine puissance de Dieu.\n"
+title: Chapitre 12
 ---
+
+
 
 
 1 Et Job, répondant, dit :

@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 24"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
-  David se retire dans la caverne d’Engaddi.
-  Saül y entre seul ; David coupe le bord de son manteau.
-  Saül reconnaît l’innocence de David.
+summary: "\nDavid se retire dans la caverne d\u2019Engaddi.\nSa\xFCl y entre seul\
+  \ ; David coupe le bord de son manteau.\nSa\xFCl reconna\xEEt l\u2019innocence de\
+  \ David.\n"
+title: Chapitre 24
 ---
+
+
 
 
 1 David monta donc de là, et il habita dans les lieux les plus sûrs d'Engaddi.

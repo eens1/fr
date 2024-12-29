@@ -1,8 +1,10 @@
 ---
-title: "Caput 30"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 30
 ---
+
+
 
 
 1 Verba Congregantis filii Vomentis. Visio, quam locutus est vir, cum quo est Deus, et qui Deo secum morante confortatus, ait:

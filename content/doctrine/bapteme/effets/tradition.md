@@ -1,8 +1,10 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:02:54+02:00
+date: 2024-09-06 20:02:54+02:00
 draft: false
+title: Dans la Tradition
 ---
+
+
 
 
 > *Saint Pierre Canisius, Le grand catéchisme* : "Le baptême produit exactement les fruits que Jésus-Christ nous a enseignés, et qui nous sont attestés par les apôtres saint Pierre et saint Paul, savoir, de remettre les péchés et de donner l'Esprit-Saint, pour détruire en nous le vieil homme, et faire de nous une nouvelle créature en Jésus-Christ. 

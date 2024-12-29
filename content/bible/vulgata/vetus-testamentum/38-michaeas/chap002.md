@@ -1,8 +1,10 @@
 ---
-title: "Caput 2"
-date: 2024-09-06T20:00:56+02:00
+date: 2024-09-06 20:00:56+02:00
 draft: false
+title: Caput 2
 ---
+
+
 
 
 1 Vae qui cogitatis inutile, et operamini malum in cubilibus vestris: in luce matutina faciunt illud, quoniam contra Deum est manus eorum.

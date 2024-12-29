@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 9"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Transfiguration de Jésus-Christ.
-  Avènement d’Elie.
-  Guérison d’un enfant possédé.
-  Jésus-Christ prédit sa passion.
-  Qui sera le plus grand ?
-  Fuir le scandale.
+summary: "\nTransfiguration de J\xE9sus-Christ.\nAv\xE8nement d\u2019Elie.\nGu\xE9\
+  rison d\u2019un enfant poss\xE9d\xE9.\nJ\xE9sus-Christ pr\xE9dit sa passion.\nQui\
+  \ sera le plus grand ?\nFuir le scandale.\n"
+title: Chapitre 9
 ---
+
+
 
 
 1 Six jours après, Jésus prit Pierre, Jacques et Jean, et il les conduisit seuls à l'écart sur une haute montagne, et il fut transfiguré devant eux.

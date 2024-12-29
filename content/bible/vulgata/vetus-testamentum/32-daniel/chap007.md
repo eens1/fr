@@ -1,8 +1,10 @@
 ---
-title: "Caput 7"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 7
 ---
+
+
 
 
 1 Anno primo Baltassar regis Babylonis, Daniel somnium vidit: visio autem capitis eius in cubili suo: et somnium scribens, brevi sermone comprehendit: summatimque perstringens, ait:

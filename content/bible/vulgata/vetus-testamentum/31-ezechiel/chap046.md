@@ -1,8 +1,10 @@
 ---
-title: "Caput 46"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 46
 ---
+
+
 
 
 1 Haec dicit Dominus Deus: Porta atrii interioris, quae respicit ad Orientem, erit clausa sex diebus, in quibus opus fit: die autem Sabbati aperietur, sed et in die Calendarum aperietur.

@@ -1,13 +1,12 @@
 ---
-title: "Chapitre 33"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Ruine des ennemis de Juda.
-  Délivrance du peuple.
-  Gloire de Jérusalem.
+summary: "\nRuine des ennemis de Juda.\nD\xE9livrance du peuple.\nGloire de J\xE9\
+  rusalem.\n"
+title: Chapitre 33
 ---
+
+
 
 
 1 Malheur à toi qui pilles; est-ce que toi-même tu ne seras pas aussi pillé? et toi qui méprises, est-ce que toi-même tu ne seras pas méprisé? Lorsque tu auras consommé le pillage, tu seras pillé ; lorsque fatigué, tu cesseras de mépriser, tu seras méprisé.

@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 16"
-date: 2024-09-06T20:00:45+02:00
+date: 2024-09-06 20:00:45+02:00
 draft: false
-summary: |
-  
-  Saint Paul recommande aux Corinthiens les pauvres de l’Eglise de Jérusalem.
-  Il leur promet d’aller les voir.
-  Il leur recommande Timothée.
-  Dernier avis qu’ils leur donne.
-  Autres recommandations.
-  Salutations.
+summary: "\nSaint Paul recommande aux Corinthiens les pauvres de l\u2019Eglise de\
+  \ J\xE9rusalem.\nIl leur promet d\u2019aller les voir.\nIl leur recommande Timoth\xE9\
+  e.\nDernier avis qu\u2019ils leur donne.\nAutres recommandations.\nSalutations.\n"
+title: Chapitre 16
 ---
+
+
 
 
 1 Quant aux aumônes que l'on recueille pour les saints, faites, vous aussi, comme je l'ai réglé pour les Eglises de Galatie.

@@ -1,19 +1,16 @@
 ---
-title: "Chapitre 14"
-date: 2024-09-06T20:00:38+02:00
+date: 2024-09-06 20:00:38+02:00
 draft: false
-summary: |
-  
-  Démétrius, fils de Séleucus, vient se remettre en possession du royaume de Syrie.
-  Alcime l’irrite contre Judas.
-  Il envoie Nicanor contre les Juifs.
-  Nicanor fait la paix avec Judas.
-  Alcime la trouble.
-  Démétrius ordonne à Nicanor de lui envoyer Judas lié et garrotté.
-  Judas se retire.
-  Nicanor blasphème contre le temple.
-  On accuse auprès de lui Razias ; mort glorieuse de ce vieillard.
+summary: "\nD\xE9m\xE9trius, fils de S\xE9leucus, vient se remettre en possession\
+  \ du royaume de Syrie.\nAlcime l\u2019irrite contre Judas.\nIl envoie Nicanor contre\
+  \ les Juifs.\nNicanor fait la paix avec Judas.\nAlcime la trouble.\nD\xE9m\xE9trius\
+  \ ordonne \xE0 Nicanor de lui envoyer Judas li\xE9 et garrott\xE9.\nJudas se retire.\n\
+  Nicanor blasph\xE8me contre le temple.\nOn accuse aupr\xE8s de lui Razias ; mort\
+  \ glorieuse de ce vieillard.\n"
+title: Chapitre 14
 ---
+
+
 
 
 1 Mais après un intervalle de trois ans. Judas sut, ainsi que ceux qui étaient avec lui, que Démétrius, fils de Séleucus, avec une puissante multitude et des vaisseaux, était monté par le port de Tripoli, dans des lieux avantageux,

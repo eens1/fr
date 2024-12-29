@@ -1,11 +1,13 @@
 ---
-title: "Psaumes 37"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
-summary: |
-  
-  David représente à Dieu l’extrême misère où ses péchés l’ont plongé. Il implore sa miséricorde avec une parfaite confiance et une profonde humilité.
+summary: "\nDavid repr\xE9sente \xE0 Dieu l\u2019extr\xEAme mis\xE8re o\xF9 ses p\xE9\
+  ch\xE9s l\u2019ont plong\xE9. Il implore sa mis\xE9ricorde avec une parfaite confiance\
+  \ et une profonde humilit\xE9.\n"
+title: Psaumes 37
 ---
+
+
 
 
 1 Psaume de David, en souvenir touchant le sabbat.

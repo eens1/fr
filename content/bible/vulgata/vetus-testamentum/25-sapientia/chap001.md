@@ -1,8 +1,10 @@
 ---
-title: "Caput 1"
-date: 2024-09-06T20:00:53+02:00
+date: 2024-09-06 20:00:53+02:00
 draft: false
+title: Caput 1
 ---
+
+
 
 
 1 Diligite iustitiam, qui iudicatis terram. Sentite de Domino in bonitate, et in simplicitate cordis quaerite illum:

@@ -1,13 +1,13 @@
 ---
-title: "Chapitre 27"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Lamentations sur la ruine de Tyr.
-  Description de sa beauté, de sa force, de ses richesses, de l’étendue de son commerce.
-  Sa chute répandra l’étonnement parmi tous les peuples maritimes.
+summary: "\nLamentations sur la ruine de Tyr.\nDescription de sa beaut\xE9, de sa\
+  \ force, de ses richesses, de l\u2019\xE9tendue de son commerce.\nSa chute r\xE9\
+  pandra l\u2019\xE9tonnement parmi tous les peuples maritimes.\n"
+title: Chapitre 27
 ---
+
+
 
 
 1 Et la parole du Seigneur me fut adressée, disant :

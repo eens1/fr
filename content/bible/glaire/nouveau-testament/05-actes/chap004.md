@@ -1,20 +1,15 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Pierre et Jean mis en prison.
-  Accroissement du nombre des fidèles.
-  Les deux apôtres comparaissent devant le Conseil des Juifs.
-  Discours de Pierre.
-  Silence imposé aux apôtres.
-  Réponse de Pierre.
-  Prière de l’Eglise assemblée.
-  Nouvelle effusion du Saint-Esprit.
-  Union des fidèles.
-  Barnabé vend son bien.
+summary: "\nPierre et Jean mis en prison.\nAccroissement du nombre des fid\xE8les.\n\
+  Les deux ap\xF4tres comparaissent devant le Conseil des Juifs.\nDiscours de Pierre.\n\
+  Silence impos\xE9 aux ap\xF4tres.\nR\xE9ponse de Pierre.\nPri\xE8re de l\u2019Eglise\
+  \ assembl\xE9e.\nNouvelle effusion du Saint-Esprit.\nUnion des fid\xE8les.\nBarnab\xE9\
+  \ vend son bien.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 Or, pendant qu'ils parlaient au peuple, survinrent les prêtres, et le magistrat du temple, et les sadducéens,

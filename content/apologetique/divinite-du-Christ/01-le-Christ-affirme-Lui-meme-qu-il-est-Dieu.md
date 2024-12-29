@@ -1,8 +1,9 @@
 ---
-title: "Jésus-Christ affirme Lui-même qu'Il est Dieu"
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
+title: "J\xE9sus-Christ affirme Lui-m\xEAme qu'Il est Dieu"
 ---
+
 
 
 > *Jean 3:16* : "Car Dieu a tellement aimé le monde, qu'il a donné **son Fils unique**, afin que quiconque croit en lui ne périsse point, mais qu'il ait la vie éternelle." [^1]

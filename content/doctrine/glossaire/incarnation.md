@@ -1,8 +1,10 @@
 ---
-title: "Incarnation"
-date: 2024-09-06T20:02:56+02:00
+date: 2024-09-06 20:02:56+02:00
 draft: false
+title: Incarnation
 ---
+
+
 
 
 > *Pape Sixte II, lettre à Denys évêque d'Alexandrie, 262* : "On ne blâmera pas moins ceux qui soutiennent que le Fils est une créature et qui pensent que le Seigneur a été fait comme l'une des choses qui ont été faites, alors que les paroles divines attestent à son sujet une génération adaptée et appropriée, mais non une fabrication et une création. 

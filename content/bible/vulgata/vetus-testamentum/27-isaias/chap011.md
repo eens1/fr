@@ -1,8 +1,10 @@
 ---
-title: "Caput 11"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 11
 ---
+
+
 
 
 1 Et egredietur virga de radice Iesse, et flos de radice eius ascendet.

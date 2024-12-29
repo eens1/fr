@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 18"
-date: 2024-09-06T20:00:41+02:00
+date: 2024-09-06 20:00:41+02:00
 draft: false
-summary: |
-  
-  Grandeur de Dieu.
-  Faiblesse de l’homme.
-  Patience et miséricorde de Dieu.
-  Faire l’aumône avec joie.
-  Prévenir les maux.
-  Résister à ses passions.
+summary: "\nGrandeur de Dieu.\nFaiblesse de l\u2019homme.\nPatience et mis\xE9ricorde\
+  \ de Dieu.\nFaire l\u2019aum\xF4ne avec joie.\nPr\xE9venir les maux.\nR\xE9sister\
+  \ \xE0 ses passions.\n"
+title: Chapitre 18
 ---
+
+
 
 
 1 Celui qui vit éternellement a créé toutes choses ensemble ; Dieu seul sera justifié ; et, roi invincible, il subsiste à jamais.

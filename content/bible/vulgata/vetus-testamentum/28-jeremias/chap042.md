@@ -1,8 +1,10 @@
 ---
-title: "Caput 42"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 42
 ---
+
+
 
 
 1 Et accesserunt omnes principes bellatorum, et Iohanan filius Caree, et Iezonias filius Osaiae, et reliquum vulgus a parvo usque ad magnum:

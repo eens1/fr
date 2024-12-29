@@ -1,8 +1,10 @@
 ---
-title: "Caput 3"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 3
 ---
+
+
 
 
 1 David vero hos habuit filios, qui ei nati sunt in Hebron; primogenitum Amnon ex Achinoam Iezrahelitide, secundum Daniel de Abigail Carmelitide,

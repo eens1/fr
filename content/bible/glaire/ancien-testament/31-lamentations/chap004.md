@@ -1,12 +1,13 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:42+02:00
+date: 2024-09-06 20:00:42+02:00
 draft: false
-summary: |
-  
-  Jérémie déplore de nouveau la désolation de Jérusalem.
-  Il annonce les vengeances du Seigneur contre l’Idumée et le rétablissement de Sion.
+summary: "\nJ\xE9r\xE9mie d\xE9plore de nouveau la d\xE9solation de J\xE9rusalem.\n\
+  Il annonce les vengeances du Seigneur contre l\u2019Idum\xE9e et le r\xE9tablissement\
+  \ de Sion.\n"
+title: Chapitre 4
 ---
+
+
 
 
 1 ALEPH.

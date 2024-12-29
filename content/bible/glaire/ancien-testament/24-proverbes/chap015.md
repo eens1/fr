@@ -1,16 +1,13 @@
 ---
-title: "Chapitre 15"
-date: 2024-09-06T20:00:40+02:00
+date: 2024-09-06 20:00:40+02:00
 draft: false
-summary: |
-  
-  Douceur dans les paroles.
-  Docilité aux corrections.
-  Victime des impies.
-  Tout est connu de Dieu.
-  Ruine des superbes.
-  Paresseux, insensé, impie, opposés au juste, au sage, au diligent.
+summary: "\nDouceur dans les paroles.\nDocilit\xE9 aux corrections.\nVictime des impies.\n\
+  Tout est connu de Dieu.\nRuine des superbes.\nParesseux, insens\xE9, impie, oppos\xE9\
+  s au juste, au sage, au diligent.\n"
+title: Chapitre 15
 ---
+
+
 
 
 1 Une douce réponse brise la colère : une parole dure excite la fureur.

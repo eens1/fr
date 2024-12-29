@@ -1,8 +1,10 @@
 ---
-title: "Caput 20"
-date: 2024-09-06T20:00:49+02:00
+date: 2024-09-06 20:00:49+02:00
 draft: false
+title: Caput 20
 ---
+
+
 
 
 1 Veneruntque filii Israel, et omnis multitudo in desertum Sin, mense primo: et mansit populus in Cades. Mortuaque est ibi Maria, et sepulta in eodem loco.

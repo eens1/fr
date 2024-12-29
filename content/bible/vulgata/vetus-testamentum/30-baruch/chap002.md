@@ -1,8 +1,10 @@
 ---
-title: "Caput 2"
-date: 2024-09-06T20:00:55+02:00
+date: 2024-09-06 20:00:55+02:00
 draft: false
+title: Caput 2
 ---
+
+
 
 
 1 Propter quod statuit Dominus Deus noster verbum suum, quod locutus est ad nos, et ad iudices nostros, qui iudicaverunt Israel, et ad reges nostros, et ad principes nostros, et ad omnem Israel, et Iuda:

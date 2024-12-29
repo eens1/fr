@@ -1,13 +1,19 @@
 ---
-title: "Chapitre 4"
-date: 2024-09-06T20:00:36+02:00
+date: 2024-09-06 20:00:36+02:00
 draft: false
-summary: |
-  
+summary: '
+
   Principaux officiers de Salomon.
+
   Etendue de sa domination.
+
   Sagesse de ce prince.
+
+  '
+title: Chapitre 4
 ---
+
+
 
 
 1 Or le roi Salomon régnait sur tout Israël ; 2 Et voici les principaux officiers qu'il avait : Azarias, fils de Sadoc, le prêtre; 3 Elihoreph et Ahia, fils de Sisa, étaient scribes; Josaphat, fils d'Ahilud, tenait les registres; 4 Banaïas, fils de Joïada, commandait l'armée ; Sadoc et Abiathar étaient prêtres ;

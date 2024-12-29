@@ -1,8 +1,10 @@
 ---
-title: "Caput 40"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 40
 ---
+
+
 
 
 1 Occupatio magna creata est omnibus hominibus, et iugum grave super filios Adam, a die exitus de ventre matris eorum, usque in diem sepulturae, in matrem omnium.

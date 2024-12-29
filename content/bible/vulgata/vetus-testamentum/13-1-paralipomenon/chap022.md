@@ -1,8 +1,10 @@
 ---
-title: "Caput 22"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 22
 ---
+
+
 
 
 1 Dixitque David: Haec est domus Dei, et hoc altare in holocaustum Israeli.

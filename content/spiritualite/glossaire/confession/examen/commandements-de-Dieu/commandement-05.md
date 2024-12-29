@@ -1,8 +1,10 @@
 ---
-title: "Cinquième Commandement"
-date: 2024-09-06T20:02:57+02:00
+date: 2024-09-06 20:02:57+02:00
 draft: false
+title: "Cinqui\xE8me Commandement"
 ---
+
+
 
 
 > *Saint Léonard de Port-Maurice* : "Examinez-vous sur les excès dans le boire et le manger, sur la vanité, l'estime de vous-même, la perte de temps et l'oisiveté.

@@ -1,8 +1,10 @@
 ---
-title: "Caput 20"
-date: 2024-09-06T20:00:51+02:00
+date: 2024-09-06 20:00:51+02:00
 draft: false
+title: Caput 20
 ---
+
+
 
 
 1 Factum est autem post anni circulum, eo tempore, quo solent reges ad bella procedere, congregavit Ioab exercitum, et robur militiae, et vastavit terram filiorum Ammon; perrexitque et obsedit Rabba: porro David manebat in Ierusalem quando Ioab percussit Rabba, et destruxit eam.

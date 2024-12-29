@@ -1,8 +1,10 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:02:55+02:00
+date: 2024-09-06 20:02:55+02:00
 draft: false
+title: Dans la Tradition
 ---
+
+
 
 
 > *Pape Léon XIII, Satis Cognitum, 1896* : "Nul ne peut donc avoir part à l'autorité s'il n'est uni à Pierre, car il serait absurde de prétendre qu'un homme exclu de l'Eglise a l'autorité dans l'Eglise." [^1]

@@ -1,12 +1,13 @@
 ---
-title: "La FSSPX enseigne que l'on peut se sauver dans de fausses religions"
-date: 2024-09-15
-draft: false
-description: ""
-summary: ""
-tags: []
 categories: []
+date: 2024-09-15
+description: ''
+draft: false
+summary: ''
+tags: []
+title: La FSSPX enseigne que l'on peut se sauver dans de fausses religions
 ---
+
 
 > *Evêque Bernard Fellay, supérieur général de la Fraternité sacerdotale Saint-Pie-X* : "Considérez un hindou au Tibet qui n'a aucune connaissance de l'Église catholique. Il vit selon sa conscience et selon les lois que Dieu a mises dans son cœur. Il peut être en état de grâce, et s'il meurt dans cet état de grâce, il ira au ciel." [^1]
 

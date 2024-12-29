@@ -1,14 +1,14 @@
 ---
-title: "Chapitre 6"
-date: 2024-09-06T20:00:44+02:00
+date: 2024-09-06 20:00:44+02:00
 draft: false
-summary: |
-  
-  Murmure des pharisiens contre les disciples de Jésus-Christ, qui arrachaient des épis un jour de sabbat.
-  Guérison d’un homme qui avait une main desséchée.
-  Election des Apôtres.
-  Abrégé du sermon de Jésus-Christ sur la montagne.
+summary: "\nMurmure des pharisiens contre les disciples de J\xE9sus-Christ, qui arrachaient\
+  \ des \xE9pis un jour de sabbat.\nGu\xE9rison d\u2019un homme qui avait une main\
+  \ dess\xE9ch\xE9e.\nElection des Ap\xF4tres.\nAbr\xE9g\xE9 du sermon de J\xE9sus-Christ\
+  \ sur la montagne.\n"
+title: Chapitre 6
 ---
+
+
 
 
 1 Or, il arriva qu'un jour de sabbat, second-premier, comme Jésus passait par les blés, ses disciples arrachaient les épis et en mangeaient, en les froissant dans leurs mains.

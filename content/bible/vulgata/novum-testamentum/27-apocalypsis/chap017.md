@@ -1,8 +1,10 @@
 ---
-title: "Caput 17"
-date: 2024-09-06T20:00:48+02:00
+date: 2024-09-06 20:00:48+02:00
 draft: false
+title: Caput 17
 ---
+
+
 
 
 1 Et venit unus de septem Angelis, qui habebant septem phialas, et locutus est mecum, dicens: Veni ostendam tibi damnationem meretricis magnae, quae sedet super aquas multas,

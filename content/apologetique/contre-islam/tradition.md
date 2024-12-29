@@ -1,8 +1,9 @@
 ---
-title: "Dans la Tradition"
-date: 2024-09-06T20:02:28+02:00
+date: 2024-09-06 20:02:28+02:00
 draft: false
+title: Dans la Tradition
 ---
+
 
 
 > *Pape Grégoire XVI, Summo Iugiter Studio, 1832* : "La sainte Église universelle enseigne qu'**il n'est possible d'adorer vraiment Dieu qu'en elle** et affirme que tous ceux qui sont en dehors d'elle ne seront pas sauvés." [^1]

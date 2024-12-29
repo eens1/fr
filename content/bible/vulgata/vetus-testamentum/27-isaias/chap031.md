@@ -1,8 +1,10 @@
 ---
-title: "Caput 31"
-date: 2024-09-06T20:00:54+02:00
+date: 2024-09-06 20:00:54+02:00
 draft: false
+title: Caput 31
 ---
+
+
 
 
 1 Vae qui descendunt in AEgyptum ad auxilium, in equis sperantes, et habentes fiduciam super quadrigis, quia multae sunt: et super equitibus, quia praevalidi nimis: et non sunt confisi super sanctum Israel, et Dominum non requisierunt.

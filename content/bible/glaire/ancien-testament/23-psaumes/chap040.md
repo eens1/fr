@@ -1,13 +1,14 @@
 ---
-title: "Chapitre 40"
-date: 2024-09-06T20:00:39+02:00
+date: 2024-09-06 20:00:39+02:00
 draft: false
-summary: |
-  
-  David représente le bonheur de celui qui a soin des pauvres.
-  Il décrit les bontés divines à son égard et les perfidies de ses ennemis.
-  Il marque clairement la trahison de Judas, et montre par là que ce psaume regarde Jésus-Christ.
+summary: "\nDavid repr\xE9sente le bonheur de celui qui a soin des pauvres.\nIl d\xE9\
+  crit les bont\xE9s divines \xE0 son \xE9gard et les perfidies de ses ennemis.\n\
+  Il marque clairement la trahison de Judas, et montre par l\xE0 que ce psaume regarde\
+  \ J\xE9sus-Christ.\n"
+title: Chapitre 40
 ---
+
+
 
 
 1 Pour la fin, psaume de David.
