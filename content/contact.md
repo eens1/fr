@@ -6,7 +6,7 @@ hide_footer: true
 comments: false
 ---
 
-{{< form name="Nom" button="Envoyer" >}}
+{{< form name="Nom" button="Envoyer" key="8f3ff63f-b4ef-4933-a61e-03c140303b40" >}}
 
 
 <br>
