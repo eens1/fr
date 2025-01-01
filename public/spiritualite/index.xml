@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spiritualité on Extra Ecclesiam Nulla Salus</title>
-    <link>http://localhost:1313/spiritualite/</link>
+    <link>https://eens-fr.netlify.app/spiritualite/</link>
     <description>Recent content in Spiritualité on Extra Ecclesiam Nulla Salus</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Tue, 24 Dec 2024 04:07:11 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/spiritualite/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eens-fr.netlify.app/spiritualite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notre Seigneur Jésus-Christ naît de la Vierge Marie en Bethléem de Judée</title>
-      <link>http://localhost:1313/spiritualite/marie-d-agreda-naissance-du-christ/</link>
+      <link>https://eens-fr.netlify.app/spiritualite/marie-d-agreda-naissance-du-christ/</link>
       <pubDate>Tue, 24 Dec 2024 04:07:11 +0000</pubDate>
-      <guid>http://localhost:1313/spiritualite/marie-d-agreda-naissance-du-christ/</guid>
+      <guid>https://eens-fr.netlify.app/spiritualite/marie-d-agreda-naissance-du-christ/</guid>
       <description>Marie d&amp;rsquo;Agréda, La Cité de Dieu.</description>
     </item>
     <item>
       <title>Etapes de conversion à la foi catholique traditionnelle</title>
-      <link>http://localhost:1313/spiritualite/etapes-de-conversion/</link>
+      <link>https://eens-fr.netlify.app/spiritualite/etapes-de-conversion/</link>
       <pubDate>Fri, 06 Sep 2024 20:00:57 +0200</pubDate>
-      <guid>http://localhost:1313/spiritualite/etapes-de-conversion/</guid>
+      <guid>https://eens-fr.netlify.app/spiritualite/etapes-de-conversion/</guid>
       <description>Consultez le dossier, Étapes de conversion à la foi catholique traditionnelle, publié par le Monastère de la Très Sainte Famille.</description>
     </item>
   </channel>
