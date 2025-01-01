@@ -3,7 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-12-24T13:11:03+00:00</lastmod>
+    <lastmod>2025-01-01T06:23:16+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/livres/theologie-morale/</loc>
+    <lastmod>2025-01-01T06:23:16+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/livres/devotion-sainte-vierge/</loc>
+    <lastmod>2025-01-01T06:22:12+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/livres/spiritualite/</loc>
+    <lastmod>2025-01-01T06:21:19+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/livres/catechisme/</loc>
+    <lastmod>2025-01-01T05:56:21+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/livres/bible/</loc>
+    <lastmod>2025-01-01T05:49:23+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/livres/mhfm/</loc>
+    <lastmod>2025-01-01T05:38:44+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/vie-religieuse/freres-mineurs/capucins/jean-de-fano-commentaire-regle/13/</loc>
     <lastmod>2024-12-24T13:11:03+00:00</lastmod>
@@ -2585,7 +2603,7 @@
     <loc>http://localhost:1313/vie-religieuse/</loc>
     <lastmod>2024-09-06T20:00:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spiritualite/sacrements/cardinal-jean-de-lugo/</loc>
+    <loc>http://localhost:1313/sacrements/cardinal-jean-de-lugo/</loc>
     <lastmod>2024-09-06T20:00:57+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/vie-religieuse/droit-canonique/01-erection-suppression/</loc>
@@ -2699,10 +2717,10 @@
     <loc>http://localhost:1313/spiritualite/etapes-de-conversion/</loc>
     <lastmod>2024-09-06T20:00:57+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spiritualite/sacrements/excommunication-de-fait/</loc>
+    <loc>http://localhost:1313/sacrements/excommunication-de-fait/</loc>
     <lastmod>2024-09-06T20:00:57+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spiritualite/sacrements/excommunies-a-eviter/</loc>
+    <loc>http://localhost:1313/sacrements/excommunies-a-eviter/</loc>
     <lastmod>2024-09-06T20:00:57+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/doctrine/liste-conciles-oecumeniques/</loc>
@@ -2714,16 +2732,16 @@
     <loc>http://localhost:1313/livres/</loc>
     <lastmod>2024-09-06T20:00:57+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spiritualite/sacrements/notoriete/</loc>
+    <loc>http://localhost:1313/sacrements/notoriete/</loc>
     <lastmod>2024-09-06T20:00:57+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spiritualite/sacrements/</loc>
+    <loc>http://localhost:1313/sacrements/</loc>
     <lastmod>2024-09-06T20:00:57+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spiritualite/sacrements/pape-eugene-iv-sess-20/</loc>
+    <loc>http://localhost:1313/sacrements/pape-eugene-iv-sess-20/</loc>
     <lastmod>2024-09-06T20:00:57+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spiritualite/sacrements/pape-martin-v-ad-evitanda-scandala/</loc>
+    <loc>http://localhost:1313/sacrements/pape-martin-v-ad-evitanda-scandala/</loc>
     <lastmod>2024-09-06T20:00:57+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/doctrine/croyances-necessaires/02-croyances/</loc>
@@ -2732,10 +2750,10 @@
     <loc>http://localhost:1313/references/</loc>
     <lastmod>2024-09-06T20:00:57+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spiritualite/sacrements/sacrements-de-l-excommunie/</loc>
+    <loc>http://localhost:1313/sacrements/sacrements-de-l-excommunie/</loc>
     <lastmod>2024-09-06T20:00:57+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spiritualite/sacrements/saint-thomas-d-aquin/</loc>
+    <loc>http://localhost:1313/sacrements/saint-thomas-d-aquin/</loc>
     <lastmod>2024-09-06T20:00:57+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/spiritualite/</loc>
