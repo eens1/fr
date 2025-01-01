@@ -1,4 +1,5 @@
 ---
+show_summary: true
 title: "Constitutions de 1536"
 date: 2024-09-12
 ---

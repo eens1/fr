@@ -1,4 +1,5 @@
 ---
+show_summary: true
 title: "Constitutions de 1925"
 date: 2024-09-06T20:02:59+02:00
 draft: false
