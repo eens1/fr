@@ -1,4 +1,5 @@
 ---
+show_summary: true
 title: "Édition de 1699"
 date: 2024-12-10T08:40:17+0000
 draft: false
