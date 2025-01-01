@@ -1,5 +1,4 @@
 ---
-show_summary: true
 title: "Première Règle de Saint François"
 date: 2024-09-06T20:03:00+02:00
 draft: false
